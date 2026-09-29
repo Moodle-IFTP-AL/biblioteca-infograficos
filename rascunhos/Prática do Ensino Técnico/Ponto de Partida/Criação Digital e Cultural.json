@@ -1,0 +1,18 @@
+{
+ "versao": 1,
+ "espaco": "Prática do Ensino Técnico/Ponto de Partida/Criação Digital e Cultural",
+ "quando": "2026-09-29T19:07:35.762Z",
+ "autor": "Teste",
+ "dados": {
+  "blocos": [
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "timeline",
+    "infograficoData": {
+     "etapas": "[{\"topico\":\"fasd\",\"texto\":\"asdasd\"},{\"topico\":\"asdasd\",\"texto\":\"asdasd\"},{\"topico\":\"asdasd\",\"texto\":\"asdasd\"}]"
+    }
+   }
+  ]
+ }
+}
