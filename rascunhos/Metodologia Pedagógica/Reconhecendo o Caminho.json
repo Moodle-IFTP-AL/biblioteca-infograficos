@@ -1,0 +1,12 @@
+{
+ "versao": 1,
+ "espaco": "Metodologia Pedagógica/Reconhecendo o Caminho",
+ "quando": "2026-09-29T19:21:20.540Z",
+ "autor": "Teste",
+ "dados": {
+  "tipoBotao": "voltar",
+  "iframeH5P": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=25206\" width=\"1568\" height=\"651\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M2-U05-META-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
+  "conclusao": "<br>",
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24737"
+ }
+}
