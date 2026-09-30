@@ -1,9 +1,28 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Fórum",
- "quando": "2026-09-29T23:29:38.698Z",
+ "quando": "2026-09-30T22:05:57.619Z",
  "autor": "Teste",
  "dados": {
-  "etapaForum": "Hora de Testar"
+  "etapaForum": "Hora de Testar",
+  "campos": {
+   "objetivo": "Compartilhar adaptações pedagógicas reais ou possíveis,&nbsp; relacionando recursos, ambientes e condições da escola aos objetivos de aprendizagem, à segurança, à viabilidade e às evidências esperadas.",
+   "titulo": "<b>Adaptações na Prática: o que Preservar?&nbsp;</b><br>",
+   "conteudo": "Agora é a sua vez de analisar uma situação da sua prática.<br>",
+   "instrucoesTitulo": "Sua participação deve conter:",
+   "orientacoesTitulo": "Orientações para o formato:"
+  },
+  "acoes": [
+   {
+    "id": "it-muonk2g7-1",
+    "titulo": "Na sua postagem, apresente:",
+    "texto": "<ul><li><b>Objetivo da aula:</b> o que os(as) estudantes deveriam aprender ou demonstrar?<br></li><li><b>Recursos e ambiente:</b> o que estava disponível para realizar a atividade?<br></li><li><b>Adaptação:</b> o que precisou ser adaptado, substituído ou reorganizado?<br></li><li><b>O que foi preservado:</b> como a adaptação manteve o objetivo e a participação dos(as) estudantes?<br></li><li><b>Viabilidade:</b> como a proposta considerou o tempo, as condições da escola e a segurança?<br></li><li><b>Evidências:</b> o que permitiria perceber se os(as) estudantes alcançaram a aprendizagem esperada?<br></li></ul>"
+   },
+   {
+    "id": "it-muonl512-2",
+    "titulo": "Depois, interaja com um(a) colega:",
+    "texto": "Leia uma postagem e faça uma pergunta ou sugestão que possa contribuir para fortalecer a proposta apresentada."
+   }
+  ]
  }
 }
