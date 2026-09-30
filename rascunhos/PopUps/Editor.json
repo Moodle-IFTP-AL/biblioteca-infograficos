@@ -1,0 +1,83 @@
+{
+ "versao": 1,
+ "espaco": "PopUps/Editor",
+ "quando": "2026-09-30T18:06:22.579Z",
+ "autor": "Teste",
+ "dados": {
+  "popup": {
+   "titulo": "Novo pop-up",
+   "fundo": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/popup/Popup2.png",
+   "proporcao": 0.7947947947947948,
+   "larguraMaxima": 460,
+   "corVeu": "#0a3442",
+   "opacidadeVeu": 0.88,
+   "raioCartao": 15,
+   "elementos": [
+    {
+     "id": "lswq6lm",
+     "tipo": "texto",
+     "caixa": {
+      "x": 6.25,
+      "y": 16.5,
+      "largura": 87.5,
+      "altura": 16
+     },
+     "html": "GUIA DE INTERVENÇÃO PEDAGÓGICA",
+     "tamanho": 33,
+     "cor": "#fec43e",
+     "peso": 800,
+     "alinhamento": "center",
+     "alturaLinha": 1.2,
+     "maiusculas": false
+    },
+    {
+     "id": "vaupt4q",
+     "tipo": "texto",
+     "caixa": {
+      "x": 8.25,
+      "y": 37,
+      "largura": 83.5,
+      "altura": 33
+     },
+     "html": "<div><font face=\"Open Sans, sans-serif\"><b>Acesse o Guia de Intervenção Pedagógica</b>, construído a partir dos resultados da Avaliação dos Saberes da Educação Profissional, e conheça orientações, atividades e práticas relacionadas aos componentes curriculares da 1ª série do Curso Técnico em Administração.</font></div>",
+     "tamanho": 19,
+     "cor": "#0a3442",
+     "peso": 400,
+     "alinhamento": "center",
+     "alturaLinha": 1.2,
+     "maiusculas": false
+    },
+    {
+     "id": "gegdrhk",
+     "tipo": "botao",
+     "caixa": {
+      "x": 25,
+      "y": 74,
+      "largura": 50,
+      "altura": 10
+     },
+     "texto": "ACESSE O GUIA",
+     "href": "https://documentosinternosept.my.canva.site/guias-de-intervencao-pedagogica-adm-2026",
+     "corFundo": "#0a3442",
+     "corTexto": "#ffffff",
+     "tamanho": 16,
+     "raio": 12,
+     "novaAba": true,
+     "pulsar": true
+    },
+    {
+     "id": "b0osxjd",
+     "tipo": "imagem",
+     "caixa": {
+      "x": 70,
+      "y": 72,
+      "largura": 20,
+      "altura": 14
+     },
+     "url": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/M%C3%A3o%20Bandeira.png",
+     "alt": "Mão Bandeira"
+    }
+   ]
+  }
+ }
+}
