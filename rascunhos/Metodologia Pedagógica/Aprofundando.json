@@ -1,0 +1,25 @@
+{
+ "versao": 1,
+ "espaco": "Metodologia Pedagógica/Aprofundando",
+ "quando": "2026-09-30T21:47:39.839Z",
+ "autor": "Teste",
+ "dados": {
+  "campos": {
+   "texto1": "Analisar recursos, ambientes e condições da escola para selecionar adaptações pedagógicas coerentes com os objetivos de aprendizagem, a segurança e a viabilidade da prática.",
+   "texto2": "<b>Escolhas Possíveis, Aprendizagem Preservada</b><br>",
+   "texto4": "No Ponto de Partida, você refletiu sobre situações em que é preciso reorganizar uma prática considerando as condições reais da escola. Agora, o foco é entender como essas condições podem orientar suas escolhas de planejamento.<br>Selecionar recursos e ambientes não é apenas escolher onde a atividade acontecerá ou quais materiais serão utilizados.<br>É pensar em quais condições favorecem:<br><ul><li>a ação dos(as) estudantes;<br></li><li>a sua mediação ;<br></li><li>a segurança da prática;<br></li><li>a aprendizagem esperada.<br></li></ul>Nesta seção, você vai analisar o que a escola já oferece e como esses recursos podem ser mobilizados ou adaptados de acordo com o objetivo da aula.<br><br><h3><b><font color=\"#f04770\">O que a Escola Já Oferece</font></b></h3><p><b><font color=\"#f04770\"></font></b></p><br><div>Antes de buscar novos materiais ou alterar uma prática, vale observar o que a escola já oferece e como esses recursos podem ser mobilizados de acordo com o objetivo da aula.<br><br><b><br></b>[INFOGRAFICO1]<b><br></b><br></div>",
+   "texto5": ""
+  },
+  "blocos": [
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "blocos_coloridos",
+    "infograficoData": {
+     "introducao": "Alguns recursos que podem fazer parte desse planejamento são:<br><br>",
+     "blocos": "[{\"titulo\":\"<b>Recursos físicos</b><br>\",\"texto\":\"<ul><li>carteiras e quadro;<br></li><li>cartolinas e fichas;<br></li><li>materiais impressos;<br></li><li>ferramentas, objetos do cotidiano e insumos disponíveis.<br></li></ul>\"},{\"titulo\":\"<b>Recursos digitais</b>\",\"texto\":\"<ul><li>celulares, projetor e computador;<br></li><li>internet;<br></li><li>aplicativos, vídeos, planilhas e plataformas de apoio.<br></li></ul>\"},{\"titulo\":\"<br><b>Recursos técnicos e humanos</b><br><br>\",\"texto\":\"<ul><li>professores(as) de outros componentes;<br></li><li>equipe gestora e técnicos(as) da escola;<br></li><li>profissionais convidados;<br></li><li>estudantes com experiências prévias;<br></li><li>parceiros da comunidade.<br></li></ul>\"},{\"titulo\":\"<b>Ambientes de aprendizagem</b>\",\"texto\":\"<ul><li>sala de aula;<br></li><li>laboratório;<br></li><li>biblioteca;<br></li><li>pátio;<br></li><li>outros espaços da escola ou do entorno que possam ser utilizados com segurança.<br></li></ul>\"}]"
+    }
+   }
+  ]
+ }
+}
