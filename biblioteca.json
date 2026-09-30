@@ -29,6 +29,19 @@
    "criadoEm": "2026-09-30T11:56:55.849Z",
    "atualizadoEm": "2026-09-30T11:56:56.957Z",
    "autor": "Teste"
+  },
+  {
+   "id": "27f1795c-b307-4c06-91bc-49ef55c0f1d9",
+   "nome": "Cards com Icones e Setas",
+   "pasta": "",
+   "tipo": "cards_icones_setas",
+   "data": {
+    "titulo": "",
+    "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Mundo%20pin.png\",\"titulo\":\"<b>Contexto</b>\",\"texto\":\"Situação profissional relacionada ao mundo do trabalho.\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Alvo.png\",\"titulo\":\"<b>Objetivo</b>\",\"texto\":\"Aprendizagem técnica esperada.\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/M%C3%A3o.png\",\"titulo\":\"<b>Situação-problema</b>\",\"texto\":\"Desafio concreto que orienta a prática.\",\"corTitulo\":\"#0a3442\",\"corFundo\":\"#beeffc\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Lupa%20%282%29.png\",\"titulo\":\"<b><font color=\\\"#0a3442\\\">Sequência</font></b>\",\"texto\":\"<span style=\\\"font-size: 1rem;\\\"><font color=\\\"#ffffff\\\">Atividades organizadas de forma progressiva.</font></span>\",\"corFundo\":\"#f04770\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Lista.png\",\"titulo\":\"<b>Resultado esperado</b>\",\"texto\":\"Evidência da aprendizagem desenvolvida.\",\"corTitulo\":\"#0a3442\",\"corFundo\":\"#fec43e\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Aten%C3%A7%C3%A3o.png\",\"titulo\":\"<b>Condições da escola</b>\",\"texto\":\"Recursos, espaço, equipamentos e tempo disponíveis.\",\"corFundo\":\"#fdf0f3\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Chap%C3%A9u.png\",\"titulo\":\"<b>Carga horária</b>\",\"texto\":\"Atividades e resultados devem caber no tempo disponível.\"}]"
+   },
+   "criadoEm": "2026-09-30T11:59:37.240Z",
+   "atualizadoEm": "2026-09-30T11:59:38.493Z",
+   "autor": "Teste"
   }
  ]
 }
