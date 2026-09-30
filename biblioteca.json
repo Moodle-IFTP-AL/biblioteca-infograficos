@@ -16,6 +16,19 @@
    "criadoEm": "2026-09-29T15:39:17.736Z",
    "atualizadoEm": "2026-09-29T15:43:40.343Z",
    "autor": "Teste"
+  },
+  {
+   "id": "0db662f0-a151-40bb-af21-47c962aed23a",
+   "nome": "Infográfico ADM M2U8",
+   "pasta": "M2",
+   "tipo": "cards_icones_setas",
+   "data": {
+    "titulo": "",
+    "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Mundo%20pin.png\",\"titulo\":\"<b>Contexto</b>\",\"texto\":\"Planejamento e organização do controle de estoque e vendas de um pequeno negócio de produção de tapioca e derivados de mandioca em Arapiraca.\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Alvo.png\",\"titulo\":\"<b>Objetivo de aprendizagem</b>\",\"texto\":\"Elaborar uma planilha simples de controle de fluxo de caixa e estoque para organizar as entradas e saídas de produtos.\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/M%C3%A3o.png\",\"titulo\":\"<b>Situação-problema</b>\",\"texto\":\"Uma pequena produtora de Arapiraca vende tapiocas recheadas na feira local, mas tem dificuldade para acompanhar seus lucros e controlar a quantidade de matéria-prima disponível.\",\"corTitulo\":\"#0a3442\",\"corFundo\":\"#beeffc\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Lupa%20%282%29.png\",\"titulo\":\"<b><font color=\\\"#0a3442\\\">Sequência de atividades</font></b>\",\"texto\":\"<ol><li>Identificar os principais custos e insumos;<br></li><li>Registrar as vendas e as entradas e saídas de produtos;<br></li><li>Calcular custos e margem de lucro;<br></li><li>Organizar as informações em uma ficha de controle.<br></li></ol>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Lista.png\",\"titulo\":\"<b>Resultado esperado</b>\",\"texto\":\"Ficha de controle financeiro e de estoque preenchida, com o cálculo do preço de venda do produto.Ficha de controle financeiro e de estoque preenchida, com o cálculo do preço de venda do produto.\",\"corTitulo\":\"#0a3442\",\"corFundo\":\"#fec43e\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Aten%C3%A7%C3%A3o.png\",\"titulo\":\"<b><font color=\\\"#0a3442\\\">Adequação às condições das escolas</font></b>\",\"texto\":\"A prática pode ser realizada com planilhas impressas e registros manuais, sem depender de computadores ou internet.\",\"corFundo\":\"#fdf0f3\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Chap%C3%A9u.png\",\"titulo\":\"<b>Ajuste à carga horária</b>\",\"texto\":\"A quantidade de atividades e o resultado esperado devem ser compatíveis com o tempo disponível para a prática.\"}]"
+   },
+   "criadoEm": "2026-09-30T11:56:55.849Z",
+   "atualizadoEm": "2026-09-30T11:56:56.957Z",
+   "autor": "Teste"
   }
  ]
 }
