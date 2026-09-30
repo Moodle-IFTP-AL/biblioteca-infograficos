@@ -1,9 +1,33 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum/Administração",
- "quando": "2026-09-30T14:04:25.435Z",
+ "quando": "2026-09-30T14:06:18.205Z",
  "autor": "Teste",
  "dados": {
-  "etapaForum": "Hora de Testar"
+  "etapaForum": "Hora de Testar",
+  "campos": {
+   "objetivo": "Aplicar os conceitos de síntese do módulo na estruturação de uma prática técnica específica, demonstrando viabilidade, coerência pedagógica e conexão com o contexto profissional.",
+   "titulo": "<b>Compartilhando Práticas de Administração&nbsp;</b><br><br>",
+   "conteudo": "<b>Fórum de Discussão — Compartilhando Práticas de Administração</b><br>Este fórum é um espaço para compartilhar sua prática, trocar experiências e conhecer diferentes formas de planejar práticas de Administração. Use este momento para retomar os elementos trabalhados ao longo do módulo e analisar como eles aparecem em uma atividade planejada por você.<br><br>",
+   "instrucoesTitulo": "Sua participação deve conter:",
+   "orientacoesTitulo": "Orientações para o formato:"
+  },
+  "acoes": [
+   {
+    "id": "it-muo6f8g8-1",
+    "titulo": "Publique sua Prática",
+    "texto": "Apresente uma prática de Administração e descreva:<br><ul><li><b>Situação-problema:</b> Qual situação real ou verossímil do mundo do trabalho orienta a prática?<br></li><li><b>Sequência de atividades:</b> Como você organizou as atividades e sua progressão ao longo da prática?<br></li><li><b>Recursos e adaptações:</b> Quais ajustes foram previstos considerando o espaço, o tempo, os recursos disponíveis e a organização da turma? Como esses ajustes preservam o objetivo técnico e de aprendizagem?<br></li></ul>"
+   },
+   {
+    "id": "it-muo6gy9z-2",
+    "titulo": "Comente a Publicação de um(a) Colega",
+    "texto": "Leia a proposta de pelo menos um(a) colega e escreva um comentário de <b>no mínimo 120 palavras</b>. No seu comentário:<br><ul><li>destaque uma <b>potencialidade</b> da proposta;<br></li><li>formule uma <b>pergunta</b> que contribua para a reflexão;<br></li><li>apresente uma <b>sugestão</b> para seu aprimoramento.<br></li></ul>"
+   },
+   {
+    "id": "it-muo6h7qf-3",
+    "titulo": "Participe da Troca",
+    "texto": "Ao compartilhar sua prática e comentar a proposta de outro(a) professor(a), observe diferentes possibilidades de organizar e adaptar práticas de Administração às condições reais da escola.<br>"
+   }
+  ]
  }
 }
