@@ -1,0 +1,24 @@
+{
+ "versao": 1,
+ "espaco": "Metodologia Pedagógica/Ponto de Partida",
+ "quando": "2026-09-30T21:45:09.906Z",
+ "autor": "Teste",
+ "dados": {
+  "campos": {
+   "texto1": "<b>Competência:&nbsp;</b><br><b>1 - </b>Planejar e estruturar práticas de aprendizagem participativas e contextualizadas, mobilizando conhecimentos da Formação Geral Básica no contexto da Educação Profissional, por meio da seleção de metodologias, conteúdos e estratégias pedagógicas alinhadas ao perfil da turma, às competências técnicas e às demandas do mundo do trabalho.<br><b>Habilidade:&nbsp;</b><br><b>1.3 - </b>Selecionar conteúdos essenciais e estratégias pedagógicas alinhadas ao perfil da turma e ao avanço do(a) estudante.<br><b>Objetos do Conhecimento:</b><br>Recursos e ambientes de aprendizagem.<br><b>Conteúdos:</b><br><ul><li>Recursos físicos, digitais e técnicos;<br></li><li>Ambientes de aprendizagem (laboratório, oficina, sala);<br></li><li>Limites e possibilidades da escola;<br></li><li>Adequação dos recursos ao objetivo da aula;<br></li><li>Segurança e viabilidade das práticas.<br></li></ul><b>Objetivo:</b> selecionar recursos e ambientes de aprendizagem adequados aos objetivos da aula técnica, considerando viabilidade, segurança e condições da escola.<br><br>",
+   "texto6": "Refletir sobre como as condições da escola e da turma podem orientar escolhas de recursos e ambientes para a aprendizagem.",
+   "texto7": "<b>Adaptar sem Perder a Aprendizagem</b><br>",
+   "texto9": "Planejar uma aula técnica também envolve considerar as condições da escola e as características da turma.<br>Em alguns momentos, pode ser necessário reorganizar o espaço, utilizar outro recurso ou rever parte da proposta para que a aula aconteça da melhor forma.<br><br><br>",
+   "texto11": "Agora, vamos analisar o que a escola já oferece e como fazer escolhas coerentes com a aprendizagem que você pretende desenvolver."
+  },
+  "pergunta": {
+   "tipo": "texto",
+   "titulo": "Nesse momento, vale parar e pensar:",
+   "texto": "<ul><li><b>O que precisa ser mantido?&nbsp;</b><br></li><li><b>O que pode ser ajustado?&nbsp;</b><br></li><li><b>Que possibilidades temos para realizar essa aprendizagem?</b></li></ul>",
+   "videoUrl": "",
+   "iframeH5P": ""
+  },
+  "conclusao": "Afinal, escolher um recurso ou ambiente não é apenas decidir o que está disponível. É pensar no que faz sentido para o que você quer que os(as) estudantes aprendam e para a forma como essa aprendizagem será desenvolvida.<br><b>Como fazer essas escolhas de forma consciente e coerente com a realidade da sua escola?</b><br>Nesta aula, você vai refletir sobre essas escolhas e conhecer possibilidades para planejar práticas adequadas ao seu contexto.",
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=25380"
+ }
+}
