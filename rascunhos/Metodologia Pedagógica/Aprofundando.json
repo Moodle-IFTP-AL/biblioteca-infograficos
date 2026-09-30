@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando",
- "quando": "2026-09-30T21:49:39.670Z",
+ "quando": "2026-09-30T21:57:40.262Z",
  "autor": "Teste",
  "dados": {
   "campos": {
    "texto1": "Analisar recursos, ambientes e condições da escola para selecionar adaptações pedagógicas coerentes com os objetivos de aprendizagem, a segurança e a viabilidade da prática.",
    "texto2": "<b>Escolhas Possíveis, Aprendizagem Preservada</b><br>",
-   "texto4": "No Ponto de Partida, você refletiu sobre situações em que é preciso reorganizar uma prática considerando as condições reais da escola. Agora, o foco é entender como essas condições podem orientar suas escolhas de planejamento.<br>Selecionar recursos e ambientes não é apenas escolher onde a atividade acontecerá ou quais materiais serão utilizados.<br>É pensar em quais condições favorecem:<br><ul><li>a ação dos(as) estudantes;<br></li><li>a sua mediação ;<br></li><li>a segurança da prática;<br></li><li>a aprendizagem esperada.<br></li></ul>Nesta seção, você vai analisar o que a escola já oferece e como esses recursos podem ser mobilizados ou adaptados de acordo com o objetivo da aula.<br><br><h3><b><font color=\"#f04770\">O que a Escola Já Oferece</font></b></h3><p><b><font color=\"#f04770\"></font></b></p><br><div>Antes de buscar novos materiais ou alterar uma prática, vale observar o que a escola já oferece e como esses recursos podem ser mobilizados de acordo com o objetivo da aula.<br><b><br></b>[INFOGRAFICO1]<b><br></b><br><br><font color=\"#f04770\"><b>O ponto central é perguntar:&nbsp;</b><br></font><b>Esse recurso ou ambiente permite que os(as) estudantes realizem a ação prevista no objetivo de aprendizagem?<br></b><br>Dependendo do objetivo, um mesmo recurso pode apoiar diferentes práticas. O que muda é a forma como ele é utilizado e a ação que se espera dos(as) estudantes.<br><br>[VIDEO1]<br><br>Faça uma breve introdução sobre a necessidade de analisar o contexto escolar, os objetivos e as condições reais da atividade. Depois, elabore um checklist prático e claro, com tópicos objetivos, que sirva de apoio ao planejamento docente, sem tom fiscalizador.<br><br>Antes de adaptar uma prática, vale olhar para o contexto da escola, o objetivo da aula e as condições reais para sua realização. O checklist abaixo não é uma lista de regras a cumprir, mas um apoio para você pensar nas escolhas feitas durante o planejamento.<br><br><br><br><br></div>",
-   "texto5": ""
+   "texto4": "No Ponto de Partida, você refletiu sobre situações em que é preciso reorganizar uma prática considerando as condições reais da escola. Agora, o foco é entender como essas condições podem orientar suas escolhas de planejamento.<br>Selecionar recursos e ambientes não é apenas escolher onde a atividade acontecerá ou quais materiais serão utilizados.<br>É pensar em quais condições favorecem:<br><ul><li>a ação dos(as) estudantes;<br></li><li>a sua mediação ;<br></li><li>a segurança da prática;<br></li><li>a aprendizagem esperada.<br></li></ul>Nesta seção, você vai analisar o que a escola já oferece e como esses recursos podem ser mobilizados ou adaptados de acordo com o objetivo da aula.<br><br><h3><b><font color=\"#f04770\">O que a Escola Já Oferece</font></b></h3><p><b><font color=\"#f04770\"></font></b></p><br><div>Antes de buscar novos materiais ou alterar uma prática, vale observar o que a escola já oferece e como esses recursos podem ser mobilizados de acordo com o objetivo da aula.<br><b><br></b>[INFOGRAFICO1]<b><br></b><br><br><font color=\"#f04770\"><b>O ponto central é perguntar:&nbsp;</b><br></font><b>Esse recurso ou ambiente permite que os(as) estudantes realizem a ação prevista no objetivo de aprendizagem?<br></b><br>Dependendo do objetivo, um mesmo recurso pode apoiar diferentes práticas. O que muda é a forma como ele é utilizado e a ação que se espera dos(as) estudantes.<br><br>[VIDEO1]<br><br>Faça uma breve introdução sobre a necessidade de analisar o contexto escolar, os objetivos e as condições reais da atividade. Depois, elabore um checklist prático e claro, com tópicos objetivos, que sirva de apoio ao planejamento docente, sem tom fiscalizador.<br><br>Antes de adaptar uma prática, vale olhar para o contexto da escola, o objetivo da aula e as condições reais para sua realização. O checklist abaixo não é uma lista de regras a cumprir, mas um apoio para você pensar nas escolhas feitas durante o planejamento.<br><br>[INFOGRAFICO2]<br><font color=\"#f04770\"><br><b>Use essas perguntas para ajustar sua proposta, não para limitar suas possibilidades.</b> </font>O mais importante é que as escolhas sejam coerentes com o objetivo de aprendizagem e com o contexto em que a prática será realizada.<br><br>[TOMENOTA1]</div>",
+   "texto5": "Agora, leve essa reflexão para sua prática. No fórum, você vai analisar uma situação e pensar em escolhas possíveis para torná-la viável sem perder a aprendizagem."
   },
   "blocos": [
    {
@@ -25,7 +25,28 @@
     "texto": "Assista ao vídeo e acompanhe como uma professora reorganiza sua prática, aproveitando o que a escola oferece sem perder de vista o objetivo de aprendizagem.",
     "titulo": "Veja a baixo:",
     "url": ""
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "mapa_radial",
+    "infograficoData": {
+     "mapa": "{\"centro\":\"\",\"cards\":[{\"frente\":\"<b>Objetivo de aprendizagem</b><br>\",\"verso\":\"A adaptação mantém o que os(as) estudantes precisam aprender, praticar ou demonstrar?\",\"corFundo\":\"#79d3f2\"},{\"frente\":\"<b>Ação dos(as) estudantes</b><br><br>\",\"verso\":\"Eles(as) continuam investigando, analisando, produzindo, decidindo, justificando ou revisando algo relacionado ao objetivo?\",\"corFundo\":\"#06d7a0\"},{\"frente\":\"<b>Sentido para a turma</b><br><br>\",\"verso\":\"A prática faz sentido para a realidade e as características dos(as) estudantes?<br><br>\",\"corFundo\":\"#fec43e\"},{\"frente\":\"<b>Autonomia</b>\",\"verso\":\"A atividade considera o nível de autonomia da turma e oferece o apoio necessário para sua realização?<br><br>\",\"corFundo\":\"#f04770\"},{\"frente\":\"<b>Ambiente de aprendizagem</b>\",\"verso\":\"O espaço escolhido favorece a organização da turma, a mediação docente e a realização da prática?\",\"corFundo\":\"#0a3442\"},{\"frente\":\"<b>Recursos</b>\",\"verso\":\"Os materiais previstos estão disponíveis? Podem ser compartilhados ou substituídos sem comprometer o objetivo?<br><br>\",\"corFundo\":\"#beeffc\"},{\"frente\":\"<b>Segurança e viabilidade&nbsp;</b>\",\"verso\":\"A proposta pode ser realizada com segurança e dentro das condições e do tempo disponíveis?<br><br>\",\"corFundo\":\"#f0fdf4\"},{\"frente\":\"<b>Evidências de aprendizagem</b><br><br>\",\"verso\":\"A adaptação permite observar o que os(as) estudantes aprenderam por meio de falas, registros, decisões, procedimentos, produções ou justificativas?<br><br>\",\"corFundo\":\"#fdf0f3\"}]}"
+    }
+   },
+   {
+    "tipo": "tomenota",
+    "texto": "Adaptar recursos e ambientes não significa simplificar a aprendizagem. A adaptação deve preservar o objetivo da aula, a ação dos(as) estudantes e as condições necessárias para uma prática segura, viável e capaz de evidenciar a aprendizagem.<br><br>"
+   },
+   {
+    "tipo": "dica",
+    "texto": "<b>Faça um teste rápido:</b> escolha o recurso ou ambiente previsto e liste uma alternativa disponível na escola. Depois, compare: as duas opções permitem que os(as) estudantes realizem as mesmas ações previstas no objetivo?<br><br>"
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Conclusão ",
+   "texto": "Nem sempre será possível realizar uma prática exatamente como planejada, e isso não significa abrir mão da aprendizagem.<br>Ao reconhecer as possibilidades do contexto e fazer escolhas coerentes, você pode reorganizar recursos e ambientes mantendo aquilo que é essencial para os(as) estudantes.<br><br>",
+   "blocos": []
+  }
  }
 }
