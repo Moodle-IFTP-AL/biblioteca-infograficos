@@ -55,6 +55,19 @@
    "criadoEm": "2026-09-30T12:00:10.443Z",
    "atualizadoEm": "2026-09-30T12:00:12.057Z",
    "autor": "Teste"
+  },
+  {
+   "id": "97b0eb20-5c91-449f-b90a-4460c9d27eca",
+   "nome": "Infográfico 1 MET U7",
+   "pasta": "M2",
+   "tipo": "blocos_coloridos",
+   "data": {
+    "introducao": "Alguns recursos que podem fazer parte desse planejamento são:<br><br>",
+    "blocos": "[{\"titulo\":\"<b>Recursos físicos</b><br>\",\"texto\":\"<ul><li>carteiras e quadro;<br></li><li>cartolinas e fichas;<br></li><li>materiais impressos;<br></li><li>ferramentas, objetos do cotidiano e insumos disponíveis.<br></li></ul>\"},{\"titulo\":\"<b>Recursos digitais</b>\",\"texto\":\"<ul><li>celulares, projetor e computador;<br></li><li>internet;<br></li><li>aplicativos, vídeos, planilhas e plataformas de apoio.<br></li></ul>\"},{\"titulo\":\"<br><b>Recursos técnicos e humanos</b><br><br>\",\"texto\":\"<ul><li>professores(as) de outros componentes;<br></li><li>equipe gestora e técnicos(as) da escola;<br></li><li>profissionais convidados;<br></li><li>estudantes com experiências prévias;<br></li><li>parceiros da comunidade.<br></li></ul>\"},{\"titulo\":\"<b>Ambientes de aprendizagem</b>\",\"texto\":\"<ul><li>sala de aula;<br></li><li>laboratório;<br></li><li>biblioteca;<br></li><li>pátio;<br></li><li>outros espaços da escola ou do entorno que possam ser utilizados com segurança.<br></li></ul>\"}]"
+   },
+   "criadoEm": "2026-09-30T21:51:43.399Z",
+   "atualizadoEm": "2026-09-30T21:51:45.049Z",
+   "autor": "Teste"
   }
  ]
 }
