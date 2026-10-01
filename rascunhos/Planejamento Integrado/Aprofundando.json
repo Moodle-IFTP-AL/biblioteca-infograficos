@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-10-01T17:07:59.104Z",
+ "quando": "2026-10-01T17:12:15.454Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -9,7 +9,7 @@
    "texto2": "Planejar a avaliação integrada de projetos, articulando competências, evidências, critérios e instrumentos de diferentes componentes curriculares.",
    "texto3": "<b>Como Construir uma Avaliação Integrada&nbsp;</b><br><br>",
    "texto5": "Nas aulas anteriores, você planejou o <b>percurso integrado de aprendizagem</b>, como o projeto integrado, organizou suas etapas e definiu como diferentes componentes curriculares contribuíram para o desenvolvimento de competências dos(as) estudantes, articulados em torno de objetivos de aprendizagem comuns.<br><br>Agora, surge uma nova pergunta:<br><br><div><b><font color=\"#f04770\">Como construir, em conjunto, uma avaliação que permita acompanhar essas aprendizagens ao longo do percurso?&nbsp;</font></b></div><div><b><font color=\"#f04770\"><br></font></b></div><h3><b>Quando a Avaliação Também é Integrada</b><br></h3><p>Em um percurso integrado de aprendizagem, diferentes componentes curriculares contribuem para o desenvolvimento dos(as) estudantes.<br>A avaliação precisa acompanhar essa articulação, considerando as aprendizagens que são <b>comuns ao percurso</b> e aquelas que dependem da<b> contribuição específica </b>de cada componente.<br>Uma avaliação integrada não significa que todos(as) os(as) professores(as) avaliem tudo da mesma maneira. Significa:<br></p><ul><li>planejar coletivamente o que será observado;<br></li><li>quais evidências serão produzidas;<br></li><li>quais critérios serão utilizados;<br></li><li>como essas informações serão analisadas.<br></li></ul>[CAIXADESTAQUE1]<br><br>Os critérios podem ser:<br><ul><li><b>comuns:</b> utilizados por diferentes componentes para observar uma mesma aprendizagem;<br></li><li><b>complementares:</b> relacionados às contribuições específicas de cada componente curricular.<br></li></ul>Os instrumentos são escolhidos depois dessa definição. Podem ser utilizados instrumentos comuns ou diferentes, como rubricas, fichas de análise, checklists, portfólios, registros de observação, autoavaliações ou outros recursos adequados à evidência que se pretende acompanhar.<br>A avaliação acontece ao longo do percurso, e não apenas na entrega do produto final. As evidências permitem identificar avanços e necessidades de aprendizagem e ajudam a equipe a decidir o que manter, ajustar, retomar ou aprofundar.<br><br>[TOMENOTA1]<br><br><h3><font color=\"#f04770\" style=\"\">Como construir a avaliação em conjunto?</font></h3>A construção coletiva pode seguir sete movimentos:<br><br>[ACCORDION1]<br><br>[INFOGRAFICO1]<br><font color=\"#f04770\"><br><b>Atenção:</b></font> o instrumento deve ser escolhido de acordo com a evidência que se pretende analisar. Uma produção prática pode ser acompanhada por uma rubrica; uma análise pode ser registrada em uma ficha; a evolução de uma proposta pode ser documentada em um portfólio; e a percepção do(a) estudante pode ser registrada por meio de uma autoavaliação.<br><br>[ACCORDION2]<br><br>[VIDEO1]<br><br>[INFOGRAFICO2]<br><br>Avaliação integrada não é somar avaliações de diferentes componentes. É construir, acompanhar e analisar coletivamente as aprendizagens do percurso.<br><br><br><br><br>",
-   "texto7": ""
+   "texto7": "Nesta aula, você compreendeu que a avaliação integrada é planejada de forma coletiva, a partir das competências e dos objetivos de aprendizagem.<br>Para isso, é necessário definir:<br><ul><li>quais evidências serão observadas;<br></li><li>quais critérios serão utilizados;<br></li><li>como cada componente curricular contribuirá para a avaliação.<br></li></ul>Você também viu que a análise conjunta dessas evidências permite identificar avanços e necessidades de aprendizagem e orientar as próximas decisões pedagógicas.<br>Na próxima aula, esse processo será colocado em prática com a <b>elaboração de instrumentos de avaliação no planejamento coletivo do HTPC</b>.<br>"
   },
   "blocos": [
    {
@@ -87,6 +87,7 @@
      "etapas": "[{\"topico\":\"<b>RETOME</b>\",\"texto\":\"Competências, habilidades e objetivos<br><br>\"},{\"topico\":\"<b>DEFINA</b>\",\"texto\":\"Evidências de aprendizagem<br><br>\"},{\"topico\":\"<b>ARTICULE</b>\",\"texto\":\"Critérios comuns + complementares\"},{\"topico\":\"<b>COMBINE</b>\",\"texto\":\"Quem observa + quando + como registra<br><br>\"},{\"topico\":\"<b>ANALISE</b>\",\"texto\":\"Diferentes evidências em conjunto<br><br>\"},{\"topico\":\"<b>DECIDA</b>\",\"texto\":\"O que manter, ajustar, retomar ou aprofundar<br><br>\"},{\"topico\":\"<b>REPLANEJE</b>\",\"texto\":\"Próximas ações pedagógicas<br><br>\"}]"
     }
    }
-  ]
+  ],
+  "tipoBotao": "voltar"
  }
 }
