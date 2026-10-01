@@ -1,24 +1,15 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Ponto de Partida/Administração",
- "quando": "2026-09-30T11:44:36.839Z",
+ "quando": "2026-10-01T16:38:48.280Z",
  "autor": "Teste",
  "dados": {
   "campos": {
-   "texto1": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>Objetos do Conhecimento:</b><br>Aplicação de prática técnica contextualizada.<br><b>Conteúdos:</b><br><ul><li>Síntese da sequência construída de práticas;<br></li><li>Seleção de uma prática para aplicação em aula;<br></li><li>Organização final da atividade técnico-pedagógica.<br></li></ul><b>Objetivo da Aula:</b> Estruturar uma prática técnica aplicável em aula a partir da sequência planejada.<br><br>",
-   "texto6": "Analisar as aprendizagens construídas ao longo do módulo, refletindo sobre como compartilhá-las com outra pessoa de forma prática, acolhedora e significativa.",
-   "texto7": "Compartilhando Saberes: Cinco Minutos para Compartilhar Aprendizagens<br>",
-   "texto9": "Entre o sinal que marca a troca de aulas e as conversas no corredor, um professor recém-chegado se aproxima na sala de professores.<br>O novo colega comenta que, apesar de conhecer os conteúdos de Administração, ainda se sente inseguro sobre como transformá-los em práticas significativas para os(as) estudantes.<br><br>Ao pensar em uma atividade sobre controle de estoque, por exemplo, surge a dúvida sobre como articular o conhecimento teórico com o conhecimento prático de modo a fazer sentido para os(as) estudantes.<br><br><br>",
-   "texto11": "A seguir, serão retomados os critérios que articulam situação-problema, objetivo, atividades, tempo, recursos e resultados em uma prática técnica.<br>"
-  },
-  "pergunta": {
-   "tipo": "texto",
-   "titulo": "Reflita:",
-   "texto": "<b>Se você tivesse apenas 5 minutos no corredor antes do sinal tocar, o que diria para apoiar esse colega com base em tudo o que vivenciou e aprendeu neste módulo?</b>",
-   "videoUrl": "",
-   "iframeH5P": ""
-  },
-  "conclusao": "Perceba que esse encontro fictício no corredor representa a bagagem técnico-pedagógica que você acumulou ao longo destas semanas.<br>Ao longo do módulo, você analisou como:<br><ul><li>selecionar situações do mundo do trabalho;<br></li><li>definir objetivos;<br></li><li>organizar atividades com progressão de complexidade;<br></li><li>escolher diferentes tipos de prática;<br></li><li>adequar o planejamento às condições da escola.<br></li></ul>Esse repertório amplia sua capacidade de analisar situações, tomar decisões, além de revisar e aprimorar suas próprias práticas.<br>Ao longo dessas semanas, você construiu referências que agora pode mobilizar para planejar, adaptar e conduzir práticas técnico-profissionais com maior intencionalidade.<br>",
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24939"
+   "texto1": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>Objetos do Conhecimento:</b><br>Planejamento de oficinas técnicas.<br><b>Conteúdos:</b><br><ul><li>Estruturação de oficinas com múltiplas etapas;<br></li><li>Encadeamento entre procedimentos técnicos;<br></li><li>Organização de tempos e recursos.<br></li></ul><b>Objetivo da Aula:</b><br>Planejar oficinas técnicas articulando múltiplas etapas, recursos e objetivos de aprendizagem.<br><br>",
+   "texto6": "",
+   "texto7": "",
+   "texto9": "",
+   "texto11": ""
+  }
  }
 }
