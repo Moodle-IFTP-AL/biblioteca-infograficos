@@ -1,53 +1,24 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando",
- "quando": "2026-09-30T22:03:32.652Z",
+ "quando": "2026-10-01T17:57:34.933Z",
  "autor": "Teste",
  "dados": {
   "campos": {
-   "texto1": "Analisar recursos, ambientes e condições da escola para selecionar adaptações pedagógicas coerentes com os objetivos de aprendizagem, a segurança e a viabilidade da prática.",
-   "texto2": "<b>Escolhas Possíveis, Aprendizagem Preservada</b><br>",
-   "texto4": "No Ponto de Partida, você refletiu sobre situações em que é preciso reorganizar uma prática considerando as condições reais da escola. Agora, o foco é entender como essas condições podem orientar suas escolhas de planejamento.<br>Selecionar recursos e ambientes não é apenas escolher onde a atividade acontecerá ou quais materiais serão utilizados.<br>É pensar em quais condições favorecem:<br><ul><li>a ação dos(as) estudantes;<br></li><li>a sua mediação ;<br></li><li>a segurança da prática;<br></li><li>a aprendizagem esperada.<br></li></ul>Nesta seção, você vai analisar o que a escola já oferece e como esses recursos podem ser mobilizados ou adaptados de acordo com o objetivo da aula.<br><br><h3><b><font color=\"#f04770\">O que a Escola Já Oferece</font></b></h3><p><b><font color=\"#f04770\"></font></b></p><br><div>Antes de buscar novos materiais ou alterar uma prática, vale observar o que a escola já oferece e como esses recursos podem ser mobilizados de acordo com o objetivo da aula.<br><b><br></b>[INFOGRAFICO1]<b><br></b><br><br><font color=\"#f04770\"><b>O ponto central é perguntar:&nbsp;</b><br></font><b>Esse recurso ou ambiente permite que os(as) estudantes realizem a ação prevista no objetivo de aprendizagem?<br></b><br>Dependendo do objetivo, um mesmo recurso pode apoiar diferentes práticas. O que muda é a forma como ele é utilizado e a ação que se espera dos(as) estudantes.<br><br>[VIDEO1]<br><br>Faça uma breve introdução sobre a necessidade de analisar o contexto escolar, os objetivos e as condições reais da atividade. Depois, elabore um checklist prático e claro, com tópicos objetivos, que sirva de apoio ao planejamento docente, sem tom fiscalizador.<br><br>Antes de adaptar uma prática, vale olhar para o contexto da escola, o objetivo da aula e as condições reais para sua realização. O checklist abaixo não é uma lista de regras a cumprir, mas um apoio para você pensar nas escolhas feitas durante o planejamento.<br><br>[INFOGRAFICO2]<br><font color=\"#f04770\"><br><b>Use essas perguntas para ajustar sua proposta, não para limitar suas possibilidades.</b> </font>O mais importante é que as escolhas sejam coerentes com o objetivo de aprendizagem e com o contexto em que a prática será realizada.<br><br>[TOMENOTA1]<br><br>[DICA1]</div>",
-   "texto5": "Agora, leve essa reflexão para sua prática. No fórum, você vai analisar uma situação e pensar em escolhas possíveis para torná-la viável sem perder a aprendizagem."
+   "texto1": "Analisar sinais e evidências de aprendizagem para orientar decisões pedagógicas durante a aula, identificando ajustes de mediação, de estratégia, de tempo e de organização da turma alinhados ao objetivo de aprendizagem.",
+   "texto2": "<b>Decidir Durante a Aula</b><br>",
+   "texto4": "Durante a aula, você observa diferentes sinais da turma. Alguns indicam atenção, dúvida, dispersão, insegurança ou necessidade de apoio, como:<br><ul><li>silêncio prolongado;<br></li><li>demora para iniciar a tarefa;<br></li><li>perguntas genéricas;<br></li><li>conversas fora do foco.<br></li></ul><br>Estes sinais ajudam você a perceber que algo precisa ser acompanhado mais de perto.<br><br>As evidências de aprendizagem, por sua vez, aparecem quando o(a) estudante demonstra o que está aprendendo por meio de falas, de registros, de decisões, de justificativas, de procedimentos, de produções ou de revisões.<br><br><font color=\"#f04770\"><b>Mediação do(a) Professor(a) e as Adaptações de Estratégias</b><br></font><br>A mediação pedagógica acontece quando você acompanha a aprendizagem em tempo real e toma decisões para apoiar o avanço dos(as) estudantes.<br><br>Durante a aula, as evidências observadas podem indicar que uma orientação precisa ser retomada, que determinado grupo necessita de apoio ou que o tempo e a organização da atividade precisam ser ajustados.<br><br>Adaptar a estratégia não significa abandonar o planejamento. Significa <b>preservar o objetivo de aprendizagem e ajustar o percurso</b> de acordo com as necessidades identificadas.<br><br>As possibilidades de adaptação incluem ajustes na organização da turma, na orientação da atividade, no escopo, nas perguntas, nos recursos, no tempo e no nível de mediação.<br><br>Depois do ajuste, observe novamente a turma para verificar se os(as) estudantes avançaram em direção ao objetivo.<br><br><br>Por isso, conduzir a aula exige uma leitura cuidadosa: <b>observar sinais, identificar evidências, relacioná-las ao objetivo de aprendizagem e decidir como intervir para favorecer o avanço da turma.</b><br><br>[CAIXADESTAQUE1]<br><b><font color=\"#f04770\"><br></font></b><b>Estratégias de Adaptação Pedagógica</b><br><br><b><font color=\"#f04770\"><br></font></b>",
+   "texto5": ""
   },
   "blocos": [
    {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "blocos_coloridos",
-    "infograficoData": {
-     "introducao": "Alguns recursos que podem fazer parte desse planejamento são:<br><br>",
-     "blocos": "[{\"titulo\":\"<b>Recursos físicos</b><br>\",\"texto\":\"<ul><li>carteiras e quadro;<br></li><li>cartolinas e fichas;<br></li><li>materiais impressos;<br></li><li>ferramentas, objetos do cotidiano e insumos disponíveis.<br></li></ul>\"},{\"titulo\":\"<b>Recursos digitais</b>\",\"texto\":\"<ul><li>celulares, projetor e computador;<br></li><li>internet;<br></li><li>aplicativos, vídeos, planilhas e plataformas de apoio.<br></li></ul>\"},{\"titulo\":\"<br><b>Recursos técnicos e humanos</b><br><br>\",\"texto\":\"<ul><li>professores(as) de outros componentes;<br></li><li>equipe gestora e técnicos(as) da escola;<br></li><li>profissionais convidados;<br></li><li>estudantes com experiências prévias;<br></li><li>parceiros da comunidade.<br></li></ul>\"},{\"titulo\":\"<b>Ambientes de aprendizagem</b>\",\"texto\":\"<ul><li>sala de aula;<br></li><li>laboratório;<br></li><li>biblioteca;<br></li><li>pátio;<br></li><li>outros espaços da escola ou do entorno que possam ser utilizados com segurança.<br></li></ul>\"}]"
-    }
-   },
-   {
-    "tipo": "video",
-    "texto": "Assista ao vídeo e acompanhe como uma professora reorganiza sua prática, aproveitando o que a escola oferece sem perder de vista o objetivo de aprendizagem.",
-    "titulo": "Veja a baixo:",
-    "url": ""
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "mapa_radial",
-    "infograficoData": {
-     "mapa": "{\"centro\":\"Checklist da Adaptação\",\"cards\":[{\"frente\":\"<b>Objetivo de aprendizagem</b><br>\",\"verso\":\"A adaptação mantém o que os(as) estudantes precisam aprender, praticar ou demonstrar?\",\"corFundo\":\"#79d3f2\"},{\"frente\":\"<b>Ação dos(as) estudantes</b><br><br>\",\"verso\":\"Eles(as) continuam investigando, analisando, produzindo, decidindo, justificando ou revisando algo relacionado ao objetivo?\",\"corFundo\":\"#06d7a0\"},{\"frente\":\"<b>Sentido para a turma</b><br><br>\",\"verso\":\"A prática faz sentido para a realidade e as características dos(as) estudantes?<br><br>\",\"corFundo\":\"#fec43e\"},{\"frente\":\"<b>Autonomia</b>\",\"verso\":\"A atividade considera o nível de autonomia da turma e oferece o apoio necessário para sua realização?<br><br>\",\"corFundo\":\"#f04770\"},{\"frente\":\"<b>Ambiente de aprendizagem</b>\",\"verso\":\"O espaço escolhido favorece a organização da turma, a mediação docente e a realização da prática?\",\"corFundo\":\"#0a3442\"},{\"frente\":\"<b>Recursos</b>\",\"verso\":\"Os materiais previstos estão disponíveis? Podem ser compartilhados ou substituídos sem comprometer o objetivo?<br><br>\",\"corFundo\":\"#beeffc\"},{\"frente\":\"<b>Segurança e viabilidade&nbsp;</b>\",\"verso\":\"A proposta pode ser realizada com segurança e dentro das condições e do tempo disponíveis?<br><br>\",\"corFundo\":\"#f0fdf4\"},{\"frente\":\"<b>Evidências de aprendizagem</b><br><br>\",\"verso\":\"A adaptação permite observar o que os(as) estudantes aprenderam por meio de falas, registros, decisões, procedimentos, produções ou justificativas?<br><br>\",\"corFundo\":\"#fdf0f3\"}]}"
-    }
-   },
-   {
-    "tipo": "tomenota",
-    "texto": "Adaptar recursos e ambientes não significa simplificar a aprendizagem. A adaptação deve preservar o objetivo da aula, a ação dos(as) estudantes e as condições necessárias para uma prática segura, viável e capaz de evidenciar a aprendizagem.<br><br>"
-   },
-   {
-    "tipo": "dica",
-    "texto": "<b><font color=\"#f04770\">Faça um teste rápido:</font></b> escolha o recurso ou ambiente previsto e liste uma alternativa disponível na escola. Depois, compare: as duas opções permitem que os(as) estudantes realizem as mesmas ações previstas no objetivo?<br><br>"
+    "tipo": "caixadestaque",
+    "texto": "<b style=\"\">A intervenção não deve substituir o pensamento do(a) estudante. Ela deve criar condições para que ele(a) analise, tome decisões, justifique escolhas e revise suas produções com mais autonomia.</b><br>",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#0a3442",
+    "caixaCorBorda": "#79d3f2"
    }
-  ],
-  "conclusao": {
-   "titulo": "Conclusão ",
-   "texto": "Nem sempre será possível realizar uma prática exatamente como planejada, e isso não significa abrir mão da aprendizagem.<br>Ao reconhecer as possibilidades do contexto e fazer escolhas coerentes, você pode reorganizar recursos e ambientes mantendo aquilo que é essencial para os(as) estudantes.<br><br>",
-   "blocos": []
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=25381"
+  ]
  }
 }
