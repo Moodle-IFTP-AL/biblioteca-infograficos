@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Ponto de Partida",
- "quando": "2026-10-01T17:53:35.736Z",
+ "quando": "2026-10-01T17:54:00.769Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -9,13 +9,13 @@
    "texto6": "Reconhecer a importância de observar a turma e tomar decisões pedagógicas durante a aula para preservar o objetivo de aprendizagem.<br>",
    "texto7": "<b>Quando a Aula Muda de Rota</b>",
    "texto9": "Esta é a última aula do módulo. Ao longo do percurso, você planejou objetivos, pensou em metodologias, em estratégias, em recursos e em formas de acompanhar a aprendizagem.<br>Mas o que acontece quando a aula começa e algo não sai como planejado?<br><b>É nesse momento que suas decisões fazem diferença.</b><br>Assista ao vídeo e pense em como você costuma agir quando precisa mudar a rota durante a aula.<br><br>",
-   "texto11": ""
+   "texto11": "Agora, você vai entender como transformar sinais da turma em evidências para orientar decisões e ajustes durante a aula.<br><br>"
   },
   "pergunta": {
    "tipo": "video",
-   "titulo": "https://www.youtube.com/watch?v=k87JbrNfhgs",
+   "titulo": "Veja abaixo:",
    "texto": "",
-   "videoUrl": "",
+   "videoUrl": "https://www.youtube.com/watch?v=k87JbrNfhgs",
    "iframeH5P": ""
   }
  }
