@@ -1,20 +1,20 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Reconhecendo o Caminho",
- "quando": "2026-10-01T18:18:27.200Z",
+ "quando": "2026-10-01T18:20:28.280Z",
  "autor": "Teste",
  "dados": {
   "campos": {
    "texto1": "<b>Competência:&nbsp;</b><br><b>5 -</b> Planejar percursos formativos integrados e interdisciplinares, articulando saberes gerais e técnicos, competências da BNCC e demandas do mundo do trabalho: desenvolver a capacidade de organizar percursos formativos que articulem teoria e prática, competências gerais e técnicas, conteúdos de diferentes áreas e demandas reais do mundo do trabalho. Envolve integrar saberes gerais e profissionais, planejar sequências e unidades didáticas contextualizadas, construir projetos e atividades interdisciplinarmente articuladas e elaborar planos de aula coerentes com os itinerários formativos e as necessidades dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>5.2 - </b>Planejar projetos, unidades e sequências didáticas interdisciplinares, relacionando saberes gerais e técnicos para solucionar problemas reais e contextualizados.<br><br><b>5.3 </b>- Colaborar com outros(as) professores(as) na construção de percursos, sequências e projetos articulados, garantindo coerência pedagógica e progressão da aprendizagem.<br><b>Objetos do Conhecimento:</b><br>Planejamento coletivo e articulação entre componentes e experiências curriculares.<br><b>Conteúdos:</b><br><ul><li>Análise do planejamento e das evidências de aprendizagem do bimestre anterior;<br></li><li>Identificação de avanços, de dificuldades e de necessidades de aprendizagem;<br></li><li>Ajustes pedagógicos e replanejamento;<br></li><li>Articulação entre componentes e experiências curriculares;<br></li><li>Planejamento coletivo do próximo bimestre.<br></li></ul><b>Objetivo:</b> Planejar coletivamente o próximo bimestre, considerando evidências de aprendizagem, necessidades dos(as) estudantes e a articulação entre componentes e experiências curriculares.<br><br>",
    "texto2": "Analisar o planejamento do bimestre anterior e reorganizar percursos integrados, considerando evidências de aprendizagem, integração curricular e ajustes pedagógicos necessários.<br><br>",
    "texto3": "<b>Avaliação da Prática e Replanejamento&nbsp;</b><br>",
-   "texto5": "Antes de planejar o próximo bimestre, retome o que aconteceu na prática: <b>o que os(as) estudantes aprenderam, quais dificuldades permaneceram e o que precisa ser ajustado.</b><br><h3><b>Observe:</b></h3><ul><li>Quais aprendizagens foram consolidadas?<br></li><li>Quais dificuldades foram identificadas?<br></li><li>Quais estratégias produziram melhores resultados?<br></li><li>Como os diferentes componentes e experiências curriculares contribuíram para as aprendizagens?<br></li><li>O que precisa ser <b>mantido, ajustado, retomado ou aprofundado</b>?<br><br>[CAIXADESTAQUE1]<br><br><b>Pontos de Reflexão</b><br>Leve estas perguntas para o HTPC:<br><ul><li>O que os(as) estudantes aprenderam e quais evidências sustentam essa conclusão?<br></li><li>Quais necessidades precisam ser consideradas no próximo bimestre?<br></li><li>Que problemas ou situações do território podem favorecer aprendizagens relevantes?<br></li><li>Quais componentes e experiências curriculares podem contribuir para esse percurso?<br></li><li>Como vamos acompanhar as aprendizagens ao longo do próximo bimestre?<br></li></ul><b>Planejamento do Próximo Bimestre</b><br>No HTPC, utilize o <b>modelo de planejamento da SEDUC</b> e organize o trabalho coletivo em seis etapas:<br><br></li></ul>",
+   "texto5": "",
    "texto7": ""
   },
   "blocos": [
    {
     "tipo": "caixadestaque",
-    "texto": "<b>A integração não se concretiza apenas no planejamento. Ela aparece nas situações de aprendizagem e nas relações entre os diferentes componentes e experiências curriculares.</b><br><br>",
+    "texto": "",
     "caixaImgUrl": "",
     "caixaImgSize": 40,
     "caixaCorFundo": "#0a3442",
