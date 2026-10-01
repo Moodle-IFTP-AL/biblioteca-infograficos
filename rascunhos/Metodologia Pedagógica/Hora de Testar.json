@@ -1,0 +1,20 @@
+{
+ "versao": 1,
+ "espaco": "Metodologia Pedagógica/Hora de Testar",
+ "quando": "2026-10-01T18:03:44.397Z",
+ "autor": "Teste",
+ "dados": {
+  "campos": {
+   "texto1": "Analisar situações reais de condução da aula e tomar decisões pedagógicas fundamentadas, considerando evidências observadas, objetivo de aprendizagem, mediação, tempo, participação e viabilidade.",
+   "texto2": "<b>Decisões em Tempo Real</b><br><br>",
+   "texto4": "Nesta atividade, você vai analisar uma situação de condução de aula e decidir como agir a partir das evidências observadas, mantendo o objetivo de aprendizagem como referência.<br><br><b>Imagine a seguinte situação:</b><br><br>Você planejou uma aula para que os(as) estudantes <b>analisem uma situação técnica, identifiquem um problema, discutam possibilidades de solução e justifiquem a decisão do grupo</b>.<br>Durante a atividade, você circula pela sala e observa:<br><ul><li><b>Grupo 1:</b> os(as) estudantes começaram a tarefa, mas ainda não compreenderam o que precisam analisar.<br></li><li><b>Grupo 2:</b> os(as) estudantes concluíram rapidamente, mas a resposta apresenta uma solução sem explicar os critérios utilizados.<br></li><li><b>Grupo 3:</b> os(as) estudantes discutem entre si, mas não registram as decisões nem conseguem indicar quais informações sustentam suas escolhas.<br></li></ul>Você ainda tem <b>20 minutos de aula</b>.<br><br>",
+   "texto5": "<b>Síntese da tomada de decisão:</b><br>A melhor decisão depende do que as evidências mostram. Depois de intervir, observe novamente se os(as) estudantes avançaram. Se necessário, ajuste o percurso outra vez.<br><br>Agora que você analisou uma situação de condução da aula e tomou uma decisão pedagógica, é hora de olhar para a sua própria prática. Na próxima etapa, você vai identificar uma decisão que pode testar ou aprimorar nas próximas aulas, considerando as necessidades dos(as) estudantes.<br><br>"
+  },
+  "atividades": [
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=30776\" width=\"932\" height=\"503\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M2-U08-APLI-MULTI\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   }
+  ],
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=25388"
+ }
+}
