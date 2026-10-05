@@ -1,24 +1,25 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-10-05T12:32:31.948Z",
+ "quando": "2026-10-05T16:16:40.898Z",
  "autor": "Teste",
  "dados": {
+  "campos": {
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>Objetos do Conhecimento:</b><br>Planejamento de oficinas técnicas.<br><b>Conteúdos:</b><br><ul><li>Estruturação de oficinas com múltiplas etapas;<br></li><li>Encadeamento entre procedimentos técnicos;<br></li><li>Organização de tempos e recursos.<br></li></ul><b>Objetivo da Aula:</b><br>Planejar oficinas técnicas articulando múltiplas etapas, recursos e objetivos de aprendizagem.<br><br>",
+   "objetivo": "Reconhecer os elementos que caracterizam uma oficina técnica e como eles orientam seu planejamento e aplicação no contexto produtivo.<br>",
+   "titulo": "<b>Oficinas: O Trabalho como Ponto de Partida</b><br>",
+   "conteudo": "Nos módulos anteriores, exploramos diversas estratégias de engajamento, focando em projetos e situações-problema que aproximam a teoria da realidade do mundo do trabalho.<br><br>Neste módulo, vamos conversar sobre as oficinas técnicas, uma estratégia pedagógica que integra teoria e prática por meio do \"aprender fazendo\".<br><br>Nesse espaço, o(a) estudante de Administração deixa de ser espectador(a) para atuar como gestor(a) de processos, construindo conhecimento de forma colaborativa.<br><br>Para isso, é necessário simular situações reais — como a gestão de um fluxo de caixa ou a organização de estoques em uma pequena empresa —, articulando conhecimentos técnicos com habilidades comportamentais (<i>soft skills</i>).<br><div><br></div><div>[CAIXADESTAQUE1]<br><br>Além de desenvolver competências técnicas, a oficina prepara o(a) estudante para as dinâmicas reais do mercado de trabalho, ao estimular:<br><ul><li>autonomia;<br></li><li>pensamento crítico;<br></li><li>resolução de problemas;<br></li><li>tomada de decisões fundamentadas.<br></li></ul></div><div><br></div><div><br></div>",
+   "conectando": ""
+  },
   "blocos": [
    {
-    "tipo": "saibamais",
-    "texto": "",
-    "titulo": "",
-    "linkBotao": "",
-    "textoBotao": ""
-   },
-   {
-    "tipo": "revisar",
-    "texto": "asdasdasd",
-    "idRevisar": "muv8c8wgtivi6g",
-    "itensRevisar": [],
-    "linkBotao": "",
-    "textoBotao": ""
+    "tipo": "caixadestaque",
+    "texto": "Nessa perspectiva, a oficina técnica organiza a aprendizagem em um percurso estruturado, com objetivos definidos, etapas planejadas, mediação e acompanhamento contínuo da aprendizagem.&nbsp;",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#fec43e",
+    "caixaCorBorda": "#f04770",
+    "caixaCorTexto": "#0a3442"
    }
   ]
  }
