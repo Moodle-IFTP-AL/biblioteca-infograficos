@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-10-05T16:20:41.358Z",
+ "quando": "2026-10-05T16:22:41.142Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -59,7 +59,7 @@
     "tipo": "video",
     "texto": "Quer saber mais sobre como transformar uma situação do mundo do trabalho em uma oficina técnica? Assista ao videocast e veja esse planejamento passo a passo.<br>",
     "titulo": "Videocast ",
-    "url": ""
+    "url": "https://youtu.be/reuxmTfIjfg"
    }
   ]
  }
