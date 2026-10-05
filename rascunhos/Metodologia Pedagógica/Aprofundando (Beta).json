@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-10-05T16:28:41.489Z",
+ "quando": "2026-10-05T16:32:40.789Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -80,6 +80,7 @@
      "texto": "<b>Use o Inventário de Recursos da Escola: </b>antes de planejar a oficina, faça um inventário dos recursos disponíveis na escola. Assim, você já terá uma visão dos materiais que poderá utilizar.<br><br>Estudos de caso, formulários, planilhas impressas e simulações de processos podem proporcionar experiências práticas sem exigir infraestrutura complexa.<br><br>"
     }
    ]
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27249"
  }
 }
