@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-10-05T16:37:55.185Z",
+ "quando": "2026-10-05T16:39:56.435Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -23,7 +23,7 @@
   ],
   "conclusao": {
    "titulo": "",
-   "texto": "Chegamos ao fim deste percurso sobre o planejamento de oficinas técnicas.<br><br>Você viu que o sucesso de uma oficina depende da articulação cuidadosa entre objetivos, etapas bem definidas e uma avaliação que valorize o percurso do(a) estudante.<br><br>Ao aplicar esses conceitos, você não apenas ensina conteúdos de Administração, mas prepara seus(suas) estudantes para os desafios reais do mercado de trabalho alagoano.<br><br>Siga confiante em sua prática docente, sempre mediando e transformando!<br><br>",
+   "texto": "Chegamos ao fim deste percurso sobre o planejamento de oficinas técnicas.<br><br>Você viu que o sucesso de uma oficina depende da articulação cuidadosa entre objetivos, etapas bem definidas e uma avaliação que valorize o percurso do(a) estudante.<br><br>Ao aplicar esses conceitos, você não apenas ensina conteúdos de Administração, mas prepara seus(suas) estudantes para os desafios reais do mercado de trabalho alagoano.<br><br>Siga confiante em sua prática docente, sempre mediando e transformando!<br><br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -32,19 +32,20 @@
      "itensRevisar": [
       {
        "id": "muvh3tta3w54eh",
-       "texto": "• Módulo 2, Unidade 7: Organização de Sequência Prática Técnica Progressiva.<br><br>",
-       "link": ""
+       "texto": "• Módulo 2, Unidade 6: Planejamento de Práticas Técnicas;<br><br>",
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=25212"
       },
       {
        "id": "muvh403c67bk0z",
-       "texto": "",
-       "link": ""
+       "texto": "• Módulo 2, Unidade 7: Organização de Sequência Prática Técnica Progressiva.<br><br>",
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24814"
       }
      ],
-     "linkBotao": "• Módulo 2, Unidade 6: Planejamento de Práticas Técnicas;",
+     "linkBotao": "",
      "textoBotao": ""
     }
    ]
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27251"
  }
 }
