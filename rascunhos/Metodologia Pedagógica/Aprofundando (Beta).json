@@ -1,0 +1,25 @@
+{
+ "versao": 1,
+ "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
+ "quando": "2026-10-05T12:32:31.948Z",
+ "autor": "Teste",
+ "dados": {
+  "blocos": [
+   {
+    "tipo": "saibamais",
+    "texto": "",
+    "titulo": "",
+    "linkBotao": "",
+    "textoBotao": ""
+   },
+   {
+    "tipo": "revisar",
+    "texto": "asdasdasd",
+    "idRevisar": "muv8c8wgtivi6g",
+    "itensRevisar": [],
+    "linkBotao": "",
+    "textoBotao": ""
+   }
+  ]
+ }
+}
