@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-10-05T20:51:34.097Z",
+ "quando": "2026-10-05T20:52:36.985Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -9,7 +9,7 @@
    "objetivo": "Reconhecer diferentes evidências produzidas durante práticas técnicas colaborativas e compreender sua importância para acompanhar a aprendizagem.<br><br>",
    "titulo": "O que Observar na Prática<br><br>",
    "conteudo": "Você planejou a aula, organizou a atividade e os(as) estudantes começaram a trabalhar em grupos.<br><br>Você planejou a aula, organizou a atividade e os(as) estudantes começaram a trabalhar em grupos.<br><br>Nesse momento, surge um novo desafio:<br><b>Como acompanhar a aprendizagem enquanto ela acontece?&nbsp;</b><br><br>Em práticas técnicas colaborativas, diferentes grupos avançam em ritmos distintos, discutem ideias, tomam decisões, fazem testes, corrigem estratégias e produzem soluções.<br><br>Ao circular pela sala, você precisa observar o que os(as) estudantes fazem, dizem e produzem, pois essas manifestações constituem evidências de aprendizagem que revelam como os conhecimentos, as habilidades e as competências estão sendo desenvolvidos.<br><br>Nem sempre isso é simples. Em uma mesma aula, pode ser necessário:<br><ul><li>acompanhar vários grupos ao mesmo tempo;<br></li><li>perceber dúvidas que nem sempre são verbalizadas;<br></li><li>identificar formas diferentes de participação;<br></li><li>reconhecer evidências que revelam o percurso de aprendizagem dos(as) estudantes.<br></li></ul><br>Desenvolver esse olhar atento é o primeiro passo para acompanhar a aprendizagem de forma intencional e de tomar decisões pedagógicas mais conscientes ao longo da prática.<br><br><font color=\"#f04770\"><b>Durante uma prática em grupos, qual é seu maior desafio para perceber como os(as) estudantes estão aprendendo?<br></b></font><br><br><h3><b>Acompanhamento da Aprendizagem Durante a Prática</b></h3><div><br></div><div><br></div>Em práticas técnicas colaborativas, acompanhar a aprendizagem significa observar o percurso dos(as) estudantes enquanto eles(as) participam das atividades.<br><br>Além de verificar o resultado final, você acompanha como os grupos:<br><ul><li>organizam o trabalho;<br></li><li>discutem possibilidades;<br></li><li>tomam decisões;<br></li><li>constroem soluções.<br></li></ul><br>Esse olhar intencional permite compreender como a aprendizagem acontece ao longo da prática e oferece informações importantes para orientar a mediação docente, para realizar intervenções durante a atividade e para replanejar as ações de ensino quando necessário.<br><br><h3><b>Evidências em Ações, Falas, Registros e Produções dos(as) Estudantes&nbsp;</b></h3><p><b></b></p><div>A aprendizagem não se revela de uma única maneira.<br><br>Durante uma prática técnica colaborativa, diferentes evidências surgem ao longo da atividade e te ajudam a compreender como os(as) estudantes estão construindo seus conhecimentos.<br><br>Essas evidências podem ser observadas de diferentes formas ao longo da prática:<br><br></div>[INFOGRAFICO1]<br><br>Nenhuma dessas evidências, isoladamente, mostram toda a aprendizagem. Quando observadas em conjunto, elas oferecem uma visão mais ampla do processo vivido pelos(as) estudantes e apoiam o acompanhamento da aprendizagem durante toda a prática.<br><br>[INFOGRAFICO2]<br><br><br><br>",
-   "conectando": ""
+   "conectando": "Agora é hora de aplicar esse olhar na prática. Na próxima etapa, você analisará situações de práticas técnicas colaborativas para identificar evidências de aprendizagem e compreender o que elas revelam sobre o processo dos(as) estudantes.<br><br>"
   },
   "blocos": [
    {
@@ -37,9 +37,15 @@
    }
   ],
   "conclusao": {
-   "titulo": "",
+   "titulo": "Conclusão",
    "texto": "Acompanhar a aprendizagem em práticas técnicas colaborativas exige olhar para além do resultado final.<br><br>Durante a atividade, ações, falas, registros e produções revelam diferentes aspectos do percurso dos(as) estudantes.<br><br>Quando observadas de forma articulada, essas evidências ampliam sua percepção sobre como os(as) estudantes mobilizam conhecimentos, tomam decisões e constroem aprendizagens.<br><br>Esse olhar mais atento e intencional fortalece o acompanhamento pedagógico e prepara você para analisar essas evidências e utilizá-las no monitoramento da aprendizagem.<br><br>",
-   "blocos": []
-  }
+   "blocos": [
+    {
+     "tipo": "dica",
+     "texto": "Na próxima atividade em grupo, escolha um momento para observar atentamente um dos grupos antes de realizar sua intervenção pedagógica. Procure identificar ações, falas, registros e produções. Esse exercício ajuda a ampliar seu olhar sobre as evidências de aprendizagem durante a prática."
+    }
+   ]
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27243"
  }
 }
