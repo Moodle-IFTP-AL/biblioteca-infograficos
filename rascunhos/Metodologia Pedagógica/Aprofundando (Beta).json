@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-10-05T20:49:34.256Z",
+ "quando": "2026-10-05T20:50:11.217Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -32,7 +32,7 @@
    {
     "tipo": "video",
     "texto": "Agora, acompanhe uma prática em andamento e identifique quando surgem as evidências de aprendizagem dos(as) estudantes.<br><br>",
-    "titulo": "",
+    "titulo": "Dê o play",
     "url": ""
    }
   ]
