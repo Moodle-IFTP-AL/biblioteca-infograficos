@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-10-05T20:50:11.217Z",
+ "quando": "2026-10-05T20:51:34.097Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -32,9 +32,14 @@
    {
     "tipo": "video",
     "texto": "Agora, acompanhe uma prática em andamento e identifique quando surgem as evidências de aprendizagem dos(as) estudantes.<br><br>",
-    "titulo": "Dê o play",
-    "url": ""
+    "titulo": "Assista ao vídeo abaixo:",
+    "url": "https://youtu.be/CmpwaZBQ9CI"
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "",
+   "texto": "Acompanhar a aprendizagem em práticas técnicas colaborativas exige olhar para além do resultado final.<br><br>Durante a atividade, ações, falas, registros e produções revelam diferentes aspectos do percurso dos(as) estudantes.<br><br>Quando observadas de forma articulada, essas evidências ampliam sua percepção sobre como os(as) estudantes mobilizam conhecimentos, tomam decisões e constroem aprendizagens.<br><br>Esse olhar mais atento e intencional fortalece o acompanhamento pedagógico e prepara você para analisar essas evidências e utilizá-las no monitoramento da aprendizagem.<br><br>",
+   "blocos": []
+  }
  }
 }
