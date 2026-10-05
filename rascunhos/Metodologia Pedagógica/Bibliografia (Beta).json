@@ -1,13 +1,20 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Bibliografia (Beta)",
- "quando": "2026-10-05T16:42:37.831Z",
+ "quando": "2026-10-05T21:05:30.118Z",
  "autor": "Teste",
  "dados": {
   "referencias": [
-   "BRASIL. Ministério da Educação. Base Nacional Comum Curricular. Brasília, 2018.\n",
-   "ALAGOAS. Secretaria de Estado da Educação. Documento Curricular para o Ensino Técnico Profissionalizante. Maceió, 2026.\n"
-  ],
-  "linkVoltar": "https://ead.educacao.al.gov.br/course/view.php?id=280#section-52"
+   "",
+   "BACICH, L; MORAN. J. Metodologias ativas para uma educação inovadora: uma abordagem teórico-prática. 1ª ed. Editora: Penso. São Paulo-SP, 2017.\n",
+   "FERRAZ, Ana Paula do Carmo Marcheti; BELHOT, Renato Vairo. Taxonomia de Bloom: revisão teórica e apresentação das adequações do instrumento para definição de objetivos instrucionais. Gestão & Produção, v. 17, n. 2, pp. 421–431. São Carlos, 2010.\n",
+   "FILATRO, A; CAVALVANTI. C.C. Design Thinking: na educação presencial, à distância e corporativa. 1ª ed. Editora: Saraiva, São Paulo - SP, 2017.\n",
+   "FILATRO, A; CAVALVANTI. C.C. Metodologias inov-ativas: na educação presencial, a distância e corporativa. 1ª ed. Editora Saraiva Educação. São Paulo - SP, 2018.\n",
+   "GRILLO, MARLENE CORRERO, et al. Por que falar ainda em avaliação? EDIPUCRS. Porto Alegre, 2010.\n",
+   "LEMOV, D. Aula nota 10: 49 técnicas para ser um professor campeão de audiência.  Tradução de Leda Beck; consultoria e revisão técnica Guiomar Namo de Mello e Paula Louzano. São Paulo - Da Boa Prosa: Fundação Lemann, 2011.\n",
+   "MIRANDA, E. P. Aprendizado sem limites: organize sua rotina e seus métodos de estudos, controle a sua ansiedade e descubra do que seu cérebro é capaz. Editora: Gente. São Paulo - SP, 2023.\n",
+   "RUDMIK, R. T. Tornando-se imaginal - visualizando e criando o futuro da educação. Tradução Paulo Sérgio Bonagura - SENAI_SP Editora. São Paulo - SP, 2015.",
+   "ZABALA, A. Métodos para Ensinar Competências. 1ª ed. Editora: Penso. São Paulo-SP, 2020.\n"
+  ]
  }
 }
