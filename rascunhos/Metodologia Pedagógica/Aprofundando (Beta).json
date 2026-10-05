@@ -1,7 +1,15 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-10-05T20:43:38.464Z",
+ "quando": "2026-10-05T20:45:34.915Z",
  "autor": "Teste",
- "dados": {}
+ "dados": {
+  "campos": {
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>2 -</b> Avaliar a aprendizagem por competências, a partir de evidências das práticas pedagógicas e técnicas desenvolvidas pelos(as) estudantes, considerando a mobilização de conhecimentos gerais no contexto da Educação Profissional e Tecnológica, para orientar o planejamento e o replanejamento das aulas e o desenvolvimento dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>2.2 </b>- Analisar evidências de aprendizagem (registros práticos, produções, observações, devolutivas) para identificar avanços, dificuldades e necessidades de intervenção.<br><b>Objetos do Conhecimento:</b><br>Acompanhamento da aprendizagem em práticas técnicas colaborativas.<br><b>Conteúdos:</b><br><ul><li>Acompanhamento da aprendizagem durante a prática;<br></li><li>Evidências em ações, falas, registros e produções dos(as) estudantes;<br></li><li>Papel do(a) professor(a) como observador(a) e mediador(a).<br></li></ul><b>Objetivo: </b>Identificar práticas técnicas colaborativas como espaços de acompanhamento da aprendizagem, reconhecendo evidências produzidas pelos(as) estudantes durante o processo.<br><br>",
+   "objetivo": "Reconhecer diferentes evidências produzidas durante práticas técnicas colaborativas e compreender sua importância para acompanhar a aprendizagem.<br><br>",
+   "titulo": "O que Observar na Prática<br><br>",
+   "conteudo": "Você planejou a aula, organizou a atividade e os(as) estudantes começaram a trabalhar em grupos.<br><br>Você planejou a aula, organizou a atividade e os(as) estudantes começaram a trabalhar em grupos.<br><br>Nesse momento, surge um novo desafio:<br><b>Como acompanhar a aprendizagem enquanto ela acontece?&nbsp;</b><br><br>Em práticas técnicas colaborativas, diferentes grupos avançam em ritmos distintos, discutem ideias, tomam decisões, fazem testes, corrigem estratégias e produzem soluções.<br><br>Ao circular pela sala, você precisa observar o que os(as) estudantes fazem, dizem e produzem, pois essas manifestações constituem evidências de aprendizagem que revelam como os conhecimentos, as habilidades e as competências estão sendo desenvolvidos.<br><br>Nem sempre isso é simples. Em uma mesma aula, pode ser necessário:<br><ul><li>acompanhar vários grupos ao mesmo tempo;<br></li><li>perceber dúvidas que nem sempre são verbalizadas;<br></li><li>identificar formas diferentes de participação;<br></li><li>reconhecer evidências que revelam o percurso de aprendizagem dos(as) estudantes.<br></li></ul><br>Desenvolver esse olhar atento é o primeiro passo para acompanhar a aprendizagem de forma intencional e de tomar decisões pedagógicas mais conscientes ao longo da prática.<br><br><font color=\"#f04770\"><b>Durante uma prática em grupos, qual é seu maior desafio para perceber como os(as) estudantes estão aprendendo?<br></b></font><br><br><h3><b>Acompanhamento da Aprendizagem Durante a Prática</b></h3><div><br></div><div><br></div><br><br>",
+   "conectando": ""
+  }
+ }
 }
