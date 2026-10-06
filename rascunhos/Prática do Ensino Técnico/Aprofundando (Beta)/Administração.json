@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-10-06T12:30:35.273Z",
+ "quando": "2026-10-06T12:33:20.255Z",
  "autor": "Teste",
  "dados": {
   "conclusao": {
@@ -10,9 +10,20 @@
    "blocos": [
     {
      "tipo": "revisar",
-     "texto": "",
+     "texto": "Planeje atividades práticas com segurança e veja como estruturar técnicas e sequências progressivas de aprendizagem revisitando as aulas abaixo:<br>",
      "idRevisar": "muwnov5ahbps57",
-     "itensRevisar": [],
+     "itensRevisar": [
+      {
+       "id": "muwnsqc4lsfzkr",
+       "texto": "Módulo 2, Unidade 6: Planejamento de Práticas Técnicas;<br><br>",
+       "link": ""
+      },
+      {
+       "id": "muwnsqxtclr8yd",
+       "texto": "Módulo 2, Unidade 7: Organização de Sequência Prática Técnica Progressiva.",
+       "link": ""
+      }
+     ],
      "linkBotao": "",
      "textoBotao": ""
     }
