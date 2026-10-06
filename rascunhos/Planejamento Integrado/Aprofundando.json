@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-10-06T16:58:50.823Z",
+ "quando": "2026-10-06T17:00:50.537Z",
  "autor": "Teste",
  "dados": {
   "campos": {
    "texto1": "<b>Competência:&nbsp;</b><br><b>5 -</b> Planejar percursos formativos integrados e interdisciplinares, articulando saberes gerais e técnicos, competências da BNCC e demandas do mundo do trabalho: desenvolver a capacidade de organizar percursos formativos que articulem teoria e prática, competências gerais e técnicas, conteúdos de diferentes áreas e demandas reais do mundo do trabalho. Envolve integrar saberes gerais e profissionais, planejar sequências e unidades didáticas contextualizadas, construir projetos e atividades interdisciplinarmente articuladas e elaborar planos de aula coerentes com os itinerários formativos e as necessidades dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>5.1 - </b>Organizar conteúdos e práticas que articulem teoria, prática e mundo do trabalho, integrando as competências da BNCC às competências técnicas dos eixos temáticos.<br><b>Objetos do Conhecimento:</b><br>Articulação curricular no plano de aula integrado.<br><b>Conteúdos:</b><br><ul><li>Integração entre FGB, Formação Técnica e os componentes do pALei;<br></li><li>Coerência objetivo-atividade-avaliação.<br></li></ul><b>Objetivo:</b> estruturar planos de aula que integrem a FGB, o Ensino Técnico e os componentes do pALei para resolver desafios reais do território.<br><br>",
    "texto2": "identificar possibilidades de articulação entre os componentes e experiências curriculares do pALei nos diferentes elementos do plano de aula.",
    "texto3": "Como Integrar nos Planejamentos de Aula?<br><br>",
-   "texto5": "Nos últimos módulos, vimos como a integração de diferentes conhecimentos contribui para a formação integral dos(as) estudantes.<br><br><div>[CAIXADESTAQUE1]</div><div><br></div><div>É por isso que os conhecimentos da Formação Geral Básica e da Educação Profissional, quando trabalhados de forma articulada, favorecem o desenvolvimento de competências essenciais para a formação de profissionais competentes.<br><br>Mas o que mais podemos considerar quando pensamos em Educação Integral?<br><br>Ao conectar o(a) estudante à sua comunidade e ao mundo, ampliamos essa perspectiva. Por isso, o planejamento de aula também pode ir além dos conteúdos, reconhecendo cada estudante como indivíduo e criando conexões entre o território onde vive e seu projeto de vida.<br><br>Formar para a Educação Profissional também é formar cidadãos, considerando suas dimensões cognitivas, sociais e culturais. Nesse sentido, o Ensino Técnico prepara o(a) estudante não apenas para o trabalho, mas também para intervir na realidade em que vive.<br><br>[CAIXADESTAQUE1]<br><br><font color=\"#f04770\"></font><b>Integração no Plano de Aula</b><br><br><br></div>",
+   "texto5": "Nos últimos módulos, vimos como a integração de diferentes conhecimentos contribui para a formação integral dos(as) estudantes.<br><br><div>[CAIXADESTAQUE1]</div><div><br></div><div>É por isso que os conhecimentos da Formação Geral Básica e da Educação Profissional, quando trabalhados de forma articulada, favorecem o desenvolvimento de competências essenciais para a formação de profissionais competentes.<br><br>Mas o que mais podemos considerar quando pensamos em Educação Integral?<br><br>Ao conectar o(a) estudante à sua comunidade e ao mundo, ampliamos essa perspectiva. Por isso, o planejamento de aula também pode ir além dos conteúdos, reconhecendo cada estudante como indivíduo e criando conexões entre o território onde vive e seu projeto de vida.<br><br>Formar para a Educação Profissional também é formar cidadãos, considerando suas dimensões cognitivas, sociais e culturais. Nesse sentido, o Ensino Técnico prepara o(a) estudante não apenas para o trabalho, mas também para intervir na realidade em que vive.<br><br>[CAIXADESTAQUE1]<br><br><font color=\"#f04770\"><b>Integração no Plano de Aula</b><br></font><br>Para que todas essas dimensões funcionem na prática, é preciso planejar intencionalmente cada etapa da aula. O plano de aula ajuda a construir uma experiência coerente, conectando os objetivos de aprendizagem, as evidências que serão observadas, as estratégias, os recursos pedagógicos e os conhecimentos que sustentam essa aprendizagem.<br><br>[CAIXADESTAQUE2]<br><br><br><br><br><br></div>",
    "texto7": ""
   },
   "blocos": [
@@ -26,9 +26,18 @@
     "texto": "",
     "infograficoTipo": "blocos_coloridos",
     "infograficoData": {
-     "introducao": "",
+     "introducao": "Por isso, é importante pensar em como os componentes do pALei contribuem para essa formação:",
      "blocos": "[{\"titulo\":\"<span style=\\\"color: #0a3442;\\\"><b>Projeto de Vida:</b>&nbsp;</span>\",\"texto\":\"<span style=\\\"font-size: 1rem;\\\">Ajuda o(a) estudante a refletir sobre quem é, o lugar que ocupa no mundo e em quais áreas pretende direcionar seus esforços. Em um mundo cheio de possibilidades, quais escolhas podem aproximá-lo daquilo que deseja?</span>\"},{\"titulo\":\"<b>Práticas de Integração com o Território (PIT):</b>\",\"texto\":\"Ampliam o olhar para a comunidade ao propor temas que conectam teoria e prática. Como desenvolver produtos que tenham um impacto real no território?\"},{\"titulo\":\"<b>Temas de Aprofundamento Curricular (TAC):</b>\",\"texto\":\"Permitem que o(a) estudante desenvolva o pensamento científico, a compreensão do mundo digital e suas habilidades de expressão. Quais ferramentas tecnológicas e investigativas o(a) estudante utilizará para construir e comunicar suas ideias?\"},{\"titulo\":\"<b>Estudos Orientados:</b>\",\"texto\":\"Apoiam o(a) estudante a aprender a aprender, ajudando-o a organizar seus passos, seu tempo e seus estudos em direção aos seus objetivos. Quais rotinas e métodos transformarão os sonhos do(a) estudante em caminhos concretos?\"},{\"titulo\":\"<b>Projeto Integrador (PI):</b>\",\"texto\":\"Favorece a articulação de diferentes conhecimentos em torno de questões, problemas ou desafios contextualizados, mobilizando investigação, protagonismo e produção de soluções.\"}]"
     }
+   },
+   {
+    "tipo": "caixadestaque",
+    "texto": "Quando essa articulação é pensada desde o planejamento, diferentes componentes e experiências curriculares podem contribuir de forma intencional para os objetivos de aprendizagem.",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#fdf0f3",
+    "caixaCorBorda": "#f04770",
+    "caixaCorTexto": "#0a3442"
    }
   ]
  }
