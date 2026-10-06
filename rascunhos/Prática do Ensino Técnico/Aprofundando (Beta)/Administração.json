@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-10-06T12:33:20.255Z",
+ "quando": "2026-10-06T12:33:44.201Z",
  "autor": "Teste",
  "dados": {
   "conclusao": {
@@ -21,7 +21,7 @@
       {
        "id": "muwnsqxtclr8yd",
        "texto": "Módulo 2, Unidade 7: Organização de Sequência Prática Técnica Progressiva.",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24809"
       }
      ],
      "linkBotao": "",
