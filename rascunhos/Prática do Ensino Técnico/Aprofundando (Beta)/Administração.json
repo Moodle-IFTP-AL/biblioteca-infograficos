@@ -1,0 +1,22 @@
+{
+ "versao": 1,
+ "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
+ "quando": "2026-10-06T12:30:35.273Z",
+ "autor": "Teste",
+ "dados": {
+  "conclusao": {
+   "titulo": "",
+   "texto": "",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "",
+     "idRevisar": "muwnov5ahbps57",
+     "itensRevisar": [],
+     "linkBotao": "",
+     "textoBotao": ""
+    }
+   ]
+  }
+ }
+}
