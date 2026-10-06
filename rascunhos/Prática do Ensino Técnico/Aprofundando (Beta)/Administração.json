@@ -1,12 +1,12 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-10-06T12:33:44.201Z",
+ "quando": "2026-10-06T12:34:07.495Z",
  "autor": "Teste",
  "dados": {
   "conclusao": {
    "titulo": "",
-   "texto": "",
+   "texto": "[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -16,7 +16,7 @@
       {
        "id": "muwnsqc4lsfzkr",
        "texto": "Módulo 2, Unidade 6: Planejamento de Práticas Técnicas;<br><br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24803"
       },
       {
        "id": "muwnsqxtclr8yd",
