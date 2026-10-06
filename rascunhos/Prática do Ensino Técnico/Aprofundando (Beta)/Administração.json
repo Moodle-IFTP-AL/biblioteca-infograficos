@@ -1,7 +1,26 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-10-06T16:52:52.005Z",
+ "quando": "2026-10-06T20:59:41.092Z",
  "autor": "Teste",
- "dados": {}
+ "dados": {
+  "blocos": [
+   {
+    "tipo": "inspirar",
+    "texto": "",
+    "titulo": "",
+    "linkBotao": "",
+    "textoBotao": "",
+    "novo": false,
+    "minimizado": true
+   }
+  ],
+  "campos": {
+   "infoAula": "",
+   "objetivo": "",
+   "titulo": "",
+   "conteudo": "<span style=\"font-family: &quot;Open Sans&quot;, sans-serif;\"></span>[INSPIRAR1]<span style=\"font-family: &quot;Open Sans&quot;, sans-serif;\"></span><div><br></div><div>ara subtítulos e <b>● listas</b> para itens. O gerador converte em HTML formatado.<br>A <b>pergunta problematizadora</b> agora é um bloco: use <b>+</b><br></div>",
+   "conectando": ""
+  }
+ }
 }
