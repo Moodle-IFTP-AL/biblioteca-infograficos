@@ -1,29 +1,23 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-10-05T20:58:36.803Z",
+ "quando": "2026-10-08T17:40:08.455Z",
  "autor": "Teste",
  "dados": {
   "campos": {
-   "objetivo": "Identificar evidências de aprendizagem em situações práticas de atividades técnicas colaborativas.<br><br>",
-   "titulo": "Observe e Identifique",
-   "conteudo": "Ao longo desta atividade, você analisará quatro situações inspiradas em práticas técnicas colaborativas.<br><br>Em cada cenário, sua tarefa será:<br><ul><li>observar atentamente o contexto apresentado;<br></li><li>identificar a evidência de aprendizagem que aparece com maior destaque.<br></li></ul><br>Lembre-se de que ações, falas, registros e produções revelam aspectos diferentes do percurso dos(as) estudantes.<br><br>Nesta etapa, o objetivo não é avaliar o desempenho dos(as) estudantes nem decidir quais intervenções realizar. O foco é desenvolver um olhar atento para reconhecer as evidências de aprendizagem presentes durante a atividade.<br><br>",
-   "reflexao": "Ao longo desta aula, você identificou que a aprendizagem pode ser acompanhada muito antes da entrega de um produto final.<br><br>Ao observar as ações, as falas, os registros e as produções dos(as) estudantes, você:<br><ul><li>amplia sua compreensão sobre o percurso de aprendizagem;<br></li><li>fortalece sua mediação pedagógica;<br></li><li>reúne informações que apoiam o acompanhamento do desenvolvimento dos(as) estudantes.<br></li></ul><br>Agora, reflita sobre uma atividade técnica colaborativa que você já realiza ou pretende desenvolver com sua turma. Pense em como esse novo olhar pode contribuir para acompanhar a aprendizagem de forma mais intencional e registrar uma ação concreta para sua prática.<br><br><b>Complete a frase abaixo com suas próprias palavras:</b><br><br>Na próxima atividade técnica colaborativa que eu desenvolver com meus(minhas) estudantes, vou acompanhar a aprendizagem observando ____________________________________________.<br>"
+   "objetivo": "Selecionar estratégias de organização da colaboração que favoreçam a participação ativa e a corresponsabilidade dos(as) estudantes.<br><br>",
+   "titulo": "Organizando a Colaboração<br><br>",
+   "conteudo": "Nesta atividade, você analisará uma situação prática inspirada e refletirá sobre como o planejamento da colaboração pode influenciar a participação dos(as) estudantes.<br><br>Em seguida, selecione as decisões que poderiam ter sido tomadas antes da atividade para favorecer a <b>corresponsabilidade, a participação ativa e a colaboração</b> entre os(as) integrantes do grupo.<br><br><div><br></div>",
+   "reflexao": ""
   },
-  "atividades": [
+  "blocos": [
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=30835\" width=\"1082\" height=\"487\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M3-U01-APLI-MULT1\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   },
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=30836\" width=\"1082\" height=\"487\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M3-U01-APLI-MULT2\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   },
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=30837\" width=\"1082\" height=\"487\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M3-U01-APLI-MULT3\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   },
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=30838\" width=\"1082\" height=\"467\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M3-U01-APLI-MULT4\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "tipo": "h5p",
+    "texto": "",
+    "titulo": "Atividade",
+    "incorporacao": "",
+    "novo": false
    }
-  ],
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27244"
+  ]
  }
 }
