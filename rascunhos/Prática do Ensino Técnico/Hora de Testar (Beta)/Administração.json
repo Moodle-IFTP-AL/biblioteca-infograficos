@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-10-08T18:38:43.704Z",
+ "quando": "2026-10-08T18:40:20.634Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -16,7 +16,7 @@
    }
   ],
   "tipoReflexao": "h5p",
-  "iframeReflexao": "https://ead.educacao.al.gov.br/mod/hvp/view.php?id=31053",
+  "iframeReflexao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31053\" width=\"932\" height=\"530\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M3-U02-APLI-MULTI2\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
   "conclusao": {
    "titulo": "Conclusão",
    "texto": "Nesta aula, você viu que escolher entre uma demonstração simples e outra complexa depende da prática administrativa em questão.<br><br>Ao dividir os procedimentos mais complexos em etapas, antecipar os erros mais comuns e ampliar, aos poucos, a participação dos(as) estudantes, a demonstração deixa de ser apenas mostrar como se faz e passa a orientar a tomada de decisões.<br><br>Leve esse olhar para o seu próximo planejamento.<br><br>[REVISAR1]<div><br></div><div>[INSPIRAR1]</div>",
