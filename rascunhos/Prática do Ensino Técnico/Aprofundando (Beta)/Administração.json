@@ -1,15 +1,15 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-10-08T18:22:16.376Z",
+ "quando": "2026-10-08T18:32:55.087Z",
  "autor": "Teste",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando os procedimentos quando necessário.<br><b>Objetos do conhecimento: </b>tipos de demonstração técnica.<br><b>Conteúdos:</b><br><ul><li>demonstração para procedimentos simples e complexos;<br></li><li>antecipação de erros por meio da demonstração;<br></li><li>participação progressiva dos estudantes.<br></li></ul><b>Objetivo da aula:</b> selecionar formas de demonstração adequadas ao nível de complexidade da prática.<br><br>",
    "objetivo": "Diferenciar demonstrações simples de demonstrações complexas, considerando os riscos envolvidos e as estratégias para a antecipação de erros e a participação progressiva dos(as) estudantes.<br><br>",
    "titulo": "<b>Quando demonstrar não garante o aprendizado</b><br><br>",
-   "conteudo": "Em uma prática de gestão de estoques inspirada em uma distribuidora de Arapiraca, você demonstrou passo a passo como fazer o inventário:<br><ul><li>conferir os produtos;<br></li><li>classificá-los por tipo;<br></li><li>registrar as informações.<br></li></ul><br>Explicou cada etapa com cuidado. Ao pedir que um(a) estudante fizesse sozinho(a), ele(a) classificou os produtos perecíveis no grupo errado, o que gerou divergências no controle de estoque.<br><br>[PERGUNTA1]<br><br>O erro observado reforça a ideia de que nem todo procedimento administrativo pode ser demonstrado da mesma forma.<br><br>Práticas simples, como cadastrar um(a) cliente ou preencher uma ficha de atendimento, podem ser apresentadas de uma só vez, do início ao fim.<br><br>Já procedimentos com várias etapas e decisões, como o fechamento do fluxo de caixa ou a conferência da folha de pagamento, pedem uma demonstração dividida em partes, com pausas para explicar os pontos em que o erro costuma ocorrer.<br><br>Reconhecer essa diferença ajuda a antecipar erros e a ampliar, aos poucos, a participação dos(as) estudantes.<br><br><div>[INFOGRAFICO1]<br><br><br></div>",
-   "conectando": ""
+   "conteudo": "Em uma prática de gestão de estoques inspirada em uma distribuidora de Arapiraca, você demonstrou passo a passo como fazer o inventário:<br><ul><li>conferir os produtos;<br></li><li>classificá-los por tipo;<br></li><li>registrar as informações.<br></li></ul><br>Explicou cada etapa com cuidado. Ao pedir que um(a) estudante fizesse sozinho(a), ele(a) classificou os produtos perecíveis no grupo errado, o que gerou divergências no controle de estoque.<br><br>[PERGUNTA1]<br><br>O erro observado reforça a ideia de que nem todo procedimento administrativo pode ser demonstrado da mesma forma.<br><br>Práticas simples, como cadastrar um(a) cliente ou preencher uma ficha de atendimento, podem ser apresentadas de uma só vez, do início ao fim.<br><br>Já procedimentos com várias etapas e decisões, como o fechamento do fluxo de caixa ou a conferência da folha de pagamento, pedem uma demonstração dividida em partes, com pausas para explicar os pontos em que o erro costuma ocorrer.<br><br>Reconhecer essa diferença ajuda a antecipar erros e a ampliar, aos poucos, a participação dos(as) estudantes.<br><br><div>[INFOGRAFICO1]<br><br>[CAIXADESTAQUE1]</div><div><br></div><div>[VIDEO1]</div><div><br></div><div><h3><b><font color=\"#f04770\">Planejando a Demonstração Técnica</font></b></h3><p><b><font color=\"#f04770\"></font></b></p>Retome os principais pontos para planejar uma demonstração técnica adequada à prática. Confira, a seguir, os cuidados essenciais em cada etapa.</div><div><br></div><div>[INFOGRAFICO2]<br><br></div>",
+   "conectando": "Agora é a sua vez de decidir que tipo de demonstração cada prática requer. Siga para a Aplicação!<br><br>"
   },
   "blocos": [
    {
@@ -17,8 +17,8 @@
     "texto": "",
     "pergunta": {
      "tipo": "texto",
-     "titulo": "",
-     "texto": "",
+     "titulo": "reflita",
+     "texto": "A demonstração estava correta, mas um ponto do procedimento não foi compreendido. O que você faria diante desse erro?",
      "videoUrl": "",
      "iframeH5P": ""
     },
@@ -34,16 +34,43 @@
     "novo": false
    },
    {
-    "tipo": "accordion",
+    "tipo": "caixadestaque",
+    "texto": "<font color=\"#f04770\"><b>Exemplo aplicado</b></font><b><font color=\"#f04770\"><br></font><br>- Demonstração simples&nbsp;</b><br>Cadastro de um(a) novo(a) cliente em um sistema de gestão.<br><br><b>- Demonstração complexa</b><br>Conferência e fechamento da folha de pagamento, com cálculos de encargos e validação dos registros.",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#fdf0f3",
+    "caixaCorBorda": "#f04770",
+    "novo": false,
+    "caixaCorTexto": "#0a3442"
+   },
+   {
+    "tipo": "video",
+    "texto": "No vídeo a seguir, veja como decidir entre uma demonstração simples e uma complexa em cada prática administrativa.<br><br>",
+    "titulo": "Assista:",
+    "url": "https://www.youtube.com/watch?v=Mgo-6z4qoJ0",
+    "novo": false
+   },
+   {
+    "tipo": "infografico",
     "texto": "",
-    "topicos": [
-     {
-      "titulo": "",
-      "texto": ""
-     }
-    ],
-    "novo": true
+    "infograficoTipo": "timeline",
+    "infograficoData": {
+     "etapas": "[{\"topico\":\"<font color=\\\"#0a3442\\\"><b>Analise a complexidade</b></font><br>\",\"texto\":\"<ul><li>Poucas decisões → demonstração simples<br></li><li>Várias decisões → demonstração complexa<br></li><li>Considere possibilidades de erro<br></li></ul><b>Por quê? </b><i>Para definir o nível de detalhamento da demonstração.&nbsp;</i><br><br>\"},{\"topico\":\"<font color=\\\"#0a3442\\\"><b>&nbsp;Divida quando necessário&nbsp;</b></font><br>\",\"texto\":\"<ul><li>Prática simples → procedimento completo<br></li><li>Prática complexa → etapas e pausas<br></li><li>Destaque os pontos críticos<br></li><b>Por quê? </b><i>Para tornar as decisões importantes mais visíveis.&nbsp;</i><br><br></ul>\"},{\"topico\":\"<font color=\\\"#0a3442\\\"><b>Antecipe os erros&nbsp;</b></font><br>\",\"texto\":\"<ul><li>Identifique onde podem ocorrer<br></li><li>Mostre o que precisa ser conferido<br></li><li>Explique as consequências<br></li></ul><b>Por quê? </b><i>Para orientar a execução sem retirar o desafio da prática.&nbsp;</i><br><br>\"},{\"topico\":\"<font color=\\\"#0a3442\\\"><b>Amplie a participação</b></font><br>\",\"texto\":\"<ul><li>Professor(a) demonstra<br></li><li>Estudantes executam junto com o(a) professor(a)<br></li><li>Estudantes executam com orientação<br></li><li>Autonomia supervisionada<br></li></ul><b>Por quê? </b><i>Para desenvolver gradualmente segurança e autonomia .&nbsp;</i><br><br>\"},{\"topico\":\"<b>Acompanhe e intervenha&nbsp;</b><br>\",\"texto\":\"<ul><li>Observe a execução<br></li><li>Registre evidências<br></li><li>Dê feedback<br></li><li>Intervenha quando necessário<br></li></ul><b>Por quê? </b><i>Para ajustar a mediação durante a aprendizagem.&nbsp;</i><br><br>\"}]"
+    },
+    "novo": false
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Conclusão",
+   "texto": "Nesta aula, você viu que a forma de demonstrar depende da complexidade da prática.<br><br>Procedimentos simples, como um cadastro, podem ser mostrados de uma só vez, enquanto um fechamento de caixa pede etapas e pausas.<br><br>Antecipar os pontos em que a turma costuma errar, antes da execução, dá segurança ao(à) estudante e evita que o erro apareça apenas no resultado final.<br><br><div>[DICA1]</div>",
+   "blocos": [
+    {
+     "tipo": "dica",
+     "texto": "Uma estratégia não abordada nesta aula, e que pode funcionar dependendo da turma, é pedir que um(a) estudante narre em voz alta cada passo enquanto você executa a demonstração. Isso ajuda a revelar dúvidas antes que o erro aconteça.<br><br>",
+     "novo": false
+    }
+   ]
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27290"
  }
 }
