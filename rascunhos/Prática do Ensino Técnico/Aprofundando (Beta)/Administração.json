@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-10-08T18:18:21.308Z",
+ "quando": "2026-10-08T18:22:16.376Z",
  "autor": "Teste",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando os procedimentos quando necessário.<br><b>Objetos do conhecimento: </b>tipos de demonstração técnica.<br><b>Conteúdos:</b><br><ul><li>demonstração para procedimentos simples e complexos;<br></li><li>antecipação de erros por meio da demonstração;<br></li><li>participação progressiva dos estudantes.<br></li></ul><b>Objetivo da aula:</b> selecionar formas de demonstração adequadas ao nível de complexidade da prática.<br><br>",
    "objetivo": "Diferenciar demonstrações simples de demonstrações complexas, considerando os riscos envolvidos e as estratégias para a antecipação de erros e a participação progressiva dos(as) estudantes.<br><br>",
    "titulo": "<b>Quando demonstrar não garante o aprendizado</b><br><br>",
-   "conteudo": "Em uma prática de gestão de estoques inspirada em uma distribuidora de Arapiraca, você demonstrou passo a passo como fazer o inventário:<br><ul><li>conferir os produtos;<br></li><li>classificá-los por tipo;<br></li><li>registrar as informações.<br></li></ul><br>Explicou cada etapa com cuidado. Ao pedir que um(a) estudante fizesse sozinho(a), ele(a) classificou os produtos perecíveis no grupo errado, o que gerou divergências no controle de estoque.<br><br>[PERGUNTA1]<br><br>O erro observado reforça a ideia de que nem todo procedimento administrativo pode ser demonstrado da mesma forma.<br><br>Práticas simples, como cadastrar um(a) cliente ou preencher uma ficha de atendimento, podem ser apresentadas de uma só vez, do início ao fim.<br><br>Já procedimentos com várias etapas e decisões, como o fechamento do fluxo de caixa ou a conferência da folha de pagamento, pedem uma demonstração dividida em partes, com pausas para explicar os pontos em que o erro costuma ocorrer.<br><br>Reconhecer essa diferença ajuda a antecipar erros e a ampliar, aos poucos, a participação dos(as) estudantes.<br><br><div><br></div>",
+   "conteudo": "Em uma prática de gestão de estoques inspirada em uma distribuidora de Arapiraca, você demonstrou passo a passo como fazer o inventário:<br><ul><li>conferir os produtos;<br></li><li>classificá-los por tipo;<br></li><li>registrar as informações.<br></li></ul><br>Explicou cada etapa com cuidado. Ao pedir que um(a) estudante fizesse sozinho(a), ele(a) classificou os produtos perecíveis no grupo errado, o que gerou divergências no controle de estoque.<br><br>[PERGUNTA1]<br><br>O erro observado reforça a ideia de que nem todo procedimento administrativo pode ser demonstrado da mesma forma.<br><br>Práticas simples, como cadastrar um(a) cliente ou preencher uma ficha de atendimento, podem ser apresentadas de uma só vez, do início ao fim.<br><br>Já procedimentos com várias etapas e decisões, como o fechamento do fluxo de caixa ou a conferência da folha de pagamento, pedem uma demonstração dividida em partes, com pausas para explicar os pontos em que o erro costuma ocorrer.<br><br>Reconhecer essa diferença ajuda a antecipar erros e a ampliar, aos poucos, a participação dos(as) estudantes.<br><br><div>[INFOGRAFICO1]<br><br><br></div>",
    "conectando": ""
   },
   "blocos": [
@@ -22,6 +22,26 @@
      "videoUrl": "",
      "iframeH5P": ""
     },
+    "novo": true
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "comparativo_checklist",
+    "infograficoData": {
+     "cards": "{\"esquerda\":{\"titulo\":\"<b>Demonstração simples&nbsp;</b><br><br>\",\"itens\":\"<b>Quando usar:</b><font color=\\\"#f04770\\\"><b><br><br>Situação</b></font><br>Procedimento curto, contínuo e de baixo risco.<br>Como demonstrar<br><br><div><font color=\\\"#f04770\\\"><b>Como demonstrar</b></font><br>Mostre todo o procedimento sem interrupções.<br><br></div><div><b><font color=\\\"#f04770\\\">Objetivo</font></b><br>Permitir que os(as) estudantes compreendam o fluxo completo.<br><br></div>\"},\"direita\":{\"titulo\":\"<b>Demonstração complexa</b><br><br>\",\"itens\":\"<div><b>Quando usar:</b><b><font color=\\\"#f04770\\\"></font></b></div><div><b><br></b></div><b><font color=\\\"#f04770\\\">Situação</font></b><div>Procedimento com várias etapas, decisões ou riscos.<br><br><font color=\\\"#f04770\\\"><b>Como demonstrar</b></font></div><div>Divida a demonstração em etapas curtas, fazendo pausas entre elas</div><div><br><b><font color=\\\"#f04770\\\">Objetivo</font></b></div><div>Facilitar a compreensão de cada etapa antes de seguir adiante.<br><br><br></div>\"}}"
+    },
+    "novo": false
+   },
+   {
+    "tipo": "accordion",
+    "texto": "",
+    "topicos": [
+     {
+      "titulo": "",
+      "texto": ""
+     }
+    ],
     "novo": true
    }
   ]
