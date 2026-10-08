@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-10-08T18:37:05.491Z",
+ "quando": "2026-10-08T18:38:24.915Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -19,7 +19,7 @@
   "iframeReflexao": "https://ead.educacao.al.gov.br/mod/hvp/view.php?id=31053",
   "conclusao": {
    "titulo": "Conclusão",
-   "texto": "Nesta aula, você viu que escolher entre uma demonstração simples e outra complexa depende da prática administrativa em questão.<br><br>Ao dividir os procedimentos mais complexos em etapas, antecipar os erros mais comuns e ampliar, aos poucos, a participação dos(as) estudantes, a demonstração deixa de ser apenas mostrar como se faz e passa a orientar a tomada de decisões.<br><br>Leve esse olhar para o seu próximo planejamento.<br><br>",
+   "texto": "Nesta aula, você viu que escolher entre uma demonstração simples e outra complexa depende da prática administrativa em questão.<br><br>Ao dividir os procedimentos mais complexos em etapas, antecipar os erros mais comuns e ampliar, aos poucos, a participação dos(as) estudantes, a demonstração deixa de ser apenas mostrar como se faz e passa a orientar a tomada de decisões.<br><br>Leve esse olhar para o seu próximo planejamento.<br><br>[REVISAR1]<div><br></div><div>[INSPIRAR1]</div>",
    "blocos": [
     {
      "tipo": "revisar",
@@ -39,7 +39,15 @@
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
+    },
+    {
+     "tipo": "inspirar",
+     "texto": "No relato \"Departamentos em diálogo\", a turma de Administração criou uma miniempresa para dividir responsabilidades e tomar decisões em grupo.<br>A melhor parte? Essa dinâmica de colaboração e definição de papéis deu tão certo que pode ser facilmente adaptada para as práticas de qualquer outro eixo!<br><br>",
+     "titulo": "",
+     "linkBotao": "https://drive.google.com/file/d/1ZPCOJh14H0ZNKaLaOmf_Z9hXSLJn3VTd/view?usp=sharing",
+     "textoBotao": "Acessar relato",
+     "novo": false
     }
    ]
   }
