@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Residência Pedagógica/Tarefa Residência Pedagógica",
- "quando": "2026-10-08T20:56:55.992Z",
+ "quando": "2026-10-08T20:57:53.374Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -40,7 +40,7 @@
     "caixaCorTexto": "#0a3442"
    }
   ],
-  "rubricaUrl": "https://drive.google.com/file/d/1XCs5suIH_qYjBiiPO6e0BtJKUOxTlBkn/view?usp=sharing",
+  "rubricaUrl": "https://drive.google.com/file/d/1XCs5suIH_qYjBiiPO6e0BtJKUOxTlBkn/view?usp=drive_link",
   "formatoTexto": "PDF, DOCX ou DOC",
   "conclusao": {
    "titulo": "Para Finalizar",
