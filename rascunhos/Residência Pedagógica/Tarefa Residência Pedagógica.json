@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Residência Pedagógica/Tarefa Residência Pedagógica",
- "quando": "2026-10-08T20:55:41.582Z",
+ "quando": "2026-10-08T20:56:22.422Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -41,11 +41,16 @@
    }
   ],
   "rubricaUrl": "https://drive.google.com/file/d/1XCs5suIH_qYjBiiPO6e0BtJKUOxTlBkn/view?usp=sharing",
-  "formatoTexto": "PDF ou Word",
+  "formatoTexto": "PDF, DOCX ou DOC",
   "conclusao": {
    "titulo": "Para Finalizar",
    "texto": "Este não é apenas um momento de entrega, mas de desenvolvimento profissional.<br><ul><li>Ao revisar seu planejamento, você fortalece sua prática.<br></li><li>Ao refletir sobre suas escolhas, você aprimora seu ensino.<br></li><li>Ao detalhar a execução quinzenal, você garante que as integrações saiam do papel e cheguem à sala de aula com qualidade.<br></li></ul>",
    "blocos": []
-  }
+  },
+  "formatos": [
+   "pdf",
+   "docx",
+   "doc"
+  ]
  }
 }
