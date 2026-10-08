@@ -1,9 +1,14 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-10-06T16:53:31.941Z",
+ "quando": "2026-10-08T18:33:29.313Z",
  "autor": "Teste",
  "dados": {
-  "tipoReflexao": "texto"
+  "campos": {
+   "objetivo": "Selecionar a estratégia de demonstração mais adequada, equilibrando a complexidade da prática e a antecipação de possíveis erros dos(as) estudantes.<br><br>",
+   "titulo": "Que demonstração usar na sua prática administrativa?<br><br>",
+   "conteudo": "Chegou o momento de aplicar o que você viu. Analise uma situação de gestão administrativa e escolha a forma de demonstração que melhor se adequa à complexidade da prática.<br><br><div>No setor de compras de uma prefeitura do interior de Alagoas, você está planejando uma aula sobre o preenchimento de uma nota de empenho.<br><br>O procedimento reúne várias etapas: identificar os dados do(a) credor(a), escolher a dotação orçamentária correta, classificar o tipo de despesa e conferir o saldo. Um erro em uma etapa, como uma dotação escolhida por engano, compromete todo o empenho.<br><br></div>",
+   "reflexao": ""
+  }
  }
 }
