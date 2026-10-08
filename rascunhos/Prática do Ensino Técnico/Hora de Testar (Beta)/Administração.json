@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-10-08T18:34:17.649Z",
+ "quando": "2026-10-08T18:35:05.729Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -15,6 +15,22 @@
     "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31052\" width=\"932\" height=\"503\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M3-U02-APLI-MULTI1\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    }
   ],
-  "tipoReflexao": "h5p"
+  "tipoReflexao": "h5p",
+  "iframeReflexao": "https://ead.educacao.al.gov.br/mod/hvp/view.php?id=31053",
+  "conclusao": {
+   "titulo": "Conclusão",
+   "texto": "Nesta aula, você viu que escolher entre uma demonstração simples e outra complexa depende da prática administrativa em questão.<br><br>Ao dividir os procedimentos mais complexos em etapas, antecipar os erros mais comuns e ampliar, aos poucos, a participação dos(as) estudantes, a demonstração deixa de ser apenas mostrar como se faz e passa a orientar a tomada de decisões.<br><br>Leve esse olhar para o seu próximo planejamento.<br><br>",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "Revisite as aulas abaixo e veja como organizar uma atividade e estruturar uma prática técnica.<br><br>",
+     "idRevisar": "muzvm5uw9eaesv",
+     "itensRevisar": [],
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": true
+    }
+   ]
+  }
  }
 }
