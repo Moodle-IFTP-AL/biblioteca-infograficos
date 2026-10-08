@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-10-08T18:35:05.729Z",
+ "quando": "2026-10-08T18:35:28.823Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -25,7 +25,18 @@
      "tipo": "revisar",
      "texto": "Revisite as aulas abaixo e veja como organizar uma atividade e estruturar uma prática técnica.<br><br>",
      "idRevisar": "muzvm5uw9eaesv",
-     "itensRevisar": [],
+     "itensRevisar": [
+      {
+       "id": "muzvmcm17omkc2",
+       "texto": "• Módulo 1, 2ª Aula Síncrona: Demonstração técnica aplicada ao projeto ABP<br><br>",
+       "link": ""
+      },
+      {
+       "id": "muzvmdl8hweyow",
+       "texto": "• Módulo 1, Unidade 8: Preparação de demonstrações técnicas<br><br>",
+       "link": ""
+      }
+     ],
      "linkBotao": "",
      "textoBotao": "",
      "novo": true
