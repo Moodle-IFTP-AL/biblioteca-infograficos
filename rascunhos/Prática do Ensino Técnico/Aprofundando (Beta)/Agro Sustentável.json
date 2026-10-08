@@ -1,29 +1,9 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Agro Sustentável",
- "quando": "2026-10-08T19:25:54.383Z",
+ "quando": "2026-10-08T19:27:53.105Z",
  "autor": "Teste",
  "dados": {
-  "blocos": [
-   {
-    "tipo": "pergunta",
-    "texto": "",
-    "pergunta": {
-     "tipo": "texto",
-     "titulo": "",
-     "texto": "asas",
-     "videoUrl": "",
-     "iframeH5P": ""
-    },
-    "novo": true
-   },
-   {
-    "tipo": "video",
-    "texto": "",
-    "titulo": "",
-    "url": "",
-    "novo": true
-   }
-  ]
+  "blocos": []
  }
 }
