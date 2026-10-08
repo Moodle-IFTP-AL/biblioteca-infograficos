@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-10-08T18:38:24.915Z",
+ "quando": "2026-10-08T18:38:43.704Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -50,6 +50,7 @@
      "novo": false
     }
    ]
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27292"
  }
 }
