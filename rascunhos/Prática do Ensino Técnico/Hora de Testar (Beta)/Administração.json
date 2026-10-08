@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-10-08T18:33:29.313Z",
+ "quando": "2026-10-08T18:34:17.649Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -9,6 +9,12 @@
    "titulo": "Que demonstração usar na sua prática administrativa?<br><br>",
    "conteudo": "Chegou o momento de aplicar o que você viu. Analise uma situação de gestão administrativa e escolha a forma de demonstração que melhor se adequa à complexidade da prática.<br><br><div>No setor de compras de uma prefeitura do interior de Alagoas, você está planejando uma aula sobre o preenchimento de uma nota de empenho.<br><br>O procedimento reúne várias etapas: identificar os dados do(a) credor(a), escolher a dotação orçamentária correta, classificar o tipo de despesa e conferir o saldo. Um erro em uma etapa, como uma dotação escolhida por engano, compromete todo o empenho.<br><br></div>",
    "reflexao": ""
-  }
+  },
+  "atividades": [
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31052\" width=\"932\" height=\"503\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M3-U02-APLI-MULTI1\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   }
+  ],
+  "tipoReflexao": "h5p"
  }
 }
