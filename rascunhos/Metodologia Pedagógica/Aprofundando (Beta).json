@@ -1,51 +1,36 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-10-05T20:52:36.985Z",
+ "quando": "2026-10-08T17:29:17.444Z",
  "autor": "Teste",
  "dados": {
   "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>2 -</b> Avaliar a aprendizagem por competências, a partir de evidências das práticas pedagógicas e técnicas desenvolvidas pelos(as) estudantes, considerando a mobilização de conhecimentos gerais no contexto da Educação Profissional e Tecnológica, para orientar o planejamento e o replanejamento das aulas e o desenvolvimento dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>2.2 </b>- Analisar evidências de aprendizagem (registros práticos, produções, observações, devolutivas) para identificar avanços, dificuldades e necessidades de intervenção.<br><b>Objetos do Conhecimento:</b><br>Acompanhamento da aprendizagem em práticas técnicas colaborativas.<br><b>Conteúdos:</b><br><ul><li>Acompanhamento da aprendizagem durante a prática;<br></li><li>Evidências em ações, falas, registros e produções dos(as) estudantes;<br></li><li>Papel do(a) professor(a) como observador(a) e mediador(a).<br></li></ul><b>Objetivo: </b>Identificar práticas técnicas colaborativas como espaços de acompanhamento da aprendizagem, reconhecendo evidências produzidas pelos(as) estudantes durante o processo.<br><br>",
-   "objetivo": "Reconhecer diferentes evidências produzidas durante práticas técnicas colaborativas e compreender sua importância para acompanhar a aprendizagem.<br><br>",
-   "titulo": "O que Observar na Prática<br><br>",
-   "conteudo": "Você planejou a aula, organizou a atividade e os(as) estudantes começaram a trabalhar em grupos.<br><br>Você planejou a aula, organizou a atividade e os(as) estudantes começaram a trabalhar em grupos.<br><br>Nesse momento, surge um novo desafio:<br><b>Como acompanhar a aprendizagem enquanto ela acontece?&nbsp;</b><br><br>Em práticas técnicas colaborativas, diferentes grupos avançam em ritmos distintos, discutem ideias, tomam decisões, fazem testes, corrigem estratégias e produzem soluções.<br><br>Ao circular pela sala, você precisa observar o que os(as) estudantes fazem, dizem e produzem, pois essas manifestações constituem evidências de aprendizagem que revelam como os conhecimentos, as habilidades e as competências estão sendo desenvolvidos.<br><br>Nem sempre isso é simples. Em uma mesma aula, pode ser necessário:<br><ul><li>acompanhar vários grupos ao mesmo tempo;<br></li><li>perceber dúvidas que nem sempre são verbalizadas;<br></li><li>identificar formas diferentes de participação;<br></li><li>reconhecer evidências que revelam o percurso de aprendizagem dos(as) estudantes.<br></li></ul><br>Desenvolver esse olhar atento é o primeiro passo para acompanhar a aprendizagem de forma intencional e de tomar decisões pedagógicas mais conscientes ao longo da prática.<br><br><font color=\"#f04770\"><b>Durante uma prática em grupos, qual é seu maior desafio para perceber como os(as) estudantes estão aprendendo?<br></b></font><br><br><h3><b>Acompanhamento da Aprendizagem Durante a Prática</b></h3><div><br></div><div><br></div>Em práticas técnicas colaborativas, acompanhar a aprendizagem significa observar o percurso dos(as) estudantes enquanto eles(as) participam das atividades.<br><br>Além de verificar o resultado final, você acompanha como os grupos:<br><ul><li>organizam o trabalho;<br></li><li>discutem possibilidades;<br></li><li>tomam decisões;<br></li><li>constroem soluções.<br></li></ul><br>Esse olhar intencional permite compreender como a aprendizagem acontece ao longo da prática e oferece informações importantes para orientar a mediação docente, para realizar intervenções durante a atividade e para replanejar as ações de ensino quando necessário.<br><br><h3><b>Evidências em Ações, Falas, Registros e Produções dos(as) Estudantes&nbsp;</b></h3><p><b></b></p><div>A aprendizagem não se revela de uma única maneira.<br><br>Durante uma prática técnica colaborativa, diferentes evidências surgem ao longo da atividade e te ajudam a compreender como os(as) estudantes estão construindo seus conhecimentos.<br><br>Essas evidências podem ser observadas de diferentes formas ao longo da prática:<br><br></div>[INFOGRAFICO1]<br><br>Nenhuma dessas evidências, isoladamente, mostram toda a aprendizagem. Quando observadas em conjunto, elas oferecem uma visão mais ampla do processo vivido pelos(as) estudantes e apoiam o acompanhamento da aprendizagem durante toda a prática.<br><br>[INFOGRAFICO2]<br><br><br><br>",
-   "conectando": "Agora é hora de aplicar esse olhar na prática. Na próxima etapa, você analisará situações de práticas técnicas colaborativas para identificar evidências de aprendizagem e compreender o que elas revelam sobre o processo dos(as) estudantes.<br><br>"
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>1</b> - Planejar e estruturar práticas de aprendizagem ativas e contextualizadas, mobilizando conhecimentos da Formação Geral Básica no contexto da Educação Profissional e Tecnológica, por meio da seleção de metodologias, conteúdos e estratégias pedagógicas alinhadas ao perfil da turma, às competências técnicas e às demandas do mundo do trabalho.<br><b>Habilidade:&nbsp;</b><br><b>1.1 - </b>Planejar atividades de aprendizagem que promovam protagonismo, colaboração e tomada de decisão dos(as) estudantes.<br><b>Objeto do Conhecimento:</b><br>Organização da colaboração com intencionalidade pedagógica.<br><b>Conteúdos:</b><br><ul><li>Organização de grupos e papéis dos(as) estudantes;<br></li><li>Colaboração, corresponsabilidade e tomada de decisão;<br></li><li>Combinados, diretrizes e rotinas de trabalho;<br></li><li>Condições para participação ativa dos(as) estudantes.<br></li></ul><b>Objetivo:&nbsp;</b><br>Organizar estratégias de colaboração em práticas técnicas, definindo papéis, combinados e formas de participação alinhadas aos objetivos de aprendizagem.<br><br>",
+   "objetivo": "Relacionar estratégias de organização da colaboração com a participação ativa dos(as) estudantes em práticas técnicas.",
+   "titulo": "<b>Colaboração se Planeja&nbsp;</b><br><br>",
+   "conteudo": "Na aula anterior, você identificou que a aprendizagem pode ser observada por meio das ações, das falas, dos registros e das produções dos(as) estudantes.<br>Mas essas evidências não surgem por acaso. Elas dependem, em grande parte, de como a atividade é organizada.<br>Talvez você já tenha proposto um trabalho em grupo e percebido que:<br><ul><li>alguns(algumas) estudantes participaram ativamente;<br></li><li>outros(as) permaneceram em silêncio ou apenas acompanharam o que os(as) colegas faziam.<br></li></ul><div>[PERGUNTA1]</div><div><br></div>Nesta aula, você vai analisar como a organização da atividade pode favorecer a colaboração e a participação ativa dos(as) estudantes.<br><br><h3><font color=\"#f04770\"><b style=\"font-size: 1rem;\">O que Torna a Colaboração Possível?&nbsp;</b></font></h3><br>Organizar estudantes em grupos é apenas o primeiro passo de uma prática colaborativa.<br><br>Quando a atividade começa sem orientações claras, alguns(algumas) estudantes assumem todas as tarefas, enquanto outros(as) participam pouco e têm menos oportunidades de construir conhecimentos durante a atividade.<br><br>Nessas situações, a colaboração tende a acontecer de forma desigual e nem sempre favorece a aprendizagem.<br><br><b>Por isso, antes de iniciar uma prática técnica, é preciso planejar como os(as) estudantes irão participar, interagir, assumir responsabilidades e tomar decisões ao longo da atividade.&nbsp;</b><br><br>Nesta seção, você vai explorar:<br><br><ul><li>por que a colaboração vai além da formação de grupos;<br></li><li>como promover a corresponsabilidade entre os(as) estudantes;<br></li><li>como os combinados, as orientações da atividade e as rotinas de trabalho favorecem a participação;<br></li><li>como organizar grupos e definir papéis de forma intencional.<br></li></ul><br>",
+   "conectando": ""
   },
   "blocos": [
    {
-    "tipo": "infografico",
+    "tipo": "pergunta",
     "texto": "",
-    "infograficoTipo": "lista_interativa",
-    "infograficoData": {
-     "titulo": "<b>Evidências de Aprendizagem&nbsp;</b>",
-     "linhas": "[\"<b style=\\\"font-size: 1rem;\\\">Ações</b><span style=\\\"font-size: 1rem;\\\"> realizadas durante a execução da tarefa;</span>\",\"<b>Falas</b> quando os(as) estudantes explicam ideias, justificam escolhas ou levantam dúvidas;\",\"<b>Registros</b> produzidos ao longo da atividade, como anotações, esquemas e planejamentos;\",\"<b>Produções</b> desenvolvidas pelos grupos.\"]"
-    }
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "tabela_completa",
-    "infograficoData": {
-     "tabela": "{\"titulo\":\"\",\"subtitulo\":\"\",\"colunas\":[\"<b>Tipo de evidência</b><br><br>\",\"<b>Exemplos</b>\",\"<b>Objetivo da observação&nbsp;</b><br><br>\",\"<b>O que essa evidência revela</b><br><br>\"],\"linhas\":[[\"<b>Ações</b>\",\"Organização da tarefa,<br>uso de materiais, tomada de decisão.<br><br>\",\"Identificar como o(a) estudante participa e executa a atividade.\",\"Como mobiliza conhecimentos, estratégias e autonomia durante a prática.\"],[\"<b>Falas</b><br><br>\",\"Perguntas, justificativas, argumentos, explicações.\",\"Compreender o raciocínio e as dúvidas manifestadas pelos(as) estudantes.\",\"Como interpreta, comunica ideias e constrói conhecimentos.\"],[\"<b>Registros</b><br><br>\",\"Anotações, esquemas, tabelas, rascunhos.\",\"Identificar como o(a) estudante organiza e registra seu percurso.\",\"Como estrutura informações e acompanha seu processo de aprendizagem.\"],[\"<b>Produções</b>\",\"Relatórios, protótipos, apresentações, produtos finais.\",\"Verificar como os conhecimentos são aplicados na atividade.\",\"Como integra conhecimentos para desenvolver soluções e produtos.\"]]}"
-    }
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "Reflita:",
+     "texto": "<b>Nessas situações, o que pode estar influenciando a participação dos(as) estudantes? A formação dos grupos, por si só, é suficiente para promover colaboração?</b>",
+     "videoUrl": "",
+     "iframeH5P": ""
+    },
+    "novo": false
    },
    {
     "tipo": "video",
-    "texto": "Agora, acompanhe uma prática em andamento e identifique quando surgem as evidências de aprendizagem dos(as) estudantes.<br><br>",
-    "titulo": "Assista ao vídeo abaixo:",
-    "url": "https://youtu.be/CmpwaZBQ9CI"
+    "texto": "",
+    "titulo": "Como Transformar um Trabalho em Grupo em uma Experiência Colaborativa? ",
+    "url": "",
+    "novo": true
    }
-  ],
-  "conclusao": {
-   "titulo": "Conclusão",
-   "texto": "Acompanhar a aprendizagem em práticas técnicas colaborativas exige olhar para além do resultado final.<br><br>Durante a atividade, ações, falas, registros e produções revelam diferentes aspectos do percurso dos(as) estudantes.<br><br>Quando observadas de forma articulada, essas evidências ampliam sua percepção sobre como os(as) estudantes mobilizam conhecimentos, tomam decisões e constroem aprendizagens.<br><br>Esse olhar mais atento e intencional fortalece o acompanhamento pedagógico e prepara você para analisar essas evidências e utilizá-las no monitoramento da aprendizagem.<br><br>",
-   "blocos": [
-    {
-     "tipo": "dica",
-     "texto": "Na próxima atividade em grupo, escolha um momento para observar atentamente um dos grupos antes de realizar sua intervenção pedagógica. Procure identificar ações, falas, registros e produções. Esse exercício ajuda a ampliar seu olhar sobre as evidências de aprendizagem durante a prática."
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27243"
+  ]
  }
 }
