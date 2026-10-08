@@ -1,7 +1,37 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Tarefa",
- "quando": "2026-10-08T22:16:57.703Z",
+ "quando": "2026-10-08T22:17:20.085Z",
  "autor": "Teste",
- "dados": {}
+ "dados": {
+  "botoesMaterial": [
+   {
+    "texto": "Acessar modelo de plano da SEDUC/AL",
+    "link": "",
+    "cor": "#fec43e"
+   },
+   {
+    "texto": "Acessar matriz curricular",
+    "link": "",
+    "cor": "#06d7a0"
+   }
+  ],
+  "checklist": {
+   "titulo": "O que deve conter no seu arquivo:",
+   "itens": [
+    {
+     "titulo": "Reúna os(as) colegas",
+     "texto": "Aproveite o HTPC para revisar coletivamente os objetivos, saberes e possibilidades de integração entre a Formação Geral Básica, o Ensino Técnico e outros componentes do pALei."
+    },
+    {
+     "titulo": "Planeje de forma integrada",
+     "texto": "Utilize o planejamento já esboçado, o modelo de planejamento da SEDUC/AL e as matrizes curriculares como apoio para consolidar e aprimorar o plano do bimestre."
+    }
+   ]
+  },
+  "destaque": {
+   "titulo": "Registre e compartilhe",
+   "texto": "Faça o upload do documento revisado na plataforma para evidenciar como os conhecimentos serão mobilizados de forma integrada."
+  }
+ }
 }
