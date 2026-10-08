@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Residência Pedagógica/Tarefa Residência Pedagógica",
- "quando": "2026-10-08T19:16:01.525Z",
+ "quando": "2026-10-08T19:32:45.781Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -37,6 +37,18 @@
     "caixaCorBorda": "#79d3f2",
     "novo": false,
     "caixaCorTexto": "#0a3442"
+   },
+   {
+    "tipo": "pergunta",
+    "texto": "",
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "",
+     "texto": "",
+     "videoUrl": "",
+     "iframeH5P": ""
+    },
+    "novo": true
    }
   ],
   "rubricaUrl": "https://drive.google.com/file/d/1XCs5suIH_qYjBiiPO6e0BtJKUOxTlBkn/view?usp=sharing",
