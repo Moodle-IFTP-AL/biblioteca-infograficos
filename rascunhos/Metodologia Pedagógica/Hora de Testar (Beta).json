@@ -1,13 +1,13 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-10-08T17:40:08.455Z",
+ "quando": "2026-10-08T17:41:16.175Z",
  "autor": "Teste",
  "dados": {
   "campos": {
    "objetivo": "Selecionar estratégias de organização da colaboração que favoreçam a participação ativa e a corresponsabilidade dos(as) estudantes.<br><br>",
    "titulo": "Organizando a Colaboração<br><br>",
-   "conteudo": "Nesta atividade, você analisará uma situação prática inspirada e refletirá sobre como o planejamento da colaboração pode influenciar a participação dos(as) estudantes.<br><br>Em seguida, selecione as decisões que poderiam ter sido tomadas antes da atividade para favorecer a <b>corresponsabilidade, a participação ativa e a colaboração</b> entre os(as) integrantes do grupo.<br><br><div><br></div>",
+   "conteudo": "Nesta atividade, você analisará uma situação prática inspirada e refletirá sobre como o planejamento da colaboração pode influenciar a participação dos(as) estudantes.<br><br>Em seguida, selecione as decisões que poderiam ter sido tomadas antes da atividade para favorecer a <b>corresponsabilidade, a participação ativa e a colaboração</b> entre os(as) integrantes do grupo.<br><br><div>[H5P1]<br><br>Agora que você analisou como as decisões de planejamento podem favorecer a colaboração, é hora de olhar para a sua própria prática. Na próxima etapa, você vai identificar uma mudança que pode incorporar às suas próximas atividades.<br><br></div>",
    "reflexao": ""
   },
   "blocos": [
@@ -15,7 +15,7 @@
     "tipo": "h5p",
     "texto": "",
     "titulo": "Atividade",
-    "incorporacao": "",
+    "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31077\" width=\"922\" height=\"922\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M3-U02-APLI-MULT1\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
     "novo": false
    }
   ]
