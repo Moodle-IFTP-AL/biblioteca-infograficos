@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-10-08T17:55:20.091Z",
+ "quando": "2026-10-08T17:55:36.182Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -25,6 +25,7 @@
    "titulo": "Não existe uma única resposta correta. ",
    "texto": "O mais importante é relacionar suas respostas às ideias desenvolvidas nesta aula e identificar uma ação concreta que possa ser incorporada ao seu planejamento.",
    "blocos": []
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27285"
  }
 }
