@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-10-13T16:03:14.810Z",
+ "quando": "2026-10-13T16:22:01.931Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -16,6 +16,12 @@
     "iframe": "",
     "titulo": "Situação 1: Sequência das Etapas ",
     "texto": "Durante uma aula prática de inventário de estoque, os(as) estudantes ficaram confusos porque o roteiro solicitava o ajuste final no sistema antes mesmo da conferência física dos produtos nas prateleiras."
+   },
+   {
+    "iframe": ""
+   },
+   {
+    "iframe": ""
    }
   ]
  }
