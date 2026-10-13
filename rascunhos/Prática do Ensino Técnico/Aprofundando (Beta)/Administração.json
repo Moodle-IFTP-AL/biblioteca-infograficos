@@ -1,17 +1,24 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-10-13T12:49:57.303Z",
+ "quando": "2026-10-13T12:50:29.952Z",
  "autor": "Teste",
  "dados": {
   "blocos": [
    {
     "tipo": "botao",
-    "texto": "",
-    "corBotao": "#79d3f2",
-    "linkBotao": "",
-    "novo": true
+    "texto": "Iniciar M3",
+    "corBotao": "#fec43e",
+    "linkBotao": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31098",
+    "novo": false
    }
-  ]
+  ],
+  "campos": {
+   "infoAula": "",
+   "objetivo": "",
+   "titulo": "",
+   "conteudo": "[BOTAO1]",
+   "conectando": ""
+  }
  }
 }
