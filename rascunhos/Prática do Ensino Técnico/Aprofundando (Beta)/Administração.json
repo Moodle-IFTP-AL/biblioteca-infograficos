@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-10-13T15:29:54.253Z",
+ "quando": "2026-10-13T15:31:00.887Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -40,7 +40,7 @@
     "infograficoTipo": "cards_icones_setas",
     "infograficoData": {
      "titulo": "<b>O que Pensar Antes de Elaborar o Roteiro?</b><br><br>",
-     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/M%C3%A3o%20engrenagem.png\",\"titulo\":\"<b>Conhecimentos prévios</b>\",\"texto\":\"<ul><li>O que os(as) estudantes já sabem fazer?<br></li><li>Quais conhecimentos precisam ser retomados?<br></li></ul>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2049.png\",\"titulo\":\"<b>Escola e território</b><br>\",\"texto\":\"\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%207.png\",\"titulo\":\"<b>Tempo e espaço</b>\",\"texto\":\"\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2013.png\",\"titulo\":\"<b>Nível de complexidade</b>\",\"texto\":\"<ul><li><font color=\\\"#ffffff\\\">Quantas etapas a prática possui?<br></font></li><li><font color=\\\"#ffffff\\\">Envolve decisões, cálculos ou riscos?<br></font></li><li><font color=\\\"#ffffff\\\">Quanto detalhamento o roteiro exige?</font><br></li></ul>\",\"corFundo\":\"#f04770\"}]"
+     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/M%C3%A3o%20engrenagem.png\",\"titulo\":\"<b>Conhecimentos prévios</b>\",\"texto\":\"<ul><li>O que os(as) estudantes já sabem fazer?<br></li><li>Quais conhecimentos precisam ser retomados?<br></li></ul>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2049.png\",\"titulo\":\"<b>Escola e território</b><br>\",\"texto\":\"<ul><li>Quais recursos e espaços estão disponíveis?<br></li><li>A atividade dialoga com a realidade local?<br></li></ul>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%207.png\",\"titulo\":\"<b>Tempo e espaço</b>\",\"texto\":\"<ul><li>Quanto tempo está disponível?<br></li><li>Onde a atividade será realizada?<br></li><li>Há espaço e recursos suficientes?<br></li></ul>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2013.png\",\"titulo\":\"<b>Nível de complexidade</b>\",\"texto\":\"<ul><li><font color=\\\"#ffffff\\\">Quantas etapas a prática possui?<br></font></li><li><font color=\\\"#ffffff\\\">Envolve decisões, cálculos ou riscos?<br></font></li><li><font color=\\\"#ffffff\\\">Quanto detalhamento o roteiro exige?</font><br></li></ul>\",\"corFundo\":\"#f04770\"}]"
     },
     "novo": false
    },
