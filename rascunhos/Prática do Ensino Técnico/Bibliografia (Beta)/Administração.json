@@ -1,15 +1,10 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Bibliografia (Beta)/Administração",
- "quando": "2026-10-08T18:41:40.294Z",
+ "quando": "2026-10-13T16:28:32.966Z",
  "autor": "Teste",
  "dados": {
-  "linkVoltar": "https://ead.educacao.al.gov.br/course/view.php?id=280#section-55",
-  "referencias": [
-   "ALAGOAS. Secretaria de Estado da Educação. Currículo de Referência de Alagoas: Ensino Técnico. Maceió: Seduc/AL, 2024.\n",
-   "BRASIL. Ministério da Educação. Diretrizes Curriculares Nacionais para a Educação Profissional Técnica de Nível Médio. Brasília: MEC/Setec, 2021.\n",
-   "SANTOS, M. A.; OLIVEIRA, J. Gestão e Práticas Administrativas: fundamentos e aplicações. Rio de Janeiro: FGV Editora, 2025.\n",
-   "SILVA, R. P. Metodologias de Demonstração Técnica: do planejamento à execução. 2. ed. São Paulo: Editora Educacional, 2026."
-  ]
+  "referenciasTexto": "CHIAVENATO, Idalberto. Introdução à Teoria Geral da Administração: uma visão abrangente da moderna administração das organizações. 10. ed. Rio de Janeiro: Atlas, 2021. Contexto de uso: referência fundamental para estudar as rotinas operacionais, organização de fluxos de trabalho e controle de processos administrativos aplicados nos roteiros técnicos.\n\nKUENZER, Acácia Zeneida. Pedagogia do Acompanhamento na Educação Profissional e Tecnológica. 2. ed. São Paulo: Cortez, 2022. Contexto de uso: embasamento pedagógico sobre a articulação entre teoria e prática, intencionalidade na condução de oficinas e mediação docente no ensino técnico.\n\nMORAN, José. Metodologias Ativas para uma Aprendizagem Profunda: como aprender com autonomia e engajamento. 2. ed. Porto Alegre: Penso, 2023. Contexto de uso: sustenta a construção de materiais instrucionais (como o roteiro técnico) voltados para a autonomia, protagonismo e segurança do(a) estudante em atividades práticas.\n\nSEBRAE. Guia Prático de Processos e Gestão Operacional para MPEs. Brasília: SEBRAE, 2023. Contexto de uso: fonte prática atualizada para mapeamento de processos, procedimentos operacionais padrão (POP) e checklists aplicados à realidade das empresas e simulações didáticas em Administração.\n",
+  "linkVoltar": "https://ead.educacao.al.gov.br/course/view.php?id=280#section-57"
  }
 }
