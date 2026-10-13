@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-10-13T16:23:43.331Z",
+ "quando": "2026-10-13T16:25:44.119Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -27,6 +27,33 @@
     "titulo": "Situação 3: Foco na Identificação de Pontos Críticos ",
     "texto": "Na simulação de transporte manual de caixas no arquivo morto, um(a) estudante carregou uma caixa muito pesada sem a postura adequada. O roteiro trazia o aviso de segurança de forma pouco visível."
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "",
+   "texto": "[REVISAR1]",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "Revisite as aulas abaixo para aprofundar seus conhecimentos sobre como planejar demonstrações de forma segura, organizar os recursos da oficina e estruturar o passo a passo de uma prática técnica:",
+     "idRevisar": "mv6w4l9mnubua4",
+     "itensRevisar": [
+      {
+       "id": "mv6w4utdxa75t7",
+       "texto": "• <b>Módulo 1 - Unidade 6:</b> Demonstração Técnica Aplicada ao Projeto ABP ;<br><br>",
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22438"
+      },
+      {
+       "id": "mv6w4wgrg5h01t",
+       "texto": "• <b>Módulo 1 - Unidade 8:</b> Preparação de Demonstrações Técnicas.<br><br>",
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=23158"
+      }
+     ],
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": false
+    }
+   ]
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27317"
  }
 }
