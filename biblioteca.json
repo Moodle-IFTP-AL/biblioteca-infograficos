@@ -105,6 +105,20 @@
    "criadoEm": "2026-10-13T15:25:15.182Z",
    "atualizadoEm": "2026-10-13T15:25:17.197Z",
    "autor": "Teste"
+  },
+  {
+   "id": "83609910-9da8-44f5-8b02-acdaac13ce7c",
+   "nome": "ADM - M3U3 (Elementos de um Roteiro Técnico)",
+   "pasta": "M3",
+   "tipo": "zigzag",
+   "data": {
+    "titulo": "<b>Elementos de um Roteiro Técnico</b><br>",
+    "subtitulo": "Um roteiro técnico bem estruturado orienta a execução da prática e ajuda o(a) estudante a realizar, conferir e corrigir seu trabalho com maior autonomia.<br>",
+    "items": "[\"<h3><b>Linguagem objetiva</b></h3>Use verbos de ação observáveis: <b>Confira, Registre, Calcule, Organize.</b> Evite textos longos e explicações desnecessárias.<br><br>\",\"<h3><b>Sequência lógica das etapas</b></h3>Organize o procedimento em uma <b>ordem lógica</b>, com etapas numeradas.<br><br>\",\"<h3><b>Organização visual</b></h3>Use listas, espaçamento e destaques para facilitar a consulta durante a prática.<br><br>\",\"<h3><b>Alertas e pontos de atenção&nbsp;</b></h3>Destaque cuidados como <b>sigilo de dados, conferência de valores</b> e etapas que costumam gerar dúvidas.<br><br>\",\"<h3><b>Materiais e recursos</b></h3>Liste no início os recursos necessários, como <b>computador, sistema, formulário e calculadora</b>.<br><br>\",\"<h3><b>Critérios de verificação</b></h3>Indique como conferir o resultado antes de avançar, como<b> revisar valores, conferir campos preenchidos ou validar um documento. </b><br><br>\"]"
+   },
+   "criadoEm": "2026-10-13T15:28:03.184Z",
+   "atualizadoEm": "2026-10-13T15:28:04.979Z",
+   "autor": "Teste"
   }
  ]
 }
