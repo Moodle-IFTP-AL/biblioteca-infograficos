@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-10-13T15:29:45.969Z",
+ "quando": "2026-10-13T15:29:54.253Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -71,6 +71,7 @@
      "novo": false
     }
    ]
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27466"
  }
 }
