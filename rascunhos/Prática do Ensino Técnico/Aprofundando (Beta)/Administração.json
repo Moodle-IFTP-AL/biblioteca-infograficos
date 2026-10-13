@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-10-13T15:29:05.328Z",
+ "quando": "2026-10-13T15:29:45.969Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -9,7 +9,7 @@
    "objetivo": "Identificar a função e os principais elementos de um roteiro técnico para elaborar práticas que favoreçam a autonomia e a segurança dos(as) estudantes.",
    "titulo": "<b>A Estrutura do Roteiro Técnico</b>",
    "conteudo": "<b>O que Pode Dar Errado?&nbsp;</b><br><br>Em um curso técnico, os(as) estudantes receberam o seguinte roteiro para uma atividade de simulação de controle de estoque:<br><br><i>“Ajuste o saldo dos produtos no sistema, conte os itens da prateleira B e, depois, registre as divergências encontradas. Para iniciar, leve as caixas do depósito até a mesa de conferência. Se necessário, utilize a planilha de apoio.”&nbsp;</i><br><br>[PERGUNTA1]<div><br></div><b>O que esse Roteiro Precisaria Prever?&nbsp;</b><br><br>O roteiro apresenta três falhas estruturais:<br><ol><li>Coloca o ajuste do saldo antes da contagem e do registro das divergências, comprometendo a sequência do procedimento;<br></li><li>Orienta a movimentação de caixas sem indicar os cuidados de segurança necessários;<br></li><li>Exige o uso da planilha de apoio sem informar como proceder caso ela não esteja disponível.<br><br><br><br></li></ol><br>Um roteiro técnico intencional precisa prever essas condições para orientar a prática com clareza, segurança e menor risco de erros ou retrabalho.<div><font face=\"Open Sans, sans-serif\"><br></font></div><div><h3><b><font color=\"#f04770\">Roteiro Técnico: Orientação para a Prática&nbsp;</font></b></h3><br>A partir da análise desse caso, percebemos que o roteiro técnico é mais do que um passo a passo: é um guia para orientar a execução da atividade prática pelo(a) estudante.<br><br>[CAIXADESTAQUE1]<br><br>Um roteiro bem estruturado organiza a sequência das etapas, evidencia pontos críticos e orienta os cuidados necessários, contribuindo para uma prática mais autônoma, segura e consciente.<br><br></div><div><h3><font color=\"#f04770\"><b>Pensar Sobre a Prática&nbsp;</b></font></h3><p><font color=\"#f04770\"><b></b><font face=\"Open Sans, sans-serif\"></font></font></p>[INFOGRAFICO1]<br><br>Antes de elaborar o roteiro técnico, analise o contexto da atividade. Em uma prática de Administração, verifique se os(as) estudantes já sabem preencher formulários, organizar documentos ou utilizar planilhas.<br><br>Considere os recursos e espaços disponíveis na escola e a realidade do território, como sistemas utilizados por empresas locais.<br><br>Avalie também o tempo disponível e a complexidade da tarefa: organizar um fluxo de atendimento exige menos etapas do que simular a gestão completa de um processo administrativo.<br><br><h3><b><font color=\"#f04770\">Onde É Preciso Ter Atenção?&nbsp;</font></b></h3><br>Mapear os pontos críticos significa antecipar situações que podem gerar dúvidas, inseguranças, erros ou riscos durante a prática.<br><br>Em uma atividade de Administração, por exemplo, os(as) estudantes podem:<br><ul><li>confundir campos de um formulário;<br></li><li>registrar uma informação no local incorreto;<br></li><li>utilizar dados pessoais de forma inadequada.<br></li></ul><br>Esses pontos devem aparecer no roteiro como orientações objetivas, indicando o que conferir, onde ter atenção e como proceder.<br><br>Assim, o roteiro apoia o(a) estudante justamente nas etapas em que a turma apresenta maior dificuldade.<br><br><div></div></div><div>[INFOGRAFICO2]</div><div><br><br><h3><b><font color=\"#f04770\">Adaptando o Roteiro Durante a Prática</font></b></h3><p><br></p>Durante a prática, podem surgir situações que exigem ajustes:<br><ul><li>falta de material;<br></li><li>equipamento indisponível;<br></li><li>falha no sistema;<br></li><li>mudança no tempo disponível;<br></li><li>dificuldade da turma;<br></li><li>necessidade de reorganizar o espaço.<br></li></ul><br>Nessas situações, não é necessário abandonar o roteiro<b>.</b> Você consulta a etapa prevista, identifica o que foi afetado e decide como prosseguir:<br><ul><li>substituir um recurso;<br></li><li>reorganizar a sequência;<br></li><li>retomar uma orientação;<br></li><li>demonstrar novamente ou adaptar a etapa.<br></li></ul><br>Enquanto os(as) estudantes executam a atividade, o roteiro orienta a ação, e você observa, intervém e toma decisões diante dos imprevistos.<br><br></div><div><br></div><div><br></div>",
-   "conectando": ""
+   "conectando": "Na próxima etapa, você vai analisar diferentes versões de roteiros técnicos e identificar quais orientações favorecem uma execução mais clara, segura e autônoma.<br>"
   },
   "blocos": [
    {
@@ -57,9 +57,20 @@
    }
   ],
   "conclusao": {
-   "titulo": "",
-   "texto": "<b>Em Resumo…</b><br><br>Um bom roteiro técnico nasce da reflexão sobre a prática e da antecipação das dificuldades que podem surgir durante sua execução.<br><br>Ao organizar orientações claras, etapas, pontos de atenção e possibilidades de ajuste, você oferece aos(às) estudantes uma referência para realizar, conferir e corrigir seu trabalho.<br><br>Assim, o roteiro apoia uma prática mais autônoma, segura e consciente, enquanto você acompanha e media a aprendizagem.<br><br>",
-   "blocos": []
+   "titulo": "Em Resumo…",
+   "texto": "Um bom roteiro técnico nasce da reflexão sobre a prática e da antecipação das dificuldades que podem surgir durante sua execução.<br><br>Ao organizar orientações claras, etapas, pontos de atenção e possibilidades de ajuste, você oferece aos(às) estudantes uma referência para realizar, conferir e corrigir seu trabalho.<br><br>Assim, o roteiro apoia uma prática mais autônoma, segura e consciente, enquanto você acompanha e media a aprendizagem.<br><br>[TOMENOTA1]<div><br></div><div>[DICA1]</div>",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "O plano de aula orienta a sua ação, enquanto o roteiro técnico orienta a execução da prática pelo(a) estudante. Mantenha no roteiro etapas claras, pontos de atenção e orientações objetivas para apoiar a autonomia durante a atividade.<br><br>",
+     "novo": false
+    },
+    {
+     "tipo": "dica",
+     "texto": "Se não for possível imprimir um roteiro para cada estudante, disponibilize-o em formato digital ou projete-o durante a prática. Outra opção é organizar os(as) estudantes em duplas ou grupos e entregar uma cópia por equipe, garantindo que todos tenham acesso às orientações.<br><br>",
+     "novo": false
+    }
+   ]
   }
  }
 }
