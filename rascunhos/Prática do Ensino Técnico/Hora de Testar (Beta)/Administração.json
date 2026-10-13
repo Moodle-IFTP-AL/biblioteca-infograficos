@@ -1,56 +1,23 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-10-08T18:40:20.634Z",
+ "quando": "2026-10-13T15:32:53.210Z",
  "autor": "Teste",
  "dados": {
   "campos": {
-   "objetivo": "Selecionar a estratégia de demonstração mais adequada, equilibrando a complexidade da prática e a antecipação de possíveis erros dos(as) estudantes.<br><br>",
-   "titulo": "Que demonstração usar na sua prática administrativa?<br><br>",
-   "conteudo": "Chegou o momento de aplicar o que você viu. Analise uma situação de gestão administrativa e escolha a forma de demonstração que melhor se adequa à complexidade da prática.<br><br><div>No setor de compras de uma prefeitura do interior de Alagoas, você está planejando uma aula sobre o preenchimento de uma nota de empenho.<br><br>O procedimento reúne várias etapas: identificar os dados do(a) credor(a), escolher a dotação orçamentária correta, classificar o tipo de despesa e conferir o saldo. Um erro em uma etapa, como uma dotação escolhida por engano, compromete todo o empenho.<br><br></div>",
+   "objetivo": "dentificar falhas de sequência lógica, clareza de linguagem e sinalização de pontos críticos em roteiros técnicos, avaliando sua adequação para favorecer a execução autônoma e segura das práticas pelos(as) estudantes.",
+   "titulo": "<b>Análise Crítica e Revisão de Roteiros Técnicos</b>",
+   "conteudo": "Agora é hora de colocar seu olhar pedagógico e técnico em prática. Analise situações de Administração e identifique qual versão do roteiro oferece orientações mais claras, organizadas e seguras para a execução da atividade pelos(as) estudantes.",
    "reflexao": ""
   },
-  "atividades": [
+  "blocos": [
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31052\" width=\"932\" height=\"503\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M3-U02-APLI-MULTI1\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "tipo": "h5p",
+    "texto": "",
+    "titulo": "Agora é hora de colocar seu olhar pedagógico e técnico em prática. Analise situações de Administração e identifique qual versão do roteiro oferece orientações mais claras, organizadas e seguras para a execução da atividade pelos(as) estudantes. ",
+    "incorporacao": "",
+    "novo": true
    }
-  ],
-  "tipoReflexao": "h5p",
-  "iframeReflexao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31053\" width=\"932\" height=\"530\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M3-U02-APLI-MULTI2\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
-  "conclusao": {
-   "titulo": "Conclusão",
-   "texto": "Nesta aula, você viu que escolher entre uma demonstração simples e outra complexa depende da prática administrativa em questão.<br><br>Ao dividir os procedimentos mais complexos em etapas, antecipar os erros mais comuns e ampliar, aos poucos, a participação dos(as) estudantes, a demonstração deixa de ser apenas mostrar como se faz e passa a orientar a tomada de decisões.<br><br>Leve esse olhar para o seu próximo planejamento.<br><br>[REVISAR1]<div><br></div><div>[INSPIRAR1]</div>",
-   "blocos": [
-    {
-     "tipo": "revisar",
-     "texto": "Revisite as aulas abaixo e veja como organizar uma atividade e estruturar uma prática técnica.<br><br>",
-     "idRevisar": "muzvm5uw9eaesv",
-     "itensRevisar": [
-      {
-       "id": "muzvmcm17omkc2",
-       "texto": "• Módulo 1, 2ª Aula Síncrona: Demonstração técnica aplicada ao projeto ABP<br><br>",
-       "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=23271"
-      },
-      {
-       "id": "muzvmdl8hweyow",
-       "texto": "• Módulo 1, Unidade 8: Preparação de demonstrações técnicas<br><br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=23158"
-      }
-     ],
-     "linkBotao": "",
-     "textoBotao": "",
-     "novo": false
-    },
-    {
-     "tipo": "inspirar",
-     "texto": "No relato \"Departamentos em diálogo\", a turma de Administração criou uma miniempresa para dividir responsabilidades e tomar decisões em grupo.<br>A melhor parte? Essa dinâmica de colaboração e definição de papéis deu tão certo que pode ser facilmente adaptada para as práticas de qualquer outro eixo!<br><br>",
-     "titulo": "",
-     "linkBotao": "https://drive.google.com/file/d/1ZPCOJh14H0ZNKaLaOmf_Z9hXSLJn3VTd/view?usp=sharing",
-     "textoBotao": "Acessar relato",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27292"
+  ]
  }
 }
