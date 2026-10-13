@@ -1,22 +1,20 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-10-13T15:38:06.328Z",
+ "quando": "2026-10-13T16:01:44.271Z",
  "autor": "Teste",
  "dados": {
   "campos": {
    "objetivo": "dentificar falhas de sequência lógica, clareza de linguagem e sinalização de pontos críticos em roteiros técnicos, avaliando sua adequação para favorecer a execução autônoma e segura das práticas pelos(as) estudantes.",
    "titulo": "<b>Análise Crítica e Revisão de Roteiros Técnicos</b>",
-   "conteudo": "Agora é hora de colocar seu olhar pedagógico e técnico em prática. Analise situações de Administração e identifique qual versão do roteiro oferece orientações mais claras, organizadas e seguras para a execução da atividade pelos(as) estudantes.<div><br></div><div>[H5P1]</div>",
+   "conteudo": "Agora é hora de colocar seu olhar pedagógico e técnico em prática. Analise situações de Administração e identifique qual versão do roteiro oferece orientações mais claras, organizadas e seguras para a execução da atividade pelos(as) estudantes.",
    "reflexao": ""
   },
-  "blocos": [
+  "blocos": [],
+  "atividades": [
    {
-    "tipo": "h5p",
-    "texto": "",
-    "titulo": "Agora é hora de colocar seu olhar pedagógico e técnico em prática. Analise situações de Administração e identifique qual versão do roteiro oferece orientações mais claras, organizadas e seguras para a execução da atividade pelos(as) estudantes. ",
-    "incorporacao": "",
-    "novo": false
+    "iframe": "",
+    "titulo": "Situação 1: Sequência das Etapas "
    }
   ]
  }
