@@ -1,7 +1,29 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-10-13T15:19:05.017Z",
+ "quando": "2026-10-13T15:21:04.852Z",
  "autor": "Teste",
- "dados": {}
+ "dados": {
+  "campos": {
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>Objetos do Conhecimento:</b><br>Roteiros técnicos detalhados.<br><b>Conteúdos:</b><br><ul><li>Organização de procedimentos em sequência lógica;<br></li><li>Identificação de pontos críticos da execução;<br></li><li>Ajustes no roteiro diante de variáveis da prática.<br></li></ul><b>Objetivo da Aula:</b> Elaborar roteiros técnicos detalhados para orientar práticas de maior complexidade.<br><br>",
+   "objetivo": "Identificar a função e os principais elementos de um roteiro técnico para elaborar práticas que favoreçam a autonomia e a segurança dos(as) estudantes.",
+   "titulo": "<b>A Estrutura do Roteiro Técnico</b>",
+   "conteudo": "<b>O que Pode Dar Errado?&nbsp;</b><br><br>Em um curso técnico, os(as) estudantes receberam o seguinte roteiro para uma atividade de simulação de controle de estoque:<br><br><i>“Ajuste o saldo dos produtos no sistema, conte os itens da prateleira B e, depois, registre as divergências encontradas. Para iniciar, leve as caixas do depósito até a mesa de conferência. Se necessário, utilize a planilha de apoio.”&nbsp;</i><br><br>[PERGUNTA1]<div><br></div><b>O que esse Roteiro Precisaria Prever?&nbsp;</b><br><br>O roteiro apresenta três falhas estruturais:<br><ol><li>Coloca o ajuste do saldo antes da contagem e do registro das divergências, comprometendo a sequência do procedimento;<br></li><li>Orienta a movimentação de caixas sem indicar os cuidados de segurança necessários;<br></li><li>Exige o uso da planilha de apoio sem informar como proceder caso ela não esteja disponível.<br><br><br><br></li></ol><br>Um roteiro técnico intencional precisa prever essas condições para orientar a prática com clareza, segurança e menor risco de erros ou retrabalho.<div><font face=\"Open Sans, sans-serif\"><br></font></div><div><h3><b><font color=\"#f04770\">Roteiro Técnico: Orientação para a Prática&nbsp;</font></b></h3><br>A partir da análise desse caso, percebemos que o roteiro técnico é mais do que um passo a passo: é um guia para orientar a execução da atividade prática pelo(a) estudante.<br><br><br><br>Um roteiro bem estruturado organiza a sequência das etapas, evidencia pontos críticos e orienta os cuidados necessários, contribuindo para uma prática mais autônoma, segura e consciente.<br><br></div><div><font face=\"Open Sans, sans-serif\"><br></font><br><div></div></div>",
+   "conectando": ""
+  },
+  "blocos": [
+   {
+    "tipo": "pergunta",
+    "texto": "",
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "Reflita: ",
+     "texto": "Se um(a) estudante inexperiente executar esse roteiro exatamente como está escrito, quais erros operacionais, riscos de segurança ou dificuldades podem ocorrer?<br>",
+     "videoUrl": "",
+     "iframeH5P": ""
+    },
+    "novo": false
+   }
+  ]
+ }
 }
