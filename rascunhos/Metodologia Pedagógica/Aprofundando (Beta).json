@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-10-19T13:39:25.738Z",
+ "quando": "2026-10-19T14:05:08.471Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -26,9 +26,9 @@
     "tipo": "video",
     "texto": "Acompanhe como novas perguntas e observações ajudam a investigar a possível origem de uma dificuldade.<br>",
     "titulo": "Veja abaixo:",
-    "url": "",
+    "url": "https://www.youtube.com/watch?v=xVgAOkInzko",
     "novo": false,
-    "minimizado": true
+    "minimizado": false
    },
    {
     "tipo": "infografico",
