@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-10-19T14:12:51.972Z",
+ "quando": "2026-10-19T14:14:51.731Z",
  "autor": "Teste",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objeto do conhecimento: </b>protocolos de segurança em práticas técnicas.<br><b>Conteúdos:</b><br><ul><li>riscos em procedimentos complexos;<br></li><li>protocolos preventivos e corretivos;<br></li><li>condutas diante de situações imprevistas.<br></li></ul><b>Objetivo da aula:</b> aplicar protocolos de segurança considerando variáveis e imprevistos da prática.<br><br>",
    "objetivo": "Identificar riscos e distinguir protocolos preventivos de corretivos, reconhecendo seu papel no planejamento de práticas seguras.<br><br>",
    "titulo": "<b>Prevenir, Corrigir e Agir com Segurança&nbsp;</b><br><br>",
-   "conteudo": "<b>Antes que o risco aconteça</b><br><br>Numa aula do curso de Administração, a turma monta a simulação de um escritório de atendimento para a feira de negócios da escola.<br><br>Para adiantar, um(a) estudante empilha caixas de documentos numa prateleira frágil e liga vários computadores na mesma tomada, que começa a esquentar.<br><br>A atividade avança na correria e ninguém percebe o risco.<br><br><div>[PERGUNTA1]</div><div><br></div><div><h3><b><font color=\"#f04770\">Mapeando os Riscos&nbsp;</font></b></h3><br>No curso de Administração, uma prática se torna complexa quando reúne muitas variáveis ao mesmo tempo.<br><br>Uma simulação de atendimento ao público, a organização de um arquivo ou uma rotina de caixa pode envolver muitos estudantes, equipamentos ligados, documentos, dados sensíveis, circulação pelo espaço e diferentes níveis de experiência da turma.<br><br>Antes de conduzir a prática, é necessário mapear esses pontos:<br><ul><li>onde o erro é mais provável;<br></li><li>o que exige cuidado no espaço;<br></li><li>quais informações precisam de proteção.<br></li></ul><div><b><font color=\"#f04770\">Esse mapeamento também contribui para o desenvolvimento do raciocínio técnico e profissional dos(as) estudantes. Ao identificar riscos, antecipar problemas e pensar em formas de evitá-los, eles(as) aprendem a analisar situações antes de agir e a tomar decisões mais conscientes durante a prática.</font></b></div></div><div><b><font color=\"#f04770\"><br></font></b></div><div>[INFOGRAFICO1]<b><font color=\"#f04770\"></font></b></div><div>Em ambos, a segurança resulta de planejamento e intencionalidade pedagógica, e não apenas de improviso.<br><br></div><div><br></div><div>[INFOGRAFICO2]</div><div><br></div><div><br></div><div><br></div><div></div>",
+   "conteudo": "<b>Antes que o risco aconteça</b><br><br>Numa aula do curso de Administração, a turma monta a simulação de um escritório de atendimento para a feira de negócios da escola.<br><br>Para adiantar, um(a) estudante empilha caixas de documentos numa prateleira frágil e liga vários computadores na mesma tomada, que começa a esquentar.<br><br>A atividade avança na correria e ninguém percebe o risco.<br><br><div>[PERGUNTA1]</div><div><br></div><div><h3><b><font color=\"#f04770\">Mapeando os Riscos&nbsp;</font></b></h3><br>No curso de Administração, uma prática se torna complexa quando reúne muitas variáveis ao mesmo tempo.<br><br>Uma simulação de atendimento ao público, a organização de um arquivo ou uma rotina de caixa pode envolver muitos estudantes, equipamentos ligados, documentos, dados sensíveis, circulação pelo espaço e diferentes níveis de experiência da turma.<br><br>Antes de conduzir a prática, é necessário mapear esses pontos:<br><ul><li>onde o erro é mais provável;<br></li><li>o que exige cuidado no espaço;<br></li><li>quais informações precisam de proteção.<br></li></ul><div><b><font color=\"#f04770\">Esse mapeamento também contribui para o desenvolvimento do raciocínio técnico e profissional dos(as) estudantes. Ao identificar riscos, antecipar problemas e pensar em formas de evitá-los, eles(as) aprendem a analisar situações antes de agir e a tomar decisões mais conscientes durante a prática.</font></b></div></div><div><b><font color=\"#f04770\"><br></font></b></div><div>[INFOGRAFICO1]<br><br><b><font color=\"#f04770\"></font></b></div><div>Em ambos, a segurança resulta de planejamento e intencionalidade pedagógica, e não apenas de improviso.<br><br></div><div><br></div><div><div><font color=\"#f04770\"><b>Prevenir e Corrigir na Prática&nbsp;</b></font></div><div><font color=\"#f04770\"><b><br></b></font>Na prática, prevenção e correção caminham juntas. Veja como esses protocolos podem aparecer em situações de Administração.</div><br></div><div><br></div><div></div><div><br></div><div></div><div><br></div><div><br></div><div><br></div><div></div>",
    "conectando": ""
   },
   "blocos": [
@@ -37,17 +37,7 @@
      "topico2_conteudo": "<span style=\"font-size: 1rem;\">Orienta as ações quando algo sai do planejado, buscando interromper ou controlar o risco com segurança, como afastar os estudantes de uma situação perigosa, interromper o uso de um equipamento ou proteger uma informação exposta.</span>"
     },
     "novo": false,
-    "minimizado": true
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "cards_coloridos",
-    "infograficoData": {
-     "cards": "[{\"titulo\":\"<b>Protocolo Preventivo</b><br><br>\",\"texto\":\"Distribuir os equipamentos elétricos em pontos de energia adequados antes da prática.<br><br>\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"},{\"titulo\":\"<b>Protocolo Corretivo</b><br><br>\",\"texto\":\"Interromper o uso ao identificar aquecimento anormal de tomada ou equipamento.\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"}]"
-    },
-    "novo": false,
-    "minimizado": true
+    "minimizado": false
    }
   ]
  }
