@@ -1,31 +1,27 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-10-08T17:55:36.182Z",
+ "quando": "2026-10-19T13:41:25.592Z",
  "autor": "Teste",
  "dados": {
   "campos": {
-   "objetivo": "Selecionar estratégias de organização da colaboração que favoreçam a participação ativa e a corresponsabilidade dos(as) estudantes.<br><br>",
-   "titulo": "Organizando a Colaboração<br><br>",
-   "conteudo": "Nesta atividade, você analisará uma situação prática inspirada e refletirá sobre como o planejamento da colaboração pode influenciar a participação dos(as) estudantes.<br><br>Em seguida, selecione as decisões que poderiam ter sido tomadas antes da atividade para favorecer a <b>corresponsabilidade, a participação ativa e a colaboração</b> entre os(as) integrantes do grupo.<br><br><div>[H5P1]<br><br>Agora que você analisou como as decisões de planejamento podem favorecer a colaboração, é hora de olhar para a sua própria prática. Na próxima etapa, você vai identificar uma mudança que pode incorporar às suas próximas atividades.<br><br></div>",
-   "reflexao": "<b>Planejar para Colaborar</b><br>Ao longo desta aula, você refletiu sobre como a organização da colaboração influencia a participação dos(as) estudantes durante práticas técnicas. Agora, registre sua aprendizagem utilizando a rotina de pensamento \"Passado, Presente e Futuro\".<br>"
+   "objetivo": "Analisar evidências de situações do ensino técnico, relacionando possíveis dimensões das dificuldades às necessidades de apoio dos(as) estudantes.<br><br>",
+   "titulo": "<b>Analisar antes de apoiar</b><br><br>",
+   "conteudo": "Nesta atividade, você analisará três situações inspiradas em práticas técnicas. Cada cenário apresenta ações, falas ou produções que podem indicar uma dificuldade predominantemente conceitual, procedimental ou atitudinal.<br><br>Sua tarefa será relacionar as evidências observadas à possível dimensão da dificuldade e identificar a necessidade de apoio mais adequado à situação.<br><br>Para isso, considere o objetivo da atividade, o que o(a) estudante demonstrou e os limites das informações disponíveis.<br><br><h3><b><font color=\"#f04770\">Lembre-se!</font></b></h3><p><b><font color=\"#f04770\"></font></b></p><b>Uma resposta adequada não rotula o(a) estudante nem transforma uma observação isolada em uma conclusão definitiva. Ela apresenta uma hipótese sustentada pelas evidências do cenário e indica o que pode ser investigado ou apoiado para favorecer a aprendizagem.</b><div><b><br></b></div><div><b><br></b><br></div>",
+   "reflexao": ""
   },
-  "blocos": [
+  "atividades": [
    {
-    "tipo": "h5p",
-    "texto": "",
-    "titulo": "Atividade",
-    "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31077\" width=\"922\" height=\"922\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M3-U02-APLI-MULT1\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
-    "novo": false
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31229\" width=\"968\" height=\"353\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M3-U04-APLI-MULTI1\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
+    "texto": "Em uma prática de produção de alimentos, a turma analisa a conservação de polpas de frutas. Rafael segue corretamente as etapas do roteiro, mas afirma que qualquer temperatura elevada conserva melhor o produto, sem considerar a relação entre temperatura, tempo de exposição e as&nbsp; alterações provocadas pelo aquecimento.<br><br>",
+    "titulo": "Atividade 1- Dimensão conceitual"
+   },
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31230\" width=\"968\" height=\"353\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M3-U04-APLI-MULTI2\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   },
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31231\" width=\"968\" height=\"377\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M3-U04-APLI-MULTI3\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    }
-  ],
-  "tipoReflexao": "h5p",
-  "iframeReflexao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31078\" width=\"922\" height=\"616\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M3-U02-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
-  "conclusao": {
-   "titulo": "Não existe uma única resposta correta. ",
-   "texto": "O mais importante é relacionar suas respostas às ideias desenvolvidas nesta aula e identificar uma ação concreta que possa ser incorporada ao seu planejamento.",
-   "blocos": []
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27285"
+  ]
  }
 }
