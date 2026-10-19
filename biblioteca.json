@@ -119,6 +119,18 @@
    "criadoEm": "2026-10-13T15:28:03.184Z",
    "atualizadoEm": "2026-10-13T15:28:04.979Z",
    "autor": "Teste"
+  },
+  {
+   "id": "097c46db-ed18-45c5-aa6d-6a8d6f71d032",
+   "nome": "Encontro Síncrono",
+   "pasta": "M3",
+   "tipo": "popup",
+   "data": {
+    "popup": "{\"titulo\":\"Encontro Síncrono\",\"fundo\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/popup/Popup2.png\",\"proporcao\":0.7947947947947948,\"larguraMaxima\":460,\"corVeu\":\"#0a3442\",\"opacidadeVeu\":0.88,\"raioCartao\":15,\"elementos\":[{\"id\":\"nwvg80k\",\"tipo\":\"texto\",\"caixa\":{\"x\":6.5,\"y\":8.5,\"largura\":87,\"altura\":32},\"html\":\"<p dir=\\\"ltr\\\"><strong>6º ENCONTRO SÍNCRONO MÓDULO 3!</strong></p>\\n<p dir=\\\"ltr\\\"></p>\",\"tamanho\":40,\"cor\":\"#f04770\",\"peso\":800,\"alinhamento\":\"center\",\"alturaLinha\":1.2,\"maiusculas\":false},{\"id\":\"qdhsfci\",\"tipo\":\"texto\",\"caixa\":{\"x\":8.5,\"y\":37.5,\"largura\":83,\"altura\":27},\"html\":\"<span style=\\\"font-weight: normal;\\\">De</span><strong> 19/10 a 21/10</strong><span style=\\\"font-weight: normal;\\\">,</span> <span style=\\\"font-weight: normal;\\\">teremos momentos para aprofundar os conteúdos do módulo, trocar experiências e refletir sobre situações da prática docente.</span><div>\\n<p dir=\\\"ltr\\\"></p></div>\",\"tamanho\":16,\"cor\":\"#0a3442\",\"peso\":800,\"alinhamento\":\"center\",\"alturaLinha\":1.2,\"maiusculas\":false},{\"id\":\"zqtdc57\",\"tipo\":\"botao\",\"caixa\":{\"x\":25,\"y\":74,\"largura\":50,\"altura\":10},\"texto\":\"CRONOGRAMA\",\"href\":\"https://https://docs.google.com/document/d/1ilLWfXUqfpWbNz7pXW2OxQKmZRfpTHFz/edit?usp=sharing&ouid=108835230929063636830&rtpof=true&sd=true\",\"corFundo\":\"#0a3442\",\"corTexto\":\"#ffffff\",\"tamanho\":16,\"raio\":34,\"novaAba\":true,\"pulsar\":true},{\"id\":\"i1bbtf4\",\"tipo\":\"texto\",\"caixa\":{\"x\":13,\"y\":55.5,\"largura\":74,\"altura\":14},\"html\":\"<strong style=\\\"font-size: 16px;\\\">Clique no botão abaixo</strong><span style=\\\"font-size: 16px;\\\"> </span><span style=\\\"font-size: 16px; font-weight: normal;\\\">para consultar as datas, horários e links dos encontros da sua turma.</span>\",\"tamanho\":16,\"cor\":\"#0a3442\",\"peso\":800,\"alinhamento\":\"center\",\"alturaLinha\":1.2,\"maiusculas\":false}]}"
+   },
+   "criadoEm": "2026-10-19T19:00:47.289Z",
+   "atualizadoEm": "2026-10-19T19:00:49.487Z",
+   "autor": "Teste"
   }
  ]
 }
