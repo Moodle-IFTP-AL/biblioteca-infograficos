@@ -1,22 +1,10 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Bibliografia (Beta)",
- "quando": "2026-10-08T18:01:30.480Z",
+ "quando": "2026-10-19T13:44:55.873Z",
  "autor": "Teste",
  "dados": {
-  "referencias": [
-   "Aprendizagem Baseada em Projetos: Guia para Professores de Ensino Fundamental e Médio, elaborado pelo Buck Institute For Education, com tradução de Daniel Bueno e lançamento no Brasil pela Artmed, 2008.\n",
-   "BACICH, L; MORAN. J. Metodologias ativas para uma educação inovadora: uma abordagem teórico-prática. 1ª ed. Editora: Penso. São Paulo-SP, 2017.\n",
-   "BRITES, L. Educação Baseada em Evidências: O Que Todo Professor Precisa Saber. Editora: NeuroSaber. 1º Ed. Londrina, 2021.\n",
-   "FERRAZ, Ana Paula do Carmo Marcheti; BELHOT, Renato Vairo. Taxonomia de Bloom: revisão teórica e apresentação das adequações do instrumento para definição de objetivos instrucionais. Gestão & Produção, São Carlos, v. 17, n. 2, p. 421–431, 2010.\n",
-   "FILATRO, A; CAVALVANTI. C.C. Design Thinking: na educação presencial, à distância e corporativa”. 1ª ed. Editora: Saraiva, São Paulo - SP, 2017.\n",
-   "FILATRO, A; CAVALVANTI. C.C. Metodologias inov-ativas: na educação presencial, a distância e corporativa. 1ª ed. Editora: Saraiva Educação, São Paulo - SP, 2018.\n",
-   "GRILLO, MARLENE CORRERO, et al. Por que falar ainda em avaliação? EDIPUCRS. Porto Alegre, 2010.\n",
-   "LEMOV, D. Aula nota 10: 49 técnicas para ser um professor campeão de audiência.  Tradução de Leda Beck; consultoria e revisão técnica Guiomar Namo de Mello e Paula Louzano. - São Paulo: Da Boa Prosa: Fundação Lemann, 2011.\n",
-   "MIRANDA, E. P. Aprendizado sem limites: organize sua rotina e seus métodos de estudos, controle a sua ansiedade e descubra do que seu cérebro é capaz. Editora: Gente. São Paulo - SP, 2023.\n",
-   "RUDMIK, R. T. Tornando-se imaginal - visualizando e criando o futuro da educação. Tradução Paulo Sérgio Bonagura - SENAI_SP Editora. São Paulo - SP, 2015.\n",
-   "ZABALA, A. Métodos para Ensinar Competências. 1ª ed. Editora: Penso. São Paulo-SP, 2020.\n"
-  ],
-  "linkVoltar": "https://ead.educacao.al.gov.br/course/view.php?id=280#section-55"
+  "referenciasTexto": "BACICH, L.; MORAN, J. Metodologias ativas para uma educação inovadora: uma abordagem teórico-prática. 1. ed. São Paulo, SP: Editora Penso, 2017.\nBRITES, L.; ALMEIDA, R. P. Educação Baseada em Evidências: O Que Todo Professor Precisa Saber. 1. ed. Londrina, PR: Editora NeuroSaber, 2021.\nBUCK INSTITUTE FOR EDUCATION. Aprendizagem Baseada em Projetos: Guia para Professores de Ensino Fundamental e Médio. Tradução de Daniel Bueno. Porto Alegre, RS: Artmed Editora, 2008.\nFERRAZ, A. P. do C. M.; BELHOT, R. V. Taxonomia de Bloom: revisão teórica e apresentação das adequações do instrumento para definição de objetivos instrucionais. Gestão & Produção, São Carlos, v. 17, n. 2, p. 421–431, 2010.\nFILATRO, A.; CAVALCANTI, C. C. Design Thinking: na educação presencial, à distância e corporativa. 1. ed. São Paulo, SP: Editora Saraiva, 2017.\nFILATRO, A.; CAVALCANTI, C. C.  Metodologias inov-ativas: na educação presencial, a distância e corporativa. 1. ed. São Paulo, SP: Editora Saraiva Educação, 2018.\nGRILLO, M. C. et al. Por que falar ainda em avaliação? Porto Alegre, RS: EDIPUCRS, 2010.\nLEMOV, D. Aula nota 10: 49 técnicas para ser um professor campeão de audiência. Tradução de Leda Beck; consultoria e revisão técnica de Guiomar Namo de Mello e Paula Louzano. São Paulo, SP: Da Boa Prosa: Fundação Lemann, 2011.\nMIRANDA, E. P. Aprendizado sem limites: organize sua rotina e seus métodos de estudos, controle a sua ansiedade e descubra do que seu cérebro é capaz. São Paulo,  SP: Editora Gente, 2023.\nRUDMIK, R. T. Tornando-se imaginal - visualizando e criando o futuro da educação. Tradução de Paulo Sérgio Bonagura.  São Paulo, SP: Senai Editora, 2015.\nZABALA, A. Métodos para Ensinar Competências. 1. ed. São Paulo, SP: Editora Penso, 2020.\n",
+  "linkVoltar": "https://ead.educacao.al.gov.br/course/view.php?id=280#section-59"
  }
 }
