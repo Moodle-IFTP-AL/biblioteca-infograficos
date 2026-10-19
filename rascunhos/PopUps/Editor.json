@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-10-19T18:52:55.992Z",
+ "quando": "2026-10-19T18:54:10.481Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -70,12 +70,12 @@
      "tipo": "texto",
      "caixa": {
       "x": 13,
-      "y": 56.5,
+      "y": 55.5,
       "largura": 74,
       "altura": 14
      },
      "html": "<strong style=\"font-size: 16px;\">Clique no botão abaixo</strong><span style=\"font-size: 16px;\"> </span><span style=\"font-size: 16px; font-weight: normal;\">para consultar as datas, horários e links dos encontros da sua turma.</span>",
-     "tamanho": 22,
+     "tamanho": 16,
      "cor": "#0a3442",
      "peso": 800,
      "alinhamento": "center",
