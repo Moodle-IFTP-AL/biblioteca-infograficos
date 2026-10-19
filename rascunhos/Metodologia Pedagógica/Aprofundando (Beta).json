@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-10-19T13:35:30.902Z",
+ "quando": "2026-10-19T13:37:30.638Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -9,7 +9,7 @@
    "objetivo": "Diferenciar possíveis dificuldades conceituais, procedimentais e atitudinais, relacionando as evidências observadas às necessidades de apoio dos(as) estudantes.<br><br>",
    "titulo": "<b>Da evidência à hipótese</b><br><br>",
    "conteudo": "Durante uma prática técnica, dúvidas, erros e bloqueios podem revelar aspectos da aprendizagem que precisam ser investigados.<br><ul><li>Uma dúvida recorrente pode indicar dificuldade na compreensão de um <b>conceito</b>.<br></li><li>Um erro que se repete durante a execução pode sinalizar uma dificuldade <b>procedimental</b>.<br></li><li>Um bloqueio, como desistência ou recusa em continuar, pode estar relacionado à dimensão <b>atitudinal</b>.<br></li></ul><br>Esses sinais orientam a investigação, mas, sozinhos, não permitem concluir a origem da dificuldade.<br><br><b>Considere&nbsp; a situação abaixo.&nbsp;</b><br><br>Durante uma prática técnica na horta escolar, um(a) estudante precisou montar um sistema de irrigação por gotejamento. Ao ligar a água, o primeiro canteiro encharcou, enquanto o último permaneceu seco. O estudante aumenta a saída do reservatório, mas não verifica os pontos de gotejamento ao longo da mangueira.<br><br><br><br>O que essa evidência revela? Ainda não é possível saber. Para investigar, o professor pode observar diferentes dimensões.<br><br><ul><li><b>Conceitual:</b> envolve os conhecimentos necessários para explicar princípios, relações e situações.<br></li></ul><i>O(a) aluno(a) compreende como a água se distribui pelo sistema?</i><br><ul><li><b>Procedimental:</b> refere-se à execução de técnicas e etapas, e ao uso de recursos. <i>Ele(a) sabe verificar conexões, mangueiras e pontos de gotejamento?</i><br></li><li><b>Atitudinal:</b> relaciona-se às atitudes demonstradas diante da atividade, como participação, persistência, colaboração e solicitação de ajuda.<br></li></ul><i>Ele(a) continua investigando ou interrompe a ação diante da dificuldade?</i><br><span style=\"font-family: &quot;Open Sans&quot;, sans-serif;\"></span>[CAIXADESTAQUE1]<span style=\"font-family: &quot;Open Sans&quot;, sans-serif;\"></span><div><br></div><div>[VIDEO1]</div><div><br></div><div><br></div><div><span style=\"font-size: 1rem;\">As evidências produzidas durante a prática ajudam a perceber o que os(as) estudantes já conseguem realizar e onde encontram dificuldades.</span><b></b></div><div><br>Mas uma ação, fala ou produção não deve ser interpretada isoladamente.<br><br>É preciso relacioná-la ao objetivo de aprendizagem, formular hipóteses e, quando necessário, buscar novas informações.<br><br>Acompanhe a tabela e observe como diferentes evidências podem sinalizar possíveis dificuldades conceituais, procedimentais ou atitudinais, sem serem consideradas diagnósticos definitivos.<br><br></div><div>[INFOGRAFICO1]</div><div><br></div><div><br></div>",
-   "conectando": ""
+   "conectando": "Agora, coloque esse olhar investigativo em prática. Na próxima etapa, você analisa situações do ensino técnico para relacionar evidências, possíveis dimensões das dificuldades e necessidades de apoio.<br><br>"
   },
   "blocos": [
    {
@@ -42,8 +42,14 @@
   ],
   "conclusao": {
    "titulo": "Conclusão",
-   "texto": "Dúvidas, erros e bloqueios são evidências que podem ajudar você a investigar o que está interferindo na aprendizagem.<br><br>Para analisá-los, relacione o que foi observado ao objetivo de aprendizagem e considere as dimensões conceitual, procedimental e atitudinal.<br><br><b><font color=\"#f04770\">Evite transformar um sinal isolado em diagnóstico. Formule hipóteses, faça perguntas e busque novas evidências antes de concluir.</font></b><div><b><font color=\"#f04770\"><br></font></b></div><div>Esse olhar investigativo permite diferenciar possíveis dificuldades, reconhecer quando ainda faltam informações e identificar necessidades de apoio mais coerentes com o que cada estudante demonstra durante a prática.<b><font color=\"#f04770\"></font></b></div>",
-   "blocos": []
+   "texto": "Dúvidas, erros e bloqueios são evidências que podem ajudar você a investigar o que está interferindo na aprendizagem.<br><br>Para analisá-los, relacione o que foi observado ao objetivo de aprendizagem e considere as dimensões conceitual, procedimental e atitudinal.<br><br><b><font color=\"#f04770\">Evite transformar um sinal isolado em diagnóstico. Formule hipóteses, faça perguntas e busque novas evidências antes de concluir.</font></b><div><b><font color=\"#f04770\"><br></font></b></div><div>Esse olhar investigativo permite diferenciar possíveis dificuldades, reconhecer quando ainda faltam informações e identificar necessidades de apoio mais coerentes com o que cada estudante demonstra durante a prática.<b><font color=\"#f04770\"></font></b></div><div><br></div><div>[DICA1]</div>",
+   "blocos": [
+    {
+     "tipo": "dica",
+     "texto": "Ao observar uma dificuldade, pergunte: “O que você pensou ao realizar esta etapa?” e “Pode me mostrar como fez?”. As respostas ajudam a investigar se a dificuldade está relacionada à compreensão, à execução ou à forma como o(a) estudante reage à situação.",
+     "novo": false
+    }
+   ]
   }
  }
 }
