@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Residência Pedagógica/Tarefa Residência Pedagógica",
- "quando": "2026-10-19T19:09:45.113Z",
+ "quando": "2026-10-19T19:13:44.985Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -44,6 +44,12 @@
     "caixaCorTexto": "#0a3442",
     "minimizado": true
    }
-  ]
+  ],
+  "rubricaUrl": "https://drive.google.com/file/d/1XCs5suIH_qYjBiiPO6e0BtJKUOxTlBkn/view?usp=sharing",
+  "conclusao": {
+   "titulo": "Para finalizar",
+   "texto": "<br>Ao analisar sua prática com base em evidências, você transforma o que aconteceu em informação para a tomada de decisões pedagógicas.<br>Esse movimento permite compreender as aprendizagens observadas, avaliar os efeitos das intervenções realizadas e definir ajustes para o próximo planejamento.<br><b>Observar, interpretar, decidir e replanejar: um ciclo contínuo de qualificação da prática docente.</b><br><br>",
+   "blocos": []
+  }
  }
 }
