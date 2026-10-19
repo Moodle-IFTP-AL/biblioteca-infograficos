@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-10-19T18:51:58.563Z",
+ "quando": "2026-10-19T18:52:23.084Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -34,7 +34,7 @@
      "id": "qdhsfci",
      "tipo": "texto",
      "caixa": {
-      "x": 10,
+      "x": 8.5,
       "y": 36.5,
       "largura": 83,
       "altura": 27
@@ -69,7 +69,7 @@
      "id": "i1bbtf4",
      "tipo": "texto",
      "caixa": {
-      "x": 14.5,
+      "x": 13,
       "y": 56.5,
       "largura": 74,
       "altura": 14
