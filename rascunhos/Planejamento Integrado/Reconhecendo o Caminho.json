@@ -1,7 +1,35 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Reconhecendo o Caminho",
- "quando": "2026-10-19T17:00:09.580Z",
+ "quando": "2026-10-19T17:40:45.320Z",
  "autor": "Teste",
- "dados": {}
+ "dados": {
+  "agoraSuaVez": {
+   "ativo": true,
+   "titulo": "Planejar para integrar",
+   "chamada": "Agora é sua vez de planejar!",
+   "cards": [
+    {
+     "titulo": "Analisem as evidências em equipe",
+     "texto": "Aproveite o HTPC para revisitar coletivamente as evidências da prática. Olhem para uma situação real da turma: o que as falas, tarefas e dificuldades dos(as) estudantes mostraram sobre o que funcionou e o que travou?\n"
+    },
+    {
+     "titulo": "Planeje de forma integrada",
+     "texto": "Utilizem o Roteiro de Ajustes e Replanejamento para a próxima aula e sigam os cinco passos para planejar intervenções simples e viáveis na rotina, combinando o apoio entre os componentes."
+    },
+    {
+     "titulo": "Registre e compartilhe",
+     "texto": "Faça o upload do documento preenchido na plataforma para registrar os caminhos combinados para as próximas aulas.\n"
+    }
+   ]
+  },
+  "campos": {
+   "texto1": "<b>Competência:&nbsp;</b><br><b>5 -</b> Planejar percursos formativos integrados e interdisciplinares, articulando saberes gerais e técnicos, competências da BNCC e demandas do mundo do trabalho: desenvolver a capacidade de organizar percursos formativos que articulem teoria e prática, competências gerais e técnicas, conteúdos de diferentes áreas e demandas reais do mundo do trabalho. Envolve integrar saberes gerais e profissionais, planejar sequências e unidades didáticas contextualizadas, construir projetos e atividades interdisciplinarmente articuladas e elaborar planos de aula coerentes com os itinerários formativos e as necessidades dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>5.3 -</b> Colaborar com outros professores na construção de percursos, sequências e projetos articulados, garantindo coerência pedagógica e progressão da aprendizagem.<br><b>Objetos do conhecimento: </b>acompanhamento baseado em evidências e replanejamento docente.<br><b>Conteúdos:</b><br><ul><li>leitura de evidências de processo (registros, produções intermediárias e escutas);<br></li><li>identificação de lacunas conceituais e procedimentais;<br></li><li>acompanhamento coletivo da prática e replanejamento no HTPC.<br></li></ul><b>Objetivo:</b> analisar evidências de aprendizagem e da prática pedagógica para tomar decisões sobre os ajustes necessários e registrar, colaborativamente, o replanejamento integrado das próximas aulas e atividades.<br><br>",
+   "texto2": "<div><span style=\"font-family: &quot;Open Sans&quot;, sans-serif; font-size: 1rem;\">Analisar evidências de aprendizagem e da prática pedagógica para tomar decisões sobre os ajustes necessários e registrar, colaborativamente, o replanejamento integrado das próximas aulas e atividades.</span></div>",
+   "texto3": "<b>Replanejamento Coletivo a partir das Evidências</b><br><br>",
+   "texto5": "Na aula anterior, você viu que o planejamento ganha vida na prática e que as evidências deixadas pelos(as) estudantes mostram o caminho para avançar. Mas o que fazer quando a aula não sai como o previsto?<br>No contexto escolar, replanejar é um exercício de análise de evidências. É preciso:<br><ul><li>reconhecer o que foi construído;<br></li><li>identificar o que ainda precisa ser retomado;<br></li><li>reorganizar os próximos passos com intencionalidade.<br></li></ul>Ao analisar registros feitos por professores(as) e estudantes, a equipe de diferentes componentes curriculares constrói o replanejamento de forma colaborativa, integrando as contribuições de cada área do conhecimento.<br><b>Como preencher o Roteiro de Ajustes e Replanejamento</b><br>Para apoiar essa conversa, disponibilizamos o Roteiro de Ajustes e Replanejamento, organizado em cinco etapas práticas.<br><ul><li><font color=\"#f04770\"><b>Passo 1 - O que as evidências revelam?</b><br></font></li></ul>Escolha uma aula ou atividade recente e observe o que a turma fez, disse ou produziu. Registre o que essas evidências revelam sobre a condução da aula.<br><ul><li><font color=\"#f04770\"><b>Passo 2 - A que dimensão formativa essa evidência se relaciona?</b><br></font></li></ul>Considere as dimensões que podem ajudar a compreender a situação e identifique quais delas estão relacionadas à necessidade observada: cognitiva, sociocultural e territorial, socioemocional ou profissional.<br><ul><li><font color=\"#f04770\"><b>Passo 3 - O que vale a pena manter, retomar ou ajustar?</b><br></font></li></ul>Defina o que deve ser mantido, retomado ou ajustado nas próximas aulas.<br><ul><li><font color=\"#f04770\"><b>Passo 4 - Que intervenção pontual será colocada em prática?</b><br></font></li></ul>Defina como o ajuste será incorporado às próximas aulas e qual professor(a) ou componente ficará responsável pela ação.<br><ul><li><font color=\"#f04770\"><b>Passo 5 - O que será observado na próxima aula?</b><br></font></li></ul>Definam uma evidência observável para verificar se o ajuste funcionou e se os(as) estudantes avançaram na aprendizagem.<br>Replanejar em equipe é transformar as evidências da prática em decisões de aprendizagem. Ao longo do planejamento coletivo,&nbsp; pequenos ajustes, construídos em conjunto, ajudam a turma a avançar.<br><br>",
+   "texto7": ""
+  },
+  "tipoBotao": "envio"
+ }
 }
