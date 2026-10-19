@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-10-19T18:49:36.670Z",
+ "quando": "2026-10-19T18:49:57.707Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -35,11 +35,11 @@
      "tipo": "texto",
      "caixa": {
       "x": 10,
-      "y": 44.5,
+      "y": 39.5,
       "largura": 83,
       "altura": 27
      },
-     "html": "<span style=\"font-weight: normal;\">De</span><strong> 19/10 a 21/10</strong><span style=\"font-weight: normal;\">,</span> <span style=\"font-weight: normal;\">teremos momentos para aprofundar os conteúdos do módulo, trocar experiências e refletir sobre situações da prática docente.</span><div><span style=\"font-weight: normal;\"><br></span></div><div><p dir=\"ltr\"><strong>Clique no botão abaixo</strong> <span style=\"font-weight: normal;\">para consultar as datas, horários e links dos encontros da sua turma.</span></p>\n<p dir=\"ltr\"></p></div>",
+     "html": "<span style=\"font-weight: normal;\">De</span><strong> 19/10 a 21/10</strong><span style=\"font-weight: normal;\">,</span> <span style=\"font-weight: normal;\">teremos momentos para aprofundar os conteúdos do módulo, trocar experiências e refletir sobre situações da prática docente.</span><div>\n<p dir=\"ltr\"></p></div>",
      "tamanho": 16,
      "cor": "#0a3442",
      "peso": 800,
@@ -64,6 +64,23 @@
      "raio": 12,
      "novaAba": true,
      "pulsar": true
+    },
+    {
+     "id": "i1bbtf4",
+     "tipo": "texto",
+     "caixa": {
+      "x": 13.5,
+      "y": 60.5,
+      "largura": 76,
+      "altura": 14
+     },
+     "html": "<strong style=\"font-size: 16px;\">Clique no botão abaixo</strong><span style=\"font-size: 16px;\"> </span><span style=\"font-size: 16px; font-weight: normal;\">para consultar as datas, horários e links dos encontros da sua turma.</span>",
+     "tamanho": 22,
+     "cor": "#0a3442",
+     "peso": 800,
+     "alinhamento": "center",
+     "alturaLinha": 1.2,
+     "maiusculas": false
     }
    ]
   }
