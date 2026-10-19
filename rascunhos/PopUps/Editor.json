@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-10-19T18:45:16.435Z",
+ "quando": "2026-10-19T18:47:16.099Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -18,8 +18,8 @@
      "tipo": "texto",
      "caixa": {
       "x": 6.5,
-      "y": 12.5,
-      "largura": 75,
+      "y": 13,
+      "largura": 87,
       "altura": 32
      },
      "html": "<p dir=\"ltr\"><strong>ENCONTROS SÍNCRONOS MÓDULO 3!</strong></p>\n<p dir=\"ltr\"></p>",
@@ -28,6 +28,23 @@
      "peso": 800,
      "alinhamento": "center",
      "alturaLinha": 1.1,
+     "maiusculas": false
+    },
+    {
+     "id": "qdhsfci",
+     "tipo": "texto",
+     "caixa": {
+      "x": 6.25,
+      "y": 47.5,
+      "largura": 88,
+      "altura": 30
+     },
+     "html": "<span style=\"font-weight: normal;\">De</span><strong> 19/10 a 21/10</strong><span style=\"font-weight: normal;\">,</span> <span style=\"font-weight: normal;\">teremos momentos para aprofundar os conteúdos do módulo, trocar experiências e refletir sobre situações da prática docente.</span><div><span style=\"font-weight: normal;\"><br></span></div><div><p dir=\"ltr\"><strong>Clique no botão abaixo</strong> <span style=\"font-weight: normal;\">para consultar as datas, horários e links dos encontros da sua turma.</span></p>\n<p dir=\"ltr\"></p></div>",
+     "tamanho": 17,
+     "cor": "#0a3442",
+     "peso": 800,
+     "alinhamento": "center",
+     "alturaLinha": 1.2,
      "maiusculas": false
     }
    ]
