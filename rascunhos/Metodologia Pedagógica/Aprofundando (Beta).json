@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-10-19T13:25:30.505Z",
+ "quando": "2026-10-19T13:29:30.589Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -29,6 +29,15 @@
     "url": "",
     "novo": false,
     "minimizado": true
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "tabela_completa",
+    "infograficoData": {
+     "tabela": "{\"titulo\":\"<font color=\\\"#f04770\\\"><span style=\\\"font-weight: normal;\\\">Relação entre evidências observadas e possíveis necessidades de apoio&nbsp;</span><br></font><br>\",\"subtitulo\":\"\",\"colunas\":[\"<b>Evidência observada&nbsp;</b><br>\",\"<b>Possível dimensão&nbsp;</b><br><b>envolvida</b><br>\"],\"linhas\":[[\"Apresenta dificuldade em realizar uma ou mais etapas da atividade.<br><br>\",\"<b>Conceitual</b><div>Retomar os conceitos e princípios relacionados à atividade, com exemplos e perguntas orientadoras<b><br></b><br><div><font face=\\\"Open Sans, sans-serif\\\"><br></font></div><div><br><br><br></div></div>\"],[\"\",\"<b>Procedimental</b><div><b><br></b></div><div>Retomada de conceitos e relações necessários para compreender a situação.<br><br></div>\"],[\"\",\"\"]]}"
+    },
+    "novo": true
    }
   ]
  }
