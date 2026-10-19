@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-10-19T18:52:36.393Z",
+ "quando": "2026-10-19T18:52:55.992Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -52,7 +52,7 @@
      "tipo": "botao",
      "caixa": {
       "x": 25,
-      "y": 76,
+      "y": 75,
       "largura": 50,
       "altura": 10
      },
@@ -61,7 +61,7 @@
      "corFundo": "#0a3442",
      "corTexto": "#ffffff",
      "tamanho": 16,
-     "raio": 12,
+     "raio": 34,
      "novaAba": true,
      "pulsar": true
     },
