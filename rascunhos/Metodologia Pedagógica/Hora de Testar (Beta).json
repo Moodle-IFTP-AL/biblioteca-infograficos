@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-10-19T13:41:25.592Z",
+ "quando": "2026-10-19T13:43:25.662Z",
  "autor": "Teste",
  "dados": {
   "campos": {
    "objetivo": "Analisar evidências de situações do ensino técnico, relacionando possíveis dimensões das dificuldades às necessidades de apoio dos(as) estudantes.<br><br>",
    "titulo": "<b>Analisar antes de apoiar</b><br><br>",
    "conteudo": "Nesta atividade, você analisará três situações inspiradas em práticas técnicas. Cada cenário apresenta ações, falas ou produções que podem indicar uma dificuldade predominantemente conceitual, procedimental ou atitudinal.<br><br>Sua tarefa será relacionar as evidências observadas à possível dimensão da dificuldade e identificar a necessidade de apoio mais adequado à situação.<br><br>Para isso, considere o objetivo da atividade, o que o(a) estudante demonstrou e os limites das informações disponíveis.<br><br><h3><b><font color=\"#f04770\">Lembre-se!</font></b></h3><p><b><font color=\"#f04770\"></font></b></p><b>Uma resposta adequada não rotula o(a) estudante nem transforma uma observação isolada em uma conclusão definitiva. Ela apresenta uma hipótese sustentada pelas evidências do cenário e indica o que pode ser investigado ou apoiado para favorecer a aprendizagem.</b><div><b><br></b></div><div><b><br></b><br></div>",
-   "reflexao": ""
+   "reflexao": "<b>Da observação à intervenção</b><br><br>Ao longo desta aula, você analisou como erros, dúvidas e bloqueios podem oferecer pistas sobre o que interfere na aprendizagem.<br><br>Para interpretar essas evidências, é preciso relacioná-las ao objetivo, considerar as possíveis dimensões da dificuldade e buscar novas informações antes de concluir. Esse olhar investigativo ajuda a evitar rótulos e a identificar necessidades de apoio de forma mais coerente.<br><br>Leve esse olhar para suas próximas práticas: observe, pergunte e compare evidências antes de decidir como apoiar os(as) estudantes.<br><br>Pense em uma mudança que você pode fazer na forma de observar ou interpretar as dificuldades durante suas próximas atividades.<br><br>"
   },
   "atividades": [
    {
@@ -17,11 +17,16 @@
     "titulo": "Atividade 1- Dimensão conceitual"
    },
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31230\" width=\"968\" height=\"353\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M3-U04-APLI-MULTI2\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31230\" width=\"968\" height=\"353\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M3-U04-APLI-MULTI2\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
+    "titulo": "Atividade 2 - Dimensão procedimental",
+    "texto": "Em uma simulação de roteiro turístico em Alagoas, Luana explica corretamente os cuidados de segurança e de acolhimento. Ao organizar a saída do grupo, porém, inicia o percurso sem conferir a lista de participantes, as necessidades de acessibilidade e o ponto de encontro. Mesmo com o roteiro disponível, repete a sequência incompleta."
    },
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31231\" width=\"968\" height=\"377\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M3-U04-APLI-MULTI3\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31231\" width=\"968\" height=\"377\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M3-U04-APLI-MULTI3\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
+    "texto": "Em uma simulação de atendimento imobiliário, Caio identifica as necessidades do(a) cliente, apresenta informações corretas sobre o imóvel e segue a ficha de atendimento. Quando o(a) cliente questiona o valor e pede outras opções, Caio demonstra frustração, interrompe a escuta e se recusa a continuar a negociação.<br><br>",
+    "titulo": "Atividade 3 - Dimensão atitudinal"
    }
-  ]
+  ],
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27331"
  }
 }
