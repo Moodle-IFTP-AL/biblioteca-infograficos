@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-10-19T18:51:33.895Z",
+ "quando": "2026-10-19T18:51:45.212Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -27,7 +27,7 @@
      "cor": "#f04770",
      "peso": 800,
      "alinhamento": "center",
-     "alturaLinha": 1.1,
+     "alturaLinha": 1.2,
      "maiusculas": false
     },
     {
