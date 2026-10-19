@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-10-19T18:50:13.004Z",
+ "quando": "2026-10-19T18:50:34.214Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -35,7 +35,7 @@
      "tipo": "texto",
      "caixa": {
       "x": 10,
-      "y": 39.5,
+      "y": 36.5,
       "largura": 83,
       "altura": 27
      },
@@ -69,10 +69,10 @@
      "id": "i1bbtf4",
      "tipo": "texto",
      "caixa": {
-      "x": 13.5,
-      "y": 60.5,
-      "largura": 76,
-      "altura": 14
+      "x": 10.5,
+      "y": 57.5,
+      "largura": 82,
+      "altura": 14.5
      },
      "html": "<strong style=\"font-size: 16px;\">Clique no botão abaixo</strong><span style=\"font-size: 16px;\"> </span><span style=\"font-size: 16px; font-weight: normal;\">para consultar as datas, horários e links dos encontros da sua turma.</span>",
      "tamanho": 22,
