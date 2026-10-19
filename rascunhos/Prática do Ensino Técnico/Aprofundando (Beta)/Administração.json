@@ -1,15 +1,15 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-10-13T15:31:00.887Z",
+ "quando": "2026-10-19T14:08:52.231Z",
  "autor": "Teste",
  "dados": {
   "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>Objetos do Conhecimento:</b><br>Roteiros técnicos detalhados.<br><b>Conteúdos:</b><br><ul><li>Organização de procedimentos em sequência lógica;<br></li><li>Identificação de pontos críticos da execução;<br></li><li>Ajustes no roteiro diante de variáveis da prática.<br></li></ul><b>Objetivo da Aula:</b> Elaborar roteiros técnicos detalhados para orientar práticas de maior complexidade.<br><br>",
-   "objetivo": "Identificar a função e os principais elementos de um roteiro técnico para elaborar práticas que favoreçam a autonomia e a segurança dos(as) estudantes.",
-   "titulo": "<b>A Estrutura do Roteiro Técnico</b>",
-   "conteudo": "<b>O que Pode Dar Errado?&nbsp;</b><br><br>Em um curso técnico, os(as) estudantes receberam o seguinte roteiro para uma atividade de simulação de controle de estoque:<br><br><i>“Ajuste o saldo dos produtos no sistema, conte os itens da prateleira B e, depois, registre as divergências encontradas. Para iniciar, leve as caixas do depósito até a mesa de conferência. Se necessário, utilize a planilha de apoio.”&nbsp;</i><br><br>[PERGUNTA1]<div><br></div><b>O que esse Roteiro Precisaria Prever?&nbsp;</b><br><br>O roteiro apresenta três falhas estruturais:<br><ol><li>Coloca o ajuste do saldo antes da contagem e do registro das divergências, comprometendo a sequência do procedimento;<br></li><li>Orienta a movimentação de caixas sem indicar os cuidados de segurança necessários;<br></li><li>Exige o uso da planilha de apoio sem informar como proceder caso ela não esteja disponível.<br><br><br><br></li></ol><br>Um roteiro técnico intencional precisa prever essas condições para orientar a prática com clareza, segurança e menor risco de erros ou retrabalho.<div><font face=\"Open Sans, sans-serif\"><br></font></div><div><h3><b><font color=\"#f04770\">Roteiro Técnico: Orientação para a Prática&nbsp;</font></b></h3><br>A partir da análise desse caso, percebemos que o roteiro técnico é mais do que um passo a passo: é um guia para orientar a execução da atividade prática pelo(a) estudante.<br><br>[CAIXADESTAQUE1]<br><br>Um roteiro bem estruturado organiza a sequência das etapas, evidencia pontos críticos e orienta os cuidados necessários, contribuindo para uma prática mais autônoma, segura e consciente.<br><br></div><div><h3><font color=\"#f04770\"><b>Pensar Sobre a Prática&nbsp;</b></font></h3><p><font color=\"#f04770\"><b></b><font face=\"Open Sans, sans-serif\"></font></font></p>[INFOGRAFICO1]<br><br>Antes de elaborar o roteiro técnico, analise o contexto da atividade. Em uma prática de Administração, verifique se os(as) estudantes já sabem preencher formulários, organizar documentos ou utilizar planilhas.<br><br>Considere os recursos e espaços disponíveis na escola e a realidade do território, como sistemas utilizados por empresas locais.<br><br>Avalie também o tempo disponível e a complexidade da tarefa: organizar um fluxo de atendimento exige menos etapas do que simular a gestão completa de um processo administrativo.<br><br><h3><b><font color=\"#f04770\">Onde É Preciso Ter Atenção?&nbsp;</font></b></h3><br>Mapear os pontos críticos significa antecipar situações que podem gerar dúvidas, inseguranças, erros ou riscos durante a prática.<br><br>Em uma atividade de Administração, por exemplo, os(as) estudantes podem:<br><ul><li>confundir campos de um formulário;<br></li><li>registrar uma informação no local incorreto;<br></li><li>utilizar dados pessoais de forma inadequada.<br></li></ul><br>Esses pontos devem aparecer no roteiro como orientações objetivas, indicando o que conferir, onde ter atenção e como proceder.<br><br>Assim, o roteiro apoia o(a) estudante justamente nas etapas em que a turma apresenta maior dificuldade.<br><br><div></div></div><div>[INFOGRAFICO2]</div><div><br><br><h3><b><font color=\"#f04770\">Adaptando o Roteiro Durante a Prática</font></b></h3><p><br></p>Durante a prática, podem surgir situações que exigem ajustes:<br><ul><li>falta de material;<br></li><li>equipamento indisponível;<br></li><li>falha no sistema;<br></li><li>mudança no tempo disponível;<br></li><li>dificuldade da turma;<br></li><li>necessidade de reorganizar o espaço.<br></li></ul><br>Nessas situações, não é necessário abandonar o roteiro<b>.</b> Você consulta a etapa prevista, identifica o que foi afetado e decide como prosseguir:<br><ul><li>substituir um recurso;<br></li><li>reorganizar a sequência;<br></li><li>retomar uma orientação;<br></li><li>demonstrar novamente ou adaptar a etapa.<br></li></ul><br>Enquanto os(as) estudantes executam a atividade, o roteiro orienta a ação, e você observa, intervém e toma decisões diante dos imprevistos.<br><br></div><div><br></div><div><br></div>",
-   "conectando": "Na próxima etapa, você vai analisar diferentes versões de roteiros técnicos e identificar quais orientações favorecem uma execução mais clara, segura e autônoma.<br>"
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objeto do conhecimento: </b>protocolos de segurança em práticas técnicas.<br><b>Conteúdos:</b><br><ul><li>riscos em procedimentos complexos;<br></li><li>protocolos preventivos e corretivos;<br></li><li>condutas diante de situações imprevistas.<br></li></ul><b>Objetivo da aula:</b> aplicar protocolos de segurança considerando variáveis e imprevistos da prática.<br><br>",
+   "objetivo": "Identificar riscos e distinguir protocolos preventivos de corretivos, reconhecendo seu papel no planejamento de práticas seguras.<br><br>",
+   "titulo": "<b>Prevenir, Corrigir e Agir com Segurança&nbsp;</b><br><br>",
+   "conteudo": "<b>Antes que o risco aconteça</b><br><br>Numa aula do curso de Administração, a turma monta a simulação de um escritório de atendimento para a feira de negócios da escola.<br><br>Para adiantar, um(a) estudante empilha caixas de documentos numa prateleira frágil e liga vários computadores na mesma tomada, que começa a esquentar.<br><br>A atividade avança na correria e ninguém percebe o risco.<br><br><div>[PERGUNTA1]</div><div><br></div><div><h3><b><font color=\"#f04770\">Mapeando os Riscos&nbsp;</font></b></h3><br>No curso de Administração, uma prática se torna complexa quando reúne muitas variáveis ao mesmo tempo.<br><br>Uma simulação de atendimento ao público, a organização de um arquivo ou uma rotina de caixa pode envolver muitos estudantes, equipamentos ligados, documentos, dados sensíveis, circulação pelo espaço e diferentes níveis de experiência da turma.<br><br>Antes de conduzir a prática, é necessário mapear esses pontos:<br><ul><li>onde o erro é mais provável;<br></li><li>o que exige cuidado no espaço;<br></li><li>quais informações precisam de proteção.<br></li></ul><div><b><font color=\"#f04770\">Esse mapeamento também contribui para o desenvolvimento do raciocínio técnico e profissional dos(as) estudantes. Ao identificar riscos, antecipar problemas e pensar em formas de evitá-los, eles(as) aprendem a analisar situações antes de agir e a tomar decisões mais conscientes durante a prática.</font></b></div></div><div><b><font color=\"#f04770\"><br></font></b></div><div><b><font color=\"#f04770\"><br></font></b></div><div></div>",
+   "conectando": ""
   },
   "blocos": [
    {
@@ -17,61 +17,13 @@
     "texto": "",
     "pergunta": {
      "tipo": "texto",
-     "titulo": "Reflita: ",
-     "texto": "Se um(a) estudante inexperiente executar esse roteiro exatamente como está escrito, quais erros operacionais, riscos de segurança ou dificuldades podem ocorrer?<br>",
+     "titulo": "Antes de começar, o que deveria ter sido combinado com a turma para evitar essa situação?",
+     "texto": "<b>E na sua prática?&nbsp;</b><br>Ao planejar uma prática, como você identifica antecipadamente os riscos do espaço, dos equipamentos, dos documentos e das informações para definir orientações preventivas antes da aula?<br><br>",
      "videoUrl": "",
      "iframeH5P": ""
     },
     "novo": false
-   },
-   {
-    "tipo": "caixadestaque",
-    "texto": "<b>Enquanto o plano de aula orienta a sua ação em sala, definindo objetivos, estratégias e formas de mediação, o roteiro técnico orienta o que o(a) estudante deve fazer na bancada, no laboratório ou na oficina.</b>",
-    "caixaImgUrl": "",
-    "caixaImgSize": 40,
-    "caixaCorFundo": "#f0fdf4",
-    "caixaCorBorda": "#06d7a0",
-    "novo": false,
-    "caixaCorTexto": "#0a3442"
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "cards_icones_setas",
-    "infograficoData": {
-     "titulo": "<b>O que Pensar Antes de Elaborar o Roteiro?</b><br><br>",
-     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/M%C3%A3o%20engrenagem.png\",\"titulo\":\"<b>Conhecimentos prévios</b>\",\"texto\":\"<ul><li>O que os(as) estudantes já sabem fazer?<br></li><li>Quais conhecimentos precisam ser retomados?<br></li></ul>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2049.png\",\"titulo\":\"<b>Escola e território</b><br>\",\"texto\":\"<ul><li>Quais recursos e espaços estão disponíveis?<br></li><li>A atividade dialoga com a realidade local?<br></li></ul>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%207.png\",\"titulo\":\"<b>Tempo e espaço</b>\",\"texto\":\"<ul><li>Quanto tempo está disponível?<br></li><li>Onde a atividade será realizada?<br></li><li>Há espaço e recursos suficientes?<br></li></ul>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2013.png\",\"titulo\":\"<b>Nível de complexidade</b>\",\"texto\":\"<ul><li><font color=\\\"#ffffff\\\">Quantas etapas a prática possui?<br></font></li><li><font color=\\\"#ffffff\\\">Envolve decisões, cálculos ou riscos?<br></font></li><li><font color=\\\"#ffffff\\\">Quanto detalhamento o roteiro exige?</font><br></li></ul>\",\"corFundo\":\"#f04770\"}]"
-    },
-    "novo": false
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "zigzag",
-    "infograficoData": {
-     "titulo": "<b>Elementos de um Roteiro Técnico</b><br>",
-     "subtitulo": "Um roteiro técnico bem estruturado orienta a execução da prática e ajuda o(a) estudante a realizar, conferir e corrigir seu trabalho com maior autonomia.<br>",
-     "items": "[\"<h3><b>Linguagem objetiva</b></h3>Use verbos de ação observáveis: <b>Confira, Registre, Calcule, Organize.</b> Evite textos longos e explicações desnecessárias.<br><br>\",\"<h3><b>Sequência lógica das etapas</b></h3>Organize o procedimento em uma <b>ordem lógica</b>, com etapas numeradas.<br><br>\",\"<h3><b>Organização visual</b></h3>Use listas, espaçamento e destaques para facilitar a consulta durante a prática.<br><br>\",\"<h3><b>Alertas e pontos de atenção&nbsp;</b></h3>Destaque cuidados como <b>sigilo de dados, conferência de valores</b> e etapas que costumam gerar dúvidas.<br><br>\",\"<h3><b>Materiais e recursos</b></h3>Liste no início os recursos necessários, como <b>computador, sistema, formulário e calculadora</b>.<br><br>\",\"<h3><b>Critérios de verificação</b></h3>Indique como conferir o resultado antes de avançar, como<b> revisar valores, conferir campos preenchidos ou validar um documento. </b><br><br>\"]"
-    },
-    "novo": false
    }
-  ],
-  "conclusao": {
-   "titulo": "Em Resumo…",
-   "texto": "Um bom roteiro técnico nasce da reflexão sobre a prática e da antecipação das dificuldades que podem surgir durante sua execução.<br><br>Ao organizar orientações claras, etapas, pontos de atenção e possibilidades de ajuste, você oferece aos(às) estudantes uma referência para realizar, conferir e corrigir seu trabalho.<br><br>Assim, o roteiro apoia uma prática mais autônoma, segura e consciente, enquanto você acompanha e media a aprendizagem.<br><br>[TOMENOTA1]<div><br></div><div>[DICA1]</div>",
-   "blocos": [
-    {
-     "tipo": "tomenota",
-     "texto": "O plano de aula orienta a sua ação, enquanto o roteiro técnico orienta a execução da prática pelo(a) estudante. Mantenha no roteiro etapas claras, pontos de atenção e orientações objetivas para apoiar a autonomia durante a atividade.<br><br>",
-     "novo": false
-    },
-    {
-     "tipo": "dica",
-     "texto": "Se não for possível imprimir um roteiro para cada estudante, disponibilize-o em formato digital ou projete-o durante a prática. Outra opção é organizar os(as) estudantes em duplas ou grupos e entregar uma cópia por equipe, garantindo que todos tenham acesso às orientações.<br><br>",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27466"
+  ]
  }
 }
