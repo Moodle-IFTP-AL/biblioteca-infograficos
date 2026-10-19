@@ -1,0 +1,39 @@
+{
+ "versao": 1,
+ "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Administração",
+ "quando": "2026-10-19T14:47:36.937Z",
+ "autor": "Teste",
+ "dados": {
+  "campos": {
+   "objetivo": "Analisar situações reais de imprevistos no ensino prático, identificando lacunas de prevenção e propondo condutas corretivas fundamentadas, e avaliar a viabilidade das soluções apresentadas pelos pares.<br><br>",
+   "titulo": "<b>Que imprevisto marcou a sua prática?</b><br><br>",
+   "conteudo": "Bem-vindo(a) ao fórum!<br>Agora, relacione o conteúdo da aula com uma situação real ou possível em uma prática de Administração.<br><b>1. Compartilhe sua situação</b><br>Escolha uma prática e descreva:<br><ul><li>o que aconteceu ou poderia acontecer;<br></li><li>qual risco estava envolvido;<br></li><li>qual protocolo preventivo poderia evitá-lo;<br></li><li>qual conduta corretiva você adotaria.<br></li></ul><b>2. Comente a postagem de um(a) colega</b><br>Analise se a solução proposta é viável e, se necessário, sugira um cuidado adicional.<br><br><div>[REVISAR1]</div>",
+   "instrucoesTitulo": "Sua participação deve conter:",
+   "orientacoesTitulo": "Orientações para o formato:"
+  },
+  "blocos": [
+   {
+    "tipo": "revisar",
+    "texto": "Para aprofundar a adaptação de materiais à realidade da sua escola, revise a aula:",
+    "idRevisar": "mvfda9dkjdr1jf",
+    "itensRevisar": [
+     {
+      "id": "mvfdagnnddqbjo",
+      "texto": "&nbsp;Módulo 1 — Unidade 5: Seleção e adaptação de recursos.",
+      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22338"
+     }
+    ],
+    "linkBotao": "",
+    "textoBotao": "",
+    "novo": false
+   }
+  ],
+  "acoes": [
+   {
+    "id": "it-mvfd9jjh-1",
+    "titulo": "Compartilhe sua situação",
+    "texto": ""
+   }
+  ]
+ }
+}
