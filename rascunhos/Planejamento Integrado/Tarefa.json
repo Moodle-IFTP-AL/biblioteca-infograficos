@@ -1,19 +1,14 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Tarefa",
- "quando": "2026-10-08T22:17:20.085Z",
+ "quando": "2026-10-19T17:49:27.198Z",
  "autor": "Teste",
  "dados": {
   "botoesMaterial": [
    {
-    "texto": "Acessar modelo de plano da SEDUC/AL",
-    "link": "",
-    "cor": "#fec43e"
-   },
-   {
-    "texto": "Acessar matriz curricular",
-    "link": "",
-    "cor": "#06d7a0"
+    "texto": "Acessar modelo Roteiro de Ajustes e Replanejamento",
+    "link": "https://docs.google.com/document/d/105ar183-eYvEAgrpkmM2D0GIbD4AqcdzAnGx3OPK8PU/edit?tab=t.0",
+    "cor": "#f04770"
    }
   ],
   "checklist": {
@@ -21,17 +16,22 @@
    "itens": [
     {
      "titulo": "Reúna os(as) colegas",
-     "texto": "Aproveite o HTPC para revisar coletivamente os objetivos, saberes e possibilidades de integração entre a Formação Geral Básica, o Ensino Técnico e outros componentes do pALei."
+     "texto": "Reúnam os professores dos componentes e das experiências curriculares diretamente relacionados à situação analisada. Quando pertinente, o(a) articulador(a) de ensino e a coordenação pedagógica também podem participar, apoiando a análise das evidências e a definição dos encaminhamentos."
     },
     {
      "titulo": "Planeje de forma integrada",
-     "texto": "Utilize o planejamento já esboçado, o modelo de planejamento da SEDUC/AL e as matrizes curriculares como apoio para consolidar e aprimorar o plano do bimestre."
+     "texto": "Escolham uma situação concreta de uma aula recente e percorram as cinco etapas deste roteiro. Registrem os ajustes acordados coletivamente, considerando as necessidades dos(as) estudantes e as condições reais da turma e da escola."
     }
    ]
   },
   "destaque": {
    "titulo": "Registre e compartilhe",
    "texto": "Faça o upload do documento revisado na plataforma para evidenciar como os conhecimentos serão mobilizados de forma integrada."
-  }
+  },
+  "formatos": [
+   "pdf",
+   "docx",
+   "doc"
+  ]
  }
 }
