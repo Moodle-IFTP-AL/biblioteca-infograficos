@@ -1,10 +1,10 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Bibliografia (Beta)/Administração",
- "quando": "2026-10-13T16:28:32.966Z",
+ "quando": "2026-10-19T14:53:09.326Z",
  "autor": "Teste",
  "dados": {
-  "referenciasTexto": "CHIAVENATO, Idalberto. Introdução à Teoria Geral da Administração: uma visão abrangente da moderna administração das organizações. 10. ed. Rio de Janeiro: Atlas, 2021. Contexto de uso: referência fundamental para estudar as rotinas operacionais, organização de fluxos de trabalho e controle de processos administrativos aplicados nos roteiros técnicos.\n\nKUENZER, Acácia Zeneida. Pedagogia do Acompanhamento na Educação Profissional e Tecnológica. 2. ed. São Paulo: Cortez, 2022. Contexto de uso: embasamento pedagógico sobre a articulação entre teoria e prática, intencionalidade na condução de oficinas e mediação docente no ensino técnico.\n\nMORAN, José. Metodologias Ativas para uma Aprendizagem Profunda: como aprender com autonomia e engajamento. 2. ed. Porto Alegre: Penso, 2023. Contexto de uso: sustenta a construção de materiais instrucionais (como o roteiro técnico) voltados para a autonomia, protagonismo e segurança do(a) estudante em atividades práticas.\n\nSEBRAE. Guia Prático de Processos e Gestão Operacional para MPEs. Brasília: SEBRAE, 2023. Contexto de uso: fonte prática atualizada para mapeamento de processos, procedimentos operacionais padrão (POP) e checklists aplicados à realidade das empresas e simulações didáticas em Administração.\n",
-  "linkVoltar": "https://ead.educacao.al.gov.br/course/view.php?id=280#section-57"
+  "referenciasTexto": "BRASIL. Ministério do Trabalho e Emprego. Normas Regulamentadoras – NR. Brasília, DF: Ministério do Trabalho e Emprego, [s.d.]. Disponível em: https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/seguranca-e-saude-no-trabalho/ctpp-nrs/normas-regulamentadoras-nrs. Acesso em: 8 out. 2026. \n\nCHIAVENATO, Idalberto. Iniciação à Administração Geral. 3. ed. São Paulo: Manole, 2014.\n\nMARRAS, Jean Pierre. Gestão de Pessoas: Transformando Teoria em Prática. 15. ed. São Paulo: Saraiva, 2016.\n\nMENEZES, Luís César de Oliveira. Gestão de Processos e Riscos nas Organizações. São Paulo: Atlas, 2019.\n",
+  "linkVoltar": "https://ead.educacao.al.gov.br/course/view.php?id=280#section-59"
  }
 }
