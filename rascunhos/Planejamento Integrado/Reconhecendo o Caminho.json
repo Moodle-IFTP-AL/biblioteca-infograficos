@@ -1,7 +1,27 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Reconhecendo o Caminho",
- "quando": "2026-10-08T21:34:47.012Z",
+ "quando": "2026-10-19T16:49:53.492Z",
  "autor": "Teste",
- "dados": {}
+ "dados": {
+  "agoraSuaVez": {
+   "ativo": true,
+   "titulo": "Planejar para integrar",
+   "chamada": "Agora é sua vez de planejar!",
+   "cards": [
+    {
+     "titulo": "Reúna os(as) colegas",
+     "texto": "Aproveite o HTPC para revisar coletivamente os objetivos, saberes e possibilidades de integração entre a Formação Geral Básica, o Ensino Técnico e outros componentes do pALei."
+    },
+    {
+     "titulo": "Planeje de forma integrada",
+     "texto": "Utilize o planejamento já esboçado, o modelo de planejamento da SEDUC/AL e as matrizes curriculares como apoio para consolidar e aprimorar o plano."
+    },
+    {
+     "titulo": "Registre e compartilhe",
+     "texto": "Faça o upload do documento na plataforma para evidenciar como os conhecimentos serão mobilizados de forma integrada."
+    }
+   ]
+  }
+ }
 }
