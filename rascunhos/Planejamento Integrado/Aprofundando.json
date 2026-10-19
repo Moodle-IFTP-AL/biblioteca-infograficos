@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-10-19T17:00:29.796Z",
+ "quando": "2026-10-19T17:38:45.120Z",
  "autor": "Teste",
  "dados": {
   "agoraSuaVez": {
@@ -22,6 +22,13 @@
      "texto": "Faça o upload do documento na plataforma para evidenciar como os conhecimentos serão mobilizados de forma integrada."
     }
    ]
+  },
+  "campos": {
+   "texto1": "<b>Competência:&nbsp;</b><br><b>5 -</b> Planejar percursos formativos integrados e interdisciplinares, articulando saberes gerais e técnicos, competências da BNCC e demandas do mundo do trabalho: desenvolver a capacidade de organizar percursos formativos que articulem teoria e prática, competências gerais e técnicas, conteúdos de diferentes áreas e demandas reais do mundo do trabalho. Envolve integrar saberes gerais e profissionais, planejar sequências e unidades didáticas contextualizadas, construir projetos e atividades interdisciplinarmente articuladas e elaborar planos de aula coerentes com os itinerários formativos e as necessidades dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>5.3 -</b> Colaborar com outros professores na construção de percursos, sequências e projetos articulados, garantindo coerência pedagógica e progressão da aprendizagem.<br><b>Objetos do conhecimento: </b>acompanhamento baseado em evidências e replanejamento docente.<br><b>Conteúdos:</b><br><ul><li>leitura de evidências de processo (registros, produções intermediárias e escutas);<br></li><li>identificação de lacunas conceituais e procedimentais;<br></li><li>acompanhamento coletivo da prática e replanejamento no HTPC.<br></li></ul><b>Objetivo:</b> analisar evidências de aprendizagem e da prática pedagógica para tomar decisões sobre os ajustes necessários e registrar, colaborativamente, o replanejamento integrado das próximas aulas e atividades.<br><br>",
+   "texto2": "",
+   "texto3": "",
+   "texto5": "",
+   "texto7": ""
   }
  }
 }
