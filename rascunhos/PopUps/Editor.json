@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-10-19T18:54:20.264Z",
+ "quando": "2026-10-19T19:01:05.695Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -18,7 +18,7 @@
      "tipo": "texto",
      "caixa": {
       "x": 6.5,
-      "y": 9,
+      "y": 8.5,
       "largura": 87,
       "altura": 32
      },
