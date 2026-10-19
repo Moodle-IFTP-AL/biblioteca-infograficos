@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-10-19T18:54:10.481Z",
+ "quando": "2026-10-19T18:54:20.264Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -52,7 +52,7 @@
      "tipo": "botao",
      "caixa": {
       "x": 25,
-      "y": 75,
+      "y": 74,
       "largura": 50,
       "altura": 10
      },
