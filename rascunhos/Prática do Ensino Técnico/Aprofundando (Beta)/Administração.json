@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-10-19T14:16:51.953Z",
+ "quando": "2026-10-19T14:18:47.158Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -44,24 +44,32 @@
     "texto": "",
     "infograficoTipo": "cards_coloridos",
     "infograficoData": {
-     "cards": "[{\"titulo\":\"<b>Protocolo Preventivo</b><br><br>\",\"texto\":\"<ul><li>Distribuir os equipamentos elétricos em pontos de energia adequados antes da prática.</li><li>Combinar o manuseio e a proteção de documentos com dados sensíveis.</li><li>Organizar caixas de arquivo em prateleiras firmes e adequadas.</li><li>Manter corredores e saídas livres antes da simulação.</li><li>Ajustar previamente mesas, cadeiras e equipamentos para a atividade.</li></ul><br>\",\"textoColorido\":\"\",\"textoContinuacao\":\"<br>\"},{\"titulo\":\"<b>Protocolo Corretivo</b><br><br>\",\"texto\":\"<ul><li>Interromper o uso ao identificar aquecimento anormal de tomada ou equipamento.</li><li>Recolher e proteger documento exposto indevidamente.</li><li>Afastar a turma ao identificar instabilidade em uma prateleira.</li><li>Interromper a atividade se uma rota de saída for obstruída.</li><li>Pausar a atividade ao identificar condição inadequada de ergonomia ou circulação.</li></ul><br>\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"}]"
+     "cards": "[{\"titulo\":\"<b>Protocolo Preventivo</b><br><br>\",\"texto\":\"<ul><li>Distribuir os equipamentos elétricos em pontos de energia adequados antes da prática.</li><li>Combinar o manuseio e a proteção de documentos com dados sensíveis.</li><li>Organizar caixas de arquivo em prateleiras firmes e adequadas.</li><li>Manter corredores e saídas livres antes da simulação.</li><li>Ajustar previamente mesas, cadeiras e equipamentos para a atividade.</li></ul>\",\"textoColorido\":\"\",\"textoContinuacao\":\"<br>\"},{\"titulo\":\"<b>Protocolo Corretivo</b><br><br>\",\"texto\":\"<ul><li>Interromper o uso ao identificar aquecimento anormal de tomada ou equipamento.</li><li>Recolher e proteger documento exposto indevidamente.</li><li>Afastar a turma ao identificar instabilidade em uma prateleira.</li><li>Interromper a atividade se uma rota de saída for obstruída.</li><li>Pausar a atividade ao identificar condição inadequada de ergonomia ou circulação.</li></ul>\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"}]"
     },
     "novo": false
    }
   ],
   "conclusao": {
    "titulo": "Em Resumo: Segurança Também se Planeja",
-   "texto": "Para conduzir uma prática com segurança, lembre-se de:<br><ul><li><b>observar:</b> identifique riscos no espaço, equipamentos, informações e turma;<br></li><li><b>antecipar:</b> preveja erros e dificuldades que podem surgir;<br></li><li><b>orientar:</b> combine os cuidados e procedimentos antes da atividade;<br></li><li><b>agir:</b> diante de um imprevisto, interrompa, proteja e comunique à gestão escolar;<br></li><li><b>aprender:</b> use o ocorrido para aprimorar as próximas práticas.<br></li></ul>Assim, a segurança deixa de ser apenas uma reação ao problema e passa a fazer parte da aprendizagem profissional dos(as) estudantes.<br><br>",
+   "texto": "Para conduzir uma prática com segurança, lembre-se de:<br><ul><li><b>observar:</b> identifique riscos no espaço, equipamentos, informações e turma;<br></li><li><b>antecipar:</b> preveja erros e dificuldades que podem surgir;<br></li><li><b>orientar:</b> combine os cuidados e procedimentos antes da atividade;<br></li><li><b>agir:</b> diante de um imprevisto, interrompa, proteja e comunique à gestão escolar;<br></li><li><b>aprender:</b> use o ocorrido para aprimorar as próximas práticas.<br></li></ul>Assim, a segurança deixa de ser apenas uma reação ao problema e passa a fazer parte da aprendizagem profissional dos(as) estudantes.<br><br><div>[SAIBAMAIS1]</div><div><br></div><div>[DICA1]</div>",
    "blocos": [
     {
      "tipo": "saibamais",
      "texto": "As <b>Normas Regulamentadoras (NRs)</b> ajudam a compreender riscos e medidas de prevenção presentes no mundo do trabalho. Consulte as normas e identifique referências que podem orientar o planejamento de práticas mais seguras e próximas da realidade profissional.",
-     "titulo": "",
-     "linkBotao": "",
-     "textoBotao": "",
-     "novo": true
+     "titulo": "<b>Normas Regulamentadoras (NRs)</b>",
+     "linkBotao": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/seguranca-e-saude-no-trabalho/ctpp-nrs/normas-regulamentadoras-nrs",
+     "textoBotao": "Acesse",
+     "novo": false,
+     "corTextoBotao": "#0a3442",
+     "corBotao": "#fec43e"
+    },
+    {
+     "tipo": "dica",
+     "texto": "Antes da prática, torne explícitos os principais riscos e as medidas de prevenção. Convide os(as) estudantes a identificar esses pontos no espaço e explicar por que cada cuidado é necessário, desenvolvendo consciência técnica e profissional.<br><br>",
+     "novo": false
     }
    ]
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27335"
  }
 }
