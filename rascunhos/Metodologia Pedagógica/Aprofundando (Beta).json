@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-10-19T13:23:30.417Z",
+ "quando": "2026-10-19T13:25:30.505Z",
  "autor": "Teste",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>2 -</b> Avaliar a aprendizagem por competências, a partir de evidências das práticas pedagógicas e técnicas desenvolvidas pelos estudantes, considerando a mobilização de conhecimentos gerais no contexto da Educação Profissional e Tecnológica, para orientar o planejamento e o replanejamento das aulas e o desenvolvimento dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>2.2 </b>- Analisar evidências de aprendizagem (registros práticos, produções, observações, devolutivas) para identificar avanços, dificuldades e necessidades de intervenção.<br><b>Objeto do conhecimento: </b>leitura das dificuldades dos(as) estudantes.<br><b>Conteúdos:</b><br><ul><li>dificuldades conceituais, procedimentais e atitudinais;<br></li><li>erros, dúvidas e bloqueios durante a prática;<br></li><li>análise de causas possíveis das dificuldades;<br></li><li>relação entre evidências observadas e necessidades de apoio.<br></li></ul><b>Objetivo: </b>analisar as dificuldades dos(as) estudantes a partir de evidências observadas, diferenciando aspectos conceituais, procedimentais e atitudinais presentes nas práticas técnicas.<br><br>",
    "objetivo": "Diferenciar possíveis dificuldades conceituais, procedimentais e atitudinais, relacionando as evidências observadas às necessidades de apoio dos(as) estudantes.<br><br>",
    "titulo": "<b>Da evidência à hipótese</b><br><br>",
-   "conteudo": "Durante uma prática técnica, dúvidas, erros e bloqueios podem revelar aspectos da aprendizagem que precisam ser investigados.<br><ul><li>Uma dúvida recorrente pode indicar dificuldade na compreensão de um <b>conceito</b>.<br></li><li>Um erro que se repete durante a execução pode sinalizar uma dificuldade <b>procedimental</b>.<br></li><li>Um bloqueio, como desistência ou recusa em continuar, pode estar relacionado à dimensão <b>atitudinal</b>.<br></li></ul><br>Esses sinais orientam a investigação, mas, sozinhos, não permitem concluir a origem da dificuldade.<br><br><b>Considere&nbsp; a situação abaixo.&nbsp;</b><br><br>Durante uma prática técnica na horta escolar, um(a) estudante precisou montar um sistema de irrigação por gotejamento. Ao ligar a água, o primeiro canteiro encharcou, enquanto o último permaneceu seco. O estudante aumenta a saída do reservatório, mas não verifica os pontos de gotejamento ao longo da mangueira.<br><br><br><br>O que essa evidência revela? Ainda não é possível saber. Para investigar, o professor pode observar diferentes dimensões.<br><br><ul><li><b>Conceitual:</b> envolve os conhecimentos necessários para explicar princípios, relações e situações.<br></li></ul><i>O(a) aluno(a) compreende como a água se distribui pelo sistema?</i><br><ul><li><b>Procedimental:</b> refere-se à execução de técnicas e etapas, e ao uso de recursos. <i>Ele(a) sabe verificar conexões, mangueiras e pontos de gotejamento?</i><br></li><li><b>Atitudinal:</b> relaciona-se às atitudes demonstradas diante da atividade, como participação, persistência, colaboração e solicitação de ajuda.<br></li></ul><i>Ele(a) continua investigando ou interrompe a ação diante da dificuldade?</i><br><span style=\"font-family: &quot;Open Sans&quot;, sans-serif;\"></span>[CAIXADESTAQUE1]<span style=\"font-family: &quot;Open Sans&quot;, sans-serif;\"></span>",
+   "conteudo": "Durante uma prática técnica, dúvidas, erros e bloqueios podem revelar aspectos da aprendizagem que precisam ser investigados.<br><ul><li>Uma dúvida recorrente pode indicar dificuldade na compreensão de um <b>conceito</b>.<br></li><li>Um erro que se repete durante a execução pode sinalizar uma dificuldade <b>procedimental</b>.<br></li><li>Um bloqueio, como desistência ou recusa em continuar, pode estar relacionado à dimensão <b>atitudinal</b>.<br></li></ul><br>Esses sinais orientam a investigação, mas, sozinhos, não permitem concluir a origem da dificuldade.<br><br><b>Considere&nbsp; a situação abaixo.&nbsp;</b><br><br>Durante uma prática técnica na horta escolar, um(a) estudante precisou montar um sistema de irrigação por gotejamento. Ao ligar a água, o primeiro canteiro encharcou, enquanto o último permaneceu seco. O estudante aumenta a saída do reservatório, mas não verifica os pontos de gotejamento ao longo da mangueira.<br><br><br><br>O que essa evidência revela? Ainda não é possível saber. Para investigar, o professor pode observar diferentes dimensões.<br><br><ul><li><b>Conceitual:</b> envolve os conhecimentos necessários para explicar princípios, relações e situações.<br></li></ul><i>O(a) aluno(a) compreende como a água se distribui pelo sistema?</i><br><ul><li><b>Procedimental:</b> refere-se à execução de técnicas e etapas, e ao uso de recursos. <i>Ele(a) sabe verificar conexões, mangueiras e pontos de gotejamento?</i><br></li><li><b>Atitudinal:</b> relaciona-se às atitudes demonstradas diante da atividade, como participação, persistência, colaboração e solicitação de ajuda.<br></li></ul><i>Ele(a) continua investigando ou interrompe a ação diante da dificuldade?</i><br><span style=\"font-family: &quot;Open Sans&quot;, sans-serif;\"></span>[CAIXADESTAQUE1]<span style=\"font-family: &quot;Open Sans&quot;, sans-serif;\"></span><div><br></div><div>[VIDEO1]</div><div><br></div><div><br></div><div><span style=\"font-size: 1rem;\">As evidências produzidas durante a prática ajudam a perceber o que os(as) estudantes já conseguem realizar e onde encontram dificuldades.</span><b></b></div><div><br>Mas uma ação, fala ou produção não deve ser interpretada isoladamente.<br><br>É preciso relacioná-la ao objetivo de aprendizagem, formular hipóteses e, quando necessário, buscar novas informações.<br><br>Acompanhe a tabela e observe como diferentes evidências podem sinalizar possíveis dificuldades conceituais, procedimentais ou atitudinais, sem serem consideradas diagnósticos definitivos.<br><br></div><div><br></div>",
    "conectando": ""
   },
   "blocos": [
@@ -19,14 +19,16 @@
     "caixaImgSize": 40,
     "caixaCorFundo": "#0a3442",
     "caixaCorBorda": "#06d7a0",
-    "novo": false
+    "novo": false,
+    "minimizado": true
    },
    {
     "tipo": "video",
     "texto": "Acompanhe como novas perguntas e observações ajudam a investigar a possível origem de uma dificuldade.<br>",
     "titulo": "Veja abaixo:",
     "url": "",
-    "novo": true
+    "novo": false,
+    "minimizado": true
    }
   ]
  }
