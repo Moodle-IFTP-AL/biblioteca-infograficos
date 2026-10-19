@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-10-19T18:50:53.374Z",
+ "quando": "2026-10-19T18:51:33.895Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -22,7 +22,7 @@
       "largura": 87,
       "altura": 32
      },
-     "html": "<p dir=\"ltr\"><strong>ENCONTROS SÍNCRONOS MÓDULO 3!</strong></p>\n<p dir=\"ltr\"></p>",
+     "html": "<p dir=\"ltr\"><strong>6º ENCONTRO SÍNCRONO MÓDULO 3!</strong></p>\n<p dir=\"ltr\"></p>",
      "tamanho": 40,
      "cor": "#f04770",
      "peso": 800,
