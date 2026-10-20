@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Economia Social",
- "quando": "2026-10-20T19:31:32.603Z",
+ "quando": "2026-10-20T19:33:32.617Z",
  "autor": "Teste",
  "dados": {
   "conclusao": {
@@ -13,7 +13,7 @@
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objeto do conhecimento: </b>protocolos de segurança em práticas técnicas.<br><b>Conteúdos:</b><br><ul><li>riscos em procedimentos complexos;<br></li><li>protocolos preventivos e corretivos;<br></li><li>condutas diante de situações imprevistas.<br></li></ul><b>Objetivo da aula:</b> aplicar protocolos de segurança considerando variáveis e imprevistos da prática.<br><br>",
    "objetivo": "Planejar, prevenir e agir<br><br>",
    "titulo": "<b>Antes que o risco aconteça</b><br><br><br>",
-   "conteudo": "Numa aula, a turma conduz uma assembleia simulada de uma cooperativa de agricultores do Sertão alagoano.<br><br>Durante a votação, percebe-se que a ata registra uma decisão sem a conferência dos votos, e ninguém sabe se o resultado está correto.<br><br>A prática seguiu adiante, mas a falha compromete a confiabilidade do registro.<br><br><b>O que deveria ter sido previsto e combinado antes de a turma começar?</b><div><b><br></b></div><div>[PERGUNTA1]<b></b></div><div><br></div><div><b>Onde estão os riscos da prática?<br></b><br>Os riscos podem surgir do desconhecimento de normas e procedimentos, do uso inadequado de documentos e planilhas, de falhas na conferência de informações e da falta de clareza sobre as responsabilidades de cada participante.<br>Eles podem ser:<br><br><br></div>",
+   "conteudo": "Numa aula, a turma conduz uma assembleia simulada de uma cooperativa de agricultores do Sertão alagoano.<br><br>Durante a votação, percebe-se que a ata registra uma decisão sem a conferência dos votos, e ninguém sabe se o resultado está correto.<br><br>A prática seguiu adiante, mas a falha compromete a confiabilidade do registro.<br><br><b>O que deveria ter sido previsto e combinado antes de a turma começar?</b><div><b><br></b></div><div>[PERGUNTA1]<b></b></div><div><br></div><div><b>Onde estão os riscos da prática?<br></b><br>Os riscos podem surgir do desconhecimento de normas e procedimentos, do uso inadequado de documentos e planilhas, de falhas na conferência de informações e da falta de clareza sobre as responsabilidades de cada participante.<br>Eles podem ser:<br><br>[INFOGRAFICO1]<br><br>Por isso, antes da aula, é necessário mapear cada etapa, identificar possíveis falhas e riscos e definir medidas de prevenção adequadas à prática e à turma.</div><div><br></div><div>[CAIXADESTAQUE1]</div><div><br></div><h3><font color=\"#f04770\"><b>Protocolos preventivos e corretivos</b></font></h3><p><b>Antecipar para Agir</b><br><br>Diante dos riscos, você precisa pensar tanto no que fazer para evitá-los quanto em como agir caso algo saia do planejado.<br><br><b>Protocolos preventivos:</b> são definidos antes da prática para reduzir a possibilidade de falhas, como estabelecer regras, definir responsáveis pelos registros e validar dados antes dos lançamentos.<br><br><b>Protocolos corretivos:</b> orientam a resposta quando algo sai do planejado, como suspender uma votação diante de registros inconsistentes ou revisar lançamentos contábeis incorretos.<br><br>Ambos devem ser planejados intencionalmente para orientar decisões e evitar que os problemas comprometam a atividade e a aprendizagem.<br><br></p><p><h3><b><font color=\"#f04770\">Prevenir e Corrigir na Prática&nbsp;</font></b></h3>Na prática, prevenção e correção caminham juntas. Veja como esses protocolos podem aparecer.<br><br></p><p><br></p>",
    "conectando": ""
   },
   "blocos": [
@@ -27,7 +27,29 @@
      "videoUrl": "",
      "iframeH5P": ""
     },
-    "novo": false
+    "novo": false,
+    "minimizado": true
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "cards_coloridos",
+    "infograficoData": {
+     "cards": "[{\"titulo\":\"<b>Contabilidade</b>\",\"texto\":\"Erros em cálculos, lançamentos e classificação de contas, uso inadequado de planilhas e sistemas contábeis, utilização de documentos incompletos ou não conferidos, compartilhamento indevido de dados financeiros e pessoais &nbsp; e interpretação equivocada de normas e procedimentos.<br><br>\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"},{\"titulo\":\"<b>Cooperativismo</b>\",\"texto\":\"Aplicação incorreta das regras de votação e participação, condução de assembleias sem regras ou responsabilidades claras, registro incompleto ou incorreto das decisões em atas e falta de transparência na prestação de contas.<br><br>\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"}]"
+    },
+    "novo": false,
+    "minimizado": true
+   },
+   {
+    "tipo": "caixadestaque",
+    "texto": "Esse mapeamento também contribui para o desenvolvimento do raciocínio técnico e profissional dos(as) estudantes. Ao identificar riscos, antecipar problemas e pensar em formas de evitá-los, eles(as) aprendem a analisar situações antes de agir e a tomar decisões mais conscientes durante a prática.",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#fdf0f3",
+    "caixaCorBorda": "#f04770",
+    "novo": false,
+    "caixaCorTexto": "#0a3442",
+    "minimizado": true
    }
   ]
  }
