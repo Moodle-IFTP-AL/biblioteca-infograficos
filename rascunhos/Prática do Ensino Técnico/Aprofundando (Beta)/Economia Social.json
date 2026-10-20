@@ -1,20 +1,26 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Economia Social",
- "quando": "2026-10-20T19:33:32.617Z",
+ "quando": "2026-10-20T19:35:32.402Z",
  "autor": "Teste",
  "dados": {
   "conclusao": {
    "titulo": "",
-   "texto": "[REVISAR1]",
-   "blocos": []
+   "texto": "<b>Em resumo: antecipar, orientar e aprender</b><br>Para conduzir práticas mais seguras, lembre-se:<br><ul><li><b>reconheça os riscos:</b> identifique possíveis falhas em procedimentos, documentos, dados e decisões;<br></li><li><b>planeje os protocolos:</b> estabeleça cuidados preventivos e formas de resposta;<br></li><li><b>oriente a turma:</b> incentive procedimentos responsáveis e decisões conscientes;<br></li><li><b>saiba como agir:</b> contenha os impactos, reorganize a atividade e registre as medidas adotadas;<br></li><li><b>aprenda com os imprevistos:</b> revise os procedimentos para aprimorar as próximas práticas.<br></li></ul>A segurança e a aprendizagem dependem de planejamento intencional e respostas adequadas, não de improviso.<br><br>",
+   "blocos": [
+    {
+     "tipo": "dica",
+     "texto": "",
+     "novo": true
+    }
+   ]
   },
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objeto do conhecimento: </b>protocolos de segurança em práticas técnicas.<br><b>Conteúdos:</b><br><ul><li>riscos em procedimentos complexos;<br></li><li>protocolos preventivos e corretivos;<br></li><li>condutas diante de situações imprevistas.<br></li></ul><b>Objetivo da aula:</b> aplicar protocolos de segurança considerando variáveis e imprevistos da prática.<br><br>",
    "objetivo": "Planejar, prevenir e agir<br><br>",
    "titulo": "<b>Antes que o risco aconteça</b><br><br><br>",
-   "conteudo": "Numa aula, a turma conduz uma assembleia simulada de uma cooperativa de agricultores do Sertão alagoano.<br><br>Durante a votação, percebe-se que a ata registra uma decisão sem a conferência dos votos, e ninguém sabe se o resultado está correto.<br><br>A prática seguiu adiante, mas a falha compromete a confiabilidade do registro.<br><br><b>O que deveria ter sido previsto e combinado antes de a turma começar?</b><div><b><br></b></div><div>[PERGUNTA1]<b></b></div><div><br></div><div><b>Onde estão os riscos da prática?<br></b><br>Os riscos podem surgir do desconhecimento de normas e procedimentos, do uso inadequado de documentos e planilhas, de falhas na conferência de informações e da falta de clareza sobre as responsabilidades de cada participante.<br>Eles podem ser:<br><br>[INFOGRAFICO1]<br><br>Por isso, antes da aula, é necessário mapear cada etapa, identificar possíveis falhas e riscos e definir medidas de prevenção adequadas à prática e à turma.</div><div><br></div><div>[CAIXADESTAQUE1]</div><div><br></div><h3><font color=\"#f04770\"><b>Protocolos preventivos e corretivos</b></font></h3><p><b>Antecipar para Agir</b><br><br>Diante dos riscos, você precisa pensar tanto no que fazer para evitá-los quanto em como agir caso algo saia do planejado.<br><br><b>Protocolos preventivos:</b> são definidos antes da prática para reduzir a possibilidade de falhas, como estabelecer regras, definir responsáveis pelos registros e validar dados antes dos lançamentos.<br><br><b>Protocolos corretivos:</b> orientam a resposta quando algo sai do planejado, como suspender uma votação diante de registros inconsistentes ou revisar lançamentos contábeis incorretos.<br><br>Ambos devem ser planejados intencionalmente para orientar decisões e evitar que os problemas comprometam a atividade e a aprendizagem.<br><br></p><p><h3><b><font color=\"#f04770\">Prevenir e Corrigir na Prática&nbsp;</font></b></h3>Na prática, prevenção e correção caminham juntas. Veja como esses protocolos podem aparecer.<br><br></p><p><br></p>",
-   "conectando": ""
+   "conteudo": "Numa aula, a turma conduz uma assembleia simulada de uma cooperativa de agricultores do Sertão alagoano.<br><br>Durante a votação, percebe-se que a ata registra uma decisão sem a conferência dos votos, e ninguém sabe se o resultado está correto.<br><br>A prática seguiu adiante, mas a falha compromete a confiabilidade do registro.<br><br><b>O que deveria ter sido previsto e combinado antes de a turma começar?</b><div><b><br></b></div><div>[PERGUNTA1]<b></b></div><div><br></div><div><b>Onde estão os riscos da prática?<br></b><br>Os riscos podem surgir do desconhecimento de normas e procedimentos, do uso inadequado de documentos e planilhas, de falhas na conferência de informações e da falta de clareza sobre as responsabilidades de cada participante.<br>Eles podem ser:<br><br>[INFOGRAFICO1]<br><br>Por isso, antes da aula, é necessário mapear cada etapa, identificar possíveis falhas e riscos e definir medidas de prevenção adequadas à prática e à turma.</div><div><br></div><div>[CAIXADESTAQUE1]</div><div><br></div><h3><font color=\"#f04770\"><b>Protocolos preventivos e corretivos</b></font></h3><p><b>Antecipar para Agir</b><br><br>Diante dos riscos, você precisa pensar tanto no que fazer para evitá-los quanto em como agir caso algo saia do planejado.<br><br><b>Protocolos preventivos:</b> são definidos antes da prática para reduzir a possibilidade de falhas, como estabelecer regras, definir responsáveis pelos registros e validar dados antes dos lançamentos.<br><br><b>Protocolos corretivos:</b> orientam a resposta quando algo sai do planejado, como suspender uma votação diante de registros inconsistentes ou revisar lançamentos contábeis incorretos.<br><br>Ambos devem ser planejados intencionalmente para orientar decisões e evitar que os problemas comprometam a atividade e a aprendizagem.<br></p><p><br></p><p>[INFOGRAFICO2]</p><p><br></p><h3><b><font color=\"#f04770\">Condutas diante de situações imprevistas&nbsp;</font></b></h3><div><b><font color=\"#f04770\"><br></font></b></div><div><b>Como agir diante do imprevisto</b><br>Mesmo com protocolos preventivos, imprevistos podem ocorrer durante a prática. Nesses casos, é necessário agir para conter o problema, orientar a turma e retomar o procedimento somente quando houver condições adequadas.<br><ul><li><b>Interrompa: </b>suspenda a etapa comprometida para evitar que o problema se agrave.<br></li><li><b>Identifique:</b> esclareça o que aconteceu e quais aspectos da atividade foram afetados.<br></li><li><b>Contenha:</b> adote medidas para limitar os impactos e preservar a integridade das informações, dos registros e dos processos.<br></li><li><b>Oriente:</b> explique à turma como proceder e reorganize a atividade conforme os critérios e procedimentos adequados.<br></li><li><b>Registre:</b> documente a ocorrência e as medidas adotadas para manter a rastreabilidade das ações.<br></li><li><b>Retome: </b>continue a prática quando as condições necessárias para sua realização estiverem restabelecidas.<br></li></ul></div><p><b><font color=\"#f04770\"></font></b></p>",
+   "conectando": "Na próxima seção, você vai compartilhar uma situação real e pensar em protocolos possíveis com outros(as) colegas.<br><br>"
   },
   "blocos": [
    {
@@ -49,6 +55,16 @@
     "caixaCorBorda": "#f04770",
     "novo": false,
     "caixaCorTexto": "#0a3442",
+    "minimizado": true
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "tabela_completa",
+    "infograficoData": {
+     "tabela": "{\"titulo\":\"<font color=\\\"#f04770\\\"><b>Prevenir e Corrigir na Prática&nbsp;</b><br></font><br>\",\"subtitulo\":\"<font color=\\\"#0a3442\\\">Na prática, prevenção e correção caminham juntas. Veja como esses protocolos podem aparecer.<br></font><br>\",\"colunas\":[\"<b>Curso</b>\",\"<b>Protocolo Preventivo</b><br>\",\"<b>Protocolo Corretivo</b>\"],\"linhas\":[[\"Cooperativismo\",\"Conferir documentos antes da assembleia simulada.<br><br>\",\"Suspender votação diante de ata incompleta.<br><br>\"],[\"Cooperativismo\",\"Definir responsáveis pelos registros oriundos de deliberações coletivas.<br><br>\",\"Redistribuir funções após falha de organização.<br><br>\"],[\"Contabilidade\",\"Conferir pauta antes da assembleia simulada.<br><br>\",\"Pausar deliberação diante de pauta não prevista.<br><br>\"],[\"Contabilidade\",\"Definir regras de uso dos dados.<br><br>\",\"Interromper exposição de informação sensível.\"]],\"corHeader\":\"#f04770\",\"corTextoHeader\":\"#ffffff\"}"
+    },
+    "novo": false,
     "minimizado": true
    }
   ]
