@@ -1,0 +1,23 @@
+{
+ "versao": 1,
+ "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Economia Social",
+ "quando": "2026-10-20T19:19:32.423Z",
+ "autor": "Teste",
+ "dados": {
+  "conclusao": {
+   "titulo": "",
+   "texto": "",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "",
+     "idRevisar": "mvh2gy1bznpiz0",
+     "itensRevisar": [],
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": true
+    }
+   ]
+  }
+ }
+}
