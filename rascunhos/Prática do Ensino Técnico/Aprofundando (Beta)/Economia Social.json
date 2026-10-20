@@ -1,17 +1,17 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Economia Social",
- "quando": "2026-10-20T19:35:32.402Z",
+ "quando": "2026-10-20T19:35:39.554Z",
  "autor": "Teste",
  "dados": {
   "conclusao": {
    "titulo": "",
-   "texto": "<b>Em resumo: antecipar, orientar e aprender</b><br>Para conduzir práticas mais seguras, lembre-se:<br><ul><li><b>reconheça os riscos:</b> identifique possíveis falhas em procedimentos, documentos, dados e decisões;<br></li><li><b>planeje os protocolos:</b> estabeleça cuidados preventivos e formas de resposta;<br></li><li><b>oriente a turma:</b> incentive procedimentos responsáveis e decisões conscientes;<br></li><li><b>saiba como agir:</b> contenha os impactos, reorganize a atividade e registre as medidas adotadas;<br></li><li><b>aprenda com os imprevistos:</b> revise os procedimentos para aprimorar as próximas práticas.<br></li></ul>A segurança e a aprendizagem dependem de planejamento intencional e respostas adequadas, não de improviso.<br><br>",
+   "texto": "<b>Em resumo: antecipar, orientar e aprender</b><br>Para conduzir práticas mais seguras, lembre-se:<br><ul><li><b>reconheça os riscos:</b> identifique possíveis falhas em procedimentos, documentos, dados e decisões;<br></li><li><b>planeje os protocolos:</b> estabeleça cuidados preventivos e formas de resposta;<br></li><li><b>oriente a turma:</b> incentive procedimentos responsáveis e decisões conscientes;<br></li><li><b>saiba como agir:</b> contenha os impactos, reorganize a atividade e registre as medidas adotadas;<br></li><li><b>aprenda com os imprevistos:</b> revise os procedimentos para aprimorar as próximas práticas.<br></li></ul>A segurança e a aprendizagem dependem de planejamento intencional e respostas adequadas, não de improviso.<div><font face=\"Open Sans, sans-serif\"><br></font></div><div>[DICA1]<font face=\"Open Sans, sans-serif\"><br></font><br></div>",
    "blocos": [
     {
      "tipo": "dica",
-     "texto": "",
-     "novo": true
+     "texto": "Antes da prática, proponha aos(às) estudantes que identifiquem possíveis falhas em documentos, registros ou decisões coletivas. Em seguida, peça que indiquem uma medida preventiva e uma ação corretiva para cada situação.<br><br>",
+     "novo": false
     }
    ]
   },
