@@ -1,13 +1,13 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Economia Social",
- "quando": "2026-10-20T19:37:09.873Z",
+ "quando": "2026-10-20T19:38:07.048Z",
  "autor": "Teste",
  "dados": {
   "campos": {
    "objetivo": "Analisar situações reais de imprevistos no ensino prático, identificando lacunas de prevenção e propondo condutas corretivas fundamentadas, e avaliar a viabilidade das soluções apresentadas pelos pares.<br><br>",
    "titulo": "<b>Compartilhe um risco da sua prática</b><br><br>",
-   "conteudo": "<b>Compartilhe um risco da sua prática</b><br><br>Pense em uma aula prática de Contabilidade ou Cooperativismo e compartilhe uma situação em que algo poderia sair do planejado.<br><br><b>1. Compartilhe sua situação</b><br><ul><li>Descreva brevemente o imprevisto.<br></li><li>Indique qual medida preventiva poderia evitá-lo e como você agiria para corrigir o problema.<br></li></ul><br><b>2. Interaja com um(a) colega</b><br>Leia a postagem de um(a) colega e responda analisando se a solução proposta é viável ou sugerindo um cuidado adicional.<div><font face=\"Open Sans, sans-serif\"><br></font></div><div><font face=\"Open Sans, sans-serif\"><br></font><br>O objetivo é trocar estratégias para tornar as práticas mais seguras e confiáveis.<br><br></div>",
+   "conteudo": "<b>Compartilhe um risco da sua prática</b><br><br>Pense em uma aula prática de Contabilidade ou Cooperativismo e compartilhe uma situação em que algo poderia sair do planejado.<br><br><b>1. Compartilhe sua situação</b><br><ul><li>Descreva brevemente o imprevisto.<br></li><li>Indique qual medida preventiva poderia evitá-lo e como você agiria para corrigir o problema.<br></li></ul><br><b>2. Interaja com um(a) colega</b><br>Leia a postagem de um(a) colega e responda analisando se a solução proposta é viável ou sugerindo um cuidado adicional.<div><br>O objetivo é trocar estratégias para tornar as práticas mais seguras e confiáveis.</div><div><br>[REVISAR1]</div>",
    "instrucoesTitulo": "Sua participação deve conter:",
    "orientacoesTitulo": "Orientações para o formato:"
   },
@@ -20,12 +20,12 @@
      {
       "id": "mvh3481ttdlnuz",
       "texto": "&nbsp;Módulo 1 — Unidade 5: Seleção e adaptação de recursos.<br>",
-      "link": ""
+      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22357"
      }
     ],
     "linkBotao": "",
     "textoBotao": "",
-    "novo": true
+    "novo": false
    }
   ]
  }
