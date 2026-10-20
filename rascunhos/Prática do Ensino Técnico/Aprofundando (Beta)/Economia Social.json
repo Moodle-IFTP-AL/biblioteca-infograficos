@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Economia Social",
- "quando": "2026-10-20T19:19:32.423Z",
+ "quando": "2026-10-20T19:20:47.987Z",
  "autor": "Teste",
  "dados": {
   "conclusao": {
@@ -10,9 +10,15 @@
    "blocos": [
     {
      "tipo": "revisar",
-     "texto": "",
+     "texto": "Para aprofundar a adaptação de materiais à realidade da sua escola, revise a aula:",
      "idRevisar": "mvh2gy1bznpiz0",
-     "itensRevisar": [],
+     "itensRevisar": [
+      {
+       "id": "mvh2j2fo1855nt",
+       "texto": "Módulo 1 — Unidade 5: Seleção e adaptação de recursos.<br><br>",
+       "link": ""
+      }
+     ],
      "linkBotao": "",
      "textoBotao": "",
      "novo": true
