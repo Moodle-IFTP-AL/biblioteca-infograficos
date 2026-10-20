@@ -1,31 +1,31 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Economia Social",
- "quando": "2026-10-20T19:38:07.048Z",
+ "quando": "2026-10-20T20:51:44.111Z",
  "autor": "Teste",
  "dados": {
   "campos": {
    "objetivo": "Analisar situações reais de imprevistos no ensino prático, identificando lacunas de prevenção e propondo condutas corretivas fundamentadas, e avaliar a viabilidade das soluções apresentadas pelos pares.<br><br>",
-   "titulo": "<b>Compartilhe um risco da sua prática</b><br><br>",
-   "conteudo": "<b>Compartilhe um risco da sua prática</b><br><br>Pense em uma aula prática de Contabilidade ou Cooperativismo e compartilhe uma situação em que algo poderia sair do planejado.<br><br><b>1. Compartilhe sua situação</b><br><ul><li>Descreva brevemente o imprevisto.<br></li><li>Indique qual medida preventiva poderia evitá-lo e como você agiria para corrigir o problema.<br></li></ul><br><b>2. Interaja com um(a) colega</b><br>Leia a postagem de um(a) colega e responda analisando se a solução proposta é viável ou sugerindo um cuidado adicional.<div><br>O objetivo é trocar estratégias para tornar as práticas mais seguras e confiáveis.</div><div><br>[REVISAR1]</div>",
+   "titulo": "<b>Imprevistos também ensinam</b><br><br>",
+   "conteudo": "<h3><b>Imprevistos também ensinam</b></h3>Compartilhe uma situação real ou possível de uma prática técnica de Logística ou Recursos Humanos em que um imprevisto possa comprometer a segurança, a organização ou a aprendizagem dos(as) estudantes.<br><b>1. Compartilhe sua situação</b><br>Indique:<br><ul><li>a prática;<br></li><li>o imprevisto ocorrido ou possível;<br></li><li>o protocolo preventivo que faltou ou que seria necessário;<br></li><li>a conduta corretiva que você adotou ou adotaria.<br></li></ul><b>2. Interaja com um(a) colega</b><br>Leia a postagem de um(a) colega e responda, avaliando se a correção proposta é viável ou sugerindo um protocolo adicional.<br><br>",
    "instrucoesTitulo": "Sua participação deve conter:",
    "orientacoesTitulo": "Orientações para o formato:"
   },
   "blocos": [
    {
     "tipo": "revisar",
-    "texto": "Para aprofundar a adaptação de materiais à realidade da sua escola, revise a aula:<br>",
-    "idRevisar": "mvh342kwjhkzpi",
+    "texto": "Para aprofundar a adaptação de materiais à realidade da sua escola, revise a aula:",
+    "idRevisar": "mvh5rx1ajlt91m",
     "itensRevisar": [
      {
-      "id": "mvh3481ttdlnuz",
-      "texto": "&nbsp;Módulo 1 — Unidade 5: Seleção e adaptação de recursos.<br>",
-      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22357"
+      "id": "mvh5s43rsuc404",
+      "texto": "Módulo 1 — Unidade 5: Seleção e adaptação de recursos.",
+      "link": ""
      }
     ],
     "linkBotao": "",
     "textoBotao": "",
-    "novo": false
+    "novo": true
    }
   ]
  }
