@@ -1,12 +1,12 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Economia Social",
- "quando": "2026-10-20T19:20:47.987Z",
+ "quando": "2026-10-20T19:22:49.744Z",
  "autor": "Teste",
  "dados": {
   "conclusao": {
    "titulo": "",
-   "texto": "",
+   "texto": "[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -16,12 +16,12 @@
       {
        "id": "mvh2j2fo1855nt",
        "texto": "Módulo 1 — Unidade 5: Seleção e adaptação de recursos.<br><br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=21859"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
   }
