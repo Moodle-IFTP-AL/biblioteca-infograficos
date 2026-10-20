@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Economia Social",
- "quando": "2026-10-20T20:50:07.682Z",
+ "quando": "2026-10-20T20:50:23.319Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -87,6 +87,7 @@
      "novo": false
     }
    ]
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=31365"
  }
 }
