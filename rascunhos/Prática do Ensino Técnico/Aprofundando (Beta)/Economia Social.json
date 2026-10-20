@@ -1,13 +1,34 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Economia Social",
- "quando": "2026-10-20T19:29:20.821Z",
+ "quando": "2026-10-20T19:31:32.603Z",
  "autor": "Teste",
  "dados": {
   "conclusao": {
    "titulo": "",
    "texto": "[REVISAR1]",
    "blocos": []
-  }
+  },
+  "campos": {
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objeto do conhecimento: </b>protocolos de segurança em práticas técnicas.<br><b>Conteúdos:</b><br><ul><li>riscos em procedimentos complexos;<br></li><li>protocolos preventivos e corretivos;<br></li><li>condutas diante de situações imprevistas.<br></li></ul><b>Objetivo da aula:</b> aplicar protocolos de segurança considerando variáveis e imprevistos da prática.<br><br>",
+   "objetivo": "Planejar, prevenir e agir<br><br>",
+   "titulo": "<b>Antes que o risco aconteça</b><br><br><br>",
+   "conteudo": "Numa aula, a turma conduz uma assembleia simulada de uma cooperativa de agricultores do Sertão alagoano.<br><br>Durante a votação, percebe-se que a ata registra uma decisão sem a conferência dos votos, e ninguém sabe se o resultado está correto.<br><br>A prática seguiu adiante, mas a falha compromete a confiabilidade do registro.<br><br><b>O que deveria ter sido previsto e combinado antes de a turma começar?</b><div><b><br></b></div><div>[PERGUNTA1]<b></b></div><div><br></div><div><b>Onde estão os riscos da prática?<br></b><br>Os riscos podem surgir do desconhecimento de normas e procedimentos, do uso inadequado de documentos e planilhas, de falhas na conferência de informações e da falta de clareza sobre as responsabilidades de cada participante.<br>Eles podem ser:<br><br><br></div>",
+   "conectando": ""
+  },
+  "blocos": [
+   {
+    "tipo": "pergunta",
+    "texto": "",
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "E na sua prática? ",
+     "texto": "Ao conduzir atividades com registros contábeis, prestação de contas ou decisões coletivas, como você antecipa possíveis falhas e define o que fazer para proteger os(as) estudantes, preservar a confiabilidade das informações e reorganizar a atividade, em vez de depender apenas da experiência para reagir quando o problema aparece?",
+     "videoUrl": "",
+     "iframeH5P": ""
+    },
+    "novo": false
+   }
+  ]
  }
 }
