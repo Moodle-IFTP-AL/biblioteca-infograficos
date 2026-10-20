@@ -1,0 +1,32 @@
+{
+ "versao": 1,
+ "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Economia Social",
+ "quando": "2026-10-20T19:37:09.873Z",
+ "autor": "Teste",
+ "dados": {
+  "campos": {
+   "objetivo": "Analisar situações reais de imprevistos no ensino prático, identificando lacunas de prevenção e propondo condutas corretivas fundamentadas, e avaliar a viabilidade das soluções apresentadas pelos pares.<br><br>",
+   "titulo": "<b>Compartilhe um risco da sua prática</b><br><br>",
+   "conteudo": "<b>Compartilhe um risco da sua prática</b><br><br>Pense em uma aula prática de Contabilidade ou Cooperativismo e compartilhe uma situação em que algo poderia sair do planejado.<br><br><b>1. Compartilhe sua situação</b><br><ul><li>Descreva brevemente o imprevisto.<br></li><li>Indique qual medida preventiva poderia evitá-lo e como você agiria para corrigir o problema.<br></li></ul><br><b>2. Interaja com um(a) colega</b><br>Leia a postagem de um(a) colega e responda analisando se a solução proposta é viável ou sugerindo um cuidado adicional.<div><font face=\"Open Sans, sans-serif\"><br></font></div><div><font face=\"Open Sans, sans-serif\"><br></font><br>O objetivo é trocar estratégias para tornar as práticas mais seguras e confiáveis.<br><br></div>",
+   "instrucoesTitulo": "Sua participação deve conter:",
+   "orientacoesTitulo": "Orientações para o formato:"
+  },
+  "blocos": [
+   {
+    "tipo": "revisar",
+    "texto": "Para aprofundar a adaptação de materiais à realidade da sua escola, revise a aula:<br>",
+    "idRevisar": "mvh342kwjhkzpi",
+    "itensRevisar": [
+     {
+      "id": "mvh3481ttdlnuz",
+      "texto": "&nbsp;Módulo 1 — Unidade 5: Seleção e adaptação de recursos.<br>",
+      "link": ""
+     }
+    ],
+    "linkBotao": "",
+    "textoBotao": "",
+    "novo": true
+   }
+  ]
+ }
+}
