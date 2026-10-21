@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão Imobiliária",
- "quando": "2026-10-21T16:16:19.623Z",
+ "quando": "2026-10-21T16:19:24.403Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -71,7 +71,7 @@
     "infograficoTipo": "timeline_gavetas",
     "infograficoData": {
      "titulo": "<b>Reconhecendo os riscos nas práticas</b><br><br>",
-     "subtitulo": "Nos cursos do eixo de Turismo e nos Eventos, os riscos variam conforme a atividade, o ambiente e as pessoas envolvidas.<br><br>Eles podem surgir em:<br><br>",
+     "subtitulo": "Clique para expandir cada passo.<br><br><br>",
      "gavetas": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2031.png\",\"titulo\":\"<b>Artesanato</b>\",\"conteudo\":\"Ferramentas cortantes, cola quente, materiais tóxicos e queimaduras durante a produção.<br><br>\",\"porqueTexto\":\"\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2034.png\",\"titulo\":\"<b>Eventos</b>\",\"conteudo\":\"Cabos soltos, mobiliário mal posicionado, tomadas sobrecarregadas e obstrução das saídas.<br><br>\",\"porqueTexto\":\"\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2069.png\",\"titulo\":\"<b>Guia de Turismo</b><br><br>\",\"conteudo\":\"Escorregões em escadas, deslocamentos em grupo, obstáculos no percurso e exposição excessiva ao sol.<br><br>\",\"porqueTexto\":\"\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2071.png\",\"titulo\":\"<b>Hospedagem</b>\",\"conteudo\":\"Pisos molhados, produtos de limpeza, movimentação de carrinhos e contato com produtos químicos.<br><br>\",\"porqueTexto\":\"\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2023.png\",\"titulo\":\"<b>Lazer</b>\",\"conteudo\":\"Quedas, colisões, equipamentos danificados e uso inadequado de materiais esportivos.<br><br>\",\"porqueTexto\":\"\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2022.png\",\"titulo\":\"<b>Serviços de Bar e Restaurante</b><br><br>\",\"conteudo\":\"Cortes com facas, queimaduras, pisos escorregadios, contaminação de alimentos e manuseio inadequado de equipamentos.<br><br>\",\"porqueTexto\":\"\"}]"
     },
     "novo": false
