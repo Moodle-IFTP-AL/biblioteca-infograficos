@@ -1,13 +1,13 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Gestão Imobiliária",
- "quando": "2026-10-21T14:51:12.547Z",
+ "quando": "2026-10-21T14:52:04.216Z",
  "autor": "Teste",
  "dados": {
   "campos": {
    "objetivo": "Analisar situações reais de imprevistos no ensino prático, identificando lacunas de prevenção e propondo condutas corretivas fundamentadas, e avaliar a viabilidade das soluções apresentadas pelos pares.",
    "titulo": "<b>Compartilhe um imprevisto da sua prática</b><br><br>",
-   "conteudo": "<b>Compartilhe um imprevisto da sua prática</b><br>Compartilhe uma situação de uma prática técnica que você realizou ou pretende realizar em que um imprevisto poderia comprometer a segurança, a organização ou a aprendizagem da turma.<br><b>1. Compartilhe sua situação</b><br>Em sua postagem, escreva:<br><ul><li>Qual era a prática?<br></li><li>Qual imprevisto ocorreu ou poderia ocorrer?<br></li><li>Qual protocolo preventivo deveria existir?<br></li><li>Qual conduta corretiva seria aplicada?<br></li></ul><b>2. Interaja com um(a) colega</b><br>Leia a postagem de um(a) colega e responda, analisando se a correção proposta é viável ou sugerindo um protocolo adicional.<br><br>",
+   "conteudo": "<b>Compartilhe um imprevisto da sua prática</b><br>Compartilhe uma situação de uma prática técnica que você realizou ou pretende realizar em que um imprevisto poderia comprometer a segurança, a organização ou a aprendizagem da turma.<br><b>1. Compartilhe sua situação</b><br>Em sua postagem, escreva:<br><ul><li>Qual era a prática?<br></li><li>Qual imprevisto ocorreu ou poderia ocorrer?<br></li><li>Qual protocolo preventivo deveria existir?<br></li><li>Qual conduta corretiva seria aplicada?<br></li></ul><b>2. Interaja com um(a) colega</b><br>Leia a postagem de um(a) colega e responda, analisando se a correção proposta é viável ou sugerindo um protocolo adicional.<br>[REVISAR1]",
    "instrucoesTitulo": "Sua participação deve conter:",
    "orientacoesTitulo": "Orientações para o formato:"
   },
@@ -19,13 +19,13 @@
     "itensRevisar": [
      {
       "id": "mvi8cdyksxtqn3",
-      "texto": "",
-      "link": ""
+      "texto": "Módulo 1 — Unidade 5: Seleção e adaptação de recursos.",
+      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22366"
      }
     ],
     "linkBotao": "",
     "textoBotao": "",
-    "novo": true
+    "novo": false
    }
   ]
  }
