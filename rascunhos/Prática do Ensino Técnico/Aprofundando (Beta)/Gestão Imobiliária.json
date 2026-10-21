@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão Imobiliária",
- "quando": "2026-10-21T14:49:19.838Z",
+ "quando": "2026-10-21T14:50:05.331Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -78,8 +78,20 @@
   ],
   "conclusao": {
    "titulo": "Conclusão:",
-   "texto": "<b>Em resumo: antecipar, proteger e decidir</b><br><br>Para conduzir práticas mais seguras em Gestão Imobiliária, lembre-se:<br><br><ul><li><b>reconheça os riscos:</b> observe as condições dos espaços, os acessos, os materiais e as informações envolvidas;<br></li><li><b>planeje os cuidados:</b> estabeleça orientações adequadas à atividade e à turma;<br></li><li><b>saiba quando agir:</b> interrompa a prática e solicite apoio sempre que necessário;<br></li><li><b>aprenda com os imprevistos:</b> revise os procedimentos e transforme as situações vivenciadas em oportunidades de aprendizagem profissional.<br></li></ul><br>A segurança também se ensina: cada decisão ajuda os(as) estudantes a desenvolverem responsabilidade e discernimento na atuação profissional.<br><br>",
-   "blocos": []
-  }
+   "texto": "<b>Em resumo: antecipar, proteger e decidir</b><br><br>Para conduzir práticas mais seguras em Gestão Imobiliária, lembre-se:<br><br><ul><li><b>reconheça os riscos:</b> observe as condições dos espaços, os acessos, os materiais e as informações envolvidas;<br></li><li><b>planeje os cuidados:</b> estabeleça orientações adequadas à atividade e à turma;<br></li><li><b>saiba quando agir:</b> interrompa a prática e solicite apoio sempre que necessário;<br></li><li><b>aprenda com os imprevistos:</b> revise os procedimentos e transforme as situações vivenciadas em oportunidades de aprendizagem profissional.<br></li></ul><br>A segurança também se ensina: cada decisão ajuda os(as) estudantes a desenvolverem responsabilidade e discernimento na atuação profissional.<br>[TOMENOTA1][DICA1]",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "Prevenir é antecipar riscos; corrigir é agir diante de uma condição insegura. Planeje procedimentos, responsabilidades e formas de resposta para proteger a turma e manter os objetivos de aprendizagem.<br><br>",
+     "novo": false
+    },
+    {
+     "tipo": "dica",
+     "texto": "Antes da prática, identifique três riscos relacionados aos espaços, acessos ou documentos. Para cada um, defina com a turma uma medida preventiva e uma conduta corretiva para situações inesperadas.<br><br>",
+     "novo": false
+    }
+   ]
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=31366"
  }
 }
