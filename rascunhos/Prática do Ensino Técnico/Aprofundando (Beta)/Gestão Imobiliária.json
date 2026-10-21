@@ -1,15 +1,15 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão Imobiliária",
- "quando": "2026-10-21T15:05:39.686Z",
+ "quando": "2026-10-21T16:03:24.283Z",
  "autor": "Teste",
  "dados": {
   "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objeto do conhecimento: </b>protocolos de segurança em práticas técnicas.<br><b>Conteúdos:</b><br><ul><li>riscos em procedimentos complexos;<br></li><li>protocolos preventivos e corretivos;<br></li><li>condutas diante de situações imprevistas.<br></li></ul><b>Objetivo da aula:</b> aplicar protocolos de segurança, considerando variáveis e imprevistos da prática.<br><br>",
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objeto do conhecimento: </b>protocolos de segurança em práticas técnicas.<br><b>Conteúdos:</b><br><ul><li>riscos em procedimentos complexos;<br></li><li>protocolos preventivos e corretivos;<br></li><li>condutas diante de situações imprevistas.<br></li></ul><b>Objetivo da aula:</b> aplicar protocolos de segurança, considerando as variáveis e os imprevistos da prática.<br><br>",
    "objetivo": "Identificar riscos e distinguir protocolos preventivos de corretivos, reconhecendo seu papel no planejamento de práticas seguras.<br><br>",
-   "titulo": "<b>Mapeamento de Riscos e Protocolos em TI</b><br><br>",
-   "conteudo": "<b>Antes que o risco aconteça</b><br>Em uma aula prática, o(a) professor(a) orienta a montagem de um <i>rack</i> com <i>switches</i> e a organização dos cabos.<br><br>Antes de concluir a conferência das conexões, alguns estudantes tentam ligar os equipamentos, enquanto outros deixam cabos soltos no caminho de circulação.<br><br>De repente, um disjuntor desarma e a turma não sabe como proceder.<br><br><b>Antes de começar, o que deveria ter sido combinado com a turma para evitar essa situação?</b><br>[PERGUNTA1]<div><br></div><div><b>Reconhecendo os riscos nas práticas de TI</b><br><br>No eixo de Tecnologia da Informação, os riscos variam conforme a atividade, os equipamentos utilizados, as condições do ambiente e a experiência prévia dos estudantes.<br><br>Eles podem aparecer em:<br><br></div><div>[INFOGRAFICO1]</div><div><br></div><div>Por isso, é necessário mapear os riscos e prever os cuidados necessários antes de cada prática.</div><div><br></div><div>[CAIXADESTAQUE1]</div><div><br></div><div><h3><b><font color=\"#f04770\">Protocolos preventivos e corretivos&nbsp;</font></b></h3><br></div><div>[ACCORDION1]</div><div><br></div><div>[INFOGRAFICO2]</div><div><br></div><div><b>Como agir diante do imprevisto</b><br>Mesmo com o planejamento preventivo, situações inesperadas podem ocorrer durante as práticas.<br><br>Quando um problema compromete a segurança, a organização ou a execução da atividade, é necessário agir rapidamente para conter seus efeitos e orientar a turma, sem recorrer à improvisação.<br><ol><li><b>Interrompa:</b> suspenda a atividade afetada.<br></li><li><b>Afaste:</b> conduza os(as) estudantes para uma área segura.<br></li><li><b>Isole:</b> impeça o acesso ao local ou ao equipamento, sem se expor ao risco.<br></li><li><b>Comunique:</b> acione a gestão escolar e o(a) profissional responsável, se houver.<br></li><li><b>Registre:</b> documente a ocorrência e as providências adotadas.<br></li><li><b>Retome:</b> reorganize a prática somente após a avaliação das condições de segurança.<br></li></ol></div>",
-   "conectando": "A seguir, no fórum, você vai compartilhar um imprevisto da sua prática e analisar o de um colega."
+   "titulo": "<b>Segurança também está no planejamento</b><br><br>",
+   "conteudo": "<b>Antes que o risco aconteça</b><br>Em uma aula prática, o(a) professor(a) conduz a turma por uma trilha para simular a condução de um grupo de visitantes.<br><br>Durante o percurso, o terreno fica irregular e escorregadio, alguns(algumas) estudantes se afastam do grupo para fotografar perto de uma área de risco e outros(as) continuam caminhando sem ouvir as orientações. Além disso, não foram definidos pontos de parada para descanso.<br><b>Antes de começar, o que deveria ter sido planejado e combinado com a turma para evitar essas situações?</b><br>[PERGUNTA1]<div><br></div><div><b>Reconhecendo os riscos nas práticas</b><br>Nos cursos do eixo de Turismo e nos Eventos, os riscos variam conforme a atividade, o ambiente e as pessoas envolvidas.<br><br>Eles podem surgir em:<br><br></div><div><br></div>",
+   "conectando": ""
   },
   "blocos": [
    {
@@ -18,84 +18,12 @@
     "pergunta": {
      "tipo": "texto",
      "titulo": "E na sua prática?",
-     "texto": "Ao planejar suas aulas práticas,&nbsp; você costuma registrar os riscos, as ações preventivas e as respostas necessárias ou depende principalmente da experiência para decidir como agir quando surge um problema?<br><br>",
+     "texto": "Antes de uma prática, você identifica os riscos, define procedimentos e combina como agir diante de imprevistos? Ou ainda depende principalmente da experiência para decidir o que fazer quando uma situação inesperada acontece?",
      "videoUrl": "",
      "iframeH5P": ""
     },
-    "novo": false,
-    "minimizado": true
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "cards_coloridos",
-    "infograficoData": {
-     "cards": "[{\"titulo\":\"<b>Informática</b>\",\"texto\":\"Perda de arquivos, alterações indevidas nas configurações, infecção por vírus e outros <i>malwares</i>, acesso a conteúdos ou sistemas não autorizados e acidentes causados por obstáculos na circulação<br><br>\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"},{\"titulo\":\"<b>Manutenção e Suporte</b>\",\"texto\":\"Componentes danificados, eletricidade estática, contato com partes energizadas, cortes durante o manuseio de peças e descarte inadequado de componentes eletrônicos.<br><br>\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"},{\"titulo\":\"<b>Rede de Computadores</b><br><br>\",\"texto\":\"Cabos soltos no piso, instalações elétricas inadequadas, contato com equipamentos energizados e sobrecarga de tomadas e extensões.\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"}]"
-    },
-    "novo": false,
-    "minimizado": true
-   },
-   {
-    "tipo": "caixadestaque",
-    "texto": "Esse mapeamento também contribui para o desenvolvimento do raciocínio técnico e profissional dos(as) estudantes, incentivando decisões mais conscientes durante a prática.",
-    "caixaImgUrl": "",
-    "caixaImgSize": 40,
-    "caixaCorFundo": "#fdf0f3",
-    "caixaCorBorda": "#f04770",
-    "novo": false,
-    "caixaCorTexto": "#f04770",
-    "minimizado": true
-   },
-   {
-    "tipo": "accordion",
-    "texto": "",
-    "topicos": [
-     {
-      "titulo": "Antecipar para agir",
-      "texto": "Na condução de uma prática, os riscos precisam ser considerados antes e durante a atividade. Por isso, os protocolos podem ser preventivos ou corretivos."
-     },
-     {
-      "titulo": "Protocolos preventivos",
-      "texto": "São definidos antes da prática para reduzir a probabilidade de falhas, como conferir os cabos e organizar a bancada antes de ligar os equipamentos."
-     },
-     {
-      "titulo": "Protocolos corretivos",
-      "texto": "Orientam a resposta diante de uma condição insegura ou de uma falha que ocorra durante a prática, como interromper a atividade, afastar os(as) estudantes e comunicar o(a) responsável técnico(a)."
-     }
-    ],
-    "novo": false,
-    "minimizado": true
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "tabela_completa",
-    "infograficoData": {
-     "tabela": "{\"titulo\":\"<font color=\\\"#f04770\\\"><b>Prevenir e Corrigir na Prática&nbsp;</b><br></font><br>\",\"subtitulo\":\"<font color=\\\"#f04770\\\">Na prática, prevenção e correção caminham juntas. Veja como esses protocolos podem aparecer.</font>\",\"colunas\":[\"<b>Curso</b>\",\"<b>Protocolo Preventivo</b>\",\"<b>Protocolo Corretivo</b>\"],\"linhas\":[[\"Redes de Computadores\",\"Conferir os cabos e o aterramento antes de ligar.<br><br>\",\"Desligar o disjuntor ao notar faíscas na tomada.\"],[\"Redes de Computadores<br><br>\",\"Conferir a tensão da tomada antes de ligar os equipamentos.<br><br>\",\"Isolar o ponto de energia e avisar à manutenção.<br><br>\"],[\"Manutenção e Suporte<br><br>\",\"Orientar o uso da pulseira antiestática ao abrir o computador.<br><br>\",\"Interromper o manuseio e separar a peça danificada.<br><br>\"],[\"Manutenção e Suporte<br><br>\",\"Usar decapador próprio em vez de lâmina exposta.<br><br>\",\"Recolher os cabos soltos e liberar a passagem.<br><br>\"],[\"Informática\",\"Fazer backup dos arquivos antes de alterar as configurações.<br><br>\",\"Restaurar o sistema a partir da cópia salva.<br><br>\"],[\"Informática\",\"Combinar a circulação na sala antes de ligar os computadores.<br><br>\",\"Recolher os cabos soltos e liberar a passagem.<br><br>\"]],\"corTextoHeader\":\"#ffffff\",\"corHeader\":\"#f04770\"}"
-    },
-    "novo": false,
-    "minimizado": true
+    "novo": false
    }
-  ],
-  "conclusao": {
-   "titulo": "Em resumo: ",
-   "texto": "<b>Planejar para agir com segurança</b><br><br>Para conduzir práticas mais seguras, lembre-se:<br><ul><li><b>antecipe os riscos:</b> considere as características da atividade, os equipamentos e as condições do ambiente.<br></li><li><b>defina como agir: </b>estabeleça procedimentos para prevenir falhas e responder a situações inesperadas.<br></li><li><b>priorize a segurança:</b> interrompa a prática e solicite apoio sempre que necessário.<br></li><li><b>transforme a experiência em aprendizagem:</b> revise os procedimentos e incentive decisões responsáveis nas práticas de TI.<br></li></ul><br>A segurança é resultado de escolhas pedagógicas intencionais, que preparam você e os(as) estudantes para agir com responsabilidade, mesmo diante de imprevistos.<br>[SAIBAMAIS1][DICA1]",
-   "blocos": [
-    {
-     "tipo": "saibamais",
-     "texto": "A <b>Cartilha de Segurança para Internet</b>, do CERT.br, apresenta fascículos sobre computadores, redes, códigos maliciosos e backup. Identifique como essas orientações podem ajudar você a planejar práticas mais seguras e orientar os(as) estudantes na prevenção e na resposta a incidentes digitais.<br><br>",
-     "titulo": "",
-     "linkBotao": "https://cartilha.cert.br/fasciculos/",
-     "textoBotao": "Acesse: Cartilha de Segurança para Internet",
-     "novo": false
-    },
-    {
-     "tipo": "dica",
-     "texto": "Antes da prática, identifique três riscos relacionados aos equipamentos, às instalações elétricas ou aos dados utilizados. Para cada um, defina uma medida preventiva e uma conduta corretiva para a turma.<br><br>",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=31367"
+  ]
  }
 }
