@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão Imobiliária",
- "quando": "2026-10-21T16:12:02.956Z",
+ "quando": "2026-10-21T16:13:24.780Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -33,7 +33,7 @@
      "flipCircular": "{\"tituloGeral\":\"<b>Reconhecendo os riscos nas práticas</b><br><br>\",\"centroImagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Aten%C3%A7%C3%A3o.png\",\"centroTexto\":\"Riscos\",\"cards\":[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2031.png\",\"titulo\":\"<b>Artesanato</b>\",\"texto\":\"Ferramentas cortantes, cola quente, materiais tóxicos e queimaduras durante a produção.<br><br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2027.png\",\"titulo\":\"<b>Eventos</b>\",\"texto\":\"Cabos soltos, mobiliário mal posicionado, tomadas sobrecarregadas e obstrução das saídas.<br><br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2071.png\",\"titulo\":\"<b>Guia de Turismo</b><br><br>\",\"texto\":\"Escorregões em escadas, deslocamentos em grupo, obstáculos no percurso e exposição excessiva ao sol.<br><br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2052.png\",\"titulo\":\"<b>Hospedagem</b>\",\"texto\":\"Pisos molhados, produtos de limpeza, movimentação de carrinhos e contato com produtos químicos.<br><br>\",\"corFundo\":\"#fefce8\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2023.png\",\"titulo\":\"<b>Lazer</b>\",\"texto\":\"Quedas, colisões, equipamentos danificados e uso inadequado de materiais esportivos.<br><br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2024.png\",\"titulo\":\"<b>Serviços de Bar e Restaurante</b><br><br>\",\"texto\":\"Cortes com facas, queimaduras, pisos escorregadios, contaminação de alimentos e manuseio inadequado de equipamentos.<br><br>\",\"corFundo\":\"#fdf0f3\"}]}"
     },
     "novo": false,
-    "minimizado": true
+    "minimizado": false
    },
    {
     "tipo": "caixadestaque",
@@ -73,7 +73,7 @@
      "tabela": "{\"titulo\":\"<font color=\\\"#f04770\\\"><b>Prevenir e Corrigir na Prática&nbsp;</b><br></font><br>\",\"subtitulo\":\"<font color=\\\"#f04770\\\">Na prática, os protocolos podem ser aplicados de diferentes formas, conforme os riscos de cada curso.</font>\",\"colunas\":[\"<b>Curso</b>\",\"<b>Protocolo Preventivo</b><br><br>\",\"<b>Protocolo Corretivo</b>\"],\"linhas\":[[\"Artesanato<br><br>\",\"Organizar as ferramentas e orientar seu manuseio com segurança.<br><br>\",\"Interromper a atividade diante de acidentes ou de ferramentas danificadas.<br><br>\"],[\"Eventos\",\"Organizar mobiliário, cabos e rotas de circulação.<br><br>\",\"Suspender a atividade e desobstruir a passagem com segurança.<br><br>\"],[\"Guia de Turismo<br><br>\",\"Planejar o percurso e combinar as regras de deslocamento em grupo.<br><br>\",\"Interromper o trajeto diante de condições inseguras.<br><br>\"],[\"Hospedagem\",\"Sinalizar áreas molhadas e orientar o uso de produtos de limpeza.<br><br>\",\"Isolar a área e afastar os(as) estudantes do risco.\"],[\"Lazer\",\"Verificar o espaço e os materiais antes das atividades recreativas.<br><br>\",\"Suspender a atividade diante de equipamentos danificados ou de quedas.<br><br>\"],[\"Serviços de Bar e Restaurante<br><br>\",\"Suspender a atividade diante de equipamentos danificados ou de quedas.<br><br>\",\"Interromper a atividade e acionar atendimento em caso de acidente.<br><br>\"]],\"corHeader\":\"#f04770\",\"corTextoHeader\":\"#ffffff\"}"
     },
     "novo": false,
-    "minimizado": true
+    "minimizado": false
    }
   ],
   "conclusao": {
