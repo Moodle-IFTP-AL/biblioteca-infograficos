@@ -1,15 +1,39 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão Imobiliária",
- "quando": "2026-10-21T13:26:13.401Z",
+ "quando": "2026-10-21T13:59:14.160Z",
  "autor": "Teste",
  "dados": {
   "campos": {
-   "infoAula": "<b>Duração da Aula: </b>45 minutos.<br><b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>Objetos do Conhecimento:</b><br>Roteiros técnicos detalhados.<br><b>Conteúdos:</b><br><ul><li>Organização de procedimentos em sequência lógica;<br></li><li>Identificação de pontos críticos da execução;<br></li><li>Ajustes no roteiro diante de variáveis da prática.<br></li></ul><b>Objetivo da Aula:</b><br>Elaborar roteiros técnicos detalhados para orientar práticas de maior complexidade.<br><br>",
-   "objetivo": "",
-   "titulo": "",
-   "conteudo": "",
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>Objetos do Conhecimento:</b><br>Roteiros técnicos detalhados.<br><b>Conteúdos:</b><br><ul><li>Organização de procedimentos em sequência lógica;<br></li><li>Identificação de pontos críticos da execução;<br></li><li>Ajustes no roteiro diante de variáveis da prática.<br></li></ul><b>Objetivo da Aula:</b><br>Elaborar roteiros técnicos detalhados para orientar práticas de maior complexidade.<br><br>",
+   "objetivo": "Identificar a função e os principais elementos de um roteiro técnico para elaborar práticas que favoreçam a autonomia e a segurança dos(as) estudantes.<br><br>",
+   "titulo": "<b>Roteiros que Orientam a Prática&nbsp;</b><br><br>",
+   "conteudo": "<b>O que Pode Dar Errado?</b><br><br>Um(a) professor(a) foi realizar uma prática para simular uma vistoria de entrada em um apartamento de Maceió.<br><br>O roteiro indicava as etapas:<br><i>1. Teste as luminárias e tomadas e registre o funcionamento na ficha.</i><br><i>2. Observe paredes, identifique sinais de umidade e fotografe os ambientes.</i><br><i>3. Meça os cômodos e compare as medidas com as informações do anúncio.</i><br><i>4. Registre as ocorrências e conclua o relatório. Se não houver trena, deixe os campos das medidas em branco.</i><br><br><br>[PERGUNTA1]<div><br></div><div><b>O que Faltou?&nbsp;</b><br><br>O roteiro apresenta três falhas importantes:<br><ul><li>o teste das instalações elétricas ocorre antes da verificação de possíveis sinais de umidade;<br></li><li>não há orientação sobre como proceder diante de uma infiltração próxima à rede elétrica;<br></li><li>não existe uma alternativa para realizar ou registrar as medidas caso a trena não esteja disponível.<br></li></ul><br>Essas lacunas podem comprometer a segurança, as evidências e a qualidade do relatório. Um roteiro técnico intencional antecipa essas situações e orienta o(a) estudante sobre como agir.<br><br><b>Roteiro Técnico: Orientação para a Prática&nbsp;</b><br><br>O roteiro técnico é um material que você elabora para orientar o(a) estudante durante a execução de uma atividade prática.<br><br>Diferentemente do plano de aula, que organiza seus objetivos, estratégias e formas de mediação, o roteiro acompanha o(a) estudante na oficina, no laboratório, na visita técnica ou no imóvel.<br><br>No eixo Gestão Imobiliária e Condomínio, você pode utilizá-lo para orientar uma vistoria, uma captação ou uma inspeção condominial.<br><br></div><div>[CAIXADESTAQUE1]</div><div><br></div><div><b>O que Pensar Antes de Elaborar o Roteiro?</b><br><br></div>",
    "conectando": ""
-  }
+  },
+  "blocos": [
+   {
+    "tipo": "pergunta",
+    "texto": "",
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "Reflita: ",
+     "texto": "Se um(a) estudante inexperiente seguir esse roteiro exatamente como está escrito, o que poderá dar errado durante a vistoria?",
+     "videoUrl": "",
+     "iframeH5P": ""
+    },
+    "novo": false
+   },
+   {
+    "tipo": "caixadestaque",
+    "texto": "<b>Sua função é ordenar as etapas, destacar cuidados, antecipar dúvidas e favorecer uma execução mais autônoma, rigorosa e segura.</b>",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#fdf0f3",
+    "caixaCorBorda": "#f04770",
+    "novo": false,
+    "caixaCorTexto": "#f04770"
+   }
+  ]
  }
 }
