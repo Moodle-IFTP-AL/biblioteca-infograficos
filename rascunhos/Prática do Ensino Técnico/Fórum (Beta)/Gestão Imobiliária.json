@@ -1,13 +1,13 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Gestão Imobiliária",
- "quando": "2026-10-21T19:02:05.440Z",
+ "quando": "2026-10-21T19:05:31.691Z",
  "autor": "Teste",
  "dados": {
   "campos": {
    "objetivo": "Analisar situações reais de imprevistos no ensino prático, identificando lacunas de prevenção e propondo condutas corretivas fundamentadas, e avaliar a viabilidade das soluções apresentadas pelos pares.<br><br>",
    "titulo": "<b>Algo já saiu do previsto? Compartilhe!</b><br><br>",
-   "conteudo": "<b>Algo já saiu do previsto? Compartilhe!</b><br>Neste fórum, compartilhe uma situação de uma prática técnica que você realizou ou pretende realizar em que um imprevisto poderia comprometer a segurança ou a organização da turma.<br><br><b>1. Compartilhe sua situação</b><br>Em sua postagem, escreva:<br><ul><li>o que aconteceu ou poderia acontecer;<br></li><li>qual risco estava envolvido;<br></li><li>qual protocolo preventivo poderia evitá-lo;<br></li><li>qual conduta corretiva você adotaria.<br></li></ul><b>2. Interaja com um(a) colega</b><br>Leia a postagem de um(a) colega e responda, analisando se a correção proposta é viável ou sugerindo um protocolo adicional.<br><br>",
+   "conteudo": "<b>Algo já saiu do previsto? Compartilhe!</b><br>Neste fórum, compartilhe uma situação de uma prática técnica que você realizou ou pretende realizar em que um imprevisto poderia comprometer a segurança ou a organização da turma.<br><br><b>1. Compartilhe sua situação</b><br>Em sua postagem, escreva:<br><ul><li>o que aconteceu ou poderia acontecer;<br></li><li>qual risco estava envolvido;<br></li><li>qual protocolo preventivo poderia evitá-lo;<br></li><li>qual conduta corretiva você adotaria.<br></li></ul><b>2. Interaja com um(a) colega</b><br>Leia a postagem de um(a) colega e responda, analisando se a correção proposta é viável ou sugerindo um protocolo adicional.<br><br><div>[REVISAR1]</div>",
    "instrucoesTitulo": "Sua participação deve conter:",
    "orientacoesTitulo": "Orientações para o formato:"
   },
@@ -20,12 +20,12 @@
      {
       "id": "mvihb0cu7n2kmy",
       "texto": "Módulo 1 — Unidade 5: Seleção e adaptação de recursos.",
-      "link": ""
+      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22376"
      }
     ],
     "linkBotao": "",
     "textoBotao": "",
-    "novo": true
+    "novo": false
    }
   ]
  }
