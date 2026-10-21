@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão Imobiliária",
- "quando": "2026-10-21T15:05:24.384Z",
+ "quando": "2026-10-21T15:05:39.686Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -79,7 +79,7 @@
   ],
   "conclusao": {
    "titulo": "Em resumo: ",
-   "texto": "<b>Planejar para agir com segurança</b><br><br>Para conduzir práticas mais seguras, lembre-se:<br><ul><li><b>antecipe os riscos:</b> considere as características da atividade, os equipamentos e as condições do ambiente.<br></li><li><b>defina como agir: </b>estabeleça procedimentos para prevenir falhas e responder a situações inesperadas.<br></li><li><b>priorize a segurança:</b> interrompa a prática e solicite apoio sempre que necessário.<br></li><li><b>transforme a experiência em aprendizagem:</b> revise os procedimentos e incentive decisões responsáveis nas práticas de TI.<br></li></ul><br>A segurança é resultado de escolhas pedagógicas intencionais, que preparam você e os(as) estudantes para agir com responsabilidade, mesmo diante de imprevistos.<br>[SAIBAMAIS1]",
+   "texto": "<b>Planejar para agir com segurança</b><br><br>Para conduzir práticas mais seguras, lembre-se:<br><ul><li><b>antecipe os riscos:</b> considere as características da atividade, os equipamentos e as condições do ambiente.<br></li><li><b>defina como agir: </b>estabeleça procedimentos para prevenir falhas e responder a situações inesperadas.<br></li><li><b>priorize a segurança:</b> interrompa a prática e solicite apoio sempre que necessário.<br></li><li><b>transforme a experiência em aprendizagem:</b> revise os procedimentos e incentive decisões responsáveis nas práticas de TI.<br></li></ul><br>A segurança é resultado de escolhas pedagógicas intencionais, que preparam você e os(as) estudantes para agir com responsabilidade, mesmo diante de imprevistos.<br>[SAIBAMAIS1][DICA1]",
    "blocos": [
     {
      "tipo": "saibamais",
@@ -95,6 +95,7 @@
      "novo": false
     }
    ]
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=31367"
  }
 }
