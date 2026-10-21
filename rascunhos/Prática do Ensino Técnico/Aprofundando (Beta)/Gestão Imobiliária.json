@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão Imobiliária",
- "quando": "2026-10-21T14:55:23.575Z",
+ "quando": "2026-10-21T14:56:37.871Z",
  "autor": "Teste",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objeto do conhecimento: </b>protocolos de segurança em práticas técnicas.<br><b>Conteúdos:</b><br><ul><li>riscos em procedimentos complexos;<br></li><li>protocolos preventivos e corretivos;<br></li><li>condutas diante de situações imprevistas.<br></li></ul><b>Objetivo da aula:</b> aplicar protocolos de segurança, considerando variáveis e imprevistos da prática.<br><br>",
    "objetivo": "Identificar riscos e distinguir protocolos preventivos de corretivos, reconhecendo seu papel no planejamento de práticas seguras.<br><br>",
    "titulo": "<b>Mapeamento de Riscos e Protocolos em TI</b><br><br>",
-   "conteudo": "<b>Antes que o risco aconteça</b><br>Em uma aula prática, o(a) professor(a) orienta a montagem de um <i>rack</i> com <i>switches</i> e a organização dos cabos.<br><br>Antes de concluir a conferência das conexões, alguns estudantes tentam ligar os equipamentos, enquanto outros deixam cabos soltos no caminho de circulação.<br><br>De repente, um disjuntor desarma e a turma não sabe como proceder.<br><br><b>Antes de começar, o que deveria ter sido combinado com a turma para evitar essa situação?</b><br>[PERGUNTA1]<div><br></div><div><b>Reconhecendo os riscos nas práticas de TI</b><br><br>No eixo de Tecnologia da Informação, os riscos variam conforme a atividade, os equipamentos utilizados, as condições do ambiente e a experiência prévia dos estudantes.<br><br>Eles podem aparecer em:<br><br></div><div>[INFOGRAFICO1]</div><div><br></div><div>Por isso, é necessário mapear os riscos e prever os cuidados necessários antes de cada prática.</div>",
+   "conteudo": "<b>Antes que o risco aconteça</b><br>Em uma aula prática, o(a) professor(a) orienta a montagem de um <i>rack</i> com <i>switches</i> e a organização dos cabos.<br><br>Antes de concluir a conferência das conexões, alguns estudantes tentam ligar os equipamentos, enquanto outros deixam cabos soltos no caminho de circulação.<br><br>De repente, um disjuntor desarma e a turma não sabe como proceder.<br><br><b>Antes de começar, o que deveria ter sido combinado com a turma para evitar essa situação?</b><br>[PERGUNTA1]<div><br></div><div><b>Reconhecendo os riscos nas práticas de TI</b><br><br>No eixo de Tecnologia da Informação, os riscos variam conforme a atividade, os equipamentos utilizados, as condições do ambiente e a experiência prévia dos estudantes.<br><br>Eles podem aparecer em:<br><br></div><div>[INFOGRAFICO1]</div><div><br></div><div>Por isso, é necessário mapear os riscos e prever os cuidados necessários antes de cada prática.</div><div><br></div><div>[CAIXADESTAQUE1]</div><div><br></div><div><h3><b><font color=\"#f04770\">Protocolos preventivos e corretivos&nbsp;</font></b></h3><br></div><div>[ACCORDION1]</div><div><br></div><div><br></div>",
    "conectando": ""
   },
   "blocos": [
@@ -32,6 +32,36 @@
     "infograficoData": {
      "cards": "[{\"titulo\":\"<b>Informática</b>\",\"texto\":\"Perda de arquivos, alterações indevidas nas configurações, infecção por vírus e outros <i>malwares</i>, acesso a conteúdos ou sistemas não autorizados e acidentes causados por obstáculos na circulação<br><br>\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"},{\"titulo\":\"<b>Manutenção e Suporte</b>\",\"texto\":\"Componentes danificados, eletricidade estática, contato com partes energizadas, cortes durante o manuseio de peças e descarte inadequado de componentes eletrônicos.<br><br>\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"},{\"titulo\":\"<b>Rede de Computadores</b><br><br>\",\"texto\":\"Cabos soltos no piso, instalações elétricas inadequadas, contato com equipamentos energizados e sobrecarga de tomadas e extensões.\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"}]"
     },
+    "novo": false
+   },
+   {
+    "tipo": "caixadestaque",
+    "texto": "Esse mapeamento também contribui para o desenvolvimento do raciocínio técnico e profissional dos(as) estudantes, incentivando decisões mais conscientes durante a prática.",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#fdf0f3",
+    "caixaCorBorda": "#f04770",
+    "novo": false,
+    "caixaCorTexto": "#f04770",
+    "minimizado": true
+   },
+   {
+    "tipo": "accordion",
+    "texto": "",
+    "topicos": [
+     {
+      "titulo": "Antecipar para agir",
+      "texto": "Na condução de uma prática, os riscos precisam ser considerados antes e durante a atividade. Por isso, os protocolos podem ser preventivos ou corretivos."
+     },
+     {
+      "titulo": "Protocolos preventivos",
+      "texto": "São definidos antes da prática para reduzir a probabilidade de falhas, como conferir os cabos e organizar a bancada antes de ligar os equipamentos."
+     },
+     {
+      "titulo": "Protocolos corretivos",
+      "texto": "Orientam a resposta diante de uma condição insegura ou de uma falha que ocorra durante a prática, como interromper a atividade, afastar os(as) estudantes e comunicar o(a) responsável técnico(a)."
+     }
+    ],
     "novo": false
    }
   ]
