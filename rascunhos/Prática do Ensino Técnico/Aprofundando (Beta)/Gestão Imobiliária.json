@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão Imobiliária",
- "quando": "2026-10-21T16:03:24.283Z",
+ "quando": "2026-10-21T16:07:35.124Z",
  "autor": "Teste",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objeto do conhecimento: </b>protocolos de segurança em práticas técnicas.<br><b>Conteúdos:</b><br><ul><li>riscos em procedimentos complexos;<br></li><li>protocolos preventivos e corretivos;<br></li><li>condutas diante de situações imprevistas.<br></li></ul><b>Objetivo da aula:</b> aplicar protocolos de segurança, considerando as variáveis e os imprevistos da prática.<br><br>",
    "objetivo": "Identificar riscos e distinguir protocolos preventivos de corretivos, reconhecendo seu papel no planejamento de práticas seguras.<br><br>",
    "titulo": "<b>Segurança também está no planejamento</b><br><br>",
-   "conteudo": "<b>Antes que o risco aconteça</b><br>Em uma aula prática, o(a) professor(a) conduz a turma por uma trilha para simular a condução de um grupo de visitantes.<br><br>Durante o percurso, o terreno fica irregular e escorregadio, alguns(algumas) estudantes se afastam do grupo para fotografar perto de uma área de risco e outros(as) continuam caminhando sem ouvir as orientações. Além disso, não foram definidos pontos de parada para descanso.<br><b>Antes de começar, o que deveria ter sido planejado e combinado com a turma para evitar essas situações?</b><br>[PERGUNTA1]<div><br></div><div><b>Reconhecendo os riscos nas práticas</b><br>Nos cursos do eixo de Turismo e nos Eventos, os riscos variam conforme a atividade, o ambiente e as pessoas envolvidas.<br><br>Eles podem surgir em:<br><br></div><div><br></div>",
+   "conteudo": "<b>Antes que o risco aconteça</b><br>Em uma aula prática, o(a) professor(a) conduz a turma por uma trilha para simular a condução de um grupo de visitantes.<br><br>Durante o percurso, o terreno fica irregular e escorregadio, alguns(algumas) estudantes se afastam do grupo para fotografar perto de uma área de risco e outros(as) continuam caminhando sem ouvir as orientações. Além disso, não foram definidos pontos de parada para descanso.<br><b>Antes de começar, o que deveria ter sido planejado e combinado com a turma para evitar essas situações?</b><br>[PERGUNTA1]<div><br></div><div><b>Reconhecendo os riscos nas práticas</b><br>Nos cursos do eixo de Turismo e nos Eventos, os riscos variam conforme a atividade, o ambiente e as pessoas envolvidas.<br><br>Eles podem surgir em:<br><br></div><div>[INFOGRAFICO1]</div><div><br></div><div>Por isso, antes da prática, é necessário mapear os riscos, verificar as condições do ambiente, considerar a experiência dos(as) estudantes e estabelecer procedimentos adequados.</div><div><br></div><div>[CAIXADESTAQUE1]</div><div><br></div><div><br></div>",
    "conectando": ""
   },
   "blocos": [
@@ -22,7 +22,46 @@
      "videoUrl": "",
      "iframeH5P": ""
     },
+    "novo": false,
+    "minimizado": true
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "flip_circular",
+    "infograficoData": {
+     "flipCircular": "{\"tituloGeral\":\"<b>Reconhecendo os riscos nas práticas</b><br><br>\",\"centroImagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Aten%C3%A7%C3%A3o.png\",\"centroTexto\":\"Riscos\",\"cards\":[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2031.png\",\"titulo\":\"<b>Artesanato</b>\",\"texto\":\"Ferramentas cortantes, cola quente, materiais tóxicos e queimaduras durante a produção.<br><br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2027.png\",\"titulo\":\"<b>Eventos</b>\",\"texto\":\"Cabos soltos, mobiliário mal posicionado, tomadas sobrecarregadas e obstrução das saídas.<br><br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2071.png\",\"titulo\":\"<b>Guia de Turismo</b><br><br>\",\"texto\":\"Escorregões em escadas, deslocamentos em grupo, obstáculos no percurso e exposição excessiva ao sol.<br><br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2052.png\",\"titulo\":\"<b>Hospedagem</b>\",\"texto\":\"Pisos molhados, produtos de limpeza, movimentação de carrinhos e contato com produtos químicos.<br><br>\",\"corFundo\":\"#fefce8\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2023.png\",\"titulo\":\"<b>Lazer</b>\",\"texto\":\"Quedas, colisões, equipamentos danificados e uso inadequado de materiais esportivos.<br><br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2024.png\",\"titulo\":\"<b>Serviços de Bar e Restaurante</b><br><br>\",\"texto\":\"Cortes com facas, queimaduras, pisos escorregadios, contaminação de alimentos e manuseio inadequado de equipamentos.<br><br>\",\"corFundo\":\"#fdf0f3\"}]}"
+    },
+    "novo": false,
+    "minimizado": true
+   },
+   {
+    "tipo": "caixadestaque",
+    "texto": "<b>Esse mapeamento também contribui para o desenvolvimento do raciocínio técnico e profissional dos(as) estudantes, incentivando decisões mais conscientes durante a prática.</b>",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#0a3442",
+    "caixaCorBorda": "#06d7a0",
     "novo": false
+   },
+   {
+    "tipo": "accordion",
+    "texto": "",
+    "topicos": [
+     {
+      "titulo": "",
+      "texto": ""
+     },
+     {
+      "titulo": "",
+      "texto": ""
+     },
+     {
+      "titulo": "",
+      "texto": ""
+     }
+    ],
+    "novo": true
    }
   ]
  }
