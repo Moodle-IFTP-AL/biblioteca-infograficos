@@ -1,0 +1,32 @@
+{
+ "versao": 1,
+ "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Gestão Imobiliária",
+ "quando": "2026-10-21T14:51:12.547Z",
+ "autor": "Teste",
+ "dados": {
+  "campos": {
+   "objetivo": "Analisar situações reais de imprevistos no ensino prático, identificando lacunas de prevenção e propondo condutas corretivas fundamentadas, e avaliar a viabilidade das soluções apresentadas pelos pares.",
+   "titulo": "<b>Compartilhe um imprevisto da sua prática</b><br><br>",
+   "conteudo": "<b>Compartilhe um imprevisto da sua prática</b><br>Compartilhe uma situação de uma prática técnica que você realizou ou pretende realizar em que um imprevisto poderia comprometer a segurança, a organização ou a aprendizagem da turma.<br><b>1. Compartilhe sua situação</b><br>Em sua postagem, escreva:<br><ul><li>Qual era a prática?<br></li><li>Qual imprevisto ocorreu ou poderia ocorrer?<br></li><li>Qual protocolo preventivo deveria existir?<br></li><li>Qual conduta corretiva seria aplicada?<br></li></ul><b>2. Interaja com um(a) colega</b><br>Leia a postagem de um(a) colega e responda, analisando se a correção proposta é viável ou sugerindo um protocolo adicional.<br><br>",
+   "instrucoesTitulo": "Sua participação deve conter:",
+   "orientacoesTitulo": "Orientações para o formato:"
+  },
+  "blocos": [
+   {
+    "tipo": "revisar",
+    "texto": "Para aprofundar a adaptação de materiais à realidade da sua escola, revise a aula.",
+    "idRevisar": "mvi8c92rapd4pk",
+    "itensRevisar": [
+     {
+      "id": "mvi8cdyksxtqn3",
+      "texto": "",
+      "link": ""
+     }
+    ],
+    "linkBotao": "",
+    "textoBotao": "",
+    "novo": true
+   }
+  ]
+ }
+}
