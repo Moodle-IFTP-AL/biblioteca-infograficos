@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-10-22T18:47:25.083Z",
+ "quando": "2026-10-22T19:10:30.595Z",
  "autor": "Teste",
  "dados": {
   "blocos": [
@@ -19,6 +19,17 @@
      }
     ],
     "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "ciclo_setas",
+    "infograficoData": {
+     "titulo": "",
+     "subtitulo": "",
+     "setas": "[{\"titulo\":\"\",\"subtitulo\":\"\",\"resumo\":\"\",\"modalTitulo\":\"\",\"modalConteudo\":\"\"},{\"titulo\":\"\",\"subtitulo\":\"\",\"resumo\":\"\",\"modalTitulo\":\"\",\"modalConteudo\":\"\"},{\"titulo\":\"\",\"subtitulo\":\"\",\"resumo\":\"\",\"modalTitulo\":\"\",\"modalConteudo\":\"\"}]"
+    },
+    "novo": true
    }
   ],
   "campos": {
