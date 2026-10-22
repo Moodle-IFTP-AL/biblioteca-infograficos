@@ -1,7 +1,21 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-10-22T18:43:55.018Z",
+ "quando": "2026-10-22T18:46:20.813Z",
  "autor": "Teste",
- "dados": {}
+ "dados": {
+  "blocos": [
+   {
+    "tipo": "accordion",
+    "texto": "",
+    "topicos": [
+     {
+      "titulo": "Exemplo 1",
+      "texto": ""
+     }
+    ],
+    "novo": true
+   }
+  ]
+ }
 }
