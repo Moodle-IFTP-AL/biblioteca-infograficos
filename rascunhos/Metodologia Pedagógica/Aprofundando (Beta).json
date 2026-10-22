@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-10-22T18:46:20.813Z",
+ "quando": "2026-10-22T18:47:25.083Z",
  "autor": "Teste",
  "dados": {
   "blocos": [
@@ -11,11 +11,22 @@
     "topicos": [
      {
       "titulo": "Exemplo 1",
-      "texto": ""
+      "texto": "<b>Evidência</b><br>asasasas<br><br><b>Devolutiova&nbsp;</b><br><div>asasasas<br><br><b>feddforward</b><br>asasasasasa</div>"
+     },
+     {
+      "titulo": "Exemplo 2",
+      "texto": "<b>Evidência</b><br>asasasas<br><br><b>Devolutiova&nbsp;</b><br>asasasas<br><br><b>feddforward</b><br>asasasasasa<br>"
      }
     ],
-    "novo": true
+    "novo": false
    }
-  ]
+  ],
+  "campos": {
+   "infoAula": "",
+   "objetivo": "",
+   "titulo": "",
+   "conteudo": "[ACCORDION1]",
+   "conectando": ""
+  }
  }
 }
