@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Residência Pedagógica/Tarefa Residência Pedagógica",
- "quando": "2026-10-23T13:04:53.052Z",
+ "quando": "2026-10-23T13:05:53.729Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -27,7 +27,19 @@
     "linkBotao": "https://cubus.oitcinterfor.org/role-play/",
     "textoBotao": "Saiba mais em:",
     "novo": false,
-    "corBotao": "#fec43e"
+    "corBotao": "#fec43e",
+    "minimizado": true
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "lista_interativa",
+    "infograficoData": {
+     "titulo": "Resultados de Aprendizagem",
+     "linhas": "[\"<b>O que os(as) estudantes aprenderam.</b>\",\"Quais <b>avanços</b> alcançaram e quais <b>dificuldades</b> permanecem.\",\"Quais <b>necessidades de aprendizagem</b> foram identificadas.\",\"<b>Que relações existem</b> entre as estratégias pedagógicas utilizadas e os resultados observados.\",\"<b>Quais intervenções pedagógicas</b> podem favorecer os próximos avanços.\"]"
+    },
+    "novo": false,
+    "minimizado": true
    }
   ],
   "conclusao": {
