@@ -1,15 +1,15 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-10-23T11:23:03.447Z",
+ "quando": "2026-10-23T19:31:59.032Z",
  "autor": "Teste",
  "dados": {
   "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>2 -</b> Avaliar a aprendizagem por competências, a partir de evidências das práticas pedagógicas e técnicas desenvolvidas pelos(as) estudantes, considerando a mobilização de conhecimentos gerais no contexto da Educação Profissional e Tecnológica, para orientar o planejamento e o replanejamento das aulas e o desenvolvimento dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>2.1 - </b>Selecionar e utilizar instrumentos de avaliação formativa alinhados às competências e às práticas pedagógicas e técnicas planejadas, como rubricas, checklists, registros de observação e situações-problema.<br><b>Objeto do Conhecimento:</b><br>Devolutivas formativas e <i>feedforward.</i><br><b>Conteúdos:</b><br><ul><li>Devolutiva formativa durante o processo.<br></li><li><i>Feedforward </i>como orientação para avanço.<br></li><li>Perguntas orientadoras, pistas e retomadas.<br></li></ul><b>Objetivo:</b><br>Elaborar devolutivas formativas e orientações de <i>feedforward</i> para apoiar o avanço dos(as) estudantes durante práticas técnicas colaborativas.<br>",
-   "objetivo": "Analisar como devolutivas formativas, fundamentadas em evidências, podem orientar os próximos passos dos(as) estudantes em práticas técnicas colaborativas.<br>",
-   "titulo": "<b>Devolutivas que Orientam o Próximo Passo</b><br>",
-   "conteudo": "<h3><b><font color=\"#f04770\">Como Orientar Sem Dar a Resposta?&nbsp;</font></b></h3><p><b><font color=\"#f04770\"></font></b></p>Em uma aula prática, os(as) estudantes elaboram, em grupo, o leiaute de uma pequena sala comercial.<br><br>A professora observa que respeitaram as medidas do ambiente e organizaram os móveis, mas deixaram pouco espaço para circulação entre a entrada e o balcão.<br><br>Ela precisa ajudá-los a revisar a proposta sem indicar diretamente onde reposicionar os elementos.<br><div>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">O Desafio de Dar uma Devolutiva Formativa</font></b></h3><p><b><font color=\"#f04770\"></font></b></p>Nessa situação, alguns desafios podem surgir ao organizar uma devolutiva:<br><ul><li>relacionar a devolutiva às evidências observadas;<br></li><li>reconhecer os avanços e comunicar o que precisa ser revisto;<br></li><li>evitar julgamentos ou rótulos sobre o grupo;<br></li><li>orientar o próximo passo sem oferecer a solução;<br></li><li>acompanhar como os(as) estudantes utilizam a orientação recebida.</li></ul><h3><b><font color=\"#f04770\">Da Evidência à Orientação para Avançar</font></b></h3><p><b><font color=\"#f04770\"></font></b></p>Nas aulas anteriores, você aprendeu a identificar evidências, realizar registros simples e analisar possíveis dificuldades dos(as) estudantes.<br><br>O próximo passo é utilizar essas informações para apoiar a aprendizagem durante a prática.<br>Para isso, podemos usar duas ferramentas: <b>a devolutiva formativa </b>e o <b><i>feedforward</i></b>.<br>[CAIXADESTAQUE1]<br>[CAIXADESTAQUE2]<br>Juntos, eles ajudam o(a) estudante não apenas a aprimorar uma atividade, mas também a <b>desenvolver autonomia para analisar seu desempenho, tomar decisões e qualificar sua atuação profissional</b>.<br>Assim, em vez de apenas apontar o que precisa ser corrigido, você utiliza <b>perguntas, pistas, retomadas e orientações</b> para favorecer uma nova tentativa.<br><br>Na situação apresentada, por exemplo, a professora pode levar o grupo a analisar a circulação do ambiente e revisar sua proposta sem indicar diretamente a solução.<br>[INFOGRAFICO1]<br>[VIDEO1]<br><h3><b><font color=\"#f04770\">Na Prática</font></b></h3><p><b><font color=\"#f04770\"></font></b></p>A devolutiva pode assumir diferentes formas, dependendo da evidência observada. Veja alguns exemplos de como transformar uma evidência em orientação para o próximo passo.<br>[ACCORDION1]</div>",
-   "conectando": "Na próxima seção, você aplicará esse percurso a uma situação de prática técnica, elaborando uma devolutiva fundamentada em evidências e orientações que favoreçam o próximo passo dos(as) estudantes.<br>"
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>2 -</b> Avaliar a aprendizagem por competências, a partir de evidências das práticas pedagógicas e técnicas desenvolvidas pelos(as) estudantes, considerando a mobilização de conhecimentos gerais no contexto da Educação Profissional e Tecnológica, para orientar o planejamento e o replanejamento das aulas e o desenvolvimento dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>2.3 - </b>Utilizar os resultados da avaliação para replanejar aulas, ajustar estratégias e orientar o desenvolvimento dos(as) estudantes.<br><b>Objeto do Conhecimento:</b><br>Intervenção pedagógica durante práticas técnicas colaborativas.<br><b>Conteúdos:</b><br><ul><li>Intervenções do(a) professor(a) durante a prática.<br></li><li>Ajuste de orientações, de grupos, de tempo e de recursos.<br></li><li>Retomada de conceitos e procedimentos.<br></li><li>Mediação conforme evidências observadas.<br></li></ul><b>Objetivo:</b><br>Analisar evidências da aprendizagem para definir intervenções pedagógicas durante práticas técnicas colaborativas e acompanhar seus efeitos no desenvolvimento dos(as) estudantes.<br>",
+   "objetivo": "Analisar evidências da aprendizagem para identificar necessidades e definir intervenções pedagógicas durante práticas técnicas colaborativas.",
+   "titulo": "<b>Da Evidência à Intervenção</b><br>",
+   "conteudo": "<h3><b style=\"font-size: 1rem;\"><font color=\"#f04770\">Uma Dificuldade Durante a Prática</font></b></h3><br>Em uma prática de controle de estoque, Marina e Caio, de grupos diferentes, utilizam um leitor de código de barras para registrar caixas no sistema.<br><br><b>Marina:</b> “O leitor registrou a mesma caixa duas vezes. Não sei se apago o item ou reinicio a conferência.”<br><b>Caio:</b> “No meu grupo aconteceu o mesmo. O roteiro orienta conferir o código, mas não explica o que fazer quando há duplicidade.”<br><b>Marina:</b> “Faltam dez minutos e ainda temos três lotes.”<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">O que as Evidências Indicam?&nbsp;<br><br></font></b></h3>O diálogo apresenta evidências que precisam ser analisadas antes de qualquer intervenção: o mesmo problema aparece em mais de um grupo, o roteiro não esclarece como corrigir registros duplicados e o tempo disponível está se encerrando.<br><br>Essas informações podem indicar:<br><ul><li>dificuldade no procedimento;<br></li><li>limitação do recurso;<br></li><li>necessidade de orientações mais claras.<br></li></ul>Com base nessa análise, você decide qual apoio oferecer e a quem direcioná-lo. Pode verificar o funcionamento dos equipamentos, esclarecer uma orientação, retomar um procedimento ou reorganizar o tempo. A escolha deve responder à necessidade identificada e permitir que os(as) estudantes continuem a atividade.<br><br>Depois da intervenção, observe se os(as) estudantes avançam e utilize essas novas evidências para decidir se o apoio foi suficiente ou precisa ser ajustado.<br><br><h3><b><font color=\"#f04770\">Da Evidência ao Ajuste<br><br></font></b></h3>Durante a prática, diferentes evidências podem indicar a necessidade de ajustes. Veja algumas possibilidades de intervenção e quando utilizá-las:<br>[INFOGRAFICO1]<br><br><h3><b><font color=\"#f04770\">Quando Retomar um Conceito ou Procedimento?&nbsp;<br><br></font></b></h3>As evidências podem indicar a necessidade de retomar um conceito ou procedimento que esteja dificultando o avanço da atividade.<br><br>A retomada deve ser breve, direcionada à dificuldade identificada e utilizar uma abordagem diferente da inicial, preservando a autonomia dos(as) estudantes.<br><br><h3><font color=\"#f04770\"><b>Diferentes estratégias de retomada</b></font></h3>[ACCORDION1]<br>[CAIXADESTAQUE1]<br>[VIDEO1]<font color=\"#f04770\"><b></b></font>",
+   "conectando": "Agora, analise situações de práticas técnicas colaborativas e escolha intervenções coerentes com as evidências observadas.<br>"
   },
   "blocos": [
    {
@@ -17,49 +17,20 @@
     "texto": "",
     "pergunta": {
      "tipo": "texto",
-     "titulo": "Reflita:",
-     "texto": "<div>O que essa devolutiva precisa comunicar e provocar?</div>",
+     "titulo": "Antes de Intervir, o que Considerar?",
+     "texto": "Que intervenção você realizaria para ajudar os grupos a avançar? Que evidências observaria depois para verificar se o ajuste contribuiu para a aprendizagem?<br>",
      "videoUrl": "",
      "iframeH5P": ""
     },
     "novo": false
    },
    {
-    "tipo": "caixadestaque",
-    "texto": "<b>Devolutiva formativa:</b><br>Comunica, com base nas evidências, o que o(a) estudante já demonstra e o que ainda precisa desenvolver em relação ao objetivo de aprendizagem.",
-    "caixaImgUrl": "",
-    "caixaImgSize": 40,
-    "caixaCorFundo": "#fefce8",
-    "caixaCorBorda": "#fec43e",
-    "novo": false,
-    "caixaCorTexto": "#0a3442"
-   },
-   {
-    "tipo": "caixadestaque",
-    "texto": "<b><i>Feedforward:</i></b><br>Orienta uma ação possível para que o(a) estudante avance a partir do que foi observado.",
-    "caixaImgUrl": "",
-    "caixaImgSize": 40,
-    "caixaCorFundo": "#beeffc",
-    "caixaCorBorda": "#79d3f2",
-    "novo": false,
-    "caixaCorTexto": "#0a3442"
-   },
-   {
     "tipo": "infografico",
     "texto": "",
-    "infograficoTipo": "ciclo_setas",
+    "infograficoTipo": "timeline",
     "infograficoData": {
-     "titulo": "<b>Da Evidência ao Próximo Passo</b>",
-     "subtitulo": "",
-     "setas": "[{\"titulo\":\"<b>Evidência - <i>O que já aconteceu:</i></b>\",\"subtitulo\":\"\",\"resumo\":\"\",\"modalTitulo\":\"\",\"modalConteudo\":\"Ações, falas, registros e produções mostram o que o(a) estudante realizou em relação ao objetivo de aprendizagem.<br>\"},{\"titulo\":\"<b>Devolutiva formativa - <i>Onde está agora:</i></b>\",\"subtitulo\":\"\",\"resumo\":\"\",\"modalTitulo\":\"\",\"modalConteudo\":\"Comunica o que as evidências revelam sobre os avanços e o que ainda precisa desenvolver.\"},{\"titulo\":\"<b><i>Feedfoward</i> - <i>Qual é o próximo passo:</i></b>\",\"subtitulo\":\"\",\"resumo\":\"\",\"modalTitulo\":\"\",\"modalConteudo\":\"Orienta uma nova ação por meio de perguntas, pistas, retomadas ou encaminhamentos, sem apresentar a solução pronta.<br>\"}]"
+     "etapas": "[{\"topico\":\"<b>Esclarecer orientações:</b>\",\"texto\":\"quando as instruções não forem suficientes, complemente-as e observe se os(as) estudantes conseguem continuar.&nbsp;<br>\"},{\"topico\":\"<b>Retomar conceitos ou procedimentos:</b>\",\"texto\":\"diante de dificuldades recorrentes, recupere o ponto necessário e verifique sua aplicação.&nbsp;<br>\"},{\"topico\":\"Ajustar recursos:&nbsp;\",\"texto\":\"quando um material ou equipamento dificultar a tarefa, verifique seu funcionamento e adapte seu uso.&nbsp;<br>\"},{\"topico\":\"Reorganizar os grupos:\",\"texto\":\"quando a dinâmica dificultar a colaboração, redistribua responsabilidades e observe a participação.&nbsp;<br>\"},{\"topico\":\"Reorganizar o tempo:\",\"texto\":\"quando a dificuldade comprometer o andamento, ajuste as etapas sem perder de vista o objetivo de aprendizagem.&nbsp;<br>\"}]"
     },
-    "novo": false
-   },
-   {
-    "tipo": "video",
-    "texto": "Agora, acompanhe como uma evidência observada pode se transformar em uma devolutiva formativa e orientar o próximo passo dos(as) estudantes, com perguntas e pistas que apoiam o raciocínio sem antecipar a solução.",
-    "titulo": "Assista:",
-    "url": "",
     "novo": false
    },
    {
@@ -67,36 +38,73 @@
     "texto": "",
     "topicos": [
      {
-      "titulo": "Exemplo 1",
-      "texto": "<b>Evidência&nbsp;</b><br>Realizou o procedimento, mas não consegue explicar a sequência.<br><br><b>Devolutiva</b><br>“Você realizou o procedimento corretamente, mas ainda precisa explicar a lógica das etapas.”<br><br><i><b>Feedforward</b></i><br>“Revise a sequência e explique o que poderia acontecer se uma etapa fosse alterada.”<br><br>"
+      "titulo": "Estratégia: Apresentar outro exemplo.",
+      "texto": "<b>Quando usar</b><br>Quando o exemplo inicial não foi suficiente para que os(as) estudantes compreendessem o conceito ou estabelecessem relações.<br>"
      },
      {
-      "titulo": "Exemplo 2",
-      "texto": "<b>Evidência</b><br>Identificou o problema, mas não considerou os dados disponíveis.<br><br><b>Devolutiva</b><br>“Você identificou o problema, mas sua proposta ainda não utiliza as informações apresentadas.”<br><br><b><i>Feedforward</i></b><br>“Retome os dados e verifique quais podem sustentar ou modificar sua proposta.”<br>"
+      "titulo": "Estratégia: Demonstrar novamente, com outra abordagem.  ",
+      "texto": "<b>Quando usar</b><br>Quando os(as) estudantes apresentam dificuldade para compreender ou executar um procedimento.<br>"
      },
      {
-      "titulo": "Exemplo 3",
-      "texto": "<b>Evidência</b><br>A solução está correta, mas não relaciona os conceitos estudados.<br><br><b>Devolutiva</b><br>“A solução atende ao problema, mas ainda não ficou claro como os conceitos fundamentaram sua escolha.”<br><br><b><i>Feedforward</i></b><br>“Identifique um conceito trabalhado na aula que ajude a explicar sua decisão.”<br>"
+      "titulo": "Estratégia: Representar visualmente o conceito ou procedimento. ",
+      "texto": "<b>Quando usar</b><br>Quando os(as) estudantes precisam visualizar relações, etapas ou informações para compreender o conteúdo.<br>"
      },
      {
-      "titulo": "Exemplo 4",
-      "texto": "<b>Evidência</b><br>O(a) estudante recebeu uma orientação, fez uma nova tentativa e melhorou o resultado, mas ainda mantém uma dificuldade.<br><br><b>Devolutiva</b><br>“Sua nova tentativa melhorou o resultado, especialmente em relação a ____. Ainda é preciso avançar em ____.”<br><br><b><i>Feedforward</i></b><br>“Na próxima tentativa, concentre-se nesse aspecto e verifique se a mudança produz um resultado diferente.”<br>"
+      "titulo": "Estratégia: Retomar com perguntas orientadoras. ",
+      "texto": "<b>Quando usar</b><br>Quando é necessário identificar o que os(as) estudantes compreenderam e ajudá-los a reconstruir o raciocínio.<br>"
+     },
+     {
+      "titulo": "Estratégia: Retomar o procedimento por etapas. ",
+      "texto": "<b>Quando usar</b><br>Quando os(as) estudantes têm dificuldade para executar uma sequência de ações ou compreender como uma etapa se relaciona à seguinte.<br>"
+     },
+     {
+      "titulo": "Estratégia: Comparar exemplos e contraexemplos. ",
+      "texto": "<b>Quando usar</b><br>Quando os(as) estudantes não conseguem distinguir situações adequadas e inadequadas ou compreender os critérios envolvidos.<br>"
+     },
+     {
+      "titulo": "Estratégia: Recuperar conhecimentos prévios.  ",
+      "texto": "<b>Quando usar</b><br>Quando a dificuldade atual está relacionada a conceitos ou procedimentos trabalhados anteriormente.<br>"
      }
     ],
+    "novo": false
+   },
+   {
+    "tipo": "caixadestaque",
+    "texto": "<b>A retomada não consiste apenas em oferecer mais explicações ou exercícios. Ela pressupõe identificar o que não foi compreendido e abordar esse ponto de outra maneira, verificando depois se os(as) estudantes conseguem aplicar o que aprenderam.&nbsp;</b><br>",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#fdf0f3",
+    "caixaCorBorda": "#f04770",
+    "novo": false,
+    "caixaCorTexto": "#0a3442"
+   },
+   {
+    "tipo": "video",
+    "texto": "Veja como identificar uma necessidade a partir das evidências, ajustar a prática e observar os efeitos de sua intervenção.<br>",
+    "titulo": "Assista:",
+    "url": "",
     "novo": false
    }
   ],
   "conclusao": {
-   "titulo": "Em Resumo…",
-   "texto": "Uma devolutiva formativa parte de evidências relacionadas ao objetivo de aprendizagem e comunica ao(à) estudante o que ele(a) já consegue realizar e o que ainda precisa desenvolver.<br><br>Ao orientar os próximos passos por meio de perguntas, pistas e retomadas, ela incorpora o <i>feedforward</i> e favorece novas ações.<br><br>Assim, devolutiva e <i>feedforward</i> caminham juntos: enquanto a primeira torna a aprendizagem visível, o segundo orienta sua continuidade, apoiando o(a) estudante sem substituir seu raciocínio ou oferecer a solução pronta.<br>[DICA1]",
+   "titulo": "Em Resumo: Intervir para Favorecer a Aprendizagem",
+   "texto": "<ul><li><b>Observe antes de agir:</b> identifique o que os(as) estudantes fazem, quando encontram dificuldades e se o problema se repete em outros grupos.<br></li><li><b>Escolha uma intervenção coerente com a necessidade: </b>esclareça orientações, retome conceitos ou procedimentos, ajuste recursos, reorganize grupos ou reveja o tempo disponível.<br></li><li><b>Preserve o protagonismo dos(as) estudantes:</b> ofereça o apoio necessário para que avancem sem assumir a execução da tarefa por eles.<br></li><li><b>Acompanhe os efeitos da intervenção:</b> observe se os(as) estudantes conseguem aplicar a orientação, superar a dificuldade e dar continuidade à atividade.<br></li><li><b>Decida os próximos passos com base nas novas evidências: </b>mantenha o ajuste se ele funcionar, modifique-o se a dificuldade persistir ou permita que a atividade continue quando os(as) estudantes demonstrarem condições para avançar.<br>[DICA1]<br>[SAIBAMAIS1]</li></ul>",
    "blocos": [
     {
      "tipo": "dica",
-     "texto": "Antes de oferecer uma devolutiva, retome o objetivo, descreva a evidência observada e formule uma pergunta que ajude o(a) estudante a revisar sua ação. Depois, observe como ele(a) utiliza a orientação e ajuste sua mediação.<br>",
-     "novo": true
+     "texto": "Antes de intervir, pergunte-se: que evidência observei, que necessidade ela indica e qual ajuste pode ajudar? Depois, observe a resposta dos(as) estudantes. Se a dificuldade persistir, reveja a intervenção.<br>",
+     "novo": false
+    },
+    {
+     "tipo": "saibamais",
+     "texto": "No livro <b>Avaliação da aprendizagem numa abordagem por competências</b>, Gérard Scallon discute como avaliar o desenvolvimento de competências a partir de evidências. A leitura pode ampliar sua compreensão sobre como utilizar essas evidências para fundamentar decisões e ajustar intervenções pedagógicas.<br>",
+     "titulo": "",
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": false
     }
    ]
   },
-  "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=31459"
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27380"
  }
 }
