@@ -1,14 +1,19 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Tarefa",
- "quando": "2026-10-19T17:51:26.707Z",
+ "quando": "2026-10-23T12:42:05.449Z",
  "autor": "Teste",
  "dados": {
   "botoesMaterial": [
    {
-    "texto": "Acessar modelo Roteiro de Ajustes e Replanejamento",
-    "link": "https://docs.google.com/document/d/1bpXyo-C-4zUsnM8mFPiD8o5OjCFVCcz5/edit",
-    "cor": "#f04770"
+    "texto": "Acessar modelo de plano da SEDUC/AL",
+    "link": "",
+    "cor": "#fec43e"
+   },
+   {
+    "texto": "Acessar matriz curricular",
+    "link": "",
+    "cor": "#06d7a0"
    }
   ],
   "checklist": {
@@ -16,22 +21,17 @@
    "itens": [
     {
      "titulo": "Reúna os(as) colegas",
-     "texto": "Reúnam os professores dos componentes e das experiências curriculares diretamente relacionados à situação analisada. Quando pertinente, o(a) articulador(a) de ensino e a coordenação pedagógica também podem participar, apoiando a análise das evidências e a definição dos encaminhamentos."
+     "texto": "Aproveite o HTPC para revisar coletivamente os objetivos, saberes e possibilidades de integração entre a Formação Geral Básica, o Ensino Técnico e outros componentes do pALei."
     },
     {
-     "titulo": "Como preencher?",
-     "texto": "Escolham uma situação concreta de uma aula recente e percorram as cinco etapas deste roteiro. Registrem os ajustes acordados coletivamente, considerando as necessidades dos(as) estudantes e as condições reais da turma e da escola."
+     "titulo": "Planeje de forma integrada",
+     "texto": "Utilize o planejamento já esboçado, o modelo de planejamento da SEDUC/AL e as matrizes curriculares como apoio para consolidar e aprimorar o plano do bimestre."
     }
    ]
   },
   "destaque": {
    "titulo": "Registre e compartilhe",
    "texto": "Faça o upload do documento revisado na plataforma para evidenciar como os conhecimentos serão mobilizados de forma integrada."
-  },
-  "formatos": [
-   "pdf",
-   "docx",
-   "doc"
-  ]
+  }
  }
 }
