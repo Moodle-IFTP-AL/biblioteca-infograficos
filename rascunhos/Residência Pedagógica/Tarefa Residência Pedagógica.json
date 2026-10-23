@@ -1,26 +1,23 @@
 {
  "versao": 1,
  "espaco": "Residência Pedagógica/Tarefa Residência Pedagógica",
- "quando": "2026-10-23T12:54:53.442Z",
+ "quando": "2026-10-23T12:56:53.555Z",
  "autor": "Teste",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>6 -</b> Implementar, analisar e aprimorar práticas pedagógicas com base em evidências e reflexão crítica: desenvolver a capacidade de aplicar práticas pedagógicas fundamentadas nas metodologias estudadas, registrar e analisar evidências do processo de aprendizagem, refletir criticamente sobre os resultados e implementar melhorias contínuas na atuação docente. Envolve conduzir intervenções alinhadas às necessidades reais da turma, interpretar dados e feedbacks, dialogar com pares e transformar a reflexão em ações pedagógicas consistentes e evolutivas.<br><b>Habilidade:&nbsp;</b><br><b>6.3 - </b>Ajustar e aprimorar suas ações pedagógicas, implementando melhorias com base nas evidências e construindo planos de ação que orientem seu desenvolvimento profissional contínuo.<br><b>Objetos do conhecimento:&nbsp;</b><br>Resultados da aprendizagem.<br><b>Conteúdo:</b><br><ul><li>Análise de evidências de aprendizagem.<br></li><li>Planejamento de intervenções pedagógicas.<br></li></ul><b>Objetivo:&nbsp;</b><br>Analisar evidências e registros da prática docente para identificar necessidades de aprendizagem e planejar intervenções pedagógicas.<br><br>",
    "texto2": "Analisar evidências e registros da prática docente para identificar necessidades de aprendizagem e planejar intervenções pedagógicas.<br>",
    "texto3": "<b>Analisando os Resultados para Avançar&nbsp;</b><br>",
-   "texto5": "Neste terceiro ciclo da Residência Pedagógica, você avançou da implementação e reflexão sobre a prática para uma análise mais aprofundada dos resultados da aprendizagem dos(as) estudantes.<br><b>Agora, retome as evidências de aprendizagem e os registros da sua prática para compreender:</b><br><br><div>[INFOGRAFICO1]</div><div><br></div><div>A partir dessa análise, você irá organizar suas descobertas no <b>Modelo de Registro e Análise dos Resultados da Aprendizagem </b>e planejar intervenções alinhadas às necessidades identificadas.</div><div><br></div><div><b>Antes de Iniciar o Registro</b><br>Retome as evidências produzidas pelos(as) estudantes e os registros realizados durante as aulas. Selecione informações que ajudem a compreender os resultados da aprendizagem e a analisar as estratégias pedagógicas utilizadas.<br>Durante o preenchimento, procure:<br><ul><li>relacionar diferentes evidências e registros da prática docente;<br></li><li>identificar padrões, diferenças e dificuldades recorrentes;<br></li><li>distinguir dificuldades relacionadas à compreensão de conceitos, à realização de procedimentos e às atitudes durante as atividades;<br></li><li>utilizar os resultados para planejar intervenções coerentes com as necessidades identificadas.<br></li></ul>Fundamente suas análises nas informações disponíveis, diferenciando o que foi observado das possíveis explicações para os resultados.<br><b>1. Distribuição dos(as) estudantes por nível</b><br>Preencha a distribuição dos(as) estudantes por nível de aprendizagem com base nas evidências analisadas.<br><br></div><div><br></div>",
+   "texto5": "Neste terceiro ciclo da Residência Pedagógica, você avançou da implementação e reflexão sobre a prática para uma análise mais aprofundada dos resultados da aprendizagem dos(as) estudantes.<br><b>Agora, retome as evidências de aprendizagem e os registros da sua prática para compreender:</b><br><br><div>[INFOGRAFICO1]</div><div><br></div><div>A partir dessa análise, você irá organizar suas descobertas no <b>Modelo de Registro e Análise dos Resultados da Aprendizagem </b>e planejar intervenções alinhadas às necessidades identificadas.</div><div><br></div><div><br></div>",
    "texto6": ""
   },
   "blocos": [
    {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "lista_interativa",
-    "infograficoData": {
-     "titulo": "Resultados de Aprendizagem",
-     "linhas": "[\"<b>O que os(as) estudantes aprenderam.</b>\",\"Quais <b>avanços</b> alcançaram e quais <b>dificuldades</b> permanecem.\",\"Quais <b>necessidades de aprendizagem</b> foram identificadas.\",\"<b>Que relações existem</b> entre as estratégias pedagógicas utilizadas e os resultados observados.\",\"<b>Quais intervenções pedagógicas</b> podem favorecer os próximos avanços.\"]"
-    },
-    "novo": false
+    "tipo": "botao",
+    "texto": "Acessar: Modelo de Registro e Análise dos Resultados da Aprendizagem",
+    "corBotao": "#79d3f2",
+    "linkBotao": "",
+    "novo": true
    }
   ]
  }
