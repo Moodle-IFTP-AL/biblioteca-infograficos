@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Reconhecendo o Caminho",
- "quando": "2026-10-19T17:40:45.320Z",
+ "quando": "2026-10-23T12:44:05.362Z",
  "autor": "Teste",
  "dados": {
   "agoraSuaVez": {
@@ -10,26 +10,36 @@
    "chamada": "Agora é sua vez de planejar!",
    "cards": [
     {
-     "titulo": "Analisem as evidências em equipe",
-     "texto": "Aproveite o HTPC para revisitar coletivamente as evidências da prática. Olhem para uma situação real da turma: o que as falas, tarefas e dificuldades dos(as) estudantes mostraram sobre o que funcionou e o que travou?\n"
+     "titulo": "Reúna os(as) colegas",
+     "texto": "Aproveite o HTPC para revisar coletivamente os objetivos, saberes e possibilidades de integração entre a Formação Geral Básica, o Ensino Técnico e outros componentes do pALei."
     },
     {
      "titulo": "Planeje de forma integrada",
-     "texto": "Utilizem o Roteiro de Ajustes e Replanejamento para a próxima aula e sigam os cinco passos para planejar intervenções simples e viáveis na rotina, combinando o apoio entre os componentes."
+     "texto": "Utilize o planejamento já esboçado, o modelo de planejamento da SEDUC/AL e as matrizes curriculares como apoio para consolidar e aprimorar o plano."
     },
     {
      "titulo": "Registre e compartilhe",
-     "texto": "Faça o upload do documento preenchido na plataforma para registrar os caminhos combinados para as próximas aulas.\n"
+     "texto": "Faça o upload do documento na plataforma para evidenciar como os conhecimentos serão mobilizados de forma integrada."
     }
    ]
   },
   "campos": {
-   "texto1": "<b>Competência:&nbsp;</b><br><b>5 -</b> Planejar percursos formativos integrados e interdisciplinares, articulando saberes gerais e técnicos, competências da BNCC e demandas do mundo do trabalho: desenvolver a capacidade de organizar percursos formativos que articulem teoria e prática, competências gerais e técnicas, conteúdos de diferentes áreas e demandas reais do mundo do trabalho. Envolve integrar saberes gerais e profissionais, planejar sequências e unidades didáticas contextualizadas, construir projetos e atividades interdisciplinarmente articuladas e elaborar planos de aula coerentes com os itinerários formativos e as necessidades dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>5.3 -</b> Colaborar com outros professores na construção de percursos, sequências e projetos articulados, garantindo coerência pedagógica e progressão da aprendizagem.<br><b>Objetos do conhecimento: </b>acompanhamento baseado em evidências e replanejamento docente.<br><b>Conteúdos:</b><br><ul><li>leitura de evidências de processo (registros, produções intermediárias e escutas);<br></li><li>identificação de lacunas conceituais e procedimentais;<br></li><li>acompanhamento coletivo da prática e replanejamento no HTPC.<br></li></ul><b>Objetivo:</b> analisar evidências de aprendizagem e da prática pedagógica para tomar decisões sobre os ajustes necessários e registrar, colaborativamente, o replanejamento integrado das próximas aulas e atividades.<br><br>",
-   "texto2": "<div><span style=\"font-family: &quot;Open Sans&quot;, sans-serif; font-size: 1rem;\">Analisar evidências de aprendizagem e da prática pedagógica para tomar decisões sobre os ajustes necessários e registrar, colaborativamente, o replanejamento integrado das próximas aulas e atividades.</span></div>",
-   "texto3": "<b>Replanejamento Coletivo a partir das Evidências</b><br><br>",
-   "texto5": "Na aula anterior, você viu que o planejamento ganha vida na prática e que as evidências deixadas pelos(as) estudantes mostram o caminho para avançar. Mas o que fazer quando a aula não sai como o previsto?<br>No contexto escolar, replanejar é um exercício de análise de evidências. É preciso:<br><ul><li>reconhecer o que foi construído;<br></li><li>identificar o que ainda precisa ser retomado;<br></li><li>reorganizar os próximos passos com intencionalidade.<br></li></ul>Ao analisar registros feitos por professores(as) e estudantes, a equipe de diferentes componentes curriculares constrói o replanejamento de forma colaborativa, integrando as contribuições de cada área do conhecimento.<br><b>Como preencher o Roteiro de Ajustes e Replanejamento</b><br>Para apoiar essa conversa, disponibilizamos o Roteiro de Ajustes e Replanejamento, organizado em cinco etapas práticas.<br><ul><li><font color=\"#f04770\"><b>Passo 1 - O que as evidências revelam?</b><br></font></li></ul>Escolha uma aula ou atividade recente e observe o que a turma fez, disse ou produziu. Registre o que essas evidências revelam sobre a condução da aula.<br><ul><li><font color=\"#f04770\"><b>Passo 2 - A que dimensão formativa essa evidência se relaciona?</b><br></font></li></ul>Considere as dimensões que podem ajudar a compreender a situação e identifique quais delas estão relacionadas à necessidade observada: cognitiva, sociocultural e territorial, socioemocional ou profissional.<br><ul><li><font color=\"#f04770\"><b>Passo 3 - O que vale a pena manter, retomar ou ajustar?</b><br></font></li></ul>Defina o que deve ser mantido, retomado ou ajustado nas próximas aulas.<br><ul><li><font color=\"#f04770\"><b>Passo 4 - Que intervenção pontual será colocada em prática?</b><br></font></li></ul>Defina como o ajuste será incorporado às próximas aulas e qual professor(a) ou componente ficará responsável pela ação.<br><ul><li><font color=\"#f04770\"><b>Passo 5 - O que será observado na próxima aula?</b><br></font></li></ul>Definam uma evidência observável para verificar se o ajuste funcionou e se os(as) estudantes avançaram na aprendizagem.<br>Replanejar em equipe é transformar as evidências da prática em decisões de aprendizagem. Ao longo do planejamento coletivo,&nbsp; pequenos ajustes, construídos em conjunto, ajudam a turma a avançar.<br><br>",
+   "texto1": "<b>Competência:&nbsp;</b><br><b>5 -</b> Planejar percursos formativos integrados e interdisciplinares, articulando saberes gerais e técnicos, competências da BNCC e demandas do mundo do trabalho: desenvolver a capacidade de organizar percursos formativos que articulem teoria e prática, competências gerais e técnicas, conteúdos de diferentes áreas e demandas reais do mundo do trabalho. Envolve integrar saberes gerais e profissionais, planejar sequências e unidades didáticas contextualizadas, construir projetos e atividades interdisciplinarmente articuladas e elaborar planos de aula coerentes com os itinerários formativos e as necessidades dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>5.3 </b>- Colaborar com outros(as) professores(as) na construção de percursos, sequências e projetos articulados, garantindo coerência pedagógica e progressão da aprendizagem.<br><b>Objetos do Conhecimento:</b><br>Revisão integrada do projeto.<br><b>Conteúdos:</b><br><ul><li>Revisão coletiva dos produtos parciais.<br></li><li>Compartilhamento e análise de evidências para orientar ajustes no planejamento.<br></li><li>Definição coletiva de ajustes nas etapas e entregas do projeto.<br></li></ul><b>Objetivo:</b><br>Revisar coletivamente o projeto integrado a partir da análise de evidências e dos produtos parciais, ajustando etapas e entregas para favorecer a coerência pedagógica e a progressão das aprendizagens.<br><br>",
+   "texto2": "Revisar coletivamente o projeto integrado a partir da análise de evidências e dos produtos parciais, ajustando etapas e entregas para favorecer a coerência pedagógica e a progressão das aprendizagens.",
+   "texto3": "<b>Hora de Colocar em Prática!</b><br><br>",
+   "texto5": "Na aula anterior, vimos como acompanhar o desenvolvimento de um percurso de aprendizagem integrado, como um projeto, identificando avanços, dificuldades e necessidades de ajuste.<br>Agora, vamos utilizar esse conhecimento para revisar um projeto integrado. Escolha um projeto que você realizou ou planejou. Ele pode estar <b>em andamento, já ter sido realizado ou estar previsto para acontecer</b>.<br>Durante o HTPC, compartilhe suas percepções com os(as) colegas, analisem o desenvolvimento do projeto e discutam os ajustes necessários.<br><b>Como Utilizar o Material?</b><br>Utilizem o material <b>Acompanhamento e Ajustes de um Projeto Integrado</b> para registrar:<br><br><div>[INFOGRAFICO1]</div><div><br></div><div>Se o projeto ainda estiver previsto, considerem informações e experiências anteriores que ajudem a antecipar possíveis necessidades de ajuste.<br><b>O que Pode ser Ajustado?</b><br>Durante a análise coletiva, considerem as seguintes possibilidades:<br><br></div><div><br></div>",
    "texto7": ""
   },
-  "tipoBotao": "envio"
+  "blocos": [
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "cards_coloridos",
+    "infograficoData": {
+     "cards": "[{\"titulo\":\"<b>Atividades realizadas</b>\",\"texto\":\"O que já foi desenvolvido e quais entregas foram produzidas ou estão planejadas.\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"},{\"titulo\":\"<b>Evidências de aprendizagem</b>\",\"texto\":\"O que as produções e os registros revelam sobre os avanços e as dificuldades dos(as) estudantes.\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"},{\"titulo\":\"<b>Ajustes necessários</b>\",\"texto\":\"O que pode ser mantido, retomado ou modificado para favorecer a aprendizagem.\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"}]"
+    },
+    "novo": false
+   }
+  ]
  }
 }
