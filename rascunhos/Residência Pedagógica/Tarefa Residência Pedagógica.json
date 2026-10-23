@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Residência Pedagógica/Tarefa Residência Pedagógica",
- "quando": "2026-10-23T13:05:53.729Z",
+ "quando": "2026-10-23T19:29:02.614Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -52,6 +52,7 @@
    "pdf",
    "docx",
    "doc"
-  ]
+  ],
+  "rubricaUrl": "https://drive.google.com/file/d/1gHg2lwMajzU-UQWp_-1p-6QUHTI_3FoD/view?usp=sharing"
  }
 }
