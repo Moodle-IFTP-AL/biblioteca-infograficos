@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Reconhecendo o Caminho",
- "quando": "2026-10-23T12:46:57.241Z",
+ "quando": "2026-10-23T12:47:58.536Z",
  "autor": "Teste",
  "dados": {
   "agoraSuaVez": {
@@ -10,16 +10,16 @@
    "chamada": "Durante o HTPC, analisem coletivamente um projeto integrado, considerando seu desenvolvimento, as evidências de aprendizagem e as dificuldades identificadas. Preencham o material proposto, registrando os ajustes necessários e as ações práticas para sua realização.",
    "cards": [
     {
-     "titulo": "Reúna os(as) colegas",
-     "texto": "Aproveite o HTPC para revisar coletivamente os objetivos, saberes e possibilidades de integração entre a Formação Geral Básica, o Ensino Técnico e outros componentes do pALei."
+     "titulo": "Retome o projeto",
+     "texto": "Escolha um projeto integrado, em andamento, já realizado ou previsto, e registre suas informações básicas."
     },
     {
-     "titulo": "Planeje de forma integrada",
-     "texto": "Utilize o planejamento já esboçado, o modelo de planejamento da SEDUC/AL e as matrizes curriculares como apoio para consolidar e aprimorar o plano."
+     "titulo": "Analise o desenvolvimento",
+     "texto": "Compartilhe percepções sobre as atividades, as dificuldades e as evidências de aprendizagem."
     },
     {
-     "titulo": "Registre e compartilhe",
-     "texto": "Faça o upload do documento na plataforma para evidenciar como os conhecimentos serão mobilizados de forma integrada."
+     "titulo": "Identifique os ajustes ",
+     "texto": "Preencha coletivamente o Acompanhamento e Ajustes de um Projeto Integrado, registrando as análises e os ajustes necessários. "
     }
    ]
   },
