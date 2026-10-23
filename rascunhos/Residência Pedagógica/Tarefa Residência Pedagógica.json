@@ -1,22 +1,31 @@
 {
  "versao": 1,
  "espaco": "Residência Pedagógica/Tarefa Residência Pedagógica",
- "quando": "2026-10-23T12:56:53.555Z",
+ "quando": "2026-10-23T13:02:53.786Z",
  "autor": "Teste",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>6 -</b> Implementar, analisar e aprimorar práticas pedagógicas com base em evidências e reflexão crítica: desenvolver a capacidade de aplicar práticas pedagógicas fundamentadas nas metodologias estudadas, registrar e analisar evidências do processo de aprendizagem, refletir criticamente sobre os resultados e implementar melhorias contínuas na atuação docente. Envolve conduzir intervenções alinhadas às necessidades reais da turma, interpretar dados e feedbacks, dialogar com pares e transformar a reflexão em ações pedagógicas consistentes e evolutivas.<br><b>Habilidade:&nbsp;</b><br><b>6.3 - </b>Ajustar e aprimorar suas ações pedagógicas, implementando melhorias com base nas evidências e construindo planos de ação que orientem seu desenvolvimento profissional contínuo.<br><b>Objetos do conhecimento:&nbsp;</b><br>Resultados da aprendizagem.<br><b>Conteúdo:</b><br><ul><li>Análise de evidências de aprendizagem.<br></li><li>Planejamento de intervenções pedagógicas.<br></li></ul><b>Objetivo:&nbsp;</b><br>Analisar evidências e registros da prática docente para identificar necessidades de aprendizagem e planejar intervenções pedagógicas.<br><br>",
    "texto2": "Analisar evidências e registros da prática docente para identificar necessidades de aprendizagem e planejar intervenções pedagógicas.<br>",
    "texto3": "<b>Analisando os Resultados para Avançar&nbsp;</b><br>",
-   "texto5": "Neste terceiro ciclo da Residência Pedagógica, você avançou da implementação e reflexão sobre a prática para uma análise mais aprofundada dos resultados da aprendizagem dos(as) estudantes.<br><b>Agora, retome as evidências de aprendizagem e os registros da sua prática para compreender:</b><br><br><div>[INFOGRAFICO1]</div><div><br></div><div>A partir dessa análise, você irá organizar suas descobertas no <b>Modelo de Registro e Análise dos Resultados da Aprendizagem </b>e planejar intervenções alinhadas às necessidades identificadas.</div><div><br></div><div><br></div>",
+   "texto5": "Neste terceiro ciclo da Residência Pedagógica, você avançou da implementação e reflexão sobre a prática para uma análise mais aprofundada dos resultados da aprendizagem dos(as) estudantes.<br><b>Agora, retome as evidências de aprendizagem e os registros da sua prática para compreender:</b><br><br><div>[INFOGRAFICO1]</div><div><br></div><div>A partir dessa análise, você irá organizar suas descobertas no <b>Modelo de Registro e Análise dos Resultados da Aprendizagem </b>e planejar intervenções alinhadas às necessidades identificadas.</div><div><br></div><div>[BOTAO1]</div><div><br></div><div><br></div>",
    "texto6": ""
   },
   "blocos": [
    {
     "tipo": "botao",
     "texto": "Acessar: Modelo de Registro e Análise dos Resultados da Aprendizagem",
-    "corBotao": "#79d3f2",
+    "corBotao": "#f04770",
+    "linkBotao": "https://docs.google.com/document/d/1SHAV93d09k9IQSaOuD5HpEuCd8yS2o7h/edit?usp=sharing&ouid=115533702854844849288&rtpof=true&sd=true",
+    "novo": false,
+    "minimizado": true
+   },
+   {
+    "tipo": "saibamais",
+    "texto": "Como despertar o interesse dos(as) estudantes e ajudá-los(as) a perceber a importância do que estão aprendendo?<br>A<b> simulação de papéis</b>, também conhecida como <b><i>role-play</i></b>, permite vivenciar situações do mundo do trabalho, experimentar diferentes formas de agir e compreender responsabilidades. Ao simular situações profissionais, os(as) estudantes podem perceber o sentido da atividade, mobilizar conhecimentos, praticar procedimentos e ganhar confiança para participar.<br><br>",
+    "titulo": "<b>Simulação de Papéis</b><br><br>",
     "linkBotao": "",
+    "textoBotao": "",
     "novo": true
    }
   ]
