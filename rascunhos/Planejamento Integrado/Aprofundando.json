@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-10-26T18:54:36.216Z",
+ "quando": "2026-10-26T18:55:22.254Z",
  "autor": "Teste",
  "dados": {
   "agoraSuaVez": {
@@ -63,7 +63,7 @@
   ],
   "conclusao": {
    "titulo": "Em Resumo:",
-   "texto": "<br>Organizar e combinar registros do(a) professor(a), produções e autoavaliações permite identificar avanços e dificuldades e planejar os próximos passos.<br>Quando essas evidências são compartilhadas entre os(as) professores(as), ajudam a articular conhecimentos e práticas às necessidades dos(as) estudantes, ao território e às demandas do mundo do trabalho.<br><br>",
+   "texto": "<br>Organizar e combinar registros do(a) professor(a), produções e autoavaliações permite identificar avanços e dificuldades e planejar os próximos passos.<br>Quando essas evidências são compartilhadas entre os(as) professores(as), ajudam a articular conhecimentos e práticas às necessidades dos(as) estudantes, ao território e às demandas do mundo do trabalho.<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -72,10 +72,11 @@
      "itensRevisar": [],
      "linkBotao": "Aula do 3º Módulo, Unidade 4",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
   },
-  "tipoBotao": "bibliografia"
+  "tipoBotao": "bibliografia",
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27418"
  }
 }
