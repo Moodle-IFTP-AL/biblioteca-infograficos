@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-10-26T18:47:32.039Z",
+ "quando": "2026-10-26T18:54:36.216Z",
  "autor": "Teste",
  "dados": {
   "agoraSuaVez": {
@@ -75,6 +75,7 @@
      "novo": true
     }
    ]
-  }
+  },
+  "tipoBotao": "bibliografia"
  }
 }
