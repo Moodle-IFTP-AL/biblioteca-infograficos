@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-10-26T18:46:04.454Z",
+ "quando": "2026-10-26T18:47:32.039Z",
  "autor": "Teste",
  "dados": {
   "agoraSuaVez": {
@@ -27,7 +27,7 @@
    "texto1": "<b>Competência:&nbsp;</b><br><b>5 -</b> Planejar percursos formativos integrados e interdisciplinares, articulando saberes gerais e técnicos, competências da BNCC e demandas do mundo do trabalho: desenvolver a capacidade de organizar percursos formativos que articulem teoria e prática, competências gerais e técnicas, conteúdos de diferentes áreas e demandas reais do mundo do trabalho. Envolve integrar saberes gerais e profissionais, planejar sequências e unidades didáticas contextualizadas, construir projetos e atividades interdisciplinarmente articuladas e elaborar planos de aula coerentes com os itinerários formativos e as necessidades dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>5.1 - </b>Organizar conteúdos e atividades que articulem teoria, prática e mundo do trabalho, integrando as competências da BNCC às competências técnicas dos eixos temáticos.<br><b>Objetos do Conhecimento:</b><br>Sistematização de evidências de aprendizagem.<br><b>Conteúdos:</b><br><ul><li>Selecionar evidências relevantes para a avaliação.<br></li><li>Articular fontes de evidência (registros do(a) professor(a), autoavaliação e produtos entregues).<br></li><li>Organizar registros para subsidiar avaliação e replanejamento.<br></li></ul><b>Objetivo:&nbsp;</b><br>Sistematizar evidências de aprendizagem para avaliar continuamente e replanejar as práticas de ensino.<br><br>",
    "texto2": "Sistematizar evidências de aprendizagem para avaliar continuamente e replanejar as práticas de ensino.",
    "texto3": "<b>Sistematizar Evidências para Planejar&nbsp;</b><br><br>",
-   "texto5": "O planejamento de um novo bimestre deve considerar as evidências de aprendizagem observadas ao longo do percurso.<br>Em uma proposta integrada, os(as) estudantes fazem perguntas, compartilham ideias, realizam procedimentos, enfrentam dificuldades e encontram soluções. Essas situações revelam o que aprenderam e o que ainda precisam desenvolver.<br>Além disso, também evidenciam aspectos do desenvolvimento integral dos(as) estudantes e de sua preparação para o mundo do trabalho e para a vida.<br>Para orientar as próximas práticas, é importante reunir informações de diferentes fontes<br><br><div>[INFOGRAFICO1]</div><div><br></div><div>Ao combinar essas fontes, é possível compreender melhor os resultados alcançados e identificar aspectos que precisam ser desenvolvidos.</div><div><br></div><div><h3><b><font color=\"#f04770\">Planejar a Partir das Evidências</font></b></h3><p><br></p>As observações, os registros e as autoavaliações oferecem informações valiosas sobre as aprendizagens. Essas evidências precisam estar organizadas para que possam ser revisitadas e utilizadas nos próximos planejamentos.<br>Para sistematizá-las, relacione três elementos:<br><br></div><div>[INFOGRAFICO2]</div>",
+   "texto5": "O planejamento de um novo bimestre deve considerar as evidências de aprendizagem observadas ao longo do percurso.<br>Em uma proposta integrada, os(as) estudantes fazem perguntas, compartilham ideias, realizam procedimentos, enfrentam dificuldades e encontram soluções. Essas situações revelam o que aprenderam e o que ainda precisam desenvolver.<br>Além disso, também evidenciam aspectos do desenvolvimento integral dos(as) estudantes e de sua preparação para o mundo do trabalho e para a vida.<br>Para orientar as próximas práticas, é importante reunir informações de diferentes fontes<br><br><div>[INFOGRAFICO1]</div><div><br></div><div>Ao combinar essas fontes, é possível compreender melhor os resultados alcançados e identificar aspectos que precisam ser desenvolvidos.</div><div><br></div><div><h3><b><font color=\"#f04770\">Planejar a Partir das Evidências</font></b></h3><p><br></p>As observações, os registros e as autoavaliações oferecem informações valiosas sobre as aprendizagens. Essas evidências precisam estar organizadas para que possam ser revisitadas e utilizadas nos próximos planejamentos.<br>Para sistematizá-las, relacione três elementos:<br><br></div><div>[INFOGRAFICO2]</div><div><br></div><div><br></div><div>Essa organização ajuda a identificar avanços, dificuldades e padrões recorrentes, fundamentando as decisões de replanejamento.</div><div><br></div><div><b><font color=\"#f04770\">Como Utilizar essas Informações no Planejamento do Próximo Bimestre?</font></b><br>O planejamento integrado ganha consistência quando as evidências de diferentes componentes curriculares são compartilhadas e analisadas coletivamente. Esse cruzamento permite identificar necessidades comuns e definir estratégias articuladas.<br><br></div><div>[INFOGRAFICO3]</div>",
    "texto7": ""
   },
   "blocos": [
@@ -50,7 +50,31 @@
      "setas": "[{\"titulo\":\"<b>Aprendizagem esperada</b>\",\"subtitulo\":\"\",\"resumo\":\"\",\"modalTitulo\":\"\",\"modalConteudo\":\"O que se pretendia desenvolver, de acordo com os objetivos de aprendizagem.\"},{\"titulo\":\"<b>Evidência observada</b>\",\"subtitulo\":\"\",\"resumo\":\"\",\"modalTitulo\":\"\",\"modalConteudo\":\"O que os registros, as produções e as autoavaliações revelam.\"},{\"titulo\":\"<b>Possíveis encaminhamentos</b>\",\"subtitulo\":\"\",\"resumo\":\"\",\"modalTitulo\":\"<br>\",\"modalConteudo\":\"<b>Quais ações podem favorecer o avanço das aprendizagens.</b>\"}]"
     },
     "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "tabela_completa",
+    "infograficoData": {
+     "tabela": "{\"titulo\":\"<b>Como Utilizar essas Informações no Planejamento do Próximo Bimestre?</b><br><br>\",\"subtitulo\":\"\",\"colunas\":[\"<b>Evidência Identificada&nbsp;</b><br>\",\"<b>Encaminhamento no Replanejamento</b>\"],\"linhas\":[[\"Lacuna na compreensão de conceitos.\",\"Retomada de conhecimentos&nbsp; técnicos&nbsp; e da Formação Geral Básica.<br><br>\"],[\"Dificuldade na execução prática.<br><br>\",\"Novas demonstrações e oficinas práticas articuladas ao mundo do trabalho e território.<br><br>\"],[\"Desafios com as atitudes profissionais.<br><br>\",\"Ações colaborativas com Estudos Orientados e Projeto de Vida.<br><br>\"]]}"
+    },
+    "novo": false
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Em Resumo:",
+   "texto": "<br>Organizar e combinar registros do(a) professor(a), produções e autoavaliações permite identificar avanços e dificuldades e planejar os próximos passos.<br>Quando essas evidências são compartilhadas entre os(as) professores(as), ajudam a articular conhecimentos e práticas às necessidades dos(as) estudantes, ao território e às demandas do mundo do trabalho.<br><br>",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "Revisite a<b> Aula do 3º Módulo, Unidade 4</b>, que aborda a análise das dificuldades dos(as) estudantes a partir das evidências observadas.",
+     "idRevisar": "mvplz8fl163um4",
+     "itensRevisar": [],
+     "linkBotao": "Aula do 3º Módulo, Unidade 4",
+     "textoBotao": "",
+     "novo": true
+    }
+   ]
+  }
  }
 }
