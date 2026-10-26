@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-10-26T18:19:52.695Z",
+ "quando": "2026-10-26T18:20:08.640Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -20,6 +20,7 @@
    "titulo": "Em Resumo: Decidir com Base em Evidências ",
    "texto": "Replanejar exige relacionar as evidências observadas à dificuldade priorizada e justificar as decisões tomadas.<br><br>Os ajustes devem responder às necessidades identificadas e considerar as condições da turma.<br><br>Ao definir o que observar na próxima aula, você acompanha os efeitos das mudanças e identifica se novos apoios serão necessários.<br><br>",
    "blocos": []
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27406"
  }
 }
