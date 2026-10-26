@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-10-26T18:32:02.334Z",
+ "quando": "2026-10-26T18:32:12.637Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -61,7 +61,7 @@
   ],
   "conclusao": {
    "titulo": "Transformar a Experiência em Aprendizagem",
-   "texto": "<br>Analisar a prática pedagógica significa comparar o que foi planejado com o que foi executado, interpretando os acontecimentos reais da aula.<br>Essa reflexão permite identificar oportunidades reais de aprimoramento, transformando cada experiência em conhecimento prático para orientar escolhas, ajustar procedimentos e aprimorar continuamente a qualidade do Ensino Técnico.<br>[TOMENOTA1]",
+   "texto": "<br>Analisar a prática pedagógica significa comparar o que foi planejado com o que foi executado, interpretando os acontecimentos reais da aula.<br>Essa reflexão permite identificar oportunidades reais de aprimoramento, transformando cada experiência em conhecimento prático para orientar escolhas, ajustar procedimentos e aprimorar continuamente a qualidade do Ensino Técnico.<br>[TOMENOTA1][DICA1]",
    "blocos": [
     {
      "tipo": "tomenota",
@@ -74,6 +74,7 @@
      "novo": false
     }
    ]
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27459"
  }
 }
