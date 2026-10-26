@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-10-26T14:08:33.632Z",
+ "quando": "2026-10-26T14:10:33.762Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -57,7 +57,7 @@
       "altura": 13
      },
      "texto": "GRAVAÇÃO METODOLOGIA PEDAGÓGICA",
-     "href": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27206",
+     "href": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27078",
      "corFundo": "#06d7a0",
      "corTexto": "#0a3442",
      "tamanho": 14,
@@ -75,7 +75,7 @@
       "altura": 13
      },
      "texto": "GRAVAÇÃO PRÁTICA ENSINO TÉCNICO",
-     "href": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27207",
+     "href": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27079",
      "corFundo": "#f04770",
      "corTexto": "#ffffff",
      "tamanho": 14,
