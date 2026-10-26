@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-10-26T18:19:17.192Z",
+ "quando": "2026-10-26T18:19:45.464Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -12,9 +12,14 @@
   },
   "atividades": [
    {
-    "iframe": "",
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31469\" width=\"919\" height=\"911\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M3-U07-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
     "titulo": "Replaneje a Próxima Aula"
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "",
+   "texto": "Replanejar exige relacionar as evidências observadas à dificuldade priorizada e justificar as decisões tomadas.<br><br>Os ajustes devem responder às necessidades identificadas e considerar as condições da turma.<br><br>Ao definir o que observar na próxima aula, você acompanha os efeitos das mudanças e identifica se novos apoios serão necessários.<br><br>",
+   "blocos": []
+  }
  }
 }
