@@ -1,7 +1,9 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Bibliografia",
- "quando": "2026-10-08T21:34:29.715Z",
+ "quando": "2026-10-26T18:58:41.711Z",
  "autor": "Teste",
- "dados": {}
+ "dados": {
+  "referenciasTexto": "BRITES, L. Educação Baseada em Evidências: O Que Todo Professor Precisa Saber. Editora NeuroSaber. 1º Ed. Londrina, 2021.\nZABALA, A. Métodos para Ensinar Competências. 1ª ed. Editora: Penso. São Paulo-SP, 2020. \nZABALA, A. A prática educativa: como ensinar. Tradução de Ernani F. da F. Rosa. Porto Alegre: Artmed, 1998. 224 p. ISBN 978-85-7307-426-0.\n"
+ }
 }
