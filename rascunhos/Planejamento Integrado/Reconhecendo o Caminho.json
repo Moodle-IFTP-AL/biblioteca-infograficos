@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Reconhecendo o Caminho",
- "quando": "2026-10-23T12:47:58.536Z",
+ "quando": "2026-10-26T13:50:12.668Z",
  "autor": "Teste",
  "dados": {
   "agoraSuaVez": {
@@ -46,7 +46,7 @@
     "infograficoTipo": "blocos_coloridos",
     "infograficoData": {
      "introducao": "",
-     "blocos": "[{\"titulo\":\"<b>Etapas</b>\",\"texto\":\"Ampliar ou reduzir o prazo destinado a entregas específicas.\"},{\"titulo\":\"<b>Tempo</b>\",\"texto\":\"Adaptar propostas cuja complexidade esteja acima do esperado.\"},{\"titulo\":\"<b>Organização dos grupos</b>\",\"texto\":\"Reorganizar integrantes ou redistribuir funções.\"},{\"titulo\":\"<b>Apoios pedagógicos</b>\",\"texto\":\"<span style=\\\"font-size: 1rem;\\\">Retomar conceitos fundamentais ou articular o apoio de professores(as) parceiros(as).</span>\"},{\"titulo\":\"<b>Recursos</b>\",\"texto\":\"Substituir materiais indisponíveis ou incluir ferramentas facilitadoras.\"}]"
+     "blocos": "[{\"titulo\":\"<b>Etapas</b>\",\"texto\":\"Simplificar, combinar ou excluir fases não essenciais ao objetivo final.\"},{\"titulo\":\"<b>Tempo</b>\",\"texto\":\"Ampliar ou reduzir o prazo destinado a entregas específicas.\"},{\"titulo\":\"<b>Atividades</b>\",\"texto\":\"Adaptar propostas cuja complexidade esteja acima do esperado.\"},{\"titulo\":\"<b>Organização dos grupos:</b>\",\"texto\":\"Reorganizar integrantes ou redistribuir funções.\"},{\"titulo\":\"<b>Apoios pedagógicos</b>\",\"texto\":\"Retomar conceitos fundamentais ou articular o apoio de professores(as) parceiros(as).\"},{\"titulo\":\"<b>Recursos</b>\",\"texto\":\"Substituir materiais indisponíveis ou incluir ferramentas facilitadoras.\"}]"
     },
     "novo": false
    },
