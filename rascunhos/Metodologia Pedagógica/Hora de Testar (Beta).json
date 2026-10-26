@@ -1,7 +1,20 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-10-26T18:09:13.355Z",
+ "quando": "2026-10-26T18:19:17.192Z",
  "autor": "Teste",
- "dados": {}
+ "dados": {
+  "campos": {
+   "objetivo": "Replanejar a próxima aula com base nas evidências de uma prática técnica colaborativa, justificando a dificuldade priorizada e os ajustes definidos.<br><br>",
+   "titulo": "<b>Decisões para a Próxima Aula</b><br><br>",
+   "conteudo": "Em uma aula, cinco grupos analisaram situações de risco em um ambiente de trabalho e preencheram uma ficha de identificação de perigos e medidas preventivas.<br>Ao revisar as fichas, o(a) professor(a) observou que quatro grupos não indicaram medidas de prevenção para os riscos identificados. Em dois grupos, um(a) estudante concentrou o preenchimento, enquanto os(as) colegas pouco participaram. Outro grupo registrou os riscos, mas teve dificuldade para relacioná-los às possíveis consequências para a saúde.<br>Na próxima aula, a turma deverá elaborar propostas de prevenção. Como o(a) professor(a) pode priorizar as dificuldades e replanejar essa aula?<br><br>",
+   "reflexao": ""
+  },
+  "atividades": [
+   {
+    "iframe": "",
+    "titulo": "Replaneje a Próxima Aula"
+   }
+  ]
+ }
 }
