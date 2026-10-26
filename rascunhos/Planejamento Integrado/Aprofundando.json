@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-10-26T18:55:22.254Z",
+ "quando": "2026-10-26T18:56:08.811Z",
  "autor": "Teste",
  "dados": {
   "agoraSuaVez": {
@@ -70,7 +70,7 @@
      "texto": "Revisite a<b> Aula do 3º Módulo, Unidade 4</b>, que aborda a análise das dificuldades dos(as) estudantes a partir das evidências observadas.",
      "idRevisar": "mvplz8fl163um4",
      "itensRevisar": [],
-     "linkBotao": "Aula do 3º Módulo, Unidade 4",
+     "linkBotao": "",
      "textoBotao": "",
      "novo": false
     }
