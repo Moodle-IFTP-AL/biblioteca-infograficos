@@ -1,29 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-10-22T13:24:26.919Z",
+ "quando": "2026-10-26T18:09:13.355Z",
  "autor": "Teste",
- "dados": {
-  "campos": {
-   "objetivo": "Aplicar critérios para selecionar registros simples e utilizar as evidências registradas na tomada de decisões pedagógicas iniciais.<br>",
-   "titulo": "<b>Escolher, Registrar e Decidir</b><br>",
-   "conteudo": "Um registro pedagógico precisa ser útil dentro da dinâmica da aula. Por isso, sua escolha depende:<br><ul><li>do objetivo de aprendizagem;<br></li><li>da evidência observada;<br></li><li>do nível de detalhe necessário para preservar a informação.<br></li></ul><br>Em algumas situações, uma marcação em uma lista é suficiente. Em outras, uma palavra-chave ou uma nota breve ajuda a registrar algo que exige mais contexto. Não existe um formato adequado para todas as práticas.<br><br>Nas atividades a seguir, você analisará situações de práticas técnicas, escolherá formas simples de registro e interpretará uma evidência observada.<br><br>O desafio é registrar o que importa e usar essa informação para orientar a ação docente, sem transformar uma observação pontual em uma conclusão definitiva sobre a aprendizagem.",
-   "reflexao": "<h3><span style=\"color: #f04770;\"><b>Meu Registro, Minha Próxima Decisão</b></span></h3><br>Os registros pedagógicos preservam evidências que ajudam você a acompanhar o percurso dos(as) estudantes e a refletir sobre a prática.<br><br>Mas um registro só ganha sentido quando é produzido e retomado com intencionalidade.<br><br>Pense em uma prática colaborativa que você realiza ou pretende realizar.<br><br><b>O que você precisa observar para acompanhar o objetivo de aprendizagem?</b><br><br>Escolha um formato de registro — marcação, palavra-chave ou nota breve — e experimente utilizá-lo durante a atividade.<br><br>Depois, retome suas anotações e reflita:<br><ul><li><b>O registro foi rápido e viável?&nbsp;</b><br></li><li><b>Preservou informações relevantes?&nbsp;</b><br></li><li><b>Ajudou a identificar avanços ou dificuldades?&nbsp;</b><br></li><li><b>Contribuiu para pensar em uma intervenção ou nos próximos passos?</b><br></li></ul>A partir dessa reflexão, identifique&nbsp;<b>o que você manteria e o que ajustaria</b>&nbsp;em seu próximo registro."
-  },
-  "atividades": [
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31227\" width=\"1237\" height=\"1491\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M3-U03-APLI-DRAGW\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   },
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31228\" width=\"1237\" height=\"751\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M3-U03-APLI-ESSAY\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   }
-  ],
-  "blocos": [],
-  "conclusao": {
-   "titulo": "",
-   "texto": "Leve esta aprendizagem para sua prática:<br><ul><li>selecione evidências relacionadas ao objetivo;<br></li><li>registre apenas o necessário;<br></li><li>retome as anotações para orientar os próximos passos.<br></li></ul><br>Quando usado com intenção e continuidade, o registro fortalece o acompanhamento da aprendizagem e fundamenta as decisões docentes.<br>",
-   "blocos": []
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27311"
- }
+ "dados": {}
 }
