@@ -1,11 +1,11 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-10-26T18:42:04.649Z",
+ "quando": "2026-10-26T18:44:04.344Z",
  "autor": "Teste",
  "dados": {
   "agoraSuaVez": {
-   "ativo": true,
+   "ativo": false,
    "titulo": "Planejar para integrar",
    "chamada": "Agora é sua vez de planejar!",
    "cards": [
