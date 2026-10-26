@@ -1,59 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-10-13T16:25:44.119Z",
+ "quando": "2026-10-26T18:36:21.256Z",
  "autor": "Teste",
- "dados": {
-  "campos": {
-   "objetivo": "dentificar falhas de sequência lógica, clareza de linguagem e sinalização de pontos críticos em roteiros técnicos, avaliando sua adequação para favorecer a execução autônoma e segura das práticas pelos(as) estudantes.",
-   "titulo": "<b>Análise Crítica e Revisão de Roteiros Técnicos</b>",
-   "conteudo": "Agora é hora de colocar seu olhar pedagógico e técnico em prática. Analise situações de Administração e identifique qual versão do roteiro oferece orientações mais claras, organizadas e seguras para a execução da atividade pelos(as) estudantes.",
-   "reflexao": "<b>O que Levar para a Prática&nbsp;</b><br><br>Elaborar um roteiro técnico vai além de listar tarefas. Envolve:<br><ul><li>organizar etapas;<br></li><li>utilizar linguagem clara;<br></li><li>antecipar dificuldades;<br></li><li>destacar pontos críticos da prática.<br></li></ul><br>Esses cuidados orientam os(as) estudantes durante a execução, favorecem a autonomia e contribuem para uma prática mais segura.<br><br>Ao aplicar esses princípios nas aulas práticas, você transforma o roteiro em um recurso de apoio à aprendizagem e à construção de uma postura profissional.<br><br>"
-  },
-  "blocos": [],
-  "atividades": [
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31124\" width=\"1728\" height=\"751\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M3-U03-APLI-MULTI1\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
-    "titulo": "Situação 1: Sequência das Etapas ",
-    "texto": "Durante uma aula prática de inventário de estoque, os(as) estudantes ficaram confusos porque o roteiro solicitava o ajuste final no sistema antes mesmo da conferência física dos produtos nas prateleiras."
-   },
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31128\" width=\"1728\" height=\"795\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M3-U03-APLI-MULTI2\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
-    "titulo": "Situação 2: Clareza das Orientações ",
-    "texto": "Em uma atividade prática sobre emissão de notas fiscais, o roteiro trazia frases longas, no modo passivo e com termos vagos como “deve-se verificar, se possível”."
-   },
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31129\" width=\"1728\" height=\"487\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M3-U03-APLI-MULTI3\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
-    "titulo": "Situação 3: Foco na Identificação de Pontos Críticos ",
-    "texto": "Na simulação de transporte manual de caixas no arquivo morto, um(a) estudante carregou uma caixa muito pesada sem a postura adequada. O roteiro trazia o aviso de segurança de forma pouco visível."
-   }
-  ],
-  "conclusao": {
-   "titulo": "",
-   "texto": "[REVISAR1]",
-   "blocos": [
-    {
-     "tipo": "revisar",
-     "texto": "Revisite as aulas abaixo para aprofundar seus conhecimentos sobre como planejar demonstrações de forma segura, organizar os recursos da oficina e estruturar o passo a passo de uma prática técnica:",
-     "idRevisar": "mv6w4l9mnubua4",
-     "itensRevisar": [
-      {
-       "id": "mv6w4utdxa75t7",
-       "texto": "• <b>Módulo 1 - Unidade 6:</b> Demonstração Técnica Aplicada ao Projeto ABP ;<br><br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22438"
-      },
-      {
-       "id": "mv6w4wgrg5h01t",
-       "texto": "• <b>Módulo 1 - Unidade 8:</b> Preparação de Demonstrações Técnicas.<br><br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=23158"
-      }
-     ],
-     "linkBotao": "",
-     "textoBotao": "",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27317"
- }
+ "dados": {}
 }
