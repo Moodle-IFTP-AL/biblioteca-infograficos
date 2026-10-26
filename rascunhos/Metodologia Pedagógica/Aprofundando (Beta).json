@@ -1,15 +1,15 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-10-26T16:29:45.326Z",
+ "quando": "2026-10-26T16:31:44.941Z",
  "autor": "Teste",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>2 -</b> Avaliar a aprendizagem por competências, a partir de evidências das práticas pedagógicas e técnicas desenvolvidas pelos(as) estudantes, considerando a mobilização de conhecimentos gerais no contexto da Educação Profissional e Tecnológica, para orientar o planejamento e o replanejamento das aulas e o desenvolvimento dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>2.3 - </b>Utilizar os resultados da avaliação para replanejar aulas, ajustar estratégias e orientar o desenvolvimento dos(as) estudantes.<br><b>Objeto do Conhecimento:</b><br>Replanejamento a partir de registros e evidências.<br><b>Conteúdos:</b><br><ul><li>Uso dos registros para ajustar a próxima aula.<br></li><li>Replanejamento de estratégias, tempos e apoios.<br></li><li>Priorização de dificuldades recorrentes.<br></li><li>Continuidade do acompanhamento da aprendizagem.<br></li></ul><b>Objetivo:&nbsp;</b><br>Analisar registros e evidências de aprendizagem para priorizar dificuldades, replanejar aulas e acompanhar os efeitos dos ajustes realizados.<br><br>",
    "objetivo": "Priorizar uma dificuldade de aprendizagem com base em registros e evidências de práticas técnicas colaborativas, justificando a escolha para orientar o replanejamento da próxima aula.<br><br>",
    "titulo": "<b>Dos Registros às Decisões da Próxima Aula</b><br><br>",
-   "conteudo": "Na aula anterior, você planejou uma intervenção com base nas evidências observadas em uma prática técnica.<br><br>Agora, o desafio é analisar os registros, reconhecer avanços e dificuldades e decidir o que precisa ser retomado ou ajustado na próxima aula.<br><br><h3><font color=\"#f04770\"><b>Como Priorizar as Dificuldades?</b><br></font></h3><p>Nem todas as dificuldades precisam ser trabalhadas ao mesmo tempo. Para definir qual delas será priorizada, considere:</p><p><br></p><p>[INFOGRAFICO1]</p><p><br></p><p>Esses critérios ajudam a comparar as dificuldades, selecionar a necessidade mais relevante e orientar os ajustes da próxima aula.</p><p><b><font color=\"#f04770\">Da Evidência ao Replanejamento&nbsp;&nbsp;</font></b><br>Em uma prática colaborativa de recebimento e armazenamento, os grupos deveriam conferir produtos e preencher uma ficha de controle. Os registros mostraram que quatro dos cinco grupos anotaram as quantidades, mas não verificaram lote e validade. Com base nos critérios de priorização, o(a) professor(a) decidiu retomar esse procedimento e ajustar a próxima aula.<br><br></p><p>[INFOGRAFICO2]</p><p><br></p>",
-   "conectando": ""
+   "conteudo": "Na aula anterior, você planejou uma intervenção com base nas evidências observadas em uma prática técnica.<br><br>Agora, o desafio é analisar os registros, reconhecer avanços e dificuldades e decidir o que precisa ser retomado ou ajustado na próxima aula.<br><br><h3><font color=\"#f04770\"><b>Como Priorizar as Dificuldades?</b><br></font></h3><p>Nem todas as dificuldades precisam ser trabalhadas ao mesmo tempo. Para definir qual delas será priorizada, considere:</p><p><br></p><p>[INFOGRAFICO1]</p><p><br></p><p>Esses critérios ajudam a comparar as dificuldades, selecionar a necessidade mais relevante e orientar os ajustes da próxima aula.<br><br>[VIDEO1]<br><br></p><p><b><font color=\"#f04770\">Da Evidência ao Replanejamento&nbsp;&nbsp;</font></b><br>Em uma prática colaborativa de recebimento e armazenamento, os grupos deveriam conferir produtos e preencher uma ficha de controle. Os registros mostraram que quatro dos cinco grupos anotaram as quantidades, mas não verificaram lote e validade. Com base nos critérios de priorização, o(a) professor(a) decidiu retomar esse procedimento e ajustar a próxima aula.<br><br></p><p>[INFOGRAFICO2]</p><p><br></p><p><br></p>",
+   "conectando": "Agora, você analisará uma situação de prática técnica, escolherá uma dificuldade prioritária e elaborará ajustes para a aula seguinte, justificando suas decisões com base nas evidências.<br>"
   },
   "blocos": [
    {
@@ -26,7 +26,7 @@
     "texto": "Assista ao vídeo e acompanhe como analisar registros, priorizar uma dificuldade e definir ajustes concretos para a próxima aula, mantendo o que funcionou e estabelecendo o que observar para avaliar os resultados.",
     "titulo": "Acompanhe o vídeo abaixo   ",
     "url": "https://www.youtube.com/watch?v=lioScE3Zmws",
-    "novo": true
+    "novo": false
    },
    {
     "tipo": "infografico",
@@ -37,6 +37,23 @@
     },
     "novo": false
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Em Resumo: o que Levar desta Etapa ",
+   "texto": "<ul><li><b>Analise os registros:</b> identifique os avanços, as dificuldades recorrentes e as necessidades de acompanhamento.<br></li><li><b>Priorize uma dificuldade:</b> considere sua recorrência, seu impacto na aprendizagem, a urgência e as possibilidades de intervenção.<br></li><li><b>Planeje os ajustes:</b> mantenha o que funcionou e defina o que precisa ser alterado nas estratégias, nos recursos, no tempo ou na organização dos grupos.<br></li><li><b>Acompanhe os efeitos:</b> estabeleça quais evidências observar na próxima aula para verificar se os ajustes favoreceram a aprendizagem e decidir os próximos passos.<br></li></ul><br>[TOMENOTA1][DICA1]",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "Priorizar não é escolher automaticamente a dificuldade mais frequente. É comparar recorrência, impacto, urgência e possibilidade de intervenção. A decisão precisa ser sustentada pelos registros e indicar o que será ajustado e observado na próxima aula.<br><br>",
+     "novo": false
+    },
+    {
+     "tipo": "dica",
+     "texto": "Ao planejar a próxima aula, complete: “Os registros mostram que ___. Vou priorizar ___ porque ___. Vou ajustar ___ e observar ___.” Use essa estrutura para conectar as evidências, a decisão pedagógica e o acompanhamento da aprendizagem.",
+     "novo": false
+    }
+   ]
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27404"
  }
 }
