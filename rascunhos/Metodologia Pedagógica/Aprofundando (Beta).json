@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-10-26T16:25:45.137Z",
+ "quando": "2026-10-26T16:29:45.326Z",
  "autor": "Teste",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>2 -</b> Avaliar a aprendizagem por competências, a partir de evidências das práticas pedagógicas e técnicas desenvolvidas pelos(as) estudantes, considerando a mobilização de conhecimentos gerais no contexto da Educação Profissional e Tecnológica, para orientar o planejamento e o replanejamento das aulas e o desenvolvimento dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>2.3 - </b>Utilizar os resultados da avaliação para replanejar aulas, ajustar estratégias e orientar o desenvolvimento dos(as) estudantes.<br><b>Objeto do Conhecimento:</b><br>Replanejamento a partir de registros e evidências.<br><b>Conteúdos:</b><br><ul><li>Uso dos registros para ajustar a próxima aula.<br></li><li>Replanejamento de estratégias, tempos e apoios.<br></li><li>Priorização de dificuldades recorrentes.<br></li><li>Continuidade do acompanhamento da aprendizagem.<br></li></ul><b>Objetivo:&nbsp;</b><br>Analisar registros e evidências de aprendizagem para priorizar dificuldades, replanejar aulas e acompanhar os efeitos dos ajustes realizados.<br><br>",
    "objetivo": "Priorizar uma dificuldade de aprendizagem com base em registros e evidências de práticas técnicas colaborativas, justificando a escolha para orientar o replanejamento da próxima aula.<br><br>",
    "titulo": "<b>Dos Registros às Decisões da Próxima Aula</b><br><br>",
-   "conteudo": "Na aula anterior, você planejou uma intervenção com base nas evidências observadas em uma prática técnica.<br><br>Agora, o desafio é analisar os registros, reconhecer avanços e dificuldades e decidir o que precisa ser retomado ou ajustado na próxima aula.<br><br><h3><font color=\"#f04770\"><b>Como Priorizar as Dificuldades?</b><br></font></h3><p>Nem todas as dificuldades precisam ser trabalhadas ao mesmo tempo. Para definir qual delas será priorizada, considere:</p><p><br></p><p>[INFOGRAFICO1]</p><p><br></p><p>Esses critérios ajudam a comparar as dificuldades, selecionar a necessidade mais relevante e orientar os ajustes da próxima aula.</p><p><br></p><p><br></p>",
+   "conteudo": "Na aula anterior, você planejou uma intervenção com base nas evidências observadas em uma prática técnica.<br><br>Agora, o desafio é analisar os registros, reconhecer avanços e dificuldades e decidir o que precisa ser retomado ou ajustado na próxima aula.<br><br><h3><font color=\"#f04770\"><b>Como Priorizar as Dificuldades?</b><br></font></h3><p>Nem todas as dificuldades precisam ser trabalhadas ao mesmo tempo. Para definir qual delas será priorizada, considere:</p><p><br></p><p>[INFOGRAFICO1]</p><p><br></p><p>Esses critérios ajudam a comparar as dificuldades, selecionar a necessidade mais relevante e orientar os ajustes da próxima aula.</p><p><b><font color=\"#f04770\">Da Evidência ao Replanejamento&nbsp;&nbsp;</font></b><br>Em uma prática colaborativa de recebimento e armazenamento, os grupos deveriam conferir produtos e preencher uma ficha de controle. Os registros mostraram que quatro dos cinco grupos anotaram as quantidades, mas não verificaram lote e validade. Com base nos critérios de priorização, o(a) professor(a) decidiu retomar esse procedimento e ajustar a próxima aula.<br><br></p><p>[INFOGRAFICO2]</p><p><br></p>",
    "conectando": ""
   },
   "blocos": [
@@ -27,6 +27,15 @@
     "titulo": "Acompanhe o vídeo abaixo   ",
     "url": "https://www.youtube.com/watch?v=lioScE3Zmws",
     "novo": true
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "cards_coloridos",
+    "infograficoData": {
+     "cards": "[{\"titulo\":\"<b>Evidência observada</b>\",\"texto\":\"Quatro dos cinco grupos registraram as quantidades, mas não conferiram lote e validade.<br><br>\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"},{\"titulo\":\"<b>Dificuldade priorizada</b>\",\"texto\":\"Conferência e registro de lote e validade dos produtos.<br><br>\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"},{\"titulo\":\"<b>Justificativa da prioridade&nbsp;</b><br><br>\",\"texto\":\"A dificuldade foi recorrente, compromete a rastreabilidade dos produtos.&nbsp; Precisa ser trabalhada antes de avançar para outras etapas do recebimento e pode ser trabalhada com os recursos disponíveis.<br><br>\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"},{\"titulo\":\"<b>Ajuste na próxima aula&nbsp;</b>\",\"texto\":\"Analisar rótulos, utilizar uma lista de verificação, definir um(a) responsável pela conferência e ampliar o tempo da etapa.<br><br>\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"},{\"titulo\":\"<b>Evidência a acompanhar</b>\",\"texto\":\"Os(as) estudantes conferem e registram corretamente quantidade, lote e validade antes de concluir o recebimento.<br><br>\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"}]"
+    },
+    "novo": false
    }
   ]
  }
