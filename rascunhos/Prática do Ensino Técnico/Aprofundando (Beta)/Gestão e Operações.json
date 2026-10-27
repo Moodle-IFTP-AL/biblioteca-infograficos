@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão e Operações",
- "quando": "2026-10-27T20:44:29.490Z",
+ "quando": "2026-10-27T20:46:29.332Z",
  "autor": "Teste",
  "dados": {
   "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28561",
@@ -9,8 +9,8 @@
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do Conhecimento:</b><br><ul><li>Análise crítica da execução técnica.<br></li></ul><b>Conteúdos:</b><br><ul><li>Comparação entre planejamento e execução.<br></li><li>Identificação de desvios e falhas.<br></li><li>Pontos de melhoria da oficina.<br></li></ul><b>Objetivo da Aula:</b><br>Realizar ajustes e melhorias em uma prática técnica a partir da análise crítica de sua execução.<br><br>",
    "objetivo": "Analisar a relação entre planejamento e execução da aula, identificando desvios, falhas e pontos de melhoria a partir das evidências observadas na prática.<br><br>",
    "titulo": "<b>Analisar a Execução para Aprimorar Práticas Técnicas</b><br><br>",
-   "conteudo": "O planejamento orienta objetivos e organiza etapas e recursos, mas a execução acontece em condições concretas que podem exigir ajustes. Em uma oficina:<br><ul><li>Uma demonstração pode exigir mais tempo.<br></li><li>A turma pode interpretar um critério de formas diferentes.<br></li><li>Um(a) dos(as) integrantes do grupo acaba concentrando as decisões que deveriam ser tomadas coletivamente.<br></li></ul>Essas mudanças nem sempre representam falhas, mas precisam ser analisadas.<br>Você já vivenciou situações semelhantes em suas aulas?<br><br><h3><font color=\"#f04770\"><b>Comparação Entre Planejamento e Execução</b><br></font></h3><br><div><b>Planejamento e Execução: o que as Diferenças Revelam?</b><br><br>Comparar o planejamento com a execução permite compreender como a prática realmente aconteceu.<br><br>As diferenças entre o previsto e o realizado podem revelar a necessidade de adaptações diante de demandas ou situações não previstas.<br><br>Com base em registros e observações, você identifica o que funcionou, interpreta os desvios e reúne informações para qualificar as próximas práticas.<br><br></div><div>[INFOGRAFICO1]</div><div><br></div><div><br></div>",
-   "conectando": ""
+   "conteudo": "O planejamento orienta objetivos e organiza etapas e recursos, mas a execução acontece em condições concretas que podem exigir ajustes. Em uma oficina:<br><ul><li>Uma demonstração pode exigir mais tempo.<br></li><li>A turma pode interpretar um critério de formas diferentes.<br></li><li>Um(a) dos(as) integrantes do grupo acaba concentrando as decisões que deveriam ser tomadas coletivamente.<br></li></ul>Essas mudanças nem sempre representam falhas, mas precisam ser analisadas.<br>Você já vivenciou situações semelhantes em suas aulas?<br><br><h3><font color=\"#f04770\"><b>Comparação Entre Planejamento e Execução</b><br></font></h3><br><div><b>Planejamento e Execução: o que as Diferenças Revelam?</b><br><br>Comparar o planejamento com a execução permite compreender como a prática realmente aconteceu.<br><br>As diferenças entre o previsto e o realizado podem revelar a necessidade de adaptações diante de demandas ou situações não previstas.<br><br>Com base em registros e observações, você identifica o que funcionou, interpreta os desvios e reúne informações para qualificar as próximas práticas.<br><br></div><div>[INFOGRAFICO1]</div><div><br></div><div>[INFOGRAFICO2]</div><div><br></div><div>A diferença está nas causas e nos efeitos da mudança: o desvio adapta o percurso para favorecer a aprendizagem; a falha evidencia aspectos do planejamento que precisam ser revistos.</div><div><br></div><div><b>Da Análise aos Próximos Ajustes&nbsp;</b><br><br>O diagnóstico deve resultar em aprendizados para as práticas seguintes. Você pode:<br><ul><li>ajustar o tempo;<br></li><li>aprimorar orientações;<br></li><li>reorganizar funções;<br></li><li>substituir recursos;<br></li><li>definir evidências mais objetivas.<br></li></ul><br>O objetivo não é buscar uma execução idêntica ao planejamento, mas compreender o ocorrido e transformar a experiência em decisões que melhorem a qualidade da prática docente, favorecendo a aprendizagem.<br><br>[INFOGRAFICO3]</div>",
+   "conectando": "Na próxima etapa, sua prática será retomada para identificar adaptações, falhas e oportunidades de aprimoramento.<br><br>"
   },
   "blocos": [
    {
@@ -23,7 +23,38 @@
      "gavetas": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2079.png\",\"titulo\":\"<b>Critério Analisado: Gestão do Tempo</b><br><br>\",\"conteudo\":\"<b>O que estava no planejamento?</b><br>Tempo previsto para cada etapa da atividade; distribuição do tempo entre explicação, demonstração e execução prática.<br><br>\",\"porqueTexto\":\"<br><ul><li>O tempo previsto foi suficiente para cada etapa?<br></li><li>Alguma atividade levou mais ou menos tempo do que o esperado?<br></li><li>Os(as) estudantes conseguiram concluir as tarefas no tempo disponível?<br></li><li>Foi necessário reduzir, ampliar ou reorganizar alguma etapa?<br></li><li>O tempo destinado às orientações e às dúvidas foi adequado?<br></li><li>Quais situações contribuíram para atrasos ou períodos de espera?<br></li></ul>\",\"porqueTitulo\":\"O que observar na prática?\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Rede%20EPT.png\",\"titulo\":\"<b>Critério Analisado: Execução da Sequência&nbsp;</b><br><br>\",\"conteudo\":\"<b>O que estava no planejamento?</b><br>Etapas previstas para desenvolver a atividade; procedimentos e orientações necessários à aprendizagem; recursos e materiais necessários em cada etapa.<br><br>\",\"porqueTexto\":\"<br><ul><li>As etapas foram realizadas na sequência prevista?<br></li><li>As orientações foram compreendidas pelos(as) estudantes?<br></li><li>Foi necessário retomar explicações ou demonstrar novamente algum procedimento?<br></li><li>Alguma etapa precisou ser adaptada, reorganizada ou substituída?<br></li><li>Os materiais e recursos previstos estavam disponíveis e funcionaram adequadamente?<br></li></ul>\",\"porqueTitulo\":\"O que observar na prática?\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/rede%20leitor.png\",\"titulo\":\"<b>Critério Analisado: Engajamento da Turma</b><br><br>\",\"conteudo\":\"<b>O que estava no planejamento?</b><br>Formas de participação individual ou em grupo; responsabilidades previstas para os(as) estudantes; estratégias para orientar e acompanhar a participação.<br><br>\",\"porqueTexto\":\"<br><ul><li>Os(as) estudantes participaram ativamente das atividades propostas?<br></li><li>As responsabilidades foram distribuídas entre os(as) integrantes dos grupos?<br></li><li>Houve estudantes aguardando orientações ou materiais por muito tempo?<br></li><li>A participação ficou concentrada em poucas pessoas?<br></li><li>Os(as) estudantes demonstraram autonomia para realizar as tarefas?<br></li><li>Que dúvidas ou dificuldades limitaram a participação?<br></li><li>As estratégias de orientação e acompanhamento favoreceram o envolvimento da turma?<br></li></ul>\",\"porqueTitulo\":\"O que observar na prática?\"}]"
     },
     "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "tabela_completa",
+    "infograficoData": {
+     "tabela": "{\"titulo\":\"<b>Interpretando as Mudanças&nbsp;</b><br><br>\",\"subtitulo\":\"Após comparar o planejado com o realizado, é necessário interpretar a natureza das diferenças observadas.\",\"colunas\":[\"<b>Desvio</b>\",\"<b>Falha</b>\"],\"linhas\":[[\"Adaptação realizada durante a aula para responder às necessidades da turma, preservando os objetivos de aprendizagem.\",\"Fragilidade decorrente de algo que deveria ter sido previsto, mas foi omitido no planejamento, comprometendo a atividade ou a aprendizagem.\"],[\"<b>Exemplo: </b>ampliar o tempo de uma simulação de conferência de mercadorias diante de dúvidas sobre os procedimentos.\",\"<b>Exemplo:</b> não definir critérios para uma simulação de seleção de candidatos, dificultando a análise e a justificativa das decisões.\"]]}"
+    },
+    "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "cards_icones_setas",
+    "infograficoData": {
+     "titulo": "<br>",
+     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Arquivo%20preparado.png\",\"titulo\":\"<b>Planejamento</b>\",\"texto\":\"Organizar uma oficina de coleta de óleo usado em restaurantes de Maceió, com rotas, registros e funções definidas.\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Engrenagem%20Ferramenta.png\",\"titulo\":\"<b>Execução</b>\",\"texto\":\"Os grupos planejaram os trajetos, mas ignoraram horários de funcionamento e concentraram os registros em um(a) estudante.\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Gr%C3%A1fico%20ABC.png\",\"titulo\":\"<b>Diagnóstico</b>\",\"texto\":\"Houve uma falha, pois informações essenciais não foram consideradas e a participação ficou desigual.\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/M%C3%A3o%20engrenagem.png\",\"titulo\":\"<b>Ponto de melhoria</b>\",\"texto\":\"<font color=\\\"#ffffff\\\">Incluir fichas com horários dos estabelecimentos, distribuir funções rotativas e solicitar que cada integrante justifique ao menos uma decisão logística.</font><br>\",\"corFundo\":\"#f04770\"}]",
+     "semSetas": ""
+    },
+    "novo": false
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Transformando Evidências em Melhorias ",
+   "texto": "Analisar uma prática pedagógica envolve comparar o planejamento com a execução, interpretar as mudanças ocorridas e avaliar seus efeitos na aprendizagem.<br><br>Registros sobre tempo, procedimentos, participação e resultados ajudam a diferenciar adaptações necessárias de falhas que precisam ser corrigidas.<br><br>Essa reflexão transforma a experiência em evidências para orientar decisões pedagógicas e tornar os próximos planejamentos mais consistentes e alinhados às necessidades dos(as) estudantes.<br><br>",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "Nem toda diferença entre planejamento e execução representa uma falha. Os efeitos sobre segurança, participação e aprendizagem ajudam a avaliar se houve adaptação adequada ou se há aspectos da prática que precisam ser revistos.<br><br>",
+     "novo": true
+    }
+   ]
+  }
  }
 }
