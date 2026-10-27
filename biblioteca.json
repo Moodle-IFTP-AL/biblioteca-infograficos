@@ -145,6 +145,20 @@
    "criadoEm": "2026-10-27T20:14:05.336Z",
    "atualizadoEm": "2026-10-27T20:14:07.037Z",
    "autor": "Teste"
+  },
+  {
+   "id": "80999e1b-3689-4f9a-b4cb-cc0bc0c1ab4d",
+   "nome": "M3U7 gráfico cards",
+   "pasta": "",
+   "tipo": "cards_icones_setas",
+   "data": {
+    "titulo": "<br>",
+    "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Arquivo%20preparado.png\",\"titulo\":\"<b>Planejamento</b>\",\"texto\":\"Elaborar, em 50 minutos, o cronograma de produção de uma apresentação de pastoril, definindo tarefas, responsáveis e prazos.\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Engrenagem%20Ferramenta.png\",\"titulo\":\"<b>Execução</b>\",\"texto\":\"As equipes dedicaram a maior parte do tempo à escolha do repertório sem concluir o cronograma.\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Gr%C3%A1fico%20ABC.png\",\"titulo\":\"<b>Diagnóstico</b>\",\"texto\":\"Houve uma falha na organização da oficina, pois o tempo e as orientações foram insuficientes.\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/M%C3%A3o%20engrenagem.png\",\"titulo\":\"<b>Ponto de melhoria</b>\",\"texto\":\"<font color=\\\"#ffffff\\\">Disponibilizar um modelo de cronograma e delimitar a escolha do repertório a cinco minutos, priorizando a definição das tarefas, dos responsáveis e dos prazos.</font><br>\",\"corFundo\":\"#f04770\"}]",
+    "semSetas": ""
+   },
+   "criadoEm": "2026-10-27T20:22:49.129Z",
+   "atualizadoEm": "2026-10-27T20:22:50.998Z",
+   "autor": "Teste"
   }
  ]
 }
