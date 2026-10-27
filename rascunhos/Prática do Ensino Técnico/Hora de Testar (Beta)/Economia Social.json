@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Economia Social",
- "quando": "2026-10-27T20:36:55.486Z",
+ "quando": "2026-10-27T20:38:26.611Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -9,6 +9,35 @@
    "titulo": "<b>Revisando a Prática para Avançar</b><br><br>",
    "conteudo": "Que tal revisitar uma prática recente do seu curso?<br>Compare o que planejou com o que aconteceu, reflita sobre os desafios e as aprendizagens dos(as) estudantes e identifique oportunidades de melhoria.<br>Cada reflexão é uma oportunidade para aprimorar suas escolhas pedagógicas e planejar experiências cada vez mais significativas.<br><br><div><b>Retome uma Aula Recente</b><br><br>Escolha uma aula ou uma prática recente de Cooperativismo ou Contabilidade.<br><br>Retome o planejamento e relembre como a atividade aconteceu, considerando:<br><ul><li>As etapas realizadas.<br></li><li>O engajamento dos(as) estudantes.<br></li><li>O tempo empregado.<br></li><li>As dificuldades encontradas.<br></li><li>As adaptações necessárias.<br></li></ul><br>Mantenha essas informações em mente: elas serão importantes para comparar o planejado com o realizado na próxima atividade.<br><br></div>",
    "reflexao": ""
-  }
+  },
+  "atividades": [
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31597\" width=\"1474\" height=\"665\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ECS-M3-U07-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
+    "texto": ""
+   }
+  ],
+  "conclusao": {
+   "titulo": "Analisar para Qualificar a Prática Pedagógica",
+   "texto": "<br><br>Analisar criticamente uma prática permite transformar a experiência em referência para decisões futuras.<br><br>Comparar o planejamento com a execução, identificar desvios, reconhecer falhas e definir pontos de melhoria, permite aprimorar&nbsp; a prática e&nbsp; qualificar a mediação pedagógica.<br><br>Em atividades de Cooperativismo e Contabilidade, essa análise fortalece a construção de planejamentos cada vez mais alinhados às demandas dos(as) estudantes, às exigências do mercado e às condições reais das salas de aula.<br>[REVISAR1]",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "Para aprofundar a reflexão, revisite a aula abaixo. Ela amplia o olhar sobre a prática e ajuda a desenvolver uma análise crítica do processo:",
+     "idRevisar": "mvr5cqiakldezu",
+     "itensRevisar": [
+      {
+       "id": "mvr5cu7tsxkw93",
+       "texto": "Módulo 1 — Unidade 7 - Critérios de Qualidade e Desempenho em Práticas Técnicas.",
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22948"
+      }
+     ],
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": false
+    }
+   ]
+  },
+  "tipoBotao": "voltar",
+  "link": "https://ead.educacao.al.gov.br/course/view.php?id=279#section-66"
  }
 }
