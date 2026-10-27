@@ -1,0 +1,41 @@
+{
+ "versao": 1,
+ "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Criação Digital e Cultural",
+ "quando": "2026-10-27T20:28:26.756Z",
+ "autor": "Teste",
+ "dados": {
+  "campos": {
+   "objetivo": "Avaliar uma prática realizada, comparando o planejamento com a execução e justificando ajustes para aprimorar as próximas aulas.<br><br>",
+   "titulo": "<b>Da Memória da Aula ao Diagnóstico</b><br>",
+   "conteudo": "Nesta etapa, você vai aplicar o guia de análise à sua própria prática. Compare detalhadamente e de forma reflexiva o que foi planejado com o que foi executado.<br><br><div><b>Retome uma Aula Recente&nbsp;</b><br>Antes de responder, escolha uma aula que conduziu recentemente. Se possível, tenha o planejamento em mãos e relembre:<br><ul><li>o objetivo de aprendizagem;<br></li><li>as etapas organizadas;<br></li><li>o tempo;<br></li><li>os recursos previstos.<br></li></ul>Se elaborou um plano de contingência para ela, como trabalhado na unidade anterior, retome-o também.<br>Depois, recorde os principais momentos da execução: o que saiu como previsto e o que mudou.<br><br></div><div><br></div>",
+   "reflexao": ""
+  },
+  "atividades": [
+   {
+    "iframe": "",
+    "texto": "&lt;iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31598\" width=\"1474\" height=\"759\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"CDC-M3-U07-APLI-STRIP\"&gt;&lt;/iframe&gt;&lt;script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"&gt;&lt;/script&gt;"
+   }
+  ],
+  "conclusao": {
+   "titulo": "Analisar para Aprimorar a Prática ",
+   "texto": "<br>Nesta aula, você comparou o planejamento com a execução, analisou a aula por critérios e diferenciou desvios de falhas.<br>No dia a dia da escola, essa reflexão orienta decisões mais fundamentadas: <b>manter o que funcionou, incorporar adaptações bem-sucedidas e rever o que comprometeu a aprendizagem.&nbsp;</b><br>Na próxima aula, você conhecerá formas simples de registrar o que acontece durante a prática, tornando essa análise mais precisa e contribuindo para o aprimoramento dos próximos planejamentos.<br>[REVISAR1]",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "Para aprofundar a reflexão, revisite a aula abaixo. Ela amplia o olhar sobre a prática e ajuda a desenvolver uma análise crítica do processo:",
+     "idRevisar": "mvr5064aui06wy",
+     "itensRevisar": [
+      {
+       "id": "mvr509yc2g6dg7",
+       "texto": "Módulo 1 — Unidade 7 - Critérios de Qualidade e Desempenho em Práticas Técnicas.",
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22940"
+      }
+     ],
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": false
+    }
+   ]
+  }
+ }
+}
