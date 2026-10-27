@@ -1,7 +1,21 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Economia Social",
- "quando": "2026-10-27T20:15:28.283Z",
+ "quando": "2026-10-27T20:16:18.089Z",
  "autor": "Teste",
- "dados": {}
+ "dados": {
+  "blocos": [
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "timeline_gavetas",
+    "infograficoData": {
+     "titulo": "<b>Guia para Analisar a Prática Pedagógica</b><br><br>",
+     "subtitulo": "Use este guia para comparar o planejamento com o que aconteceu durante a aula.<br><br>",
+     "gavetas": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2079.png\",\"titulo\":\"<b>Critério Analisado: Gestão do Tempo</b><br><br>\",\"conteudo\":\"<b>O que estava no planejamento?</b><br>Tempo previsto para cada etapa da atividade; distribuição do tempo entre explicação, demonstração e execução prática.<br><br>\",\"porqueTexto\":\"<br><ul><li>O tempo previsto foi suficiente para cada etapa?<br></li><li>Alguma atividade levou mais ou menos tempo do que o esperado?<br></li><li>Os(as) estudantes conseguiram concluir as tarefas no tempo disponível?<br></li><li>Foi necessário reduzir, ampliar ou reorganizar alguma etapa?<br></li><li>O tempo destinado às orientações e às dúvidas foi adequado?<br></li><li>Quais situações contribuíram para atrasos ou períodos de espera?<br></li></ul>\",\"porqueTitulo\":\"O que observar na prática?\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Rede%20EPT.png\",\"titulo\":\"<b>Critério Analisado: Execução da Sequência&nbsp;</b><br><br>\",\"conteudo\":\"<b>O que estava no planejamento?</b><br>Etapas previstas para desenvolver a atividade; procedimentos e orientações necessários à aprendizagem; recursos e materiais necessários em cada etapa.<br><br>\",\"porqueTexto\":\"<br><ul><li>As etapas foram realizadas na sequência prevista?<br></li><li>As orientações foram compreendidas pelos(as) estudantes?<br></li><li>Foi necessário retomar explicações ou demonstrar novamente algum procedimento?<br></li><li>Alguma etapa precisou ser adaptada, reorganizada ou substituída?<br></li><li>Os materiais e recursos previstos estavam disponíveis e funcionaram adequadamente?<br></li></ul>\",\"porqueTitulo\":\"O que observar na prática?\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/rede%20leitor.png\",\"titulo\":\"<b>Critério Analisado: Engajamento da Turma</b><br><br>\",\"conteudo\":\"<b>O que estava no planejamento?</b><br>Formas de participação individual ou em grupo; responsabilidades previstas para os(as) estudantes; estratégias para orientar e acompanhar a participação.<br><br>\",\"porqueTexto\":\"<br><ul><li>Os(as) estudantes participaram ativamente das atividades propostas?<br></li><li>As responsabilidades foram distribuídas entre os(as) integrantes dos grupos?<br></li><li>Houve estudantes aguardando orientações ou materiais por muito tempo?<br></li><li>A participação ficou concentrada em poucas pessoas?<br></li><li>Os(as) estudantes demonstraram autonomia para realizar as tarefas?<br></li><li>Que dúvidas ou dificuldades limitaram a participação?<br></li><li>As estratégias de orientação e acompanhamento favoreceram o envolvimento da turma?<br></li></ul>\",\"porqueTitulo\":\"O que observar na prática?\"}]"
+    },
+    "novo": true
+   }
+  ]
+ }
 }
