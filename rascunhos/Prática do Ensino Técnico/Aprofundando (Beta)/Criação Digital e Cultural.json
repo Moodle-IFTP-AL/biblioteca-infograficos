@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Criação Digital e Cultural",
- "quando": "2026-10-27T20:16:02.885Z",
+ "quando": "2026-10-27T20:17:20.685Z",
  "autor": "Teste",
  "dados": {
   "blocos": [
@@ -16,6 +16,13 @@
     },
     "novo": true
    }
-  ]
+  ],
+  "campos": {
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do Conhecimento:</b><br><ul><li>Análise crítica da execução técnica.<br></li></ul><b>Conteúdos:</b><br><ul><li>Comparação entre planejamento e execução.<br></li><li>Identificação de desvios e falhas.<br></li><li>Pontos de melhoria da oficina.<br></li></ul><b>Objetivo da Aula:</b><br>Realizar ajustes e melhorias em uma prática técnica a partir da análise crítica de sua execução.<br><br>",
+   "objetivo": "",
+   "titulo": "",
+   "conteudo": "",
+   "conectando": ""
+  }
  }
 }
