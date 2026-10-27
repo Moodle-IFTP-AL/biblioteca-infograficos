@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão e Operações",
- "quando": "2026-10-27T20:46:29.332Z",
+ "quando": "2026-10-27T20:46:55.212Z",
  "autor": "Teste",
  "dados": {
   "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28561",
@@ -47,12 +47,17 @@
   ],
   "conclusao": {
    "titulo": "Transformando Evidências em Melhorias ",
-   "texto": "Analisar uma prática pedagógica envolve comparar o planejamento com a execução, interpretar as mudanças ocorridas e avaliar seus efeitos na aprendizagem.<br><br>Registros sobre tempo, procedimentos, participação e resultados ajudam a diferenciar adaptações necessárias de falhas que precisam ser corrigidas.<br><br>Essa reflexão transforma a experiência em evidências para orientar decisões pedagógicas e tornar os próximos planejamentos mais consistentes e alinhados às necessidades dos(as) estudantes.<br><br>",
+   "texto": "Analisar uma prática pedagógica envolve comparar o planejamento com a execução, interpretar as mudanças ocorridas e avaliar seus efeitos na aprendizagem.<br><br>Registros sobre tempo, procedimentos, participação e resultados ajudam a diferenciar adaptações necessárias de falhas que precisam ser corrigidas.<br><br>Essa reflexão transforma a experiência em evidências para orientar decisões pedagógicas e tornar os próximos planejamentos mais consistentes e alinhados às necessidades dos(as) estudantes.<br><br><div>[DICA1][TOMENOTA1]</div>",
    "blocos": [
     {
      "tipo": "tomenota",
      "texto": "Nem toda diferença entre planejamento e execução representa uma falha. Os efeitos sobre segurança, participação e aprendizagem ajudam a avaliar se houve adaptação adequada ou se há aspectos da prática que precisam ser revistos.<br><br>",
-     "novo": true
+     "novo": false
+    },
+    {
+     "tipo": "dica",
+     "texto": "Após a execução de uma oficina, registre uma adaptação necessária, uma dificuldade recorrente e uma evidência de aprendizagem. Esses três elementos ajudam a definir melhorias concretas.<br><br>",
+     "novo": false
     }
    ]
   }
