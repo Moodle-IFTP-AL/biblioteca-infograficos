@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão e Operações",
- "quando": "2026-10-27T20:49:50.673Z",
+ "quando": "2026-10-27T20:50:15.074Z",
  "autor": "Teste",
  "dados": {
   "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31603",
@@ -18,7 +18,7 @@
   ],
   "conclusao": {
    "titulo": "Analisar para Aprimorar as Próximas Práticas ",
-   "texto": "Analisar uma prática permite compreender como o planejamento se concretizou nas condições reais da aula.<br><br>Essa reflexão ajuda a reconhecer adaptações adequadas, identificar falhas e valorizar estratégias que favoreceram a aprendizagem.<br><br>Ao realizar e registrar um ajuste concreto, você transforma a experiência vivida em conhecimento profissional e aprimora o planejamento de práticas futuras, tornando-as mais coerentes aos objetivos de aprendizagem e conectadas às necessidades dos(as) estudantes e ao mundo do trabalho.<br>",
+   "texto": "Analisar uma prática permite compreender como o planejamento se concretizou nas condições reais da aula.<br><br>Essa reflexão ajuda a reconhecer adaptações adequadas, identificar falhas e valorizar estratégias que favoreceram a aprendizagem.<br><br>Ao realizar e registrar um ajuste concreto, você transforma a experiência vivida em conhecimento profissional e aprimora o planejamento de práticas futuras, tornando-as mais coerentes aos objetivos de aprendizagem e conectadas às necessidades dos(as) estudantes e ao mundo do trabalho.<br><div>[REVISAR1]</div>",
    "blocos": [
     {
      "tipo": "revisar",
@@ -28,12 +28,12 @@
       {
        "id": "mvr5sdm1s76h03",
        "texto": "Módulo 1 — Unidade 7 - Critérios de Qualidade e Desempenho em Práticas Técnicas.",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22948"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
   }
