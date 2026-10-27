@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Criação Digital e Cultural",
- "quando": "2026-10-27T20:21:24.245Z",
+ "quando": "2026-10-27T20:23:24.418Z",
  "autor": "Teste",
  "dados": {
   "blocos": [
@@ -24,14 +24,41 @@
      "tabela": "{\"titulo\":\"<b>Interpretando as Mudanças na Prática&nbsp;</b><br><br>\",\"subtitulo\":\"Após comparar o planejamento com a execução, analise a natureza das mudanças ocorridas.<br><br>\",\"colunas\":[\"<b>Desvio</b><br><br>\",\"<b>Falha</b>\"],\"linhas\":[[\"Adaptação realizada durante a aula para favorecer a aprendizagem, como ampliar o tempo de edição de uma peça gráfica diante das dúvidas dos(as) estudantes, reorganizar a gravação de um vídeo para explorar melhor os recursos disponíveis ou ajustar a dinâmica de uma produção cultural para estimular a participação.\",\"Situação que compromete a atividade ou os objetivos de aprendizagem, como não orientar os critérios de composição visual, deixar de prever etapas essenciais para a edição de um vídeo ou não organizar previamente as funções da equipe em uma produção cultural, prejudicando a participação e o desenvolvimento do trabalho.<br><br>\"],[\"\",\"\"]]}"
     },
     "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "cards_icones_setas",
+    "infograficoData": {
+     "titulo": "<br>",
+     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Arquivo%20preparado.png\",\"titulo\":\"<b>Planejamento</b>\",\"texto\":\"Elaborar, em 50 minutos, o cronograma de produção de uma apresentação de pastoril, definindo tarefas, responsáveis e prazos.\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Engrenagem%20Ferramenta.png\",\"titulo\":\"<b>Execução</b>\",\"texto\":\"As equipes dedicaram a maior parte do tempo à escolha do repertório sem concluir o cronograma.\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Gr%C3%A1fico%20ABC.png\",\"titulo\":\"<b>Diagnóstico</b>\",\"texto\":\"Houve uma falha na organização da oficina, pois o tempo e as orientações foram insuficientes.\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/M%C3%A3o%20engrenagem.png\",\"titulo\":\"<b>Ponto de melhoria</b>\",\"texto\":\"<font color=\\\"#ffffff\\\">Disponibilizar um modelo de cronograma e delimitar a escolha do repertório a cinco minutos, priorizando a definição das tarefas, dos responsáveis e dos prazos.</font><br>\",\"corFundo\":\"#f04770\"}]",
+     "semSetas": ""
+    },
+    "novo": false
+   },
+   {
+    "tipo": "glossario",
+    "texto": "",
+    "termos": [
+     {
+      "termo": "Vinco",
+      "definicao": "Sulco feito no papel ou papelão para guiar a dobra com precisão.<br><br>"
+     }
+    ],
+    "novo": true
    }
   ],
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do Conhecimento:</b><br><ul><li>Análise crítica da execução técnica.<br></li></ul><b>Conteúdos:</b><br><ul><li>Comparação entre planejamento e execução.<br></li><li>Identificação de desvios e falhas.<br></li><li>Pontos de melhoria da oficina.<br></li></ul><b>Objetivo da Aula:</b><br>Realizar ajustes e melhorias em uma prática técnica a partir da análise crítica de sua execução.<br><br>",
    "objetivo": "Analisar a relação entre planejamento e execução da aula, identificando desvios, falhas e pontos de melhoria a partir das evidências observadas na prática.<br><br>",
    "titulo": "<b>O que a Execução Revela Sobre o Planejamento</b><br><br>",
-   "conteudo": "O planejamento é fundamental para orientar o trabalho docente, mas sua execução nem sempre acontece como previsto.<br><ul><li><b>Design Gráfico:</b> a demonstração da técnica de vinco de uma embalagem pode exigir mais tempo do que o planejado.<br></li><li><b>Produção Cultural:</b> a turma compreende o conceito de orçamento, mas pode encontrar dificuldades ao calcular os custos de uma mostra cultural.<br></li><li><b>Multimídia:</b> o grupo pode apresentar dificuldades para manter a divisão de funções previamente combinada e precisar reorganizar o trabalho.<br></li></ul>Você já vivenciou situações semelhantes em suas aulas?<br><br><div><b>Planejado e Realizado: o que Mudou?</b><br>Comparar o planejamento com o que aconteceu na aula permite identificar as necessidades&nbsp; da turma e reconhecer os ajustes realizados ao longo do percurso.<br>Com base em suas observações, essa análise ajuda a compreender o que favoreceu ou dificultou a aprendizagem e oferece subsídios para aprimorar os próximos planejamentos.<br><br></div><div>[INFOGRAFICO1]</div><div>[INFOGRAFICO2]</div><div><br></div><div>A falha deve ser compreendida como um ponto de atenção, não como um julgamento definitivo sobre a aula. Identificar suas causas permite definir o que precisa ser retomado ou ajustado nos próximos planejamentos.<br><br></div><div><br></div><div><h3><font color=\"#f04770\"><b>Pontos de Melhoria da Oficina e Próximos Passos&nbsp;</b></font></h3><p><font color=\"#f04770\"><b></b><br></font></p></div><div><b>Da Análise ao Aprimoramento da Oficina&nbsp;</b><br>Seja desvio ou falha, o diagnóstico tem como objetivo identificar oportunidades de melhoria na oficina, como:<br><ul><li>tornar uma demonstração mais breve;<br></li><li>reorganizar uma etapa;<br></li><li>preparar os recursos com antecedência.<br></li></ul>Registre esses ajustes no planejamento, justificando cada decisão.<br>Assim, a análise de cada aula oferece subsídios para o replanejamento, tornando as próximas propostas cada vez mais adequadas às necessidades reais da turma.<br><br></div>",
-   "conectando": ""
+   "conteudo": "O planejamento é fundamental para orientar o trabalho docente, mas sua execução nem sempre acontece como previsto.<br><ul><li><b>Design Gráfico:</b> a demonstração da técnica de vinco de uma embalagem pode exigir mais tempo do que o planejado.<br></li><li><b>Produção Cultural:</b> a turma compreende o conceito de orçamento, mas pode encontrar dificuldades ao calcular os custos de uma mostra cultural.<br></li><li><b>Multimídia:</b> o grupo pode apresentar dificuldades para manter a divisão de funções previamente combinada e precisar reorganizar o trabalho.<br></li></ul>Você já vivenciou situações semelhantes em suas aulas?<br><br><div><b>Planejado e Realizado: o que Mudou?</b><br>Comparar o planejamento com o que aconteceu na aula permite identificar as necessidades&nbsp; da turma e reconhecer os ajustes realizados ao longo do percurso.<br>Com base em suas observações, essa análise ajuda a compreender o que favoreceu ou dificultou a aprendizagem e oferece subsídios para aprimorar os próximos planejamentos.<br><br></div><div>[INFOGRAFICO1]</div><div>[INFOGRAFICO2]</div><div><br></div><div>A falha deve ser compreendida como um ponto de atenção, não como um julgamento definitivo sobre a aula. Identificar suas causas permite definir o que precisa ser retomado ou ajustado nos próximos planejamentos.<br><br></div><div><br></div><div><h3><font color=\"#f04770\"><b>Pontos de Melhoria da Oficina e Próximos Passos&nbsp;</b></font></h3><p><font color=\"#f04770\"><b></b><br></font></p></div><div><b>Da Análise ao Aprimoramento da Oficina&nbsp;</b><br>Seja desvio ou falha, o diagnóstico tem como objetivo identificar oportunidades de melhoria na oficina, como:<br><ul><li>tornar uma demonstração mais breve;<br></li><li>reorganizar uma etapa;<br></li><li>preparar os recursos com antecedência.<br></li></ul>Registre esses ajustes no planejamento, justificando cada decisão.<br>Assim, a análise de cada aula oferece subsídios para o replanejamento, tornando as próximas propostas cada vez mais adequadas às necessidades reais da turma.<br><br></div><div>[INFOGRAFICO3]</div>",
+   "conectando": "Agora é a sua vez: na próxima etapa, você vai analisar uma aula que conduziu recentemente.<br><br>"
+  },
+  "conclusao": {
+   "titulo": "Transformando a Prática em Aprendizagem ",
+   "texto": "<br>Analisar criticamente a execução da aula significa comparar o que foi planejado com o que aconteceu em sala, interpretando as mudanças como desvios ou falhas e identificando oportunidades de melhoria.<br>Essa reflexão transforma a experiência da oficina em aprendizagem docente, que orienta ajustes e qualifica os próximos planejamentos.<br><br>",
+   "blocos": []
   }
  }
 }
