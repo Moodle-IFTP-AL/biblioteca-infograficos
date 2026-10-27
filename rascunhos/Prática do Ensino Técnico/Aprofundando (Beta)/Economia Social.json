@@ -1,9 +1,17 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Economia Social",
- "quando": "2026-10-27T20:37:44.207Z",
+ "quando": "2026-10-27T20:41:43.945Z",
  "autor": "Teste",
  "dados": {
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28379",
+  "campos": {
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do Conhecimento:</b><br><ul><li>Análise crítica da execução técnica.<br></li></ul><b>Conteúdos:</b><br><ul><li>Comparação entre planejamento e execução.<br></li><li>Identificação de desvios e falhas.<br></li><li>Pontos de melhoria da oficina.<br></li></ul><b>Objetivo da Aula:</b><br>Realizar ajustes e melhorias em uma prática técnica a partir da análise crítica de sua execução.<br><br>",
+   "objetivo": "Analisar a relação entre planejamento e execução da aula, identificando desvios, falhas e pontos de melhoria a partir das evidências observadas na prática.<br><br>",
+   "titulo": "<b>Do Planejamento à Prática</b><br><br>",
+   "conteudo": "O planejamento orienta a prática docente, sua execução pode exigir ajustes diante das necessidades da turma e das situações que surgem durante a aula.<br><br>Em atividades relacionadas ao eixo de Economia Social, alguns desafios podem incluir:<br><br><ul><li>Conferência de registros levando mais tempo que o previsto.<br></li><li>Dúvidas inesperadas dos(as) estudantes sobre critérios contábeis.<br></li><li>Decisões coletivas concentradas em poucos(as) estudantes.<br></li></ul><br>Você já vivenciou situações assim em suas aulas?<br><br><div><b>Planejado e Realizado: o que Mudou?&nbsp;</b><br><br>Comparar o planejamento e a execução permite compreender por que a aula assumiu determinado rumo.<br><br>Nem toda diferença em relação ao planejado representa um problema. Em uma atividade, ajustes podem ser necessários para atender às necessidades da turma.<br><br>O importante é analisar os efeitos dessas mudanças sobre a aprendizagem e utilizar as observações para aprimorar os próximos planejamentos.<br>[INFOGRAFICO1]</div><div><br></div><div>[INFOGRAFICO2]</div><div><br></div><div><b>Da Análise ao Aprimoramento&nbsp;</b><br><br>O diagnóstico da prática deve orientar ajustes concretos nos próximos planejamentos. Isso pode envolver:<br><ul><li>redistribuir o tempo entre a análise e a conferência dos registros;<br></li><li>explicitar as funções dos(as) estudantes;<br></li><li>prever a retomada de conceitos contábeis;<br></li><li>reorganizar os momentos de decisão coletiva.<br></li></ul><br>Cada ajuste deve ser fundamentado nas evidências observadas durante a execução e nas necessidades de aprendizagem identificadas.<br><br></div><div>[INFOGRAFICO3]</div><div><br></div><div><br></div>",
+   "conectando": "Agora, você aplicará essa análise a uma prática já realizada e identificará ajustes para seus próximos planejamentos.<br><br>"
+  },
   "blocos": [
    {
     "tipo": "infografico",
@@ -14,15 +22,39 @@
      "subtitulo": "Use este guia para comparar o planejamento com o que aconteceu durante a aula.<br><br>",
      "gavetas": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2079.png\",\"titulo\":\"<b>Critério Analisado: Gestão do Tempo</b><br><br>\",\"conteudo\":\"<b>O que estava no planejamento?</b><br>Tempo previsto para cada etapa da atividade; distribuição do tempo entre explicação, demonstração e execução prática.<br><br>\",\"porqueTexto\":\"<br><ul><li>O tempo previsto foi suficiente para cada etapa?<br></li><li>Alguma atividade levou mais ou menos tempo do que o esperado?<br></li><li>Os(as) estudantes conseguiram concluir as tarefas no tempo disponível?<br></li><li>Foi necessário reduzir, ampliar ou reorganizar alguma etapa?<br></li><li>O tempo destinado às orientações e às dúvidas foi adequado?<br></li><li>Quais situações contribuíram para atrasos ou períodos de espera?<br></li></ul>\",\"porqueTitulo\":\"O que observar na prática?\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Rede%20EPT.png\",\"titulo\":\"<b>Critério Analisado: Execução da Sequência&nbsp;</b><br><br>\",\"conteudo\":\"<b>O que estava no planejamento?</b><br>Etapas previstas para desenvolver a atividade; procedimentos e orientações necessários à aprendizagem; recursos e materiais necessários em cada etapa.<br><br>\",\"porqueTexto\":\"<br><ul><li>As etapas foram realizadas na sequência prevista?<br></li><li>As orientações foram compreendidas pelos(as) estudantes?<br></li><li>Foi necessário retomar explicações ou demonstrar novamente algum procedimento?<br></li><li>Alguma etapa precisou ser adaptada, reorganizada ou substituída?<br></li><li>Os materiais e recursos previstos estavam disponíveis e funcionaram adequadamente?<br></li></ul>\",\"porqueTitulo\":\"O que observar na prática?\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/rede%20leitor.png\",\"titulo\":\"<b>Critério Analisado: Engajamento da Turma</b><br><br>\",\"conteudo\":\"<b>O que estava no planejamento?</b><br>Formas de participação individual ou em grupo; responsabilidades previstas para os(as) estudantes; estratégias para orientar e acompanhar a participação.<br><br>\",\"porqueTexto\":\"<br><ul><li>Os(as) estudantes participaram ativamente das atividades propostas?<br></li><li>As responsabilidades foram distribuídas entre os(as) integrantes dos grupos?<br></li><li>Houve estudantes aguardando orientações ou materiais por muito tempo?<br></li><li>A participação ficou concentrada em poucas pessoas?<br></li><li>Os(as) estudantes demonstraram autonomia para realizar as tarefas?<br></li><li>Que dúvidas ou dificuldades limitaram a participação?<br></li><li>As estratégias de orientação e acompanhamento favoreceram o envolvimento da turma?<br></li></ul>\",\"porqueTitulo\":\"O que observar na prática?\"}]"
     },
-    "novo": true
+    "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "tabela_completa",
+    "infograficoData": {
+     "tabela": "{\"titulo\":\"<b>Interpretando as Mudanças</b><br><br>\",\"subtitulo\":\"Após comparar o planejamento com a execução, analise a natureza das mudanças ocorridas. Elas foram adaptações necessárias às condições da aula ou revelaram fragilidades no planejamento que comprometeram a aprendizagem?\",\"colunas\":[\"<b>Desvio</b>\",\"<b>Fragilidades</b><br>\"],\"linhas\":[[\"Adaptação realizada durante a aula para responder às necessidades dos(as) estudantes, preservando os objetivos de aprendizagem.<br><br>\",\"Fragilidade decorrente de algo necessário que deveria ter sido previsto, mas foi omitido no planejamento, comprometendo a atividade ou a aprendizagem.<br><br>\"],[\"<b>Exemplo: </b>Ampliar o tempo de uma atividade de classificação de documentos contábeis diante de dúvidas sobre os critérios utilizados ou reorganizar os grupos para garantir a participação de todos(as) em uma simulação de assembleia cooperativa.<br><br>\",\"<b>Exemplo:</b> Não prever orientações para conferir lançamentos contábeis em um exercício prático ou deixar de definir as funções dos(as) participantes em uma simulação de assembleia, dificultando a realização das tarefas e a compreensão dos procedimentos.<br><br>\"]]}"
+    },
+    "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "cards_icones_setas",
+    "infograficoData": {
+     "titulo": "<b>Analisando uma Prática</b><br><br>",
+     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Arquivo%20preparado.png\",\"titulo\":\"<b>Planejamento</b>\",\"texto\":\"Os(as) estudantes analisariam registros de receitas e despesas para elaborar, em grupos, uma prestação de contas simplificada.\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Engrenagem%20Ferramenta.png\",\"titulo\":\"<b>Execução</b>\",\"texto\":\"Parte da turma apresentou dificuldades para classificar as despesas, exigindo a retomada dos critérios antes da conferência dos registros.\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Gr%C3%A1fico%20ABC.png\",\"titulo\":\"<b>Diagnóstico</b>\",\"texto\":\"Houve um desvio necessário, pois a retomada do conceito permitiu esclarecer dúvidas e preservar o objetivo de aprendizagem, mantendo a participação dos grupos.\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/M%C3%A3o%20engrenagem.png\",\"titulo\":\"<b>Ponto de melhoria</b>\",\"texto\":\"<font color=\\\"#ffffff\\\">Peever, no próximo planejamento, um exemplo inicial de classificação de despesas e reservar um tempo específico para esclarecer dúvidas antes da conferência final.&nbsp;</font><br>\",\"corFundo\":\"#f04770\"}]",
+     "semSetas": ""
+    },
+    "novo": false
    }
   ],
-  "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do Conhecimento:</b><br><ul><li>Análise crítica da execução técnica.<br></li></ul><b>Conteúdos:</b><br><ul><li>Comparação entre planejamento e execução.<br></li><li>Identificação de desvios e falhas.<br></li><li>Pontos de melhoria da oficina.<br></li></ul><b>Objetivo da Aula:</b><br>Realizar ajustes e melhorias em uma prática técnica a partir da análise crítica de sua execução.<br><br>",
-   "objetivo": "",
-   "titulo": "",
-   "conteudo": "",
-   "conectando": ""
+  "conclusao": {
+   "titulo": "Transformando a Experiência em Aprendizagem Docente",
+   "texto": "Analisar a prática exige:<br><ul><li>comparar o planejamento com a execução;<br></li><li>interpretar as&nbsp; mudanças ocorridas;<br></li><li>identificar seus efeitos sobre a aprendizagem.<br></li></ul><br>Ao distinguir adaptações necessárias de falhas que comprometem os objetivos previstos e registrar evidências sobre a gestão do tempo, a sequência didática e o engajamento dos(as) estudantes, a experiência se transforma em subsídios para aprimorar os próximos planejamentos.<br>[DICA1]",
+   "blocos": [
+    {
+     "tipo": "dica",
+     "texto": "Nos minutos finais da oficina, peça que cada estudante registre em um papel a etapa mais difícil da aula e explique brevemente o motivo. As respostas ajudam a identificar dificuldades vivenciadas pela turma e oferecem pistas para analisar a execução, verificar a necessidade de ajustes no planejamento e aprimorar as próximas aulas.<br><br>",
+     "novo": false
+    }
+   ]
   }
  }
 }
