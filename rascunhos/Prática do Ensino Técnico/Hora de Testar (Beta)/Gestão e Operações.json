@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão e Operações",
- "quando": "2026-10-27T20:48:36.782Z",
+ "quando": "2026-10-27T20:49:50.673Z",
  "autor": "Teste",
  "dados": {
   "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31603",
@@ -9,7 +9,33 @@
    "objetivo": "Avaliar uma prática realizada, comparando o planejamento com a execução e justificando ajustes para aprimorar as próximas aulas.<br><br>",
    "titulo": "<b>Da Execução à Qualificação das Próximas Práticas</b><br><br>",
    "conteudo": "Agora, convidamos você a retomar uma prática técnica que tenha conduzido recentemente com os(as) estudantes e refletir sobre como o planejamento se concretizou na aula.<br><br>Esse exercício permite reconhecer o que funcionou, compreender os desafios encontrados e identificar oportunidades de aprimoramento.<br><br><h3><font color=\"#f04770\"><b>Pensando Sobre um Planejamento&nbsp;</b></font></h3><p><font color=\"#f04770\"><b></b><br></font></p><div><b>Retome uma Prática Recente&nbsp;</b><br><br>Escolha uma prática significativa e recupere:<br><ul><li>Os objetivos de aprendizagem.<br></li><li>As principais etapas.<br></li><li>A distribuição do tempo.<br></li><li>Os materiais utilizados.<br></li><li>Resultados esperados.<br></li><li>Os registros produzidos.<br></li></ul><br>Em seguida, procure recordar o que efetivamente ocorreu, incluindo decisões, adaptações, dificuldades e resultados que chamaram sua atenção.<br><br></div><div><br></div>",
-   "reflexao": ""
+   "reflexao": "<br>"
+  },
+  "atividades": [
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31596\" width=\"1474\" height=\"807\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"GOP-M3-U07-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   }
+  ],
+  "conclusao": {
+   "titulo": "Analisar para Aprimorar as Próximas Práticas ",
+   "texto": "Analisar uma prática permite compreender como o planejamento se concretizou nas condições reais da aula.<br><br>Essa reflexão ajuda a reconhecer adaptações adequadas, identificar falhas e valorizar estratégias que favoreceram a aprendizagem.<br><br>Ao realizar e registrar um ajuste concreto, você transforma a experiência vivida em conhecimento profissional e aprimora o planejamento de práticas futuras, tornando-as mais coerentes aos objetivos de aprendizagem e conectadas às necessidades dos(as) estudantes e ao mundo do trabalho.<br>",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "Para aprofundar a reflexão, revisite a aula abaixo. Ela amplia o olhar sobre a prática e ajuda a desenvolver uma análise crítica do processo:",
+     "idRevisar": "mvr5rvvutb7m13",
+     "itensRevisar": [
+      {
+       "id": "mvr5sdm1s76h03",
+       "texto": "Módulo 1 — Unidade 7 - Critérios de Qualidade e Desempenho em Práticas Técnicas.",
+       "link": ""
+      }
+     ],
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": true
+    }
+   ]
   }
  }
 }
