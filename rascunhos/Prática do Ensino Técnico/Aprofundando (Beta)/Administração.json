@@ -1,30 +1,10 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-10-27T19:17:41.554Z",
+ "quando": "2026-10-29T16:24:29.691Z",
  "autor": "Teste",
  "dados": {
-  "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do Conhecimento:</b><br><ul><li>Análise crítica da execução técnica.<br></li></ul><b>Conteúdos:</b><br><ul><li>Comparação entre planejamento e execução.<br></li><li>Identificação de desvios e falhas.<br></li><li>Pontos de melhoria da oficina.<br></li></ul><b>Objetivo da Aula:</b><br>Realizar ajustes e melhorias em uma prática técnica a partir da análise crítica de sua execução.<br><br>",
-   "objetivo": "Analisar a relação entre planejamento e execução da aula, identificando desvios, falhas e pontos de melhoria a partir das evidências observadas na prática.<br><br>",
-   "titulo": "<b>Da Teoria à Prática: Analisando a Execução&nbsp;</b><br><br>",
-   "conteudo": "O planejamento orienta o trabalho docente, mas a prática pode exigir ajustes diante de situações não previstas.<br>Em uma aula prática de Administração, podem surgir imprevistos como:<br><ul><li>Necessidade de ampliação do tempo previsto em uma atividade de análise do fluxo de caixa.<br></li><li>Mudança de estratégia em uma turma que apresenta dificuldades que não foram previstas para a utilização de uma planilha de custos.<br></li></ul>Você já vivenciou situações assim?<div><font face=\"Open Sans, sans-serif\"><br></font>[PERGUNTA1]</div><div><br></div><div>[INFOGRAFICO1]</div><div><br></div><h3><div></div><font color=\"#f04770\"><b>Desvios e Falhas&nbsp;</b></font></h3><p>[INFOGRAFICO2]<br><br><br><h3><font color=\"#f04770\"><b></b><b>Pontos de Melhoria da Oficina e Próximos Passos&nbsp;</b></font></h3><div><font color=\"#f04770\"><b><br></b></font></div><div><b>Da Análise à Melhoria da Prática&nbsp;</b><br><br>O diagnóstico crítico da prática pedagógica permite identificar aspectos que precisam ser aprimorados na condução das atividades e no uso dos recursos técnicos.<br><br>A partir das evidências observadas, é possível transformar imprevistos e desafios, realizando os ajustes necessários e utilizando essas referências para qualificar o planejamento das próximas aulas de Administração.<br><br></div><div>[INFOGRAFICO3]</div><div><br></div><p><font color=\"#f04770\"><b></b></font></p></p><div></div><p></p>",
-   "conectando": "Agora que você compreendeu esses conceitos, siga para a próxima etapa e analise criticamente a sua própria prática!<br><br>"
-  },
   "blocos": [
-   {
-    "tipo": "pergunta",
-    "texto": "",
-    "pergunta": {
-     "tipo": "texto",
-     "titulo": "Planejado e Realizado: o que Mudou? ",
-     "texto": "<br>Comparar o planejado com o executado é essencial para aprimorar a prática pedagógica.<br><br>Essa análise não busca identificar falhas, mas compreender como a aula se desenvolveu em condições reais.<br><br>Observar atentamente o que ocorreu durante a execução permite reunir evidências importantes para qualificar as decisões pedagógicas e aprimorar os próximos planejamentos técnicos.<br><br>",
-     "videoUrl": "",
-     "iframeH5P": ""
-    },
-    "novo": false,
-    "minimizado": true
-   },
    {
     "tipo": "infografico",
     "texto": "",
@@ -34,47 +14,8 @@
      "subtitulo": "Use este guia para comparar o planejamento com o que aconteceu durante a aula.<br><br>",
      "gavetas": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2079.png\",\"titulo\":\"<b>Critério Analisado: Gestão do Tempo</b><br><br>\",\"conteudo\":\"<b>O que estava no planejamento?</b><br>Tempo previsto para cada etapa da atividade; distribuição do tempo entre explicação, demonstração e execução prática.<br><br>\",\"porqueTexto\":\"<br><ul><li>O tempo previsto foi suficiente para cada etapa?<br></li><li>Alguma atividade levou mais ou menos tempo do que o esperado?<br></li><li>Os(as) estudantes conseguiram concluir as tarefas no tempo disponível?<br></li><li>Foi necessário reduzir, ampliar ou reorganizar alguma etapa?<br></li><li>O tempo destinado às orientações e às dúvidas foi adequado?<br></li><li>Quais situações contribuíram para atrasos ou períodos de espera?<br></li></ul>\",\"porqueTitulo\":\"O que observar na prática?\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Rede%20EPT.png\",\"titulo\":\"<b>Critério Analisado: Execução da Sequência&nbsp;</b><br><br>\",\"conteudo\":\"<b>O que estava no planejamento?</b><br>Etapas previstas para desenvolver a atividade; procedimentos e orientações necessários à aprendizagem; recursos e materiais necessários em cada etapa.<br><br>\",\"porqueTexto\":\"<br><ul><li>As etapas foram realizadas na sequência prevista?<br></li><li>As orientações foram compreendidas pelos(as) estudantes?<br></li><li>Foi necessário retomar explicações ou demonstrar novamente algum procedimento?<br></li><li>Alguma etapa precisou ser adaptada, reorganizada ou substituída?<br></li><li>Os materiais e recursos previstos estavam disponíveis e funcionaram adequadamente?<br></li></ul>\",\"porqueTitulo\":\"O que observar na prática?\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/rede%20leitor.png\",\"titulo\":\"<b>Critério Analisado: Engajamento da Turma</b><br><br>\",\"conteudo\":\"<b>O que estava no planejamento?</b><br>Formas de participação individual ou em grupo; responsabilidades previstas para os(as) estudantes; estratégias para orientar e acompanhar a participação.<br><br>\",\"porqueTexto\":\"<br><ul><li>Os(as) estudantes participaram ativamente das atividades propostas?<br></li><li>As responsabilidades foram distribuídas entre os(as) integrantes dos grupos?<br></li><li>Houve estudantes aguardando orientações ou materiais por muito tempo?<br></li><li>A participação ficou concentrada em poucas pessoas?<br></li><li>Os(as) estudantes demonstraram autonomia para realizar as tarefas?<br></li><li>Que dúvidas ou dificuldades limitaram a participação?<br></li><li>As estratégias de orientação e acompanhamento favoreceram o envolvimento da turma?<br></li></ul>\",\"porqueTitulo\":\"O que observar na prática?\"}]"
     },
-    "novo": false,
-    "minimizado": false
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "tabela_completa",
-    "infograficoData": {
-     "tabela": "{\"titulo\":\"<b>Ajustes Necessários ou Fragilidades no Planejamento?</b><br><br>\",\"subtitulo\":\"Após comparar o planejamento com a execução, analise como as diferenças observadas afetaram o andamento da atividade e os objetivos de aprendizagem. Essa análise ajuda a distinguir dois tipos de situação:<br><br>\",\"colunas\":[\"<b>Ajuste pedagógico</b><br><br>\",\"<b>Fragilidade no planejamento</b><br><br>\"],\"linhas\":[[\"Respondem às condições reais da aula sem comprometer a aprendizagem.<br><br>\",\"Dificultam ou impedem etapas essenciais da prática.<br><br>\"],[\"<b>Exemplo:</b> Em uma simulação de inventário, ampliar o tempo para conferir os registros permite que os(as) estudantes concluam o procedimento com o rigor necessário.\",\"<b>Exemplo:</b> A falta de planilhas impede a contagem dos itens, comprometendo uma etapa essencial da atividade.<br><br>\"]]}"
-    },
-    "novo": false,
-    "minimizado": false
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "cards_icones_setas",
-    "infograficoData": {
-     "titulo": "<b>Analisando uma Situação Real de Aula&nbsp;</b><br><br>",
-     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2068.png\",\"titulo\":\"<b>Planejamento</b>\",\"texto\":\"Realizar a simulação do registro de entrada e saída de mercadorias de uma distribuidora local de Alagoas, com duração de 30 minutos.\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2083.png\",\"titulo\":\"<b>Execução</b>\",\"texto\":\"O software de controle de estoque apresentou instabilidade na rede da escola, atrasando a digitação dos dados pelos(as) estudantes.\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2033.png\",\"titulo\":\"<b>Diagnóstico</b>\",\"texto\":\"Desvio pedagógico justificável. O docente adaptou a dinâmica para a conferência em fichas físicas de estoque, preservando o foco nas competências de conferência técnica previstas na atividade.\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/M%C3%A3o%20engrenagem.png\",\"titulo\":\"<b>Ponto de melhoria</b>\",\"texto\":\"<font color=\\\"#ffffff\\\">Prever e disponibilizar modelo impresso de contingência para práticas que dependam de sistemas digitais.</font>\"}]"
-    },
-    "novo": false,
-    "minimizado": false
+    "novo": false
    }
-  ],
-  "conclusao": {
-   "titulo": "Transformar a Experiência em Aprendizagem",
-   "texto": "<br>Analisar a prática pedagógica significa comparar o que foi planejado com o que foi executado, interpretando os acontecimentos reais da aula.<br>Essa reflexão permite identificar oportunidades reais de aprimoramento, transformando cada experiência em conhecimento prático para orientar escolhas, ajustar procedimentos e aprimorar continuamente a qualidade do Ensino Técnico.<br>[TOMENOTA1][DICA1]",
-   "blocos": [
-    {
-     "tipo": "tomenota",
-     "texto": "A análise da prática não é sobre buscar perfeição, mas sobre refletir e&nbsp; gerar dados reais para qualificar o seu próximo planejamento.<br><br>",
-     "novo": false
-    },
-    {
-     "tipo": "dica",
-     "texto": "Mantenha um diário de bordo simples ao final da aula:<br><ul><li>Anote brevemente o que funcionou bem.<br></li><li>Registre&nbsp; o que precisará de ajustes na próxima turma.<br></li><li>Destaque alguma decisão ou situação que possa orientar o próximo planejamento.<br></li></ul>",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27459"
+  ]
  }
 }
