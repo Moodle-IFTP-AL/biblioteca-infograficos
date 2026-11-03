@@ -1,67 +1,27 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Reconhecendo o Caminho",
- "quando": "2026-10-26T13:50:12.668Z",
+ "quando": "2026-11-03T16:02:50.417Z",
  "autor": "Teste",
  "dados": {
   "agoraSuaVez": {
    "ativo": true,
-   "titulo": "Agora É sua Vez de Analisar e Ajustar:",
-   "chamada": "Durante o HTPC, analisem coletivamente um projeto integrado, considerando seu desenvolvimento, as evidências de aprendizagem e as dificuldades identificadas. Preencham o material proposto, registrando os ajustes necessários e as ações práticas para sua realização.",
+   "titulo": "Planejar para integrar",
+   "chamada": "Agora é sua vez de planejar!",
    "cards": [
     {
-     "titulo": "Retome o projeto",
-     "texto": "Escolha um projeto integrado, em andamento, já realizado ou previsto, e registre suas informações básicas."
+     "titulo": "Reúna os(as) colegas",
+     "texto": "Aproveite o HTPC para revisar coletivamente os objetivos, saberes e possibilidades de integração entre a Formação Geral Básica, o Ensino Técnico e outros componentes do pALei."
     },
     {
-     "titulo": "Analise o desenvolvimento",
-     "texto": "Compartilhe percepções sobre as atividades, as dificuldades e as evidências de aprendizagem."
+     "titulo": "Planeje de forma integrada",
+     "texto": "Utilize o planejamento já esboçado, o modelo de planejamento da SEDUC/AL e as matrizes curriculares como apoio para consolidar e aprimorar o plano."
     },
     {
-     "titulo": "Identifique os ajustes ",
-     "texto": "Preencha coletivamente o Acompanhamento e Ajustes de um Projeto Integrado, registrando as análises e os ajustes necessários. "
+     "titulo": "Registre e compartilhe",
+     "texto": "Faça o upload do documento na plataforma para evidenciar como os conhecimentos serão mobilizados de forma integrada."
     }
    ]
-  },
-  "campos": {
-   "texto1": "<b>Competência:&nbsp;</b><br><b>5 -</b> Planejar percursos formativos integrados e interdisciplinares, articulando saberes gerais e técnicos, competências da BNCC e demandas do mundo do trabalho: desenvolver a capacidade de organizar percursos formativos que articulem teoria e prática, competências gerais e técnicas, conteúdos de diferentes áreas e demandas reais do mundo do trabalho. Envolve integrar saberes gerais e profissionais, planejar sequências e unidades didáticas contextualizadas, construir projetos e atividades interdisciplinarmente articuladas e elaborar planos de aula coerentes com os itinerários formativos e as necessidades dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>5.3 </b>- Colaborar com outros(as) professores(as) na construção de percursos, sequências e projetos articulados, garantindo coerência pedagógica e progressão da aprendizagem.<br><b>Objetos do Conhecimento:</b><br>Revisão integrada do projeto.<br><b>Conteúdos:</b><br><ul><li>Revisão coletiva dos produtos parciais.<br></li><li>Compartilhamento e análise de evidências para orientar ajustes no planejamento.<br></li><li>Definição coletiva de ajustes nas etapas e entregas do projeto.<br></li></ul><b>Objetivo:</b><br>Revisar coletivamente o projeto integrado a partir da análise de evidências e dos produtos parciais, ajustando etapas e entregas para favorecer a coerência pedagógica e a progressão das aprendizagens.<br><br>",
-   "texto2": "Revisar coletivamente o projeto integrado a partir da análise de evidências e dos produtos parciais, ajustando etapas e entregas para favorecer a coerência pedagógica e a progressão das aprendizagens.",
-   "texto3": "<b>Hora de Colocar em Prática!</b><br><br>",
-   "texto5": "Na aula anterior, vimos como acompanhar o desenvolvimento de um percurso de aprendizagem integrado, como um projeto, identificando avanços, dificuldades e necessidades de ajuste.<br>Agora, vamos utilizar esse conhecimento para revisar um projeto integrado. Escolha um projeto que você realizou ou planejou. Ele pode estar <b>em andamento, já ter sido realizado ou estar previsto para acontecer</b>.<br>Durante o HTPC, compartilhe suas percepções com os(as) colegas, analisem o desenvolvimento do projeto e discutam os ajustes necessários.<br><b>Como Utilizar o Material?</b><br>Utilizem o material <b>Acompanhamento e Ajustes de um Projeto Integrado</b> para registrar:<br><br><div>[INFOGRAFICO1]</div><div><br></div><div>Se o projeto ainda estiver previsto, considerem informações e experiências anteriores que ajudem a antecipar possíveis necessidades de ajuste.<br><b>O que Pode ser Ajustado?</b><br>Durante a análise coletiva, considerem as seguintes possibilidades:<br><br></div><div>[INFOGRAFICO2]</div><div><br></div><div>Ao final, registrem os ajustes acordados e as ações necessárias para dar continuidade ao projeto. Considerem não apenas o andamento das atividades, mas também as evidências de aprendizagem e a contribuição dos diferentes componentes curriculares.</div><div><br></div><div>[CAIXADESTAQUE1]</div>",
-   "texto7": ""
-  },
-  "blocos": [
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "cards_coloridos",
-    "infograficoData": {
-     "cards": "[{\"titulo\":\"<b>Atividades realizadas</b>\",\"texto\":\"O que já foi desenvolvido e quais entregas foram produzidas ou estão planejadas.\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"},{\"titulo\":\"<b>Evidências de aprendizagem</b>\",\"texto\":\"O que as produções e os registros revelam sobre os avanços e as dificuldades dos(as) estudantes.\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"},{\"titulo\":\"<b>Ajustes necessários</b>\",\"texto\":\"O que pode ser mantido, retomado ou modificado para favorecer a aprendizagem.\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"}]"
-    },
-    "novo": false
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "blocos_coloridos",
-    "infograficoData": {
-     "introducao": "",
-     "blocos": "[{\"titulo\":\"<b>Etapas</b>\",\"texto\":\"Simplificar, combinar ou excluir fases não essenciais ao objetivo final.\"},{\"titulo\":\"<b>Tempo</b>\",\"texto\":\"Ampliar ou reduzir o prazo destinado a entregas específicas.\"},{\"titulo\":\"<b>Atividades</b>\",\"texto\":\"Adaptar propostas cuja complexidade esteja acima do esperado.\"},{\"titulo\":\"<b>Organização dos grupos:</b>\",\"texto\":\"Reorganizar integrantes ou redistribuir funções.\"},{\"titulo\":\"<b>Apoios pedagógicos</b>\",\"texto\":\"Retomar conceitos fundamentais ou articular o apoio de professores(as) parceiros(as).\"},{\"titulo\":\"<b>Recursos</b>\",\"texto\":\"Substituir materiais indisponíveis ou incluir ferramentas facilitadoras.\"}]"
-    },
-    "novo": false
-   },
-   {
-    "tipo": "caixadestaque",
-    "texto": "<b>Lembre-se: monitorar e revisar o projeto é um processo contínuo. Os ajustes devem preservar os objetivos de aprendizagem e favorecer a coerência pedagógica e a progressão das aprendizagens.</b>",
-    "caixaImgUrl": "",
-    "caixaImgSize": 40,
-    "caixaCorFundo": "#fdf0f3",
-    "caixaCorBorda": "#fec43e",
-    "novo": false,
-    "caixaCorTexto": "#f04770"
-   }
-  ],
-  "link": "https://ead.educacao.al.gov.br/mod/assign/view.php?id=27393",
-  "tipoBotao": "envio"
+  }
  }
 }
