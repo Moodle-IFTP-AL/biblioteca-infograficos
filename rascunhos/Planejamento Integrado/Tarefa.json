@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Tarefa",
- "quando": "2026-11-03T16:09:36.508Z",
+ "quando": "2026-11-03T16:10:53.391Z",
  "autor": "Teste",
  "dados": {
   "botoesMaterial": [
@@ -32,6 +32,20 @@
   "destaque": {
    "titulo": "Registre e compartilhe",
    "texto": "Faça o upload do documento revisado na plataforma para evidenciar como os conhecimentos serão mobilizados de forma integrada."
-  }
+  },
+  "campos": {
+   "texto1": "",
+   "texto2": "<b>Professor(a), agora é hora de transformar as reflexões e diálogos do HTPC em documento pedagógico</b>",
+   "texto3": "Após o trabalho colaborativo realizado com seus pares, consolide o planejamento do próximo bimestre utilizando o Modelo SEDUC/AL. Lembre-se de que este plano deve refletir a integração entre a Formação Geral Básica (FGB), a Área Técnica e os demais componentes curriculares do pALei, focando em problemas reais do mundo do trabalho, do território e no protagonismo do(a) estudante.<br><br>[BOTAO1]<br><br><br>"
+  },
+  "blocos": [
+   {
+    "tipo": "botao",
+    "texto": "Acessar modelo de plano de Seduc/AL ",
+    "corBotao": "#fec43e",
+    "linkBotao": "https://docs.google.com/document/d/1m2e6SwzRgii9uAMT6iTYoziDvTT5vTOGJ-m6SCrDvUs/edit?usp=sharing",
+    "novo": false
+   }
+  ]
  }
 }
