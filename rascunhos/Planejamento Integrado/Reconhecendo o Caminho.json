@@ -1,11 +1,11 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Reconhecendo o Caminho",
- "quando": "2026-11-03T16:04:48.513Z",
+ "quando": "2026-11-03T16:06:48.344Z",
  "autor": "Teste",
  "dados": {
   "agoraSuaVez": {
-   "ativo": true,
+   "ativo": false,
    "titulo": "Planejar para integrar",
    "chamada": "Agora é sua vez de planejar!",
    "cards": [
@@ -27,7 +27,7 @@
    "texto1": "<b>Competência:&nbsp;</b><br><b>5 -</b> Planejar percursos formativos integrados e interdisciplinares, articulando saberes gerais e técnicos, competências da BNCC e demandas do mundo do trabalho: desenvolver a capacidade de organizar percursos formativos que articulem teoria e prática, competências gerais e técnicas, conteúdos de diferentes áreas e demandas reais do mundo do trabalho. Envolve integrar saberes gerais e profissionais, planejar sequências e unidades didáticas contextualizadas, construir projetos e atividades interdisciplinarmente articuladas e elaborar planos de aula coerentes com os itinerários formativos e as necessidades dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>5.3 </b>- Colaborar com outros(as) professores(as) na construção de percursos, sequências e projetos articulados, garantindo coerência pedagógica e progressão da aprendizagem.<br><b>Objetos do Conhecimento:</b><br>Planejamento do próximo bimestre.<br><b>Conteúdos:</b><br><ul><li>Análise do planejamento e das evidências de aprendizagem do bimestre anterior.<br></li><li>Planejamento coletivo do próximo bimestre.<br></li></ul><b>Objetivo:</b><br>Planejar o próximo bimestre com base na análise coletiva das evidências de aprendizagem.<br><br>",
    "texto2": "Planejar o próximo bimestre com base na análise coletiva das evidências de aprendizagem",
    "texto3": "<b>Planejamento Integrado a partir de Evidências</b><br><br>",
-   "texto5": "O planejamento do próximo bimestre deve considerar as aprendizagens construídas ao longo do ano, os avanços alcançados e as dificuldades que ainda precisam ser trabalhadas.<br>No HTPC, a análise coletiva das evidências permite reunir diferentes perspectivas sobre a aprendizagem dos(as) estudantes, definir prioridades e organizar ações pedagógicas articuladas. Esse processo também ajuda a identificar como cada componente curricular pode contribuir para objetivos comuns.<br><b>Leve estas perguntas para o HTPC:</b><br><ul><li>O que os registros e as produções do bimestre anterior revelam sobre as aprendizagens?<br></li><li>Quais dificuldades de compreensão, execução ou participação ainda precisam ser trabalhadas?<br></li><li>Como incluir a autoavaliação dos(as) estudantes no próximo bimestre?<br></li><li>Que situações do território e experiências dos(as) estudantes podem contextualizar as próximas propostas?<br></li><li>Quais componentes e experiências curriculares podem contribuir conjuntamente para enfrentar as necessidades identificadas?<br></li></ul><b>Planejamento do próximo bimestre</b><br>No HTPC, utilize o <b>modelo de planejamento da SEDUC</b> e organize o trabalho coletivo em seis etapas:<br>[INFOGRAFICO1]<div><br></div><div>O planejamento do próximo bimestre é uma oportunidade para transformar a análise das aprendizagens em decisões pedagógicas.<br>No HTPC, utilizem as evidências reunidas ao longo do ano para definir prioridades, estabelecer objetivos comuns e organizar a contribuição dos diferentes componentes e experiências curriculares. Essas decisões devem orientar as próximas práticas, favorecendo a consolidação das aprendizagens e um encerramento do ano letivo coerente com as necessidades dos(as) estudantes.<br><br></div>",
+   "texto5": "O planejamento do próximo bimestre deve considerar as aprendizagens construídas ao longo do ano, os avanços alcançados e as dificuldades que ainda precisam ser trabalhadas.<br>No HTPC, a análise coletiva das evidências permite reunir diferentes perspectivas sobre a aprendizagem dos(as) estudantes, definir prioridades e organizar ações pedagógicas articuladas. Esse processo também ajuda a identificar como cada componente curricular pode contribuir para objetivos comuns.<br><b>Leve estas perguntas para o HTPC:</b><br><ul><li>O que os registros e as produções do bimestre anterior revelam sobre as aprendizagens?<br></li><li>Quais dificuldades de compreensão, execução ou participação ainda precisam ser trabalhadas?<br></li><li>Como incluir a autoavaliação dos(as) estudantes no próximo bimestre?<br></li><li>Que situações do território e experiências dos(as) estudantes podem contextualizar as próximas propostas?<br></li><li>Quais componentes e experiências curriculares podem contribuir conjuntamente para enfrentar as necessidades identificadas?<br></li></ul><b>Planejamento do próximo bimestre</b><br>No HTPC, utilize o <b>modelo de planejamento da SEDUC</b> e organize o trabalho coletivo em seis etapas:<br>[INFOGRAFICO1]<div><br></div><div>O planejamento do próximo bimestre é uma oportunidade para transformar a análise das aprendizagens em decisões pedagógicas.<br>No HTPC, utilizem as evidências reunidas ao longo do ano para definir prioridades, estabelecer objetivos comuns e organizar a contribuição dos diferentes componentes e experiências curriculares. Essas decisões devem orientar as próximas práticas, favorecendo a consolidação das aprendizagens e um encerramento do ano letivo coerente com as necessidades dos(as) estudantes.<br>[DICA1]</div>",
    "texto7": ""
   },
   "blocos": [
@@ -45,6 +45,7 @@
     "texto": "Para o HTPC, retome os planejamentos realizados ao longo do ano e as evidências de aprendizagem do bimestre, como avaliações, produções, autoavaliações dos(as) estudantes e registros de acompanhamento.<br><br>",
     "novo": false
    }
-  ]
+  ],
+  "tipoBotao": "envio"
  }
 }
