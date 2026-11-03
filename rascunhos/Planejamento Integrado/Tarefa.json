@@ -1,51 +1,42 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Tarefa",
- "quando": "2026-11-03T16:10:53.391Z",
+ "quando": "2026-11-03T16:12:53.301Z",
  "autor": "Teste",
  "dados": {
   "botoesMaterial": [
    {
     "texto": "Acessar modelo de plano da SEDUC/AL",
-    "link": "",
+    "link": "https://docs.google.com/document/d/1m2e6SwzRgii9uAMT6iTYoziDvTT5vTOGJ-m6SCrDvUs/edit?usp=sharing",
     "cor": "#fec43e"
-   },
-   {
-    "texto": "Acessar matriz curricular",
-    "link": "",
-    "cor": "#06d7a0"
    }
   ],
   "checklist": {
    "titulo": "O que deve conter no seu arquivo:",
    "itens": [
     {
-     "titulo": "Reúna os(as) colegas",
-     "texto": "Aproveite o HTPC para revisar coletivamente os objetivos, saberes e possibilidades de integração entre a Formação Geral Básica, o Ensino Técnico e outros componentes do pALei."
+     "titulo": "✔A articulação clara entre os diferentes componentes técnicos.",
+     "texto": ""
     },
     {
-     "titulo": "Planeje de forma integrada",
-     "texto": "Utilize o planejamento já esboçado, o modelo de planejamento da SEDUC/AL e as matrizes curriculares como apoio para consolidar e aprimorar o plano do bimestre."
+     "titulo": "✔A definição dos objetivos de aprendizagem e das habilidades a serem desenvolvidas.",
+     "texto": ""
+    },
+    {
+     "titulo": "✔As metodologias participativas escolhidas e os critérios de avaliação formativa (evidências).",
+     "texto": ""
     }
    ]
   },
   "destaque": {
-   "titulo": "Registre e compartilhe",
-   "texto": "Faça o upload do documento revisado na plataforma para evidenciar como os conhecimentos serão mobilizados de forma integrada."
+   "titulo": "Antes de enviar, faça um checklist final:",
+   "texto": "O plano parte de um problema real do território? As competências da BNCC estão articuladas às demandas do mundo do trabalho? Esse cuidado garante a excelência do seu percurso formativo!"
   },
   "campos": {
    "texto1": "",
    "texto2": "<b>Professor(a), agora é hora de transformar as reflexões e diálogos do HTPC em documento pedagógico</b>",
-   "texto3": "Após o trabalho colaborativo realizado com seus pares, consolide o planejamento do próximo bimestre utilizando o Modelo SEDUC/AL. Lembre-se de que este plano deve refletir a integração entre a Formação Geral Básica (FGB), a Área Técnica e os demais componentes curriculares do pALei, focando em problemas reais do mundo do trabalho, do território e no protagonismo do(a) estudante.<br><br>[BOTAO1]<br><br><br>"
+   "texto3": "Após o trabalho colaborativo realizado com seus pares, consolide o planejamento do próximo bimestre utilizando o Modelo SEDUC/AL. Lembre-se de que este plano deve refletir a integração entre a Formação Geral Básica (FGB), a Área Técnica e os demais componentes curriculares do pALei, focando em problemas reais do mundo do trabalho, do território e no protagonismo do(a) estudante.<br><br><br>"
   },
-  "blocos": [
-   {
-    "tipo": "botao",
-    "texto": "Acessar modelo de plano de Seduc/AL ",
-    "corBotao": "#fec43e",
-    "linkBotao": "https://docs.google.com/document/d/1m2e6SwzRgii9uAMT6iTYoziDvTT5vTOGJ-m6SCrDvUs/edit?usp=sharing",
-    "novo": false
-   }
-  ]
+  "blocos": []
  }
 }
