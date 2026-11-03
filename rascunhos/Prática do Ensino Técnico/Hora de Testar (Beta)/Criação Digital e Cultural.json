@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Criação Digital e Cultural",
- "quando": "2026-10-27T20:29:06.952Z",
+ "quando": "2026-11-03T17:32:24.029Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -12,8 +12,8 @@
   },
   "atividades": [
    {
-    "iframe": "",
-    "texto": "&lt;iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31598\" width=\"1474\" height=\"759\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"CDC-M3-U07-APLI-STRIP\"&gt;&lt;/iframe&gt;&lt;script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"&gt;&lt;/script&gt;"
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31598\" width=\"1474\" height=\"759\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"CDC-M3-U07-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
+    "texto": "<br>"
    }
   ],
   "conclusao": {
