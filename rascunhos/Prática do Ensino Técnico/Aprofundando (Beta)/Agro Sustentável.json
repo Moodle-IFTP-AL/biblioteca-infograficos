@@ -1,36 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Agro Sustentável",
- "quando": "2026-10-29T13:23:12.934Z",
- "autor": "Teste",
- "dados": {
-  "conclusao": {
-   "titulo": "",
-   "texto": "[INSPIRAR1]",
-   "blocos": [
-    {
-     "tipo": "inspirar",
-     "texto": "asdasd",
-     "titulo": "asdasd",
-     "linkBotao": "",
-     "textoBotao": "",
-     "novo": false,
-     "linksInspirar": [
-      {
-       "texto": "asdasdsd",
-       "desc": "",
-       "url": "https://moodle-iftp-al.github.io/gerador-html/#/Pr%C3%A1tica%20do%20Ensino%20T%C3%A9cnico/Aprofundando%20(Beta)/Agro%20Sustent%C3%A1vel",
-       "tipo": "texto"
-      },
-      {
-       "texto": "xzxz",
-       "desc": "",
-       "url": "https://moodle-iftp-al.github.io/gerador-html/#/Pr%C3%A1tica%20do%20Ensino%20T%C3%A9cnico/Aprofundando%20(Beta)/Agro%20Sustent%C3%A1vel",
-       "tipo": "site"
-      }
-     ]
-    }
-   ]
-  }
- }
+ "quando": "2026-11-04T18:17:32.475Z",
+ "autor": "Eduarda",
+ "dados": {}
 }
