@@ -1,7 +1,29 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Agro Sustentável",
- "quando": "2026-11-04T18:17:32.475Z",
+ "quando": "2026-11-04T18:19:31.488Z",
  "autor": "Eduarda",
- "dados": {}
+ "dados": {
+  "campos": {
+   "infoAula": "<b>Duração da Aula: </b>30 minutos.<br><b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Registro técnico e melhoria da prática.<br><b>Conteúdos:</b><br><ul><li>Registro das etapas, decisões e ajustes.<br></li><li>Evidências do processo técnico.<br></li><li>Uso do registro para aperfeiçoamento da prática.<br></li></ul><b>Objetivo da Aula:&nbsp;</b><br>Registrar e utilizar evidências da execução para aprimorar práticas futuras.<br>",
+   "objetivo": "Identificar formas de registrar evidências da prática e como elas apoiam a análise do desenvolvimento dos(as) estudantes e o aprimoramento das intervenções pedagógicas.<br>",
+   "titulo": "<b>Registrar para Analisar e Aprimorar</b><br>",
+   "conteudo": "<b>Quando a Prática Deixa Aprendizados pelo Caminho</b><br><br>Durante uma prática de campo ou de processamento de alimentos, você precisa acompanhar os(as) estudantes, garantir a segurança e conduzir procedimentos, o que torna difícil registrar cada evidência.<br><br>Sem anotações, fotos ou áudios breves, detalhes sobre dificuldades, avanços e ajustes podem se perder após a aula, limitando a análise e o planejamento futuro.<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">O Registro como Espelho da Prática&nbsp;</font></b></h3><br>O registro técnico funciona como um espelho da prática.<br><br>Ao documentar etapas, decisões, dificuldades e ajustes de uma oficina, você pode revisitar a experiência e analisar como suas intervenções influenciaram o desenvolvimento dos(as) estudantes.<br><br>Se três grupos pediram ajuda na mesma etapa do preparo da polpa de fruta, por exemplo, o registro mostra que não era uma dúvida isolada, mas um sinal de que a&nbsp; explicação inicial pode precisar mudar.<br><br><h3><b><font color=\"#f04770\">Formas Simples de Registrar a Prática<br><br></font></b></h3>Confira exemplos de registros que podem ser utilizados e adapte-os à sua realidade para documentar dificuldades, avanços e decisões pedagógicas durante as atividades práticas.<br><br>",
+   "conectando": ""
+  },
+  "blocos": [
+   {
+    "tipo": "pergunta",
+    "texto": "",
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "Reflita:",
+     "texto": "Você já esqueceu algo importante que funcionou ou falhou em uma prática anterior?",
+     "videoUrl": "",
+     "iframeH5P": ""
+    },
+    "novo": false
+   }
+  ]
+ }
 }
