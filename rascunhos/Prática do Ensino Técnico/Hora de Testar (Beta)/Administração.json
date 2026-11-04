@@ -1,16 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-11-04T16:28:31.597Z",
+ "quando": "2026-11-04T16:30:33.385Z",
  "autor": "Teste",
- "dados": {
-  "atividades": [],
-  "blocos": [],
-  "campos": {
-   "objetivo": "",
-   "titulo": "",
-   "conteudo": "[H5P1]",
-   "reflexao": ""
-  }
- }
+ "dados": {}
 }
