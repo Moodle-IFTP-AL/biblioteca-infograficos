@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-11-04T17:08:04.268Z",
+ "quando": "2026-11-04T17:08:27.659Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -42,6 +42,13 @@
      "mapa": "{\"centro\":\"<b>Integração Curricular em Movimento</b>\",\"cards\":[{\"frente\":\"Integração Curricular\",\"verso\":\"Articulação intencional entre diferentes conhecimentos para promover aprendizagens contextualizadas.<br>\"},{\"frente\":\"Matriz Curricular\",\"verso\":\"Define as aprendizagens, as competências e os conhecimentos que orientam a formação dos(as) estudantes.&nbsp;<br>\"},{\"frente\":\"Território\",\"verso\":\"Apresenta saberes, características, desafios e possibilidades da realidade social, cultural, ambiental e produtiva local.\"},{\"frente\":\"<b>Mundo do Trabalho</b><br>\",\"verso\":\"Mobiliza práticas profissionais, tecnologias, processos, demandas e competências relacionados à formação técnica.<br>\",\"corFundo\":\"#f04770\"}]}"
     },
     "novo": false
+   },
+   {
+    "tipo": "video",
+    "texto": "Veja como projetos podem conectar currículo, território e mundo do trabalho em aprendizagens que fazem sentido.<br>",
+    "titulo": "Assista:",
+    "url": "",
+    "novo": true
    }
   ]
  }
