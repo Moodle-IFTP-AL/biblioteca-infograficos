@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-11-04T18:11:34.861Z",
+ "quando": "2026-11-04T18:13:28.313Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -30,6 +30,11 @@
       {
        "id": "mw2frugtn7dm91",
        "texto": "Módulo 1 – 1ª aula síncrona: Transformação de problemas reais em práticas técnicas.&nbsp;&nbsp;<br>",
+       "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=22425"
+      },
+      {
+       "id": "mw2fua66wilqic",
+       "texto": "Módulo 2 – Unidade 5: Planejamento de práticas técnicas a partir de problemas profissionais.&nbsp;<br>",
        "link": ""
       }
      ],
