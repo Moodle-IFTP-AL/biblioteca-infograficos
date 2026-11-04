@@ -159,6 +159,19 @@
    "criadoEm": "2026-10-27T20:22:49.129Z",
    "atualizadoEm": "2026-10-27T20:22:50.998Z",
    "autor": "Teste"
+  },
+  {
+   "id": "c5cffd9f-f702-410c-afa9-14099437a516",
+   "nome": "Cards com Icones e Setas",
+   "pasta": "M3",
+   "tipo": "cards_icones_setas",
+   "data": {
+    "titulo": "",
+    "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Luz%20ideia.png\",\"titulo\":\"1. Mapeamento de evidências reais\",\"texto\":\"O registro contínuo durante simulações administrativas, como o atendimento ao(à) cliente ou a elaboração de folhas de pagamento, revela padrões claros sobre as principais dúvidas conceituais e operacionais das turmas.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Lupa.png\",\"titulo\":\"2. Análise crítica da ação docente\",\"texto\":\"Permite a você revisar suas próprias estratégias, avaliando se a orientação inicial foi suficiente, se o tempo dedicado à demonstração prática foi adequado e de que maneira suas intervenções diretas influenciaram os resultados obtidos. O áudio da simulação de atendimento, por exemplo, pode mostrar que o fluxo foi apresentado rápido demais.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Caderno.png\",\"titulo\":\"3. Replanejamento intencional\",\"texto\":\"Transforma as evidências em decisões pedagógicas para as aulas seguintes. Você ajusta o ritmo, reestrutura os roteiros práticos e reorganiza as explicações e o acompanhamento da turma.&nbsp;<br>\"}]"
+   },
+   "criadoEm": "2026-11-04T16:20:51.125Z",
+   "atualizadoEm": "2026-11-04T16:17:53.750Z",
+   "autor": "Eduarda"
   }
  ]
 }
