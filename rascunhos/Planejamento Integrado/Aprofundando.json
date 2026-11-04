@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-04T17:29:21.176Z",
+ "quando": "2026-11-04T17:31:21.227Z",
  "autor": "Eduarda",
  "dados": {
   "agoraSuaVez": {
@@ -27,7 +27,7 @@
    "texto1": "<b>Competência:&nbsp;</b><br><b>5 -</b> Planejar percursos formativos integrados e interdisciplinares, articulando saberes gerais e técnicos, competências da BNCC e demandas do mundo do trabalho: desenvolver a capacidade de organizar percursos formativos que articulem teoria e prática, competências gerais e técnicas, conteúdos de diferentes áreas e demandas reais do mundo do trabalho. Envolve integrar saberes gerais e profissionais, planejar sequências e unidades didáticas contextualizadas, construir projetos e atividades interdisciplinarmente articuladas e elaborar planos de aula coerentes com os itinerários formativos e as necessidades dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>5.2 - </b>Planejar projetos, unidades e sequências didáticas interdisciplinares, relacionando saberes gerais e técnicos para solucionar problemas reais e contextualizados.<br><b>Objetos do Conhecimento:</b><br>Avaliação integrada de Projetos Integrados.<br><b>Conteúdos:</b><br><ul><li>Avaliação do processo de desenvolvimento do projeto: colaboração, tomada de decisões e dificuldades.<br></li><li>Avaliação do produto final.<br></li><li>Articulação entre as competências planejadas e as aprendizagens desenvolvidas.<br></li></ul><b>Objetivo:</b><br>Identificar os critérios e as evidências de aprendizagem em Projetos Integrados a partir do processo de desenvolvimento, dos produtos finais e da relação entre as competências técnicas, da Formação Geral Básica (FGB) e os componentes do pALei.<br>",
    "texto2": "Identificar os critérios e as evidências de aprendizagem em Projetos Integrados a partir do processo de desenvolvimento, dos produtos finais e da relação entre as competências técnicas, da Formação Geral Básica (FGB) e os componentes do pALei.<br>",
    "texto3": "<b>Avaliando o Projeto Integrado para Além do Produto Final</b><br>",
-   "texto5": "Imagine que um Projeto Integrado chegou ao fim. Os(as) estudantes:<br><ul><li>apresentaram os produtos finais;<br></li><li>compartilharam soluções;<br></li><li>mobilizaram diferentes conhecimentos.</li></ul>Ao analisar os resultados, você e os(as) demais professores(as) perceberam algumas diferenças: alguns grupos tomaram decisões com autonomia, enquanto outros precisaram de orientações constantes. Além disso, nem todos(as) os(as) estudantes participaram igualmente da elaboração dos produtos.<br>[CAIXADESTAQUE1]<br>Para responder a essa pergunta, é preciso relacionar os objetivos de aprendizagem, os critérios definidos no planejamento e as evidências observadas durante o projeto. A rubrica de avaliação ajuda a organizar essa análise.<br><br><h3><b><font color=\"#f04770\">Três Dimensões da Avaliação</font></b></h3><br>",
+   "texto5": "Imagine que um Projeto Integrado chegou ao fim. Os(as) estudantes:<br><ul><li>apresentaram os produtos finais;<br></li><li>compartilharam soluções;<br></li><li>mobilizaram diferentes conhecimentos.</li></ul>Ao analisar os resultados, você e os(as) demais professores(as) perceberam algumas diferenças: alguns grupos tomaram decisões com autonomia, enquanto outros precisaram de orientações constantes. Além disso, nem todos(as) os(as) estudantes participaram igualmente da elaboração dos produtos.<br>[CAIXADESTAQUE1]<br>Para responder a essa pergunta, é preciso relacionar os objetivos de aprendizagem, os critérios definidos no planejamento e as evidências observadas durante o projeto. A rubrica de avaliação ajuda a organizar essa análise.<br><br><h3><b><font color=\"#f04770\">Três Dimensões da Avaliação</font></b></h3>[INFOGRAFICO1]<br>Essas dimensões se complementam. Um produto de qualidade não garante que todos(as) tenham aprendido igualmente, assim como um produto com limitações pode revelar avanços na colaboração e na resolução de problemas.<br><br><h3><b><font color=\"#f04770\">Como identificar essas aprendizagens?&nbsp;</font></b></h3><br>Retome os objetivos, as habilidades e os critérios definidos no planejamento. Analise as evidências considerando as contribuições previstas para os componentes e as experiências curriculares envolvidas no projeto.<br><br>",
    "texto7": ""
   },
   "blocos": [
@@ -40,6 +40,16 @@
     "caixaCorBorda": "#f04770",
     "novo": false,
     "caixaCorTexto": "#0a3442"
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "cards_icones_setas",
+    "infograficoData": {
+     "titulo": "",
+     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Caderno%20Mais.png\",\"titulo\":\"<b>1. Aprendizagens Integradas</b>\",\"texto\":\"Quais conhecimentos e competências previstos no planejamento foram mobilizados e como se relacionaram?<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Lupa.png\",\"titulo\":\"<b>2. Processo</b>\",\"texto\":\"Como os(as) estudantes participaram, colaboraram, tomaram decisões e enfrentaram dificuldades durante o projeto?&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Alvo.png\",\"titulo\":\"<b>3.&nbsp;</b><b>Produto Final</b><br>\",\"texto\":\"Em que medida a produção atende aos critérios definidos e demonstra a aplicação dos conhecimentos previstos?\"}]"
+    },
+    "novo": false
    }
   ]
  }
