@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-11-04T16:48:51.915Z",
+ "quando": "2026-11-04T16:49:11.826Z",
  "autor": "Eduarda",
  "dados": {
   "atividades": [],
@@ -29,7 +29,7 @@
   },
   "conclusao": {
    "titulo": "Observar, Registrar, Analisar e Ajustar",
-   "texto": "Nesta aula, você viu a força do registro como hábito docente.<br><br>Observar a execução das atividades práticas, registrar evidências de forma ágil, analisar os resultados e ajustar a mediação formam um ciclo contínuo, que revela aspectos que passariam despercebidos durante a aula.<br><br>Ao adotar esse ciclo, você transforma desafios de sala em aprendizado docente, garantindo devolutivas cada vez mais alinhadas ao desenvolvimento dos(as) seus(suas) estudantes.<br>",
+   "texto": "Nesta aula, você viu a força do registro como hábito docente.<br><br>Observar a execução das atividades práticas, registrar evidências de forma ágil, analisar os resultados e ajustar a mediação formam um ciclo contínuo, que revela aspectos que passariam despercebidos durante a aula.<br><br>Ao adotar esse ciclo, você transforma desafios de sala em aprendizado docente, garantindo devolutivas cada vez mais alinhadas ao desenvolvimento dos(as) seus(suas) estudantes.<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -39,12 +39,12 @@
       {
        "id": "mw2ctfuhe867py",
        "texto": "Módulo 1 - Unidade 7 -&nbsp; Avaliação Técnica e Devolutivas Formativas.<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22979"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
   }
