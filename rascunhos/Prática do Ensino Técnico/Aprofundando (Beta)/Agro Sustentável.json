@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Agro Sustentável",
- "quando": "2026-11-04T18:19:31.488Z",
+ "quando": "2026-11-04T18:20:39.410Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Duração da Aula: </b>30 minutos.<br><b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Registro técnico e melhoria da prática.<br><b>Conteúdos:</b><br><ul><li>Registro das etapas, decisões e ajustes.<br></li><li>Evidências do processo técnico.<br></li><li>Uso do registro para aperfeiçoamento da prática.<br></li></ul><b>Objetivo da Aula:&nbsp;</b><br>Registrar e utilizar evidências da execução para aprimorar práticas futuras.<br>",
    "objetivo": "Identificar formas de registrar evidências da prática e como elas apoiam a análise do desenvolvimento dos(as) estudantes e o aprimoramento das intervenções pedagógicas.<br>",
    "titulo": "<b>Registrar para Analisar e Aprimorar</b><br>",
-   "conteudo": "<b>Quando a Prática Deixa Aprendizados pelo Caminho</b><br><br>Durante uma prática de campo ou de processamento de alimentos, você precisa acompanhar os(as) estudantes, garantir a segurança e conduzir procedimentos, o que torna difícil registrar cada evidência.<br><br>Sem anotações, fotos ou áudios breves, detalhes sobre dificuldades, avanços e ajustes podem se perder após a aula, limitando a análise e o planejamento futuro.<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">O Registro como Espelho da Prática&nbsp;</font></b></h3><br>O registro técnico funciona como um espelho da prática.<br><br>Ao documentar etapas, decisões, dificuldades e ajustes de uma oficina, você pode revisitar a experiência e analisar como suas intervenções influenciaram o desenvolvimento dos(as) estudantes.<br><br>Se três grupos pediram ajuda na mesma etapa do preparo da polpa de fruta, por exemplo, o registro mostra que não era uma dúvida isolada, mas um sinal de que a&nbsp; explicação inicial pode precisar mudar.<br><br><h3><b><font color=\"#f04770\">Formas Simples de Registrar a Prática<br><br></font></b></h3>Confira exemplos de registros que podem ser utilizados e adapte-os à sua realidade para documentar dificuldades, avanços e decisões pedagógicas durante as atividades práticas.<br><br>",
+   "conteudo": "<b>Quando a Prática Deixa Aprendizados pelo Caminho</b><br><br>Durante uma prática de campo ou de processamento de alimentos, você precisa acompanhar os(as) estudantes, garantir a segurança e conduzir procedimentos, o que torna difícil registrar cada evidência.<br><br>Sem anotações, fotos ou áudios breves, detalhes sobre dificuldades, avanços e ajustes podem se perder após a aula, limitando a análise e o planejamento futuro.<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">O Registro como Espelho da Prática&nbsp;</font></b></h3><br>O registro técnico funciona como um espelho da prática.<br><br>Ao documentar etapas, decisões, dificuldades e ajustes de uma oficina, você pode revisitar a experiência e analisar como suas intervenções influenciaram o desenvolvimento dos(as) estudantes.<br><br>Se três grupos pediram ajuda na mesma etapa do preparo da polpa de fruta, por exemplo, o registro mostra que não era uma dúvida isolada, mas um sinal de que a&nbsp; explicação inicial pode precisar mudar.<br><br><h3><b><font color=\"#f04770\">Formas Simples de Registrar a Prática<br><br></font></b></h3>Confira exemplos de registros que podem ser utilizados e adapte-os à sua realidade para documentar dificuldades, avanços e decisões pedagógicas durante as atividades práticas.<br>[INFOGRAFICO1]<br>[DICA1]<br><h3><b><font color=\"#f04770\">Do Registro à Melhoria da Prática&nbsp;<br><br></font></b></h3>Veja como os registros ajudam a identificar avanços, reconhecer dificuldades e aprimorar as próximas práticas.<br><br>",
    "conectando": ""
   },
   "blocos": [
@@ -22,6 +22,20 @@
      "videoUrl": "",
      "iframeH5P": ""
     },
+    "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "tabela_completa",
+    "infograficoData": {
+     "tabela": "{\"titulo\":\"\",\"subtitulo\":\"\",\"colunas\":[\"<b>Tipo de registro</b>\",\"Exemplo de uso\"],\"linhas\":[[\"<b>Anotação breve</b>\",\"Durante o preparo de um bioinsumo, anote: “De 6 grupos, 4 calcularam corretamente a diluição; 2 confundiram a proporção entre produto e água”.<br>\"],[\"<b>Áudio</b>\",\"Ao final da montagem de uma composteira, grave uma nota de até 30 segundos: “Três grupos tiveram dúvidas sobre a proporção entre materiais secos e úmidos. Retomar esse critério na próxima aula”.\"],[\"<b>Foto</b>\",\"Fotografe as etapas de preparo dos canteiros, sem identificar os(as) estudantes. Identifique as imagens, por exemplo, como “Canteiro 1 — cobertura do solo” e “Canteiro 2 — solo exposto”, para comparar as práticas realizadas.\"],[\"<b>Vídeo</b>\",\"Grave um trecho da demonstração de regulagem do pulverizador. Depois, anote se a sequência dos procedimentos ficou clara e em qual etapa os(as) estudantes precisaram de nova orientação.\"],[\"<b>Registro das decisões</b>\",\"Durante uma prática de produção de geleia, anote: “A pesagem dos ingredientes passou a ser feita em duplas porque houve erros nas medidas individuais. Na próxima aula, verificar se a estratégia aumentou a precisão”.\"]]}"
+    },
+    "novo": false
+   },
+   {
+    "tipo": "dica",
+    "texto": "<b>Organize seus Registros</b><br><br>Nomeie os registros com turma, data e atividade, como “AgroA_15-09_Compostagem”. Organize fotos, áudios, vídeos e anotações em pastas para facilitar a consulta e utilizar essas evidências no planejamento das próximas práticas.<br>",
     "novo": false
    }
   ]
