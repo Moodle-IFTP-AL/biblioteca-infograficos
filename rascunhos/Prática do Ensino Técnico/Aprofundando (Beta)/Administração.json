@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-11-04T18:09:40.420Z",
+ "quando": "2026-11-04T18:09:52.132Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -44,7 +44,7 @@
   ],
   "conclusao": {
    "titulo": "Da experiência à reflexão pedagógica",
-   "texto": "Revisar uma prática pedagógica não é buscar falhas, mas usar as evidências produzidas durante a atividade para tomar decisões mais conscientes.<br><br>Ao analisar o alinhamento entre planejamento, contexto e aprendizagem, você fortalece sua intencionalidade e garante que as atividades de ensino técnico preparem os(as) estudantes para os desafios autênticos do mundo do trabalho.<br>",
+   "texto": "Revisar uma prática pedagógica não é buscar falhas, mas usar as evidências produzidas durante a atividade para tomar decisões mais conscientes.<br><br>Ao analisar o alinhamento entre planejamento, contexto e aprendizagem, você fortalece sua intencionalidade e garante que as atividades de ensino técnico preparem os(as) estudantes para os desafios autênticos do mundo do trabalho.<br>[DICA1]",
    "blocos": [
     {
      "tipo": "dica",
@@ -52,6 +52,7 @@
      "novo": false
     }
    ]
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29149"
  }
 }
