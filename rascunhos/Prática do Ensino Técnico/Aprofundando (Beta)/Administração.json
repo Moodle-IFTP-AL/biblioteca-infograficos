@@ -1,70 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-11-04T16:17:58.292Z",
- "autor": "Eduarda",
- "dados": {
-  "campos": {
-   "infoAula": "<b>Duração da Aula: </b>30 minutos.<br><b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Registro técnico e melhoria da prática.<br><b>Conteúdos:</b><br><ul><li>Registro das etapas, decisões e ajustes.<br></li><li>Evidências do processo técnico.<br></li><li>Uso do registro para aperfeiçoamento da prática.<br></li></ul><b>Objetivo da Aula:&nbsp;</b><br>Registrar e utilizar evidências da execução para aprimorar práticas futuras.<br>",
-   "objetivo": "Identificar formas de registrar evidências da prática e como elas apoiam a análise do desenvolvimento dos(as) estudantes e o aprimoramento das intervenções pedagógicas.<br>",
-   "titulo": "<b>Registrar para Analisar e Aprimorar&nbsp;</b>",
-   "conteudo": "<h3><b><font color=\"#f04770\">O que a Memória da Aula Pode Deixar Escapar?</font></b></h3><br>Durante uma simulação de atendimento ou de controle de estoque, sua atenção se divide entre a condução das etapas, o tempo e as dúvidas da turma. Sobra pouco tempo para registrar.<br><br>Depois da aula, evidências importantes se perdem:<br><ul><li>quem travou em qual etapa;<br></li><li>que explicação precisou ser repetida;<br></li><li>que ajuste deu certo.</li></ul>Sem esses registros, analisar a aula e ajustá-la fica mais difícil.<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">O Registro como Espelho da Prática&nbsp;</font></b></h3><br>O registro técnico funciona como um espelho da prática.<br><br>Ao anotar etapas, decisões, dificuldades e ajustes durante a prática, você consegue ver depois o que passou despercebido no ritmo da aula.<br><br>Se três grupos pediram ajuda na mesma etapa da redação de um ofício, por exemplo, o registro mostra que não era uma dúvida isolada, mas um sinal de que a explicação inicial talvez precise de ajustes.<br><br><h3><b><font color=\"#f04770\">Como Registrar Evidências&nbsp;<br><br></font></b></h3>Confira exemplos de registros que podem ser utilizados e adapte-os à sua realidade para documentar dificuldades, avanços e decisões pedagógicas durante as atividades práticas.<br>[INFOGRAFICO1]<br>[DICA1]<br><h3><b><font color=\"#f04770\">Do Registro à Melhoria da Prática&nbsp;<br><br></font></b></h3>Veja como os registros ajudam a identificar dificuldades, avaliar intervenções e aprimorar as próximas aulas.<br>[INFOGRAFICO2]",
-   "conectando": "Agora, coloque a reflexão em movimento: organize um ciclo de registro e planeje como documentar sua própria prática.<br>"
-  },
-  "blocos": [
-   {
-    "tipo": "pergunta",
-    "texto": "",
-    "pergunta": {
-     "tipo": "texto",
-     "titulo": "Reflita",
-     "texto": "Você já deixou de aprimorar uma aula por não lembrar com precisão do que funcionou na anterior?<br>",
-     "videoUrl": "",
-     "iframeH5P": ""
-    },
-    "novo": false
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "tabela_completa",
-    "infograficoData": {
-     "tabela": "{\"titulo\":\"\",\"subtitulo\":\"\",\"colunas\":[\"<b>Tipo de registro</b>\",\"<b>Exemplo de uso</b>\"],\"linhas\":[[\"<b>Anotação breve</b>\",\"Durante uma simulação de departamento pessoal, anotar: “5 de 8 estudantes tiveram dificuldade para calcular o desconto de INSS no exemplo proposto”.<br>\"],[\"<b>Áudio</b>\",\"Ao final de uma atividade de atendimento ao(à) cliente, gravar uma observação curta: “A turma teve dificuldade para registrar as solicitações e encaminhá-las ao setor responsável”.<br>\"],[\"<b>Foto</b>\",\"Fotografar uma planilha de controle de estoque preenchida pelos grupos, para analisar erros recorrentes no registro de entradas e saídas.<br>\"],[\"<b>Vídeo</b>\",\"Gravar um trecho de uma simulação de entrevista de emprego para observar como os(as) estudantes formularam perguntas e conduziram a interação.<br>\"],[\"<b>Registro das decisões</b>\",\"Anotar: “A atividade de conciliação financeira foi interrompida para retomar a diferença entre receitas e despesas; incluir um exemplo resolvido no próximo roteiro”.<br>\"]]}"
-    },
-    "novo": false
-   },
-   {
-    "tipo": "dica",
-    "texto": "<h3><font color=\"#f04770\" style=\"\">Organize seus Registros\n</font></h3>\n<br>Mantenha seus registros sempre organizados! Nomeie arquivos de fotos, áudios e notas com o padrão Turma_Data_Atividade (ex.: ADM1_05Out_Estoque) e salve-os em pastas separadas por turma, para consulta rápida antes dos próximos planejamentos.<br>",
-    "novo": false
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "cards_icones_setas",
-    "infograficoData": {
-     "titulo": "",
-     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Luz%20ideia.png\",\"titulo\":\"1. Mapeamento de evidências reais\",\"texto\":\"O registro contínuo durante simulações administrativas, como o atendimento ao(à) cliente ou a elaboração de folhas de pagamento, revela padrões claros sobre as principais dúvidas conceituais e operacionais das turmas.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Lupa.png\",\"titulo\":\"2. Análise crítica da ação docente\",\"texto\":\"Permite a você revisar suas próprias estratégias, avaliando se a orientação inicial foi suficiente, se o tempo dedicado à demonstração prática foi adequado e de que maneira suas intervenções diretas influenciaram os resultados obtidos. O áudio da simulação de atendimento, por exemplo, pode mostrar que o fluxo foi apresentado rápido demais.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Caderno.png\",\"titulo\":\"3. Replanejamento intencional\",\"texto\":\"Transforma as evidências em decisões pedagógicas para as aulas seguintes. Você ajusta o ritmo, reestrutura os roteiros práticos e reorganiza as explicações e o acompanhamento da turma.&nbsp;<br>\"}]"
-    },
-    "novo": false
-   }
-  ],
-  "conclusao": {
-   "titulo": "Transformar Registros em Aprendizagem Docente ",
-   "texto": "Registrar a aula prática não é acumular burocracia, mas criar condições para revisitar, interpretar e aprimorar a sua prática. \n<br>\n<br>Ao retomar anotações e mídias das simulações, você identifica avanços e dificuldades dos(as) estudantes e aprimora suas intervenções. \n<br>\n<br>Assim, cada evidência coletada se converte em oportunidade de aprendizagem e de melhoria da sua prática profissional.&nbsp;<br>[TOMENOTA1]<br>[DICA1]",
-   "blocos": [
-    {
-     "tipo": "tomenota",
-     "texto": "O registro de evidências deve ser simples e imediato. Não busque relatórios longos: anotações pontuais em fichas de observação ou fotos do resultado da prática são suficientes para orientar suas futuras devolutivas.<br>",
-     "novo": false
-    },
-    {
-     "tipo": "dica",
-     "texto": "Durante uma simulação de rotina administrativa, utilize uma rubrica simplificada para registrar dificuldades, avanços e o nível de autonomia de cada equipe. Retome essas evidências após a aula para planejar intervenções e aprimorar as próximas práticas.<br>",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27458"
- }
+ "quando": "2026-11-04T16:28:33.412Z",
+ "autor": "Teste",
+ "dados": {}
 }
