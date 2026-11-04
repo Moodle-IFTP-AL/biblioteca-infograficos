@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-11-04T17:14:54.871Z",
+ "quando": "2026-11-04T17:47:57.710Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -56,7 +56,7 @@
     "infograficoTipo": "cards_icones_setas",
     "infograficoData": {
      "titulo": "",
-     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Mundo%20pin.png\",\"titulo\":\"<b>1. Situação Concreta</b>\",\"texto\":\"Problema do território ou desafio do mundo do trabalho.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Caderno.png\",\"titulo\":\"<b>2. Formação Técnica</b>\",\"texto\":\"Procedimentos, tecnologias e práticas profissionais.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Luz%20ideia.png\",\"titulo\":\"3. Projeto Técnico\",\"texto\":\"<font color=\\\"#ffffff\\\">Investigação → Análise → Tomada de decisões → Produção ou proposta de solução.&nbsp;</font><br>\",\"corFundo\":\"#f04770\",\"corTitulo\":\"#ffffff\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Alvo.png\",\"titulo\":\"4. Resultado\",\"texto\":\"<font color=\\\"#ffffff\\\">Conhecimentos articulados e aprendizagens contextualizadas.&nbsp;&nbsp;</font><br>\",\"corFundo\":\"#0a3442\"}]"
+     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Mundo%20pin.png\",\"titulo\":\"<b>1. Situação Concreta</b>\",\"texto\":\"Problema do território ou desafio do mundo do trabalho.&nbsp;<br>\",\"corFundo\":\"#beeffc\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Caderno.png\",\"titulo\":\"<b>2. Formação Técnica</b>\",\"texto\":\"Procedimentos, tecnologias e práticas profissionais.&nbsp;<br>\",\"corFundo\":\"#f0fdf4\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Luz%20ideia.png\",\"titulo\":\"<font color=\\\"#0a3442\\\">3. Projeto Técnico</font>\",\"texto\":\"Investigação → Análise → Tomada de decisões → Produção ou proposta de solução.<br>\",\"corFundo\":\"#fdf0f3\",\"corTitulo\":\"#0a3442\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Alvo.png\",\"titulo\":\"<font color=\\\"#0a3442\\\">4. Resultado</font>\",\"texto\":\"Conhecimentos articulados e aprendizagens contextualizadas.<br>\",\"corFundo\":\"#fefce8\",\"corTitulo\":\"#0a3442\"}]"
     },
     "novo": true
    }
