@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-04T17:40:05.132Z",
+ "quando": "2026-11-04T17:40:29.118Z",
  "autor": "Eduarda",
  "dados": {
   "agoraSuaVez": {
@@ -83,6 +83,7 @@
    "texto": "Avaliar um Projeto Integrado exige relacionar objetivos, critérios, evidências do percurso e produtos finais. Essa análise permite reconhecer aprendizagens, identificar dificuldades e refletir sobre as práticas pedagógicas.<br><br>No próximo HTPC, compartilhe suas reflexões com os(as) demais docentes para analisar os resultados e definir possíveis ajustes.<br><br><b><font color=\"#f04770\">Antes do encontro, reflita:</font></b><br><ul><li>Quais aprendizagens foram demonstradas pelas evidências?<br></li><li>O que a análise do processo e do produto final revelou sobre os avanços e as dificuldades?<br></li><li>Quais estratégias devem ser mantidas ou aprimoradas?<br></li></ul>Leve essas reflexões para o HTPC e utilize-as como ponto de partida para a análise coletiva.<br>",
    "blocos": []
   },
-  "tipoBotao": "avancar"
+  "tipoBotao": "bibliografia",
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29155"
  }
 }
