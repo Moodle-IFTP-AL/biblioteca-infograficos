@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-11-04T16:47:22.376Z",
+ "quando": "2026-11-04T16:48:08.736Z",
  "autor": "Eduarda",
  "dados": {
   "atividades": [],
@@ -10,6 +10,13 @@
     "tipo": "h5p",
     "texto": "",
     "titulo": "Atividade 1",
+    "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31749\" width=\"1237\" height=\"763\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M3-U08-APLI-STP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
+    "novo": false
+   },
+   {
+    "tipo": "h5p",
+    "texto": "",
+    "titulo": "Atividade 2",
     "incorporacao": "",
     "novo": true
    }
@@ -17,7 +24,7 @@
   "campos": {
    "objetivo": "Aplicar estratégias de registro e análise de evidências da execução para identificar possibilidades de aprimoramento da prática docente.<br>",
    "titulo": "<b>Da Observação Prática à Transformação da Aula</b><br>",
-   "conteudo": "<br>",
+   "conteudo": "Agora, você vai aplicar o que viu a situações de aula prática.<br><br>Na primeira atividade, vai organizar as etapas de um ciclo de registro numa aula de fluxo de caixa.<br><br>Na segunda, vai olhar para a sua própria prática, escolher uma situação que merece ser registrada e pensar em como usar esse registro.<br><br>Nas duas, observe como uma evidência bem aproveitada orienta intervenções futuras.<br>[H5P1]<br><br>",
    "reflexao": ""
   }
  }
