@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Agro Sustentável",
- "quando": "2026-11-04T18:20:39.410Z",
+ "quando": "2026-11-04T18:21:31.651Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -37,6 +37,16 @@
     "tipo": "dica",
     "texto": "<b>Organize seus Registros</b><br><br>Nomeie os registros com turma, data e atividade, como “AgroA_15-09_Compostagem”. Organize fotos, áudios, vídeos e anotações em pastas para facilitar a consulta e utilizar essas evidências no planejamento das próximas práticas.<br>",
     "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "cards_icones_setas",
+    "infograficoData": {
+     "titulo": "",
+     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Luz%20ideia.png\",\"titulo\":\"1. Mapeamento de evidências reais\",\"texto\":\"O registro contínuo durante simulações administrativas, como o atendimento ao(à) cliente ou a elaboração de folhas de pagamento, revela padrões claros sobre as principais dúvidas conceituais e operacionais das turmas.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Lupa.png\",\"titulo\":\"2. Análise crítica da ação docente\",\"texto\":\"Permite a você revisar suas próprias estratégias, avaliando se a orientação inicial foi suficiente, se o tempo dedicado à demonstração prática foi adequado e de que maneira suas intervenções diretas influenciaram os resultados obtidos. O áudio da simulação de atendimento, por exemplo, pode mostrar que o fluxo foi apresentado rápido demais.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Caderno.png\",\"titulo\":\"3. Replanejamento intencional\",\"texto\":\"Transforma as evidências em decisões pedagógicas para as aulas seguintes. Você ajusta o ritmo, reestrutura os roteiros práticos e reorganiza as explicações e o acompanhamento da turma.&nbsp;<br>\"}]"
+    },
+    "novo": true
    }
   ]
  }
