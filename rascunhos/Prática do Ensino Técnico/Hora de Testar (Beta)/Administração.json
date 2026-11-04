@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-11-04T18:11:00.001Z",
+ "quando": "2026-11-04T18:11:07.333Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -9,6 +9,14 @@
    "titulo": "<b>Sua vez de analisar</b><br>",
    "conteudo": "Chegou o momento de consolidar seus conhecimentos!<br><br>Selecione uma prática técnica de Administração que já realizou e analise o que aconteceu durante a aula para fortalecer seu planejamento pedagógico.<br>",
    "reflexao": ""
-  }
+  },
+  "atividades": [
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31751\" width=\"1237\" height=\"573\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M4-U01-APLI-DOC\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   },
+   {
+    "iframe": ""
+   }
+  ]
  }
 }
