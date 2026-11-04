@@ -1,15 +1,15 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Comunicação e Mercado",
- "quando": "2026-11-04T18:27:45.272Z",
+ "quando": "2026-11-04T18:29:27.885Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Duração da Aula: </b>30 minutos.<br><b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Registro técnico e melhoria da prática.<br><b>Conteúdos:</b><br><ul><li>Registro das etapas, decisões e ajustes.<br></li><li>Evidências do processo técnico.<br></li><li>Uso do registro para aperfeiçoamento da prática.<br></li></ul><b>Objetivo da Aula:&nbsp;</b><br>Registrar e utilizar evidências da execução para aprimorar práticas futuras.<br>",
    "objetivo": "Identificar formas de registrar evidências da prática e como elas apoiam a análise do desenvolvimento dos(as) estudantes e o aprimoramento das intervenções pedagógicas.<br>",
    "titulo": "<b>Registrar para Analisar e Aprimorar</b><br>",
-   "conteudo": "<b>O que a Prática Revela?&nbsp;</b><br><br>Acompanhar uma atividade prática exige atenção constante às criações, aos atendimentos e às decisões técnicas dos(as) estudantes.<br><br>Em meio à mediação de simulações de briefing e ao suporte no uso de softwares visuais, dados valiosos sobre o processo de aprendizagem podem se perder se não forem registrados a tempo.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">O Registro como Espelho da Prática&nbsp;</font></b></h3><br>O registro técnico atua como um espelho da prática docente.<br><br>Ao anotar escolhas metodológicas, dificuldades recorrentes na coleta de dados ou ajustes no tempo de produção, você identifica, posteriormente, o que passou despercebido durante a aula.<br><br>Essa documentação revela como as intervenções pedagógicas impactaram o desenvolvimento dos(as) estudantes, fornecendo base concreta para:<br><ul><li>avaliar resultados;<br></li><li>planejar devolutivas formativas;<br></li><li>aprimorar as próximas aulas práticas.</li></ul><h3><b><font color=\"#f04770\">Como Registrar Evidências na Prática</font></b></h3><br>Confira exemplos de registros simples que ajudam a identificar dificuldades, avanços e ajustes necessários durante as atividades práticas.<br><br>",
-   "conectando": ""
+   "conteudo": "<b>O que a Prática Revela?&nbsp;</b><br><br>Acompanhar uma atividade prática exige atenção constante às criações, aos atendimentos e às decisões técnicas dos(as) estudantes.<br><br>Em meio à mediação de simulações de briefing e ao suporte no uso de softwares visuais, dados valiosos sobre o processo de aprendizagem podem se perder se não forem registrados a tempo.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">O Registro como Espelho da Prática&nbsp;</font></b></h3><br>O registro técnico atua como um espelho da prática docente.<br><br>Ao anotar escolhas metodológicas, dificuldades recorrentes na coleta de dados ou ajustes no tempo de produção, você identifica, posteriormente, o que passou despercebido durante a aula.<br><br>Essa documentação revela como as intervenções pedagógicas impactaram o desenvolvimento dos(as) estudantes, fornecendo base concreta para:<br><ul><li>avaliar resultados;<br></li><li>planejar devolutivas formativas;<br></li><li>aprimorar as próximas aulas práticas.</li></ul><h3><b><font color=\"#f04770\">Como Registrar Evidências na Prática</font></b></h3><br>Confira exemplos de registros simples que ajudam a identificar dificuldades, avanços e ajustes necessários durante as atividades práticas.<br>[INFOGRAFICO1]<br>[DICA1]<br><h3><b><font color=\"#f04770\">O Ciclo de Aprimoramento da Prática</font></b></h3><br>Veja como os registros ajudam a identificar dificuldades, avaliar intervenções e aprimorar as próximas aulas.<br>[INFOGRAFICO2]",
+   "conectando": "Na próxima etapa, você colocará esses conceitos em ação, organizando e aplicando o ciclo de registros na sua prática!<br>"
   },
   "blocos": [
    {
@@ -29,8 +29,39 @@
     "infograficoData": {
      "tabela": "{\"titulo\":\"\",\"subtitulo\":\"\",\"colunas\":[\"<b>Tipo de registro</b>\",\"<b>Exemplo de uso</b>\"],\"linhas\":[[\"<b>Anotação breve</b>\",\"Em Marketing, anote: “De 5 grupos, 3 definiram a persona sem relacioná-la ao público-alvo. Retomar essa relação na próxima aula”.\"],[\"<b>Áudio</b>\",\"Gravar 30 segundos de áudio ao final da oficina, destacando como o uso do mapa mental facilitou a ideação dos(as) estudantes.\"],[\"<b>Foto</b>\",\"Em Publicidade, fotografe os painéis de referências visuais dos grupos para comparar as escolhas criativas.\"],[\"<b>Vídeo</b>\",\"Grave um trecho de até 1 minuto da apresentação de uma campanha publicitária. Depois, observe se os argumentos e a mensagem foram apresentados com clareza.\"],[\"<b>Registro das decisões</b>\",\"Em Comércio, anote: “Incluí uma demonstração de abordagem ao(à) cliente antes da simulação porque vários(as) estudantes tiveram dificuldade para iniciar o atendimento. Verificar se houve melhora na próxima aula”.\"]]}"
     },
-    "novo": true
+    "novo": false
+   },
+   {
+    "tipo": "dica",
+    "texto": "<b>Organize para Retomar e Planejar&nbsp;</b><br><br>Organize os registros em pastas por turma e identifique fotos, áudios e notas com data e atividade (ex.: 2026_TurmaA_Briefing_Foto01). Assim, você consegue retomá-los para comparar resultados e planejar as próximas aulas.<br>",
+    "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "cards_icones_setas",
+    "infograficoData": {
+     "titulo": "",
+     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Luz%20ideia.png\",\"titulo\":\"1. Identificação de evidências\",\"texto\":\"Registros simples durante a aula prática revelam como os(as) estudantes interpretam conceitos de briefing, organizam dados em planilhas ou constroem diagnósticos de comunicação. Você identifica com clareza quais etapas geraram dúvidas recorrentes ou avanços significativos na aprendizagem.&nbsp; &nbsp;&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Lupa.png\",\"titulo\":\"2. Análise das intervenções\",\"texto\":\"A revisão de notas, áudios e imagens permite analisar se as instruções prévias foram claras, se o tempo estimado foi suficiente e de que maneira os seus questionamentos orientaram as decisões criativas dos(as) estudantes.&nbsp; &nbsp;&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Caderno.png\",\"titulo\":\"3. Ajuste e qualificação futura\",\"texto\":\"As evidências coletadas embasam mudanças concretas no planejamento das próximas aulas, desde a reformulação de roteiros pedagógicos até a inserção de novas demonstrações práticas e devolutivas mais claras.&nbsp;<br>\"}]"
+    },
+    "novo": false
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Registrar para Aprimorar a Prática ",
+   "texto": "Registrar a aula não é um mero ato burocrático, mas uma oportunidade contínua de investigação pedagógica.<br><br>Ao documentar decisões, dificuldades e criações, você transforma evidências cotidianas em insumos para interpretar o desempenho da turma e aperfeiçoar sua atuação profissional.<br><br>Assim, cada registro se torna oportunidade de aprendizagem e de melhoria da sua prática.<br>[TOMENOTA1]<br>[DICA1]",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "O registro só contribui para o aprimoramento quando é analisado e retomado. Use as evidências para identificar dificuldades recorrentes, avaliar suas intervenções e definir ajustes no planejamento das próximas aulas.<br>",
+     "novo": false
+    },
+    {
+     "tipo": "dica",
+     "texto": "Ao final de uma simulação de briefing, peça que cada dupla anote qual informação do cliente foi mais difícil de obter. Compare as respostas com suas observações para identificar dúvidas recorrentes e planejar orientações mais direcionadas.<br>",
+     "novo": false
+    }
+   ]
+  }
  }
 }
