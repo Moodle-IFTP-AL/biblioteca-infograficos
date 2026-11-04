@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-11-04T16:48:08.736Z",
+ "quando": "2026-11-04T16:48:51.915Z",
  "autor": "Eduarda",
  "dados": {
   "atividades": [],
@@ -17,15 +17,36 @@
     "tipo": "h5p",
     "texto": "",
     "titulo": "Atividade 2",
-    "incorporacao": "",
-    "novo": true
+    "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31748\" width=\"1237\" height=\"483\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M3-U08-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
+    "novo": false
    }
   ],
   "campos": {
    "objetivo": "Aplicar estratégias de registro e análise de evidências da execução para identificar possibilidades de aprimoramento da prática docente.<br>",
    "titulo": "<b>Da Observação Prática à Transformação da Aula</b><br>",
-   "conteudo": "Agora, você vai aplicar o que viu a situações de aula prática.<br><br>Na primeira atividade, vai organizar as etapas de um ciclo de registro numa aula de fluxo de caixa.<br><br>Na segunda, vai olhar para a sua própria prática, escolher uma situação que merece ser registrada e pensar em como usar esse registro.<br><br>Nas duas, observe como uma evidência bem aproveitada orienta intervenções futuras.<br>[H5P1]<br><br>",
+   "conteudo": "Agora, você vai aplicar o que viu a situações de aula prática.<br><br>Na primeira atividade, vai organizar as etapas de um ciclo de registro numa aula de fluxo de caixa.<br><br>Na segunda, vai olhar para a sua própria prática, escolher uma situação que merece ser registrada e pensar em como usar esse registro.<br><br>Nas duas, observe como uma evidência bem aproveitada orienta intervenções futuras.<br>[H5P1]<br>[H5P2]<br><h3><b><font color=\"#f04770\">Registrar só Faz Sentido Quando Gera Ação</font></b></h3><br>Você percorreu o ciclo completo: execução, registro, retomada, análise e ajuste. O valor do registro está em interpretar as evidências e usá-las para decidir. Na segunda atividade, não há resposta única: registre a situação escolhida na próxima aula e retome o registro antes de planejar a seguinte.<br><br>",
    "reflexao": ""
+  },
+  "conclusao": {
+   "titulo": "Observar, Registrar, Analisar e Ajustar",
+   "texto": "Nesta aula, você viu a força do registro como hábito docente.<br><br>Observar a execução das atividades práticas, registrar evidências de forma ágil, analisar os resultados e ajustar a mediação formam um ciclo contínuo, que revela aspectos que passariam despercebidos durante a aula.<br><br>Ao adotar esse ciclo, você transforma desafios de sala em aprendizado docente, garantindo devolutivas cada vez mais alinhadas ao desenvolvimento dos(as) seus(suas) estudantes.<br>",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "Acesse a aula abaixo para consolidar seus conhecimentos e dar continuidade à aprendizagem, refletindo sobre como transformar registros em instrumentos de melhoria:<br>",
+     "idRevisar": "mw2ctdnwsplj8e",
+     "itensRevisar": [
+      {
+       "id": "mw2ctfuhe867py",
+       "texto": "Módulo 1 - Unidade 7 -&nbsp; Avaliação Técnica e Devolutivas Formativas.<br>",
+       "link": ""
+      }
+     ],
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": true
+    }
+   ]
   }
  }
 }
