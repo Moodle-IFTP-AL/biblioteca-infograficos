@@ -1,15 +1,15 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Agro Sustentável",
- "quando": "2026-11-04T18:21:31.651Z",
+ "quando": "2026-11-04T18:22:14.749Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Duração da Aula: </b>30 minutos.<br><b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Registro técnico e melhoria da prática.<br><b>Conteúdos:</b><br><ul><li>Registro das etapas, decisões e ajustes.<br></li><li>Evidências do processo técnico.<br></li><li>Uso do registro para aperfeiçoamento da prática.<br></li></ul><b>Objetivo da Aula:&nbsp;</b><br>Registrar e utilizar evidências da execução para aprimorar práticas futuras.<br>",
    "objetivo": "Identificar formas de registrar evidências da prática e como elas apoiam a análise do desenvolvimento dos(as) estudantes e o aprimoramento das intervenções pedagógicas.<br>",
    "titulo": "<b>Registrar para Analisar e Aprimorar</b><br>",
-   "conteudo": "<b>Quando a Prática Deixa Aprendizados pelo Caminho</b><br><br>Durante uma prática de campo ou de processamento de alimentos, você precisa acompanhar os(as) estudantes, garantir a segurança e conduzir procedimentos, o que torna difícil registrar cada evidência.<br><br>Sem anotações, fotos ou áudios breves, detalhes sobre dificuldades, avanços e ajustes podem se perder após a aula, limitando a análise e o planejamento futuro.<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">O Registro como Espelho da Prática&nbsp;</font></b></h3><br>O registro técnico funciona como um espelho da prática.<br><br>Ao documentar etapas, decisões, dificuldades e ajustes de uma oficina, você pode revisitar a experiência e analisar como suas intervenções influenciaram o desenvolvimento dos(as) estudantes.<br><br>Se três grupos pediram ajuda na mesma etapa do preparo da polpa de fruta, por exemplo, o registro mostra que não era uma dúvida isolada, mas um sinal de que a&nbsp; explicação inicial pode precisar mudar.<br><br><h3><b><font color=\"#f04770\">Formas Simples de Registrar a Prática<br><br></font></b></h3>Confira exemplos de registros que podem ser utilizados e adapte-os à sua realidade para documentar dificuldades, avanços e decisões pedagógicas durante as atividades práticas.<br>[INFOGRAFICO1]<br>[DICA1]<br><h3><b><font color=\"#f04770\">Do Registro à Melhoria da Prática&nbsp;<br><br></font></b></h3>Veja como os registros ajudam a identificar avanços, reconhecer dificuldades e aprimorar as próximas práticas.<br><br>",
-   "conectando": ""
+   "conteudo": "<b>Quando a Prática Deixa Aprendizados pelo Caminho</b><br><br>Durante uma prática de campo ou de processamento de alimentos, você precisa acompanhar os(as) estudantes, garantir a segurança e conduzir procedimentos, o que torna difícil registrar cada evidência.<br><br>Sem anotações, fotos ou áudios breves, detalhes sobre dificuldades, avanços e ajustes podem se perder após a aula, limitando a análise e o planejamento futuro.<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">O Registro como Espelho da Prática&nbsp;</font></b></h3><br>O registro técnico funciona como um espelho da prática.<br><br>Ao documentar etapas, decisões, dificuldades e ajustes de uma oficina, você pode revisitar a experiência e analisar como suas intervenções influenciaram o desenvolvimento dos(as) estudantes.<br><br>Se três grupos pediram ajuda na mesma etapa do preparo da polpa de fruta, por exemplo, o registro mostra que não era uma dúvida isolada, mas um sinal de que a&nbsp; explicação inicial pode precisar mudar.<br><br><h3><b><font color=\"#f04770\">Formas Simples de Registrar a Prática<br><br></font></b></h3>Confira exemplos de registros que podem ser utilizados e adapte-os à sua realidade para documentar dificuldades, avanços e decisões pedagógicas durante as atividades práticas.<br>[INFOGRAFICO1]<br>[DICA1]<br><h3><b><font color=\"#f04770\">Do Registro à Melhoria da Prática&nbsp;<br><br></font></b></h3>Veja como os registros ajudam a identificar avanços, reconhecer dificuldades e aprimorar as próximas práticas.<br>[INFOGRAFICO2]",
+   "conectando": "Na próxima etapa, você organizará um ciclo de registro e indicará como ele pode orientar melhorias futuras.<br>"
   },
   "blocos": [
    {
@@ -44,10 +44,26 @@
     "infograficoTipo": "cards_icones_setas",
     "infograficoData": {
      "titulo": "",
-     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Luz%20ideia.png\",\"titulo\":\"1. Mapeamento de evidências reais\",\"texto\":\"O registro contínuo durante simulações administrativas, como o atendimento ao(à) cliente ou a elaboração de folhas de pagamento, revela padrões claros sobre as principais dúvidas conceituais e operacionais das turmas.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Lupa.png\",\"titulo\":\"2. Análise crítica da ação docente\",\"texto\":\"Permite a você revisar suas próprias estratégias, avaliando se a orientação inicial foi suficiente, se o tempo dedicado à demonstração prática foi adequado e de que maneira suas intervenções diretas influenciaram os resultados obtidos. O áudio da simulação de atendimento, por exemplo, pode mostrar que o fluxo foi apresentado rápido demais.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Caderno.png\",\"titulo\":\"3. Replanejamento intencional\",\"texto\":\"Transforma as evidências em decisões pedagógicas para as aulas seguintes. Você ajusta o ritmo, reestrutura os roteiros práticos e reorganiza as explicações e o acompanhamento da turma.&nbsp;<br>\"}]"
+     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Luz%20ideia.png\",\"titulo\":\"1. Reconhecer evidências da aprendizagem\",\"texto\":\"Os registros ajudam a identificar avanços, dúvidas e dificuldades durante práticas como preparo de bioinsumos, compostagem ou manejo de canteiros. Também revelam como os grupos executaram os procedimentos, colaboraram e aplicaram os conhecimentos técnicos.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Lupa.png\",\"titulo\":\"2. Analisar a condução da prática\",\"texto\":\"Ao revisar anotações, imagens ou áudios, você pode examinar as etapas realizadas, as decisões tomadas e suas próprias intervenções. Assim, identifica quais explicações, demonstrações e formas de acompanhamento favoreceram a aprendizagem e quais precisam ser aprimoradas. O vídeo da sua demonstração do pulverizador, por exemplo, pode revelar uma etapa mostrada rápido demais.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Caderno.png\",\"titulo\":\"3. Orientar mudanças futuras\",\"texto\":\"As evidências permitem ajustar a próxima prática, como retomar um procedimento, modificar a demonstração, reorganizar os grupos, ampliar o tempo de uma etapa ou acompanhar mais atentamente determinados(as) estudantes. O registro transforma a experiência vivida em referência para novas decisões pedagógicas.&nbsp;<br>\"}]"
     },
-    "novo": true
+    "novo": false
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Registrar para Transformar a Prática ",
+   "texto": "Registrar não significa apenas guardar informações sobre a aula. Significa criar condições para:<br><ul><li>revisitar a experiência;<br></li><li>interpretar o desenvolvimento dos(as) estudantes;<br></li><li>avaliar a sua própria condução da prática.</li></ul>A anotação sobre a diluição do bioinsumo, o áudio sobre a composteira e a foto dos canteiros podem revelar avanços, dificuldades e decisões importantes.<br><br>Desse modo, cada registro transforma-se em oportunidade de aprendizagem e em aprimoramento da prática profissional docente.<br>[TOMENOTA1]<br>[DICA1]",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "Um registro torna-se útil quando apresenta informações que permitem compreender o que aconteceu, porque determinada decisão foi tomada e quais resultados foram observados.<br>",
+     "novo": false
+    },
+    {
+     "tipo": "dica",
+     "texto": "Tenha um caderninho ou use o bloco de notas do celular para registrar, logo após a prática, um avanço, uma dificuldade, a intervenção realizada e um ajuste para a próxima aula. Anotações rápidas ajudam a transformar a experiência em melhoria.<br>",
+     "novo": false
+    }
+   ]
+  }
  }
 }
