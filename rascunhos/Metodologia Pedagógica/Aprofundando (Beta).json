@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-11-04T17:13:43.554Z",
+ "quando": "2026-11-04T17:14:54.871Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -56,9 +56,9 @@
     "infograficoTipo": "cards_icones_setas",
     "infograficoData": {
      "titulo": "",
-     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Mundo%20pin.png\",\"titulo\":\"<b>1. Situação Concreta</b>\",\"texto\":\"Problema do território ou desafio do mundo do trabalho.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Caderno.png\",\"titulo\":\"<b>2. Formação Técnica</b>\",\"texto\":\"Procedimentos, tecnologias e práticas profissionais.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Luz%20ideia.png\",\"titulo\":\"3. Projeto Técnico\",\"texto\":\"Investigação → Análise → Tomada de decisões → Produção ou proposta de solução.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Alvo.png\",\"titulo\":\"4. Resultado\",\"texto\":\"<font color=\\\"#ffffff\\\">Conhecimentos articulados e aprendizagens contextualizadas.&nbsp;&nbsp;</font><br>\"}]"
+     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Mundo%20pin.png\",\"titulo\":\"<b>1. Situação Concreta</b>\",\"texto\":\"Problema do território ou desafio do mundo do trabalho.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Caderno.png\",\"titulo\":\"<b>2. Formação Técnica</b>\",\"texto\":\"Procedimentos, tecnologias e práticas profissionais.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Luz%20ideia.png\",\"titulo\":\"3. Projeto Técnico\",\"texto\":\"<font color=\\\"#ffffff\\\">Investigação → Análise → Tomada de decisões → Produção ou proposta de solução.&nbsp;</font><br>\",\"corFundo\":\"#f04770\",\"corTitulo\":\"#ffffff\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Alvo.png\",\"titulo\":\"4. Resultado\",\"texto\":\"<font color=\\\"#ffffff\\\">Conhecimentos articulados e aprendizagens contextualizadas.&nbsp;&nbsp;</font><br>\",\"corFundo\":\"#0a3442\"}]"
     },
-    "novo": false
+    "novo": true
    }
   ],
   "conclusao": {
@@ -72,10 +72,11 @@
     },
     {
      "tipo": "dica",
-     "texto": "Ao planejar, escolha uma situação do território e pergunte: quais conhecimentos da Formação Geral Básica ajudam a compreendê-la? Quais conhecimentos e procedimentos da Formação Técnica contribuem para investigá-la ou enfrentá-la? Use as respostas para identificar possibilidades de integração.<br>",
-     "novo": false
+     "texto": "Ao planejar, escolha uma situação do território e pergunte: quais conhecimentos da Formação Geral Básica ajudam a compreendê-la? Quais conhecimentos e procedimentos da Formação Técnica contribuem para investigá-la ou enfrentá-la? Use as respostas para identificar possibilidades de integração.\n<br>\n<br>",
+     "novo": true
     }
    ]
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29142"
  }
 }
