@@ -1,59 +1,39 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-10-26T16:31:44.941Z",
- "autor": "Teste",
+ "quando": "2026-11-04T17:04:54.956Z",
+ "autor": "Eduarda",
  "dados": {
   "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>2 -</b> Avaliar a aprendizagem por competências, a partir de evidências das práticas pedagógicas e técnicas desenvolvidas pelos(as) estudantes, considerando a mobilização de conhecimentos gerais no contexto da Educação Profissional e Tecnológica, para orientar o planejamento e o replanejamento das aulas e o desenvolvimento dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>2.3 - </b>Utilizar os resultados da avaliação para replanejar aulas, ajustar estratégias e orientar o desenvolvimento dos(as) estudantes.<br><b>Objeto do Conhecimento:</b><br>Replanejamento a partir de registros e evidências.<br><b>Conteúdos:</b><br><ul><li>Uso dos registros para ajustar a próxima aula.<br></li><li>Replanejamento de estratégias, tempos e apoios.<br></li><li>Priorização de dificuldades recorrentes.<br></li><li>Continuidade do acompanhamento da aprendizagem.<br></li></ul><b>Objetivo:&nbsp;</b><br>Analisar registros e evidências de aprendizagem para priorizar dificuldades, replanejar aulas e acompanhar os efeitos dos ajustes realizados.<br><br>",
-   "objetivo": "Priorizar uma dificuldade de aprendizagem com base em registros e evidências de práticas técnicas colaborativas, justificando a escolha para orientar o replanejamento da próxima aula.<br><br>",
-   "titulo": "<b>Dos Registros às Decisões da Próxima Aula</b><br><br>",
-   "conteudo": "Na aula anterior, você planejou uma intervenção com base nas evidências observadas em uma prática técnica.<br><br>Agora, o desafio é analisar os registros, reconhecer avanços e dificuldades e decidir o que precisa ser retomado ou ajustado na próxima aula.<br><br><h3><font color=\"#f04770\"><b>Como Priorizar as Dificuldades?</b><br></font></h3><p>Nem todas as dificuldades precisam ser trabalhadas ao mesmo tempo. Para definir qual delas será priorizada, considere:</p><p><br></p><p>[INFOGRAFICO1]</p><p><br></p><p>Esses critérios ajudam a comparar as dificuldades, selecionar a necessidade mais relevante e orientar os ajustes da próxima aula.<br><br>[VIDEO1]<br><br></p><p><b><font color=\"#f04770\">Da Evidência ao Replanejamento&nbsp;&nbsp;</font></b><br>Em uma prática colaborativa de recebimento e armazenamento, os grupos deveriam conferir produtos e preencher uma ficha de controle. Os registros mostraram que quatro dos cinco grupos anotaram as quantidades, mas não verificaram lote e validade. Com base nos critérios de priorização, o(a) professor(a) decidiu retomar esse procedimento e ajustar a próxima aula.<br><br></p><p>[INFOGRAFICO2]</p><p><br></p><p><br></p>",
-   "conectando": "Agora, você analisará uma situação de prática técnica, escolherá uma dificuldade prioritária e elaborará ajustes para a aula seguinte, justificando suas decisões com base nas evidências.<br>"
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>1 - </b>Planejar e estruturar práticas de aprendizagem participativas e contextualizadas, mobilizando conhecimentos da Formação Geral Básica no contexto da Educação Profissional e Tecnológica, por meio da seleção de metodologias, conteúdos e estratégias pedagógicas alinhadas ao perfil da turma, às competências técnicas e às demandas do mundo do trabalho.<br><b>Habilidade:&nbsp;</b><br><b>1.2 - </b>Selecionar e estruturar metodologias participativas (MRP, ABP, situações-problema), articulando conhecimentos da Formação Geral Básica e da área técnica, de acordo com os objetivos de aprendizagem.<br><b>Objetos do Conhecimento:</b><br>Integração curricular na Educação Profissional e Técnica.<br><b>Conteúdos:</b><br><ul><li>Integração entre Formação Geral Básica e Formação Técnica.<br></li><li>Relação entre currículo, território e mundo do trabalho.<br></li><li>Projetos técnicos como estratégia de articulação curricular.<br></li></ul><b>Objetivo:&nbsp;</b><br>Identificar possibilidades de integração entre Formação Geral Básica e Formação Técnica, considerando o currículo, o território e as demandas do mundo do trabalho.<br>",
+   "objetivo": "Relacionar elementos do currículo, do território e do mundo do trabalho às possibilidades de integração entre Formação Geral Básica e Formação Técnica.<br>",
+   "titulo": "<b>Currículo e Formação Técnica em Diálogo</b><br>",
+   "conteudo": "[PERGUNTA1]<br><h3><b><font color=\"#f04770\">Por que Integrar os Conhecimentos?</font>&nbsp;</b></h3><br>Na rotina escolar, nem sempre é simples dar sentido prático aos conhecimentos da Formação Geral Básica (FGB). Muitas vezes, esses conteúdos são trabalhados de forma separada da Formação Técnica, dificultando a compreensão de como contribuem para a formação profissional dos(as) estudantes.<br><br>Articular essas formações significa identificar pontos de conexão entre:<br><ul><li>os conhecimentos;<br></li><li>as características do território;<br></li><li>as situações do mundo do trabalho.</li></ul>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Integração Curricular em Movimento</font></b></h3><br>Para compreender como esses elementos se relacionam, observe o papel do currículo, do território e do mundo do trabalho na construção de aprendizagens contextualizadas e na integração entre a Formação Geral Básica e a Formação Técnica.<br><br>",
+   "conectando": ""
   },
   "blocos": [
    {
-    "tipo": "infografico",
+    "tipo": "pergunta",
     "texto": "",
-    "infograficoTipo": "mapa_radial",
-    "infograficoData": {
-     "mapa": "{\"centro\":\"<b>Priorização&nbsp;</b>\",\"cards\":[{\"frente\":\"<b>Recorrência</b>\",\"verso\":\"A dificuldade aparece em vários(as) estudantes, grupos ou momentos da prática?\"},{\"frente\":\"<b>Impacto</b>\",\"verso\":\"A dificuldadecompromete a atividade ou outras aprendizagens?\"},{\"frente\":\"<b>Urgência</b>\",\"verso\":\"A dificuldade precisa ser resolvida antes que os(as) estudantes avancem para a próxima etapa?\"},{\"frente\":\"<b>Possibilidade de intervenção</b>\",\"verso\":\"É possível realizar uma ação pedagógica considerando o tempo, os recursos e as condições da turma?\",\"corFundo\":\"#f04770\"}]}"
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "Os Conhecimentos Dialogam na sua Prática? ",
+     "texto": "Na sua prática, os conhecimentos da Formação Geral Básica e da Formação Técnica dialogam ou ainda caminham separados?<br>",
+     "videoUrl": "",
+     "iframeH5P": ""
     },
     "novo": false
    },
    {
-    "tipo": "video",
-    "texto": "Assista ao vídeo e acompanhe como analisar registros, priorizar uma dificuldade e definir ajustes concretos para a próxima aula, mantendo o que funcionou e estabelecendo o que observar para avaliar os resultados.",
-    "titulo": "Acompanhe o vídeo abaixo   ",
-    "url": "https://www.youtube.com/watch?v=lioScE3Zmws",
-    "novo": false
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "cards_coloridos",
-    "infograficoData": {
-     "cards": "[{\"titulo\":\"<b>Evidência observada</b>\",\"texto\":\"Quatro dos cinco grupos registraram as quantidades, mas não conferiram lote e validade.<br><br>\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"},{\"titulo\":\"<b>Dificuldade priorizada</b>\",\"texto\":\"Conferência e registro de lote e validade dos produtos.<br><br>\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"},{\"titulo\":\"<b>Justificativa da prioridade&nbsp;</b><br><br>\",\"texto\":\"A dificuldade foi recorrente, compromete a rastreabilidade dos produtos.&nbsp; Precisa ser trabalhada antes de avançar para outras etapas do recebimento e pode ser trabalhada com os recursos disponíveis.<br><br>\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"},{\"titulo\":\"<b>Ajuste na próxima aula&nbsp;</b>\",\"texto\":\"Analisar rótulos, utilizar uma lista de verificação, definir um(a) responsável pela conferência e ampliar o tempo da etapa.<br><br>\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"},{\"titulo\":\"<b>Evidência a acompanhar</b>\",\"texto\":\"Os(as) estudantes conferem e registram corretamente quantidade, lote e validade antes de concluir o recebimento.<br><br>\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"}]"
-    },
-    "novo": false
+    "tipo": "caixadestaque",
+    "texto": "<b>Essa integração não consiste em reunir conteúdos de maneira artificial, mas em mobilizar diferentes saberes para compreender situações, analisar problemas e construir respostas.</b><br>",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#beeffc",
+    "caixaCorBorda": "#79d3f2",
+    "novo": false,
+    "caixaCorTexto": "#0a3442"
    }
-  ],
-  "conclusao": {
-   "titulo": "Em Resumo: o que Levar desta Etapa ",
-   "texto": "<ul><li><b>Analise os registros:</b> identifique os avanços, as dificuldades recorrentes e as necessidades de acompanhamento.<br></li><li><b>Priorize uma dificuldade:</b> considere sua recorrência, seu impacto na aprendizagem, a urgência e as possibilidades de intervenção.<br></li><li><b>Planeje os ajustes:</b> mantenha o que funcionou e defina o que precisa ser alterado nas estratégias, nos recursos, no tempo ou na organização dos grupos.<br></li><li><b>Acompanhe os efeitos:</b> estabeleça quais evidências observar na próxima aula para verificar se os ajustes favoreceram a aprendizagem e decidir os próximos passos.<br></li></ul><br>[TOMENOTA1][DICA1]",
-   "blocos": [
-    {
-     "tipo": "tomenota",
-     "texto": "Priorizar não é escolher automaticamente a dificuldade mais frequente. É comparar recorrência, impacto, urgência e possibilidade de intervenção. A decisão precisa ser sustentada pelos registros e indicar o que será ajustado e observado na próxima aula.<br><br>",
-     "novo": false
-    },
-    {
-     "tipo": "dica",
-     "texto": "Ao planejar a próxima aula, complete: “Os registros mostram que ___. Vou priorizar ___ porque ___. Vou ajustar ___ e observar ___.” Use essa estrutura para conectar as evidências, a decisão pedagógica e o acompanhamento da aprendizagem.",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27404"
+  ]
  }
 }
