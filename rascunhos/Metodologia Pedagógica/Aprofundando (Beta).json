@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-11-04T17:12:54.797Z",
+ "quando": "2026-11-04T17:13:43.554Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -9,7 +9,7 @@
    "objetivo": "Relacionar elementos do currículo, do território e do mundo do trabalho às possibilidades de integração entre Formação Geral Básica e Formação Técnica.<br>",
    "titulo": "<b>Currículo e Formação Técnica em Diálogo</b><br>",
    "conteudo": "[PERGUNTA1]<br><h3><b><font color=\"#f04770\">Por que Integrar os Conhecimentos?</font>&nbsp;</b></h3><br>Na rotina escolar, nem sempre é simples dar sentido prático aos conhecimentos da Formação Geral Básica (FGB). Muitas vezes, esses conteúdos são trabalhados de forma separada da Formação Técnica, dificultando a compreensão de como contribuem para a formação profissional dos(as) estudantes.<br><br>Articular essas formações significa identificar pontos de conexão entre:<br><ul><li>os conhecimentos;<br></li><li>as características do território;<br></li><li>as situações do mundo do trabalho.</li></ul>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Integração Curricular em Movimento</font></b></h3><br>Para compreender como esses elementos se relacionam, observe o papel do currículo, do território e do mundo do trabalho na construção de aprendizagens contextualizadas e na integração entre a Formação Geral Básica e a Formação Técnica.<br>[INFOGRAFICO1]<br>[VIDEO1]<br><h3><b><font color=\"#f04770\">Como Transformar a Integração em Prática?<br><br></font></b></h3>Veja como a articulação entre currículo, território e mundo do trabalho pode se transformar em um projeto técnico, mobilizando diferentes conhecimentos para investigar situações concretas e construir respostas.<br>[INFOGRAFICO2]",
-   "conectando": ""
+   "conectando": "Agora, você vai olhar para sua própria prática e identificar uma possibilidade de integração que possa ser ajustada ou aprimorada.<br>"
   },
   "blocos": [
    {
@@ -60,6 +60,22 @@
     },
     "novo": false
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Da Conexão entre Conhecimentos e Aprendizagem ",
+   "texto": "A integração curricular não exige abandonar o planejamento já construído. Ela começa quando você identifica conexões entre a Formação Geral Básica, a Formação Técnica, o território e o mundo do trabalho.<br><br>Os projetos técnicos podem organizar essas relações em torno de situações concretas, mobilizando diferentes conhecimentos para compreender problemas e construir respostas.<br><br>Com intencionalidade pedagógica, essa articulação aproxima as aprendizagens da realidade dos(as) estudantes e contribui para uma formação profissional contextualizada e significativa.<br>[TOMENOTA1]<br>[DICA1]",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "A integração curricular acontece quando diferentes conhecimentos contribuem intencionalmente para um propósito comum de aprendizagem. Não basta reunir conteúdos: é preciso relacioná-los entre si e ao contexto em que serão mobilizados.<br>",
+     "novo": false
+    },
+    {
+     "tipo": "dica",
+     "texto": "Ao planejar, escolha uma situação do território e pergunte: quais conhecimentos da Formação Geral Básica ajudam a compreendê-la? Quais conhecimentos e procedimentos da Formação Técnica contribuem para investigá-la ou enfrentá-la? Use as respostas para identificar possibilidades de integração.<br>",
+     "novo": false
+    }
+   ]
+  }
  }
 }
