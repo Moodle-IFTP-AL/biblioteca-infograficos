@@ -1,31 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-11-04T16:36:20.482Z",
+ "quando": "2026-11-04T16:36:33.338Z",
  "autor": "Teste",
- "dados": {
-  "atividades": [],
-  "blocos": [
-   {
-    "tipo": "h5p",
-    "texto": "",
-    "titulo": "Atividade 2",
-    "incorporacao": "",
-    "novo": false
-   },
-   {
-    "tipo": "h5p",
-    "texto": "",
-    "titulo": "dsasdasd",
-    "incorporacao": "",
-    "novo": false
-   }
-  ],
-  "campos": {
-   "objetivo": "",
-   "titulo": "",
-   "conteudo": "<span style=\"color: #ffffff;\"><b>[H5P2]</b></span><br>[H5P1]<div><br></div><b>Registrar só Faz Sentido Quando Gera Ação</b><br><br>Você percorreu o ciclo completo: execução, registro, retomada, análise e ajuste. O valor do registro está em interpretar as evidências e usá-las para decidir. Na segunda atividade, não há resposta única: registre a situação escolhida na próxima aula e retome o registro antes de planejar a seguinte.<br><br><div></div>",
-   "reflexao": ""
-  }
- }
+ "dados": {}
 }
