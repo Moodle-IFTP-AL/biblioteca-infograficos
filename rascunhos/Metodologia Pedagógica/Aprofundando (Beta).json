@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-11-05T18:15:41.731Z",
+ "quando": "2026-11-05T18:19:43.820Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -9,7 +9,7 @@
    "objetivo": "Distinguir Projetos Integrados de atividades pontuais, oficinas e sequências didáticas, com base em suas características e em sua função na articulação curricular.<br>",
    "titulo": "<b>O que caracteriza um Projeto Integrado?&nbsp;</b><br>",
    "conteudo": "<h3><b><font color=\"#f04770\">Quando uma atividade não é um Projeto Integrado&nbsp;</font></b></h3><br>Um(a) professor(a) propôs uma inspeção de riscos na oficina, com a entrega de um <i>checklist</i>, para integrar os conhecimentos da Formação Geral Básica e da formação técnica.<br><br>A atividade mobilizou saberes relevantes, mas não envolveu a investigação de um problema comum nem etapas articuladas para a construção de uma resposta.<br><br>Ao rever a proposta, percebeu que uma prática significativa não se torna, automaticamente, um Projeto Integrado.<br>[PERGUNTA1]<br>[VIDEO1]<br><div><h3><font color=\"#f04770\">Quatro formas de organizar a aprendizagem\n<br><br></font></h3>As diferentes estratégias didáticas atendem a objetivos distintos. Compare suas características e observe como cada uma pode contribuir para a aprendizagem na educação profissional.&nbsp;&nbsp;<br>[INFOGRAFICO1]</div>",
-   "conectando": ""
+   "conectando": "Agora, aplique os critérios estudados a situações da educação profissional, diferencie as estratégias didáticas e identifique quais elementos caracterizam um Projeto Integrado.<br>"
   },
   "blocos": [
    {
@@ -40,6 +40,22 @@
     },
     "novo": false
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Escolher a organização adequada à aprendizagem ",
+   "texto": "Atividades pontuais, oficinas e sequências didáticas têm finalidades próprias e podem compor experiências relevantes.<br><br>O Projeto Integrado se diferencia por articular conhecimentos da Formação Geral Básica e da formação técnica em torno de um problema ou propósito comum, organizando etapas que contribuem para a construção de uma resposta contextualizada.<br><br><b><font color=\"#f04770\">Não são a duração nem a quantidade de tarefas que definem um projeto, mas sim sua intencionalidade curricular e pedagógica.<br><br></font></b>A escolha da organização didática deve partir dos objetivos de aprendizagem e das necessidades dos(as) estudantes.<br>[TOMENOTA1]<br>[DICA1]<b><font color=\"#f04770\"></font></b>",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "Uma atividade, oficina ou sequência didática pode integrar diferentes conhecimentos. No Projeto Integrado, essa articulação é estruturante: os componentes contribuem intencionalmente para investigar um problema comum e para construir uma resposta contextualizada.<br>",
+     "novo": false
+    },
+    {
+     "tipo": "dica",
+     "texto": "Antes de chamar uma proposta de projeto, pergunte: há um problema comum, contribuições curriculares necessárias, etapas articuladas, participação dos estudantes nas decisões e uma resposta a ser desenvolvida? Se não, identifique qual organização didática melhor descreve a proposta.",
+     "novo": false
+    }
+   ]
+  }
  }
 }
