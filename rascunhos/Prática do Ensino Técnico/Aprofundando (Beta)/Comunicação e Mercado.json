@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Comunicação e Mercado",
- "quando": "2026-11-05T16:52:48.263Z",
+ "quando": "2026-11-05T16:52:54.753Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -44,17 +44,17 @@
   ],
   "conclusao": {
    "titulo": "Da experiência à reflexão pedagógica",
-   "texto": "Revisar uma prática não significa procurar culpados(as) nem classificar uma aula como “boa” ou “ruim”. Significa observar a experiência com intencionalidade. \n<br>\n<br>Quando você compara o que planejou com o que aconteceu e considera as evidências produzidas pelos(as) estudantes, transforma a própria prática em uma fonte de aprendizagem profissional.&nbsp;<br>",
+   "texto": "Revisar uma prática não significa procurar culpados(as) nem classificar uma aula como “boa” ou “ruim”. Significa observar a experiência com intencionalidade. \n<br>\n<br>Quando você compara o que planejou com o que aconteceu e considera as evidências produzidas pelos(as) estudantes, transforma a própria prática em uma fonte de aprendizagem profissional.&nbsp;<br>[TOMENOTA1]<br>[DICA1]",
    "blocos": [
     {
      "tipo": "tomenota",
      "texto": "Uma prática não precisa ter dado errado para ser analisada. Pergunte também: o que funcionou e por que funcionou? Identificar potencialidades ajuda a preservar escolhas pedagógicas que favorecem a aprendizagem.<br>",
-     "novo": true
+     "novo": false
     },
     {
      "tipo": "dica",
      "texto": "Ao terminar uma atividade, reserve alguns minutos para registrar três evidências: uma aprendizagem observada, uma dificuldade recorrente e uma condição que favoreceu a prática. Esses registros serão úteis para planejar futuras intervenções.<br>",
-     "novo": true
+     "novo": false
     }
    ]
   }
