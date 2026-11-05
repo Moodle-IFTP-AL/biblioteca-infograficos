@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Criação Digital e Cultural",
- "quando": "2026-11-05T17:08:22.456Z",
+ "quando": "2026-11-05T17:08:40.216Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -20,7 +20,7 @@
   ],
   "conclusao": {
    "titulo": "A reflexão como parte da prática docente",
-   "texto": "Analisar as próprias práticas não é apenas um exercício de autocrítica: é o que fortalece a sua intencionalidade pedagógica e torna cada novo planejamento mais claro.  Ao parar para refletir, você transforma experiência em decisão consciente. \n<br><br>Você chegou ao fim de mais uma etapa com dedicação. Parabéns pelo seu empenho e até a próxima aula!&nbsp;&nbsp;<br>",
+   "texto": "Analisar as próprias práticas não é apenas um exercício de autocrítica: é o que fortalece a sua intencionalidade pedagógica e torna cada novo planejamento mais claro.  Ao parar para refletir, você transforma experiência em decisão consciente. \n<br><br>Você chegou ao fim de mais uma etapa com dedicação. Parabéns pelo seu empenho e até a próxima aula!&nbsp;&nbsp;<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -35,14 +35,15 @@
       {
        "id": "mw3sx8leefjl11",
        "texto": "Módulo 2 – Unidade 5: Planejamento de práticas técnicas a partir de problemas profissionais.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24749"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
-  }
+  },
+  "tipoBotao": "voltar"
  }
 }
