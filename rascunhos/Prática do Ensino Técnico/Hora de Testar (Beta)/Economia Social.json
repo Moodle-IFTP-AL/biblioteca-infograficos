@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Economia Social",
- "quando": "2026-11-05T17:22:52.478Z",
+ "quando": "2026-11-05T17:24:24.309Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -17,6 +17,32 @@
    {
     "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31813\" width=\"1112\" height=\"495\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ECS-M4-U01-APLI-MULTI\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "A reflexão como parte da prática docente",
+   "texto": "Analisar uma prática já realizada é uma forma de fortalecer a intencionalidade pedagógica.<br><br>Ao observar evidências, reconhecer o que favoreceu a aprendizagem e identificar pontos que merecem atenção, você transforma a experiência em referência para decisões futuras.<br><br>No eixo Economia Social, esse olhar ajuda a qualificar práticas relacionadas à cooperação, aos registros e às decisões coletivas.<br><br>Parabéns pelo seu empenho nesta etapa e até a próxima aula!<br>",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "Revisite as aulas abaixo para articular os desafios do mundo do trabalho ao seu planejamento e transformar a reflexão em ação.<br>",
+     "idRevisar": "mw3tj1q4n7ao2q",
+     "itensRevisar": [
+      {
+       "id": "mw3tj3ri1jrnoe",
+       "texto": "Módulo 1 – 1ª aula síncrona: Transformação de problemas reais em práticas técnicas.&nbsp;&nbsp;<br>",
+       "link": ""
+      },
+      {
+       "id": "mw3tj40owfjevx",
+       "texto": "",
+       "link": ""
+      }
+     ],
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": true
+    }
+   ]
+  }
  }
 }
