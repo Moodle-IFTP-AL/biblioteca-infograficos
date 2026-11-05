@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Economia Social",
- "quando": "2026-11-05T17:24:52.479Z",
+ "quando": "2026-11-05T17:25:16.228Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -20,7 +20,7 @@
   ],
   "conclusao": {
    "titulo": "A reflexão como parte da prática docente",
-   "texto": "Analisar uma prática já realizada é uma forma de fortalecer a intencionalidade pedagógica.<br><br>Ao observar evidências, reconhecer o que favoreceu a aprendizagem e identificar pontos que merecem atenção, você transforma a experiência em referência para decisões futuras.<br><br>No eixo Economia Social, esse olhar ajuda a qualificar práticas relacionadas à cooperação, aos registros e às decisões coletivas.<br><br>Parabéns pelo seu empenho nesta etapa e até a próxima aula!<br>",
+   "texto": "Analisar uma prática já realizada é uma forma de fortalecer a intencionalidade pedagógica.<br><br>Ao observar evidências, reconhecer o que favoreceu a aprendizagem e identificar pontos que merecem atenção, você transforma a experiência em referência para decisões futuras.<br><br>No eixo Economia Social, esse olhar ajuda a qualificar práticas relacionadas à cooperação, aos registros e às decisões coletivas.<br><br>Parabéns pelo seu empenho nesta etapa e até a próxima aula!<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -35,14 +35,15 @@
       {
        "id": "mw3tj40owfjevx",
        "texto": "Módulo 2 – Unidade 5: Planejamento de práticas técnicas a partir de problemas profissionais.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24761"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
-  }
+  },
+  "tipoBotao": "voltar"
  }
 }
