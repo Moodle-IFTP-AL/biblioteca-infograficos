@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Comunicação e Mercado",
- "quando": "2026-11-05T16:55:27.191Z",
+ "quando": "2026-11-05T16:55:48.032Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -20,7 +20,7 @@
   ],
   "conclusao": {
    "titulo": "A reflexão como parte da prática docente",
-   "texto": "Uma prática técnica não termina quando os(as) estudantes encerram a atividade.<br><br>Ela continua produzindo informações quando você revisita o que foi planejado, observa o que aconteceu e interpreta as evidências de aprendizagem.<br><br>Essa pausa fortalece a intencionalidade pedagógica e permite tomar decisões mais conscientes.<br><br>Na próxima aula, essa análise será o ponto de partida para pensar em ajustes e aprimoramentos. Parabéns pelo seu empenho nesta etapa e até a próxima aula!<br>",
+   "texto": "Uma prática técnica não termina quando os(as) estudantes encerram a atividade.<br><br>Ela continua produzindo informações quando você revisita o que foi planejado, observa o que aconteceu e interpreta as evidências de aprendizagem.<br><br>Essa pausa fortalece a intencionalidade pedagógica e permite tomar decisões mais conscientes.<br><br>Na próxima aula, essa análise será o ponto de partida para pensar em ajustes e aprimoramentos. Parabéns pelo seu empenho nesta etapa e até a próxima aula!<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -35,12 +35,12 @@
       {
        "id": "mw3sgyc3kz7kk8",
        "texto": "Módulo 2 – Unidade 5: Planejamento de práticas técnicas a partir de problemas profissionais.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24755"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
   }
