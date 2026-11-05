@@ -1,13 +1,13 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Agro Sustentável",
- "quando": "2026-11-05T16:08:22.725Z",
+ "quando": "2026-11-05T16:10:01.533Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "objetivo": "Aplicar estratégias de registro e análise de evidências da execução para identificar possibilidades de aprimoramento da prática docente.<br>",
    "titulo": "<b>Do Registro à Melhoria da Prática&nbsp;</b><br>",
-   "conteudo": "Agora, você aplicará os conhecimentos sobre observação e registro em uma situação concreta de prática agroecológica: vai ordenar as etapas de um ciclo de registro numa oficina de compostagem.<br><br>Depois, vai escolher uma situação da sua própria prática, indicar como registrá-la e como usar esse registro.<br><br>As atividades mostram que registrar é parte de um ciclo contínuo de análise, decisão e melhoria da prática docente.<br>[H5P1]<br>[H5P2]<br><br>",
+   "conteudo": "Agora, você aplicará os conhecimentos sobre observação e registro em uma situação concreta de prática agroecológica: vai ordenar as etapas de um ciclo de registro numa oficina de compostagem.<br><br>Depois, vai escolher uma situação da sua própria prática, indicar como registrá-la e como usar esse registro.<br><br>As atividades mostram que registrar é parte de um ciclo contínuo de análise, decisão e melhoria da prática docente.<br>[H5P1]<br>[H5P2]<br>[CAIXADESTAQUE1]",
    "reflexao": ""
   },
   "blocos": [
@@ -24,7 +24,39 @@
     "titulo": "Atividade 2",
     "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31775\" width=\"1103\" height=\"555\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"AGR-M3-U08-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
     "novo": false
+   },
+   {
+    "tipo": "caixadestaque",
+    "texto": "<b>Registrar só Faz Sentido Quando Gera Ação</b><br><br>Você percorreu o ciclo completo: execução, registro, retomada, análise e ajuste. O valor do registro está em interpretar as evidências e usá-las para decidir. Na segunda atividade, não há resposta única: registre a situação escolhida na próxima prática e retome o registro antes de planejar a aula seguinte.<br>",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#fefce8",
+    "caixaCorBorda": "#fec43e",
+    "novo": false,
+    "caixaCorTexto": "#0a3442"
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Observar, Registrar e Aprimorar ",
+   "texto": "Observar, registrar, analisar e ajustar são ações que fortalecem a prática docente.<br><br>Registros simples ajudam a identificar avanços, dificuldades recorrentes e aspectos que precisam ser revistos em diferentes atividades.<br><br>Ao retomar essas evidências, você pode avaliar suas intervenções, reconhecer estratégias que funcionaram e planejar melhorias para as próximas aulas, acompanhando o desenvolvimento técnico dos(as) estudantes.<br>[REVISAR1]",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "Acesse a aula abaixo para consolidar seus conhecimentos e dar continuidade à aprendizagem, refletindo sobre como transformar registros em instrumentos de melhoria:<br>",
+     "idRevisar": "mw3qty34xkcytm",
+     "itensRevisar": [
+      {
+       "id": "mw3qu1j9hf65tp",
+       "texto": "Módulo 1 - Unidade 7 -&nbsp; Avaliação Técnica e Devolutivas Formativas.<br>",
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22932"
+      }
+     ],
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": false
+    }
+   ]
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29335"
  }
 }
