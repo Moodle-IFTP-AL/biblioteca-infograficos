@@ -1,62 +1,48 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Agro Sustentável",
- "quando": "2026-11-05T16:23:44.033Z",
+ "quando": "2026-11-05T16:34:31.982Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Aplicar estratégias de registro e análise de evidências da execução para identificar possibilidades de aprimoramento da prática docente.<br>",
-   "titulo": "<b>Do Registro à Melhoria da Prática&nbsp;</b><br>",
-   "conteudo": "Agora, você aplicará os conhecimentos sobre observação e registro em uma situação concreta de prática agroecológica: vai ordenar as etapas de um ciclo de registro numa oficina de compostagem.<br><br>Depois, vai escolher uma situação da sua própria prática, indicar como registrá-la e como usar esse registro.<br><br>As atividades mostram que registrar é parte de um ciclo contínuo de análise, decisão e melhoria da prática docente.<br>[H5P1]<br>[H5P2]<br>[CAIXADESTAQUE1]",
+   "objetivo": "Analisar uma prática técnica já realizada, relacionando o que foi planejado ao que ocorreu na experiência e identificando aspectos que precisam ser aprimorados.<br>",
+   "titulo": "<b>Sua vez de analisar&nbsp;&nbsp;</b><br>",
+   "conteudo": "Chegou o momento de consolidar seus conhecimentos!<br><br>Selecione uma prática técnica de Agricultura, Agroecologia ou Alimentos que você já realizou e analise o que ocorreu durante a aula para fortalecer seu planejamento pedagógico.<br>",
    "reflexao": ""
   },
-  "blocos": [
+  "atividades": [
    {
-    "tipo": "h5p",
-    "texto": "",
-    "titulo": "Atividade 1",
-    "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31774\" width=\"1103\" height=\"637\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"AGR-M3-U08-APLI-STP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
-    "novo": false
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31807\" width=\"1103\" height=\"573\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"AGR-M4-U01-APLI-DOC\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    },
    {
-    "tipo": "h5p",
-    "texto": "",
-    "titulo": "Atividade 2",
-    "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31775\" width=\"1103\" height=\"555\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"AGR-M3-U08-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
-    "novo": false
-   },
-   {
-    "tipo": "caixadestaque",
-    "texto": "<b>Registrar só Faz Sentido Quando Gera Ação</b><br><br>Você percorreu o ciclo completo: execução, registro, retomada, análise e ajuste. O valor do registro está em interpretar as evidências e usá-las para decidir. Na segunda atividade, não há resposta única: registre a situação escolhida na próxima prática e retome o registro antes de planejar a aula seguinte.<br>",
-    "caixaImgUrl": "",
-    "caixaImgSize": 40,
-    "caixaCorFundo": "#fefce8",
-    "caixaCorBorda": "#fec43e",
-    "novo": false,
-    "caixaCorTexto": "#0a3442"
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31806\" width=\"1112\" height=\"511\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"AGR-M4-U01-APLI-MULTI\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    }
   ],
   "conclusao": {
-   "titulo": "Observar, Registrar e Aprimorar ",
-   "texto": "Observar, registrar, analisar e ajustar são ações que fortalecem a prática docente.<br><br>Registros simples ajudam a identificar avanços, dificuldades recorrentes e aspectos que precisam ser revistos em diferentes atividades.<br><br>Ao retomar essas evidências, você pode avaliar suas intervenções, reconhecer estratégias que funcionaram e planejar melhorias para as próximas aulas, acompanhando o desenvolvimento técnico dos(as) estudantes.<br>[REVISAR1]",
+   "titulo": "A reflexão como parte da prática docente ",
+   "texto": "Analisar criticamente a prática realizada é um passo importante para transformar a experiência em aprendizado contínuo.<br><br>Ao criar o hábito de avaliar o alinhamento entre planejamento e prática, você fortalece a intencionalidade pedagógica, confere maior clareza didática às suas aulas de Agricultura, Agroecologia ou Alimentos e facilita o planejamento das próximas práticas, impulsionando o desenvolvimento técnico de seus(suas) estudantes.<br><br>Parabéns pelo seu empenho nesta etapa e até a próxima aula!<br>",
    "blocos": [
     {
      "tipo": "revisar",
-     "texto": "Acesse a aula abaixo para consolidar seus conhecimentos e dar continuidade à aprendizagem, refletindo sobre como transformar registros em instrumentos de melhoria:<br>",
-     "idRevisar": "mw3qty34xkcytm",
+     "texto": "Revisite as aulas abaixo para articular os desafios do mundo do trabalho ao seu planejamento e transformar a reflexão em ação.&nbsp;<br>",
+     "idRevisar": "mw3rqt5krx1p4r",
      "itensRevisar": [
       {
-       "id": "mw3qu1j9hf65tp",
-       "texto": "Módulo 1 - Unidade 7 -&nbsp; Avaliação Técnica e Devolutivas Formativas.<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22932"
+       "id": "mw3rqvypu3cpdl",
+       "texto": "Módulo 1 – 1ª aula síncrona: Transformação de problemas reais em práticas técnicas.&nbsp;&nbsp;<br>",
+       "link": ""
+      },
+      {
+       "id": "mw3rqw9alkjzvl",
+       "texto": "Módulo 2 – Unidade 5: Planejamento de práticas técnicas a partir de problemas profissionais.&nbsp;<br>",
+       "link": ""
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": false
+     "novo": true
     }
    ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27742"
+  }
  }
 }
