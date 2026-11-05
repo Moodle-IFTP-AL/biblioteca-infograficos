@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-11-05T18:08:09.590Z",
+ "quando": "2026-11-05T18:08:20.208Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -23,6 +23,13 @@
      "iframeH5P": ""
     },
     "novo": false
+   },
+   {
+    "tipo": "video",
+    "texto": "No <i>videocast</i>, acompanhe uma conversa sobre as características de atividades pontuais, oficinas, sequências didáticas e Projetos Integradores e entenda como escolher a organização mais adequada aos objetivos de aprendizagem.<br>",
+    "titulo": "Assista:",
+    "url": "",
+    "novo": true
    }
   ]
  }
