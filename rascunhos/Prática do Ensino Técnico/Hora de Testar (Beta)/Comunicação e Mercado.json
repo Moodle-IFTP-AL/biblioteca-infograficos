@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Comunicação e Mercado",
- "quando": "2026-11-05T16:55:48.032Z",
+ "quando": "2026-11-05T16:56:04.029Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -43,6 +43,8 @@
      "novo": false
     }
    ]
-  }
+  },
+  "tipoBotao": "voltar",
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29510"
  }
 }
