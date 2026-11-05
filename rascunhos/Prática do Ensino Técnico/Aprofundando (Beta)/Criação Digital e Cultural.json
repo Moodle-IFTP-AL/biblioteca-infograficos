@@ -1,15 +1,15 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Criação Digital e Cultural",
- "quando": "2026-11-05T17:02:15.143Z",
+ "quando": "2026-11-05T17:03:24.160Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Duração da aula: </b>45 minutos<br><b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades práticas, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os estudantes durante a execução supervisionada<br><b>Objetos do conhecimento: </b>intencionalidade e contextualização da prática técnica.<br><b>Conteúdos:</b><br><ul><li>retomada de práticas técnicas já planejadas ou realizadas;<br></li><li>relação entre problema, contexto, objetivo e prática desenvolvida;<br></li><li>relação entre a prática realizada e as aprendizagens esperadas;<br></li><li>adequação da prática ao contexto dos estudantes e do mundo do trabalho;<br></li><li>aspectos que contribuíram para&nbsp; ou limitaram a experiência.<br></li></ul><b>Objetivo da aula:</b> analisar uma prática técnica já realizada, considerando sua relação com o problema, o contexto e os objetivos de aprendizagem, e identificar aspectos que podem ser aprimorados.<br>",
    "objetivo": "Identificar os principais aspectos e critérios que orientam a retomada de uma prática técnica, considerando o planejamento, a execução, as condições da atividade e as evidências de aprendizagem.<br>",
    "titulo": "<b>O que a prática revela depois que termina</b><br>",
-   "conteudo": "<h3><b><font color=\"#f04770\">Quando a prática não gera a aprendizagem esperada</font></b></h3><br>Em uma aula prática de Produção Cultural, na Serra da Barriga, o professor conduziu com a turma a montagem de palco e iluminação para uma mostra cultural.<br><br>O roteiro técnico estava&nbsp; pronto e o protocolo de segurança, combinado. Porém, a maioria dos(as) estudantes montou a estrutura sem entender por que cada etapa vinha naquela ordem.<br><br>Embora a prática tenha sido tecnicamente concluída,&nbsp; os resultados levaram o professor a questionar se a atividade havia favorecido o desenvolvimento do objetivo de aprendizagem previsto.<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">O que analisar depois da aula?</font></b></h3><br>Estar atento(a) à coerência pedagógica durante a execução da aula é essencial, mas também é importante retomar e analisar o que ocorreu após a atividade.<br><br>Voltar ao planejamento original permite comparar o que você pretendia desenvolver com o que os(as) estudantes efetivamente demonstraram durante a prática.<br><br>Nas produções gráficas, audiovisuais e culturais, essa reflexão revela se os(as) estudantes apenas cumpriram as etapas previstas ou se compreenderam e souberam justificar as escolhas que fizeram. Na montagem do palco, isso apareceu na diferença entre quem explicava a ordem das etapas e quem apenas seguia o grupo.<br><br>Além disso, a análise da prática permite identificar dificuldades de participação e de aprendizagem, limitações de tempo e oportunidades de ajustar a proposta aos recursos e aos espaços disponíveis na escola.<br>[VIDEO1]<br><h3><b><font color=\"#f04770\">Quatro perguntas para analisar a prática<br><br></font></b></h3>Ao retomar uma prática, organize a análise em quatro campos:<br><br>",
-   "conectando": ""
+   "conteudo": "<h3><b><font color=\"#f04770\">Quando a prática não gera a aprendizagem esperada</font></b></h3><br>Em uma aula prática de Produção Cultural, na Serra da Barriga, o professor conduziu com a turma a montagem de palco e iluminação para uma mostra cultural.<br><br>O roteiro técnico estava&nbsp; pronto e o protocolo de segurança, combinado. Porém, a maioria dos(as) estudantes montou a estrutura sem entender por que cada etapa vinha naquela ordem.<br><br>Embora a prática tenha sido tecnicamente concluída,&nbsp; os resultados levaram o professor a questionar se a atividade havia favorecido o desenvolvimento do objetivo de aprendizagem previsto.<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">O que analisar depois da aula?</font></b></h3><br>Estar atento(a) à coerência pedagógica durante a execução da aula é essencial, mas também é importante retomar e analisar o que ocorreu após a atividade.<br><br>Voltar ao planejamento original permite comparar o que você pretendia desenvolver com o que os(as) estudantes efetivamente demonstraram durante a prática.<br><br>Nas produções gráficas, audiovisuais e culturais, essa reflexão revela se os(as) estudantes apenas cumpriram as etapas previstas ou se compreenderam e souberam justificar as escolhas que fizeram. Na montagem do palco, isso apareceu na diferença entre quem explicava a ordem das etapas e quem apenas seguia o grupo.<br><br>Além disso, a análise da prática permite identificar dificuldades de participação e de aprendizagem, limitações de tempo e oportunidades de ajustar a proposta aos recursos e aos espaços disponíveis na escola.<br>[VIDEO1]<br><h3><b><font color=\"#f04770\">Quatro perguntas para analisar a prática<br><br></font></b></h3>Ao retomar uma prática, organize a análise em quatro campos:<br>[INFOGRAFICO1]",
+   "conectando": "Agora é a sua vez: siga para a próxima seção e analise, na prática, uma atividade que você já conduziu.<br>"
   },
   "blocos": [
    {
@@ -30,7 +30,33 @@
     "titulo": "Vamos revisitar as práticas?",
     "url": "https://youtu.be/7AW3Y3nMiyM",
     "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "blocos_coloridos",
+    "infograficoData": {
+     "introducao": "",
+     "blocos": "[{\"titulo\":\"O que eu pretendia desenvolver\",\"texto\":\"O problema, o contexto e o objetivo que orientaram a atividade.&nbsp;<br>\"},{\"titulo\":\"O que aconteceu na prática\",\"texto\":\"O que a turma fez e as evidências observadas.\"},{\"titulo\":\"O que favoreceu ou limitou\",\"texto\":\"Tempo, recursos, mediação, participação e organização.&nbsp;<br>\"},{\"titulo\":\"O que eu faria diferente\",\"texto\":\"Ajustes no planejamento, na organização ou na condução da prática.&nbsp;<br>\"}]"
+    },
+    "novo": false
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Da experiência à reflexão pedagógica",
+   "texto": "Revisar uma prática não é procurar defeitos. É usar a experiência e as evidências que a própria atividade produziu para tomar decisões pedagógicas mais conscientes. \n<br><br>Cada análise que você faz traz clareza para o próximo planejamento e transforma a sua prática em um percurso que melhora a cada realização.&nbsp;<br>[TOMENOTA1]<br>[DICA1]",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "Uma prática pode ser tecnicamente bem executada e, ainda assim, não gerar a aprendizagem esperada. O resultado da atividade não é o mesmo que a aprendizagem desenvolvida.<br>",
+     "novo": false
+    },
+    {
+     "tipo": "dica",
+     "texto": "Ao terminar uma prática, reserve cinco minutos para anotar o que funcionou e o que não deu certo. Esse registro rápido, feito na hora, é a matéria-prima da sua análise posterior.<br>",
+     "novo": false
+    }
+   ]
+  }
  }
 }
