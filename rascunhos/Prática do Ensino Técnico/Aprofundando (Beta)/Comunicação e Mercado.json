@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Comunicação e Mercado",
- "quando": "2026-11-05T16:52:54.753Z",
+ "quando": "2026-11-05T16:53:05.483Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -57,6 +57,7 @@
      "novo": false
     }
    ]
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29508"
  }
 }
