@@ -1,63 +1,48 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Comunicação e Mercado",
- "quando": "2026-11-05T16:21:57.778Z",
+ "quando": "2026-11-05T16:54:46.538Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Aplicar estratégias de registro e análise de evidências da execução para identificar possibilidades de aprimoramento da prática docente.<br>",
-   "titulo": "<b>Evidências em Ação: Ajustando a Prática Pedagógica</b><br>",
-   "conteudo": "Como transformar momentos da aula prática em registros úteis para orientar intervenções futuras?<br><br>Nas atividades a seguir, você vai organizar as etapas de um ciclo de registro numa simulação de briefing e, depois, escolher uma situação da sua própria prática que merece ser registrada.<br><br>Essa experiência ajudará você a identificar estratégias simples para registrar o desempenho dos(as) estudantes e aprimorar continuamente suas aulas.<br>[H5P1]<br>[H5P2]<br>[CAIXADESTAQUE1]",
+   "objetivo": "Analisar uma prática técnica já realizada, relacionando o que foi planejado ao que aconteceu na experiência e identificando aspectos que precisam ser aprimorados.<br>",
+   "titulo": "Sua vez de analisar<br>",
+   "conteudo": "Escolha uma prática técnica real e significativa que você já realizou. Não precisa ter sido uma experiência malsucedida. O objetivo é analisá-la com atenção e transformar a experiência em informação para sua prática docente.<br>",
    "reflexao": ""
   },
-  "blocos": [
+  "atividades": [
    {
-    "tipo": "h5p",
-    "texto": "",
-    "titulo": "Atividade 1",
-    "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31776\" width=\"1103\" height=\"619\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"COM-M3-U08-APLI-STP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
-    "novo": false
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31809\" width=\"1103\" height=\"588\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"COM-M4-U01-APLI-DOC\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    },
    {
-    "tipo": "h5p",
-    "texto": "",
-    "titulo": "Atividade 2",
-    "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31777\" width=\"1112\" height=\"507\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"COM-M3-U08-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
-    "novo": false
-   },
-   {
-    "tipo": "caixadestaque",
-    "texto": "<b>Registrar, Analisar e Ajustar&nbsp;</b><br><br>Você percorreu o ciclo completo: execução, registro, retomada, análise e ajuste. O valor do registro está em interpretar as evidências e usá-las para decidir. Na segunda atividade, não há resposta única: registre a situação escolhida na próxima prática e retome o registro antes de planejar a aula seguinte.<br>",
-    "caixaImgUrl": "",
-    "caixaImgSize": 40,
-    "caixaCorFundo": "#fefce8",
-    "caixaCorBorda": "#fec43e",
-    "novo": false,
-    "caixaCorTexto": "#0a3442"
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31808\" width=\"1103\" height=\"559\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"COM-M4-U01-APLI-MULTI\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    }
   ],
   "conclusao": {
-   "titulo": "Evidências que Transformam a Prática ",
-   "texto": "Observar, registrar, analisar e ajustar formam um ciclo contínuo de aprimoramento docente.<br><br>Ao adotar registros simples durante as aulas práticas de Comércio, Marketing e Publicidade, você identifica detalhes que passariam despercebidos e obtém evidências concretas sobre a aprendizagem dos(as) estudantes.<br><br>Esse hábito fortalece sua intencionalidade pedagógica, permitindo tomar decisões mais conscientes e transformar cada aula em uma oportunidade de desenvolvimento profissional.<br>[REVISAR1]",
+   "titulo": "A reflexão como parte da prática docente",
+   "texto": "Uma prática técnica não termina quando os(as) estudantes encerram a atividade.<br><br>Ela continua produzindo informações quando você revisita o que foi planejado, observa o que aconteceu e interpreta as evidências de aprendizagem.<br><br>Essa pausa fortalece a intencionalidade pedagógica e permite tomar decisões mais conscientes.<br><br>Na próxima aula, essa análise será o ponto de partida para pensar em ajustes e aprimoramentos. Parabéns pelo seu empenho nesta etapa e até a próxima aula!<br>",
    "blocos": [
     {
      "tipo": "revisar",
-     "texto": "Acesse a aula abaixo para consolidar seus conhecimentos e dar continuidade à aprendizagem, refletindo sobre como transformar registros em instrumentos de melhoria:<br>",
-     "idRevisar": "mw3r90q9ouvi20",
+     "texto": "Revisite as aulas abaixo para articular os desafios do mundo do trabalho ao seu planejamento e transformar a reflexão em ação.&nbsp;<br>",
+     "idRevisar": "mw3sgut0oqfbu9",
      "itensRevisar": [
       {
-       "id": "mw3r92n1udl3it",
-       "texto": "Módulo 1 - Unidade 7 -&nbsp; Avaliação Técnica e Devolutivas Formativas.",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22936"
+       "id": "mw3sgy40vzh870",
+       "texto": "Módulo 1 – 1ª aula síncrona: Transformação de problemas reais em práticas técnicas.&nbsp;&nbsp;<br>",
+       "link": ""
+      },
+      {
+       "id": "mw3sgyc3kz7kk8",
+       "texto": "Módulo 2 – Unidade 5: Planejamento de práticas técnicas a partir de problemas profissionais.&nbsp;<br>",
+       "link": ""
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": false
+     "novo": true
     }
    ]
-  },
-  "tipoBotao": "voltar",
-  "link": "https://ead.educacao.al.gov.br/course/view.php?id=282#section-69"
+  }
  }
 }
