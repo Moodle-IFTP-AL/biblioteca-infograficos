@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-11-05T18:13:09.933Z",
+ "quando": "2026-11-05T18:15:41.731Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>1</b> - Planejar e estruturar práticas de aprendizagem ativas e contextualizadas, mobilizando conhecimentos da Formação Geral Básica no contexto da Educação Profissional e Tecnológica, por meio da seleção de metodologias, conteúdos e estratégias pedagógicas alinhadas ao perfil da turma, às competências técnicas e às demandas do mundo do trabalho.<br><b>Habilidade:&nbsp;</b><br><b>1.2 - </b>Selecionar e estruturar metodologias ativas (MRP, ABP, situações-problema), articulando conhecimentos da Formação Geral Básica e da área técnica, de acordo com os objetivos de aprendizagem.<br><b>Objeto do conhecimento: </b>Projetos Integrados.<br><b>Conteúdos:</b><br><ul><li>características de Projetos Integrados;<br></li><li>diferença entre atividade pontual, sequência didática, oficina e projeto;<br></li><li>projetos como estratégia de aprendizagem participativa.<br></li></ul><b>Objetivo: </b>Diferenciar Projetos Integrados de atividades pontuais, oficinas e sequências didáticas, reconhecendo sua função na articulação curricular.<br>",
    "objetivo": "Distinguir Projetos Integrados de atividades pontuais, oficinas e sequências didáticas, com base em suas características e em sua função na articulação curricular.<br>",
    "titulo": "<b>O que caracteriza um Projeto Integrado?&nbsp;</b><br>",
-   "conteudo": "<h3><b><font color=\"#f04770\">Quando uma atividade não é um Projeto Integrado&nbsp;</font></b></h3><br>Um(a) professor(a) propôs uma inspeção de riscos na oficina, com a entrega de um <i>checklist</i>, para integrar os conhecimentos da Formação Geral Básica e da formação técnica.<br><br>A atividade mobilizou saberes relevantes, mas não envolveu a investigação de um problema comum nem etapas articuladas para a construção de uma resposta.<br><br>Ao rever a proposta, percebeu que uma prática significativa não se torna, automaticamente, um Projeto Integrado.<br>[PERGUNTA1]<br>[VIDEO1]<br><div><h3><font color=\"#f04770\">Quatro formas de organizar a aprendizagem\n<br><br></font></h3>As diferentes estratégias didáticas atendem a objetivos distintos. Compare suas características e observe como cada uma pode contribuir para a aprendizagem na educação profissional.&nbsp;&nbsp;<br></div>",
+   "conteudo": "<h3><b><font color=\"#f04770\">Quando uma atividade não é um Projeto Integrado&nbsp;</font></b></h3><br>Um(a) professor(a) propôs uma inspeção de riscos na oficina, com a entrega de um <i>checklist</i>, para integrar os conhecimentos da Formação Geral Básica e da formação técnica.<br><br>A atividade mobilizou saberes relevantes, mas não envolveu a investigação de um problema comum nem etapas articuladas para a construção de uma resposta.<br><br>Ao rever a proposta, percebeu que uma prática significativa não se torna, automaticamente, um Projeto Integrado.<br>[PERGUNTA1]<br>[VIDEO1]<br><div><h3><font color=\"#f04770\">Quatro formas de organizar a aprendizagem\n<br><br></font></h3>As diferentes estratégias didáticas atendem a objetivos distintos. Compare suas características e observe como cada uma pode contribuir para a aprendizagem na educação profissional.&nbsp;&nbsp;<br>[INFOGRAFICO1]</div>",
    "conectando": ""
   },
   "blocos": [
@@ -29,6 +29,15 @@
     "texto": "No <i>videocast</i>, acompanhe uma conversa sobre as características de atividades pontuais, oficinas, sequências didáticas e Projetos Integradores e entenda como escolher a organização mais adequada aos objetivos de aprendizagem.<br>",
     "titulo": "Assista:",
     "url": "https://youtu.be/Fk9J2r89uwE",
+    "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "tabela_completa",
+    "infograficoData": {
+     "tabela": "{\"titulo\":\"\",\"subtitulo\":\"\",\"colunas\":[\"Estratégia didática\",\"O que é na prática?<br>\",\"Relação com a integração curricular<br>\"],\"linhas\":[[\"Atividade pontual&nbsp;\",\"Ação delimitada, voltada a um objetivo específico.\",\"Pode mobilizar conhecimentos de diferentes áreas, sem exigir um percurso integrado.\"],[\"Oficina&nbsp;\",\"Prática orientada, com experimentação, execução de procedimentos e reflexão.\",\"Pode articular conhecimentos em torno de uma prática ou de uma produção.\"],[\"Sequência didática&nbsp;\",\"Conjunto de atividades organizadas progressivamente para alcançar objetivos de aprendizagem.\",\"Pode articular diferentes conhecimentos ao longo do percurso.&nbsp;\"],[\"Projeto Integrado&nbsp;\",\"Percurso orientado por um problema, uma necessidade ou um propósito comum, com etapas articuladas e uma resposta a ser construída.\",\"A integração intencional dos conhecimentos é estruturante para o desenvolvimento do projeto.\"]]}"
+    },
     "novo": false
    }
   ]
