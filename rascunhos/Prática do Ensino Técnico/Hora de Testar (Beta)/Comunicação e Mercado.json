@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Comunicação e Mercado",
- "quando": "2026-11-05T16:20:39.667Z",
+ "quando": "2026-11-05T16:21:06.289Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -38,7 +38,7 @@
   ],
   "conclusao": {
    "titulo": "Evidências que Transformam a Prática ",
-   "texto": "Observar, registrar, analisar e ajustar formam um ciclo contínuo de aprimoramento docente.<br><br>Ao adotar registros simples durante as aulas práticas de Comércio, Marketing e Publicidade, você identifica detalhes que passariam despercebidos e obtém evidências concretas sobre a aprendizagem dos(as) estudantes.<br><br>Esse hábito fortalece sua intencionalidade pedagógica, permitindo tomar decisões mais conscientes e transformar cada aula em uma oportunidade de desenvolvimento profissional.<br>",
+   "texto": "Observar, registrar, analisar e ajustar formam um ciclo contínuo de aprimoramento docente.<br><br>Ao adotar registros simples durante as aulas práticas de Comércio, Marketing e Publicidade, você identifica detalhes que passariam despercebidos e obtém evidências concretas sobre a aprendizagem dos(as) estudantes.<br><br>Esse hábito fortalece sua intencionalidade pedagógica, permitindo tomar decisões mais conscientes e transformar cada aula em uma oportunidade de desenvolvimento profissional.<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -48,14 +48,15 @@
       {
        "id": "mw3r92n1udl3it",
        "texto": "Módulo 1 - Unidade 7 -&nbsp; Avaliação Técnica e Devolutivas Formativas.",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22936"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
-  }
+  },
+  "tipoBotao": "voltar"
  }
 }
