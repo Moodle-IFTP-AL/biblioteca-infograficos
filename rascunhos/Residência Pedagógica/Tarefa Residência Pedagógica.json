@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Residência Pedagógica/Tarefa Residência Pedagógica",
- "quando": "2026-11-06T12:28:45.937Z",
+ "quando": "2026-11-06T12:32:24.849Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -50,6 +50,7 @@
   "formatos": [
    "pdf",
    "docx"
-  ]
+  ],
+  "rubricaUrl": "https://drive.google.com/file/d/1D5SJNrB048vXFhVMmMlYjYGTXjLoDArP/view?usp=sharing"
  }
 }
