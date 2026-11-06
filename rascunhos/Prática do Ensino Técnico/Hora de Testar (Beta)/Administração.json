@@ -1,50 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-11-04T18:13:59.609Z",
- "autor": "Eduarda",
- "dados": {
-  "campos": {
-   "objetivo": "Analisar uma prática técnica já realizada, relacionando o que foi planejado ao que aconteceu na experiência e identificando aspectos que precisam ser aprimorados.<br>",
-   "titulo": "<b>Sua vez de analisar</b><br>",
-   "conteudo": "Chegou o momento de consolidar seus conhecimentos!<br><br>Selecione uma prática técnica de Administração que já realizou e analise o que aconteceu durante a aula para fortalecer seu planejamento pedagógico.<br>",
-   "reflexao": ""
-  },
-  "atividades": [
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31751\" width=\"1237\" height=\"573\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M4-U01-APLI-DOC\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   },
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31752\" width=\"1237\" height=\"559\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M4-U01-APLI-MULTI\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   }
-  ],
-  "conclusao": {
-   "titulo": "A reflexão como parte da prática docente ",
-   "texto": "Analisar criticamente a prática realizada é um passo importante para transformar a experiência em aprendizado contínuo.<br><br>Ao criar o hábito de avaliar o alinhamento entre planejamento e prática, você fortalece a intencionalidade pedagógica, confere maior clareza didática às suas aulas de Administração e facilita o planejamento das próximas práticas, impulsionando o desenvolvimento técnico de seus estudantes.<br><br>Parabéns pelo seu empenho nesta etapa e até a próxima aula!<br>[REVISAR1]",
-   "blocos": [
-    {
-     "tipo": "revisar",
-     "texto": "Revisite as aulas abaixo para articular os desafios do mundo do trabalho ao seu planejamento e transformar a reflexão em ação.&nbsp;<br>",
-     "idRevisar": "mw2frt1wiihhyp",
-     "itensRevisar": [
-      {
-       "id": "mw2frugtn7dm91",
-       "texto": "Módulo 1 – 1ª aula síncrona: Transformação de problemas reais em práticas técnicas.&nbsp;&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=22425"
-      },
-      {
-       "id": "mw2fua66wilqic",
-       "texto": "Módulo 2 – Unidade 5: Planejamento de práticas técnicas a partir de problemas profissionais.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24736"
-      }
-     ],
-     "linkBotao": "",
-     "textoBotao": "",
-     "novo": false
-    }
-   ]
-  },
-  "tipoBotao": "voltar",
-  "link": "https://ead.educacao.al.gov.br/course/view.php?id=280#section-73"
- }
+ "quando": "2026-11-06T14:32:37.146Z",
+ "autor": "Teste",
+ "dados": {}
 }
