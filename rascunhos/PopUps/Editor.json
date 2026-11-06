@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-11-06T20:50:36.738Z",
+ "quando": "2026-11-06T20:51:24.312Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -34,9 +34,9 @@
      "id": "qdhsfci",
      "tipo": "texto",
      "caixa": {
-      "x": 8.5,
+      "x": 13,
       "y": 33.5,
-      "largura": 83,
+      "largura": 74,
       "altura": 27
      },
      "html": "<span style=\"font-weight: normal;\">De</span><strong>&nbsp;09/11 a 11/11</strong><span style=\"font-weight: normal;\">,</span> <span style=\"font-weight: normal;\">teremos momentos para aprofundar os conteúdos do módulo, trocar experiências e refletir sobre situações da prática docente.</span><div>\n<p dir=\"ltr\"></p></div>",
@@ -70,7 +70,7 @@
      "tipo": "texto",
      "caixa": {
       "x": 13,
-      "y": 55.5,
+      "y": 54.5,
       "largura": 74,
       "altura": 14
      },
