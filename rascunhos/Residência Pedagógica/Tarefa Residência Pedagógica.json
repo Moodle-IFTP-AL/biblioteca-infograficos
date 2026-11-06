@@ -1,15 +1,27 @@
 {
  "versao": 1,
  "espaco": "Residência Pedagógica/Tarefa Residência Pedagógica",
- "quando": "2026-11-06T12:09:21.324Z",
+ "quando": "2026-11-06T12:10:14.776Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:</b><br>6 - Implementar, analisar e aprimorar práticas pedagógicas com base em evidências e reflexão crítica: desenvolver a capacidade de aplicar práticas pedagógicas fundamentadas nas metodologias estudadas, registrar e analisar evidências do processo de aprendizagem, refletir criticamente sobre os resultados e implementar melhorias contínuas na atuação docente. Envolve conduzir intervenções alinhadas às necessidades reais da turma, interpretar dados e <i>feedbacks</i>, dialogar com pares e transformar a reflexão em ações pedagógicas consistentes e evolutivas.<br><b>Habilidade:&nbsp;</b><br>6.1 - Aplicar práticas pedagógicas fundamentadas, utilizando, nas aulas, as metodologias e estratégias estudadas e ajustando sua condução conforme as necessidades da turma.<br><b>Objetos do conhecimento:p</b>lanejamento quinzenal integrado (modelo Seduc-AL).<br><b>Objetivo: </b>elaborar e compartilhar o plano de aula quinzenal, considerando o planejamento bimestral já elaborado e mantendo a integração com outros componentes curriculares.<br>",
    "texto2": "",
    "texto3": "<b>Orientação de Envio</b>",
-   "texto5": "",
+   "texto5": "<b>Do planejamento bimestral ao quinzenal<br></b><br>Chegou o momento de compartilhar o seu <b>planejamento quinzenal</b>.<br><br>Ao final do 3º módulo da trilha de Planejamento Integrado, você e seus(suas) colegas elaboraram, revisaram e consolidaram o planejamento bimestral.<br><br>Agora, é hora de detalhar esse planejamento, organizando as ações semana a semana, mantendo a integração entre os diferentes componentes curriculares e considerando as aprendizagens que precisam ser consolidadas até o encerramento do ano.<br>[CAIXADESTAQUE1]",
    "texto6": ""
-  }
+  },
+  "blocos": [
+   {
+    "tipo": "caixadestaque",
+    "texto": "💡 <b>Mais do que um envio<br></b><br>É momento de retomar as aprendizagens e os avanços dos estudantes no ano e refletir sobre como as escolhas pedagógicas consolidam as aprendizagens essenciais.<br>",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#fefce8",
+    "caixaCorBorda": "#fec43e",
+    "novo": false,
+    "caixaCorTexto": "#0a3442"
+   }
+  ]
  }
 }
