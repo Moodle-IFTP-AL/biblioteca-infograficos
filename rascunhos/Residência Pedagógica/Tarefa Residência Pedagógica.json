@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Residência Pedagógica/Tarefa Residência Pedagógica",
- "quando": "2026-11-06T12:42:49.285Z",
+ "quando": "2026-11-06T12:43:21.216Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -46,7 +46,8 @@
     "infograficoTipo": "lista_interativa",
     "infograficoData": {
      "titulo": "Observe se o seu planejamento:<br>",
-     "linhas": "[\"apresenta <b>objetivos específicos e observáveis</b>, com progressão de complexidade;&nbsp;<br>\",\"articula <b>competências técnicas, FGB e componentes do pALei</b> nas situações de aprendizagem;&nbsp;<br>\",\"prevê <b>metodologias e estratégias de mediação docente</b> que favoreçam a autonomia e o protagonismo;&nbsp;<br>\",\"define <b>evidências de aprendizagem diversificadas</b> e indica como elas podem orientar intervenções;&nbsp;<br>\",\"mobiliza <b>situações, demandas ou problemas do mundo do trabalho e do território</b> para dar sentido às aprendizagens.&nbsp;<br>\",\"as ações previstas consideram as aprendizagens <b>já desenvolvidas e aquelas que ainda precisam ser consolidadas</b> até o final do ano letivo?&nbsp;<br>\"]"
+     "linhas": "[\"apresenta <b>objetivos específicos e observáveis</b>, com progressão de complexidade;&nbsp;<br>\",\"articula <b>competências técnicas, FGB e componentes do pALei</b> nas situações de aprendizagem;&nbsp;<br>\",\"prevê <b>metodologias e estratégias de mediação docente</b> que favoreçam a autonomia e o protagonismo;&nbsp;<br>\",\"define <b>evidências de aprendizagem diversificadas</b> e indica como elas podem orientar intervenções;&nbsp;<br>\",\"mobiliza <b>situações, demandas ou problemas do mundo do trabalho e do território</b> para dar sentido às aprendizagens.&nbsp;<br>\",\"as ações previstas consideram as aprendizagens <b>já desenvolvidas e aquelas que ainda precisam ser consolidadas</b> até o final do ano letivo?&nbsp;<br>\"]",
+     "corLinhas": "#fec43e"
     },
     "novo": false
    }
