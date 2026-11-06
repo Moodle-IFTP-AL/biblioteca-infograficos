@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Residência Pedagógica/Tarefa Residência Pedagógica",
- "quando": "2026-11-06T12:10:14.776Z",
+ "quando": "2026-11-06T12:11:21.544Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -20,7 +20,8 @@
     "caixaCorFundo": "#fefce8",
     "caixaCorBorda": "#fec43e",
     "novo": false,
-    "caixaCorTexto": "#0a3442"
+    "caixaCorTexto": "#0a3442",
+    "minimizado": true
    }
   ]
  }
