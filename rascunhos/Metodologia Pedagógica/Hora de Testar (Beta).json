@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-11-06T14:28:08.219Z",
+ "quando": "2026-11-06T14:34:02.381Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -18,6 +18,6 @@
     "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31859\" width=\"1237\" height=\"618\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U02-APLI-MULTI\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    }
   ],
-  "tipoReflexao": "h5p"
+  "tipoReflexao": "texto"
  }
 }
