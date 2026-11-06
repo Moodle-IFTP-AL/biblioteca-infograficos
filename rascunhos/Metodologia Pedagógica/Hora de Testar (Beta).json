@@ -1,14 +1,22 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-11-05T18:22:21.007Z",
+ "quando": "2026-11-06T14:13:50.756Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "objetivo": "Classificar as estratégias didáticas apresentadas, utilizando critérios que caracterizem atividades pontuais, oficinas, sequências didáticas e Projetos Integrados.<br>",
-   "titulo": "<b>Na prática: é Projeto Integrado?</b><br>",
-   "conteudo": "Agora, você aplicará os critérios estudados em dois momentos:<br><br>1º. Realizará uma verificação conceitual sobre atividades pontuais, oficinas, sequências didáticas e Projetos Integrados.<br>2º. Analisará uma situação da educação profissional e identificará quais mudanças permitiriam que uma atividade pontual passasse a integrar um projeto.<br><br>Observe a finalidade, a articulação curricular, as etapas e a resposta esperada. O objetivo é compreender os critérios que orientam cada classificação.<br><br>",
-   "reflexao": ""
-  }
+   "titulo": "Na prática: é Projeto Integrado?<br>",
+   "conteudo": "Agora, você aplicará os critérios estudados em dois momentos:<br><br>1º. Realizará uma verificação conceitual sobre atividades pontuais, oficinas, sequências didáticas e Projetos Integrados.<br>2º. Analisará uma situação da educação profissional e identificará quais mudanças permitiriam que uma atividade pontual passasse a integrar um projeto.<br><br>Observe a finalidade, a articulação curricular, as etapas e a resposta esperada. O objetivo é compreender os critérios que orientam cada classificação.<br>",
+   "reflexao": "<b>E na sua prática?<br><br></b>Você já aplicou os critérios a situações da educação profissional. Agora, retome uma prática, reflita sobre o que mudou em sua compreensão e identifique um próximo passo possível para aprimorar seu planejamento.<br>"
+  },
+  "atividades": [
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31861\" width=\"1237\" height=\"411\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U02-APLI-MULTI1\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   },
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31859\" width=\"1237\" height=\"618\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U02-APLI-MULTI\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   }
+  ]
  }
 }
