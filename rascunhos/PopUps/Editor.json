@@ -1,87 +1,86 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-10-26T14:14:13.579Z",
+ "quando": "2026-11-06T20:44:40.645Z",
  "autor": "Teste",
  "dados": {
   "popup": {
-   "titulo": "Gravações do encontro síncrono",
+   "titulo": "Encontro Síncrono",
    "fundo": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/popup/Popup2.png",
    "proporcao": 0.7947947947947948,
-   "larguraMaxima": 520,
+   "larguraMaxima": 460,
    "corVeu": "#0a3442",
    "opacidadeVeu": 0.88,
    "raioCartao": 15,
    "elementos": [
     {
-     "id": "mmvpbo1k34",
+     "id": "nwvg80k",
      "tipo": "texto",
      "caixa": {
-      "x": 12,
-      "y": 17,
-      "largura": 76,
-      "altura": 21
+      "x": 6.5,
+      "y": 8.5,
+      "largura": 87,
+      "altura": 32
      },
-     "html": "GRAVAÇÕES<br><span style=\"color: #f04770;\">DO </span><span style=\"color: #f04770;\">6º ENCONTRO SÍNCRONO</span>",
-     "tamanho": 32,
+     "html": "<p dir=\"ltr\"><strong>7º ENCONTRO SÍNCRONO MÓDULO 3!</strong></p>\n<p dir=\"ltr\"></p>",
+     "tamanho": 40,
      "cor": "#f04770",
-     "peso": 900,
+     "peso": 800,
      "alinhamento": "center",
-     "alturaLinha": 1.1,
-     "maiusculas": true
-    },
-    {
-     "id": "mmvpbo1k35",
-     "tipo": "texto",
-     "caixa": {
-      "x": 13,
-      "y": 40,
-      "largura": 74,
-      "altura": 22
-     },
-     "html": "Não conseguiu participar ao vivo? As gravações já estão disponíveis!<br><br><b>Assista à gravação e responda ao fórum</b> para contabilizar sua participação.",
-     "tamanho": 18,
-     "cor": "#0a3442",
-     "peso": 400,
-     "alinhamento": "center",
-     "alturaLinha": 1.4,
+     "alturaLinha": 1.2,
      "maiusculas": false
     },
     {
-     "id": "mmvpbo1k36",
-     "tipo": "botao",
+     "id": "qdhsfci",
+     "tipo": "texto",
      "caixa": {
-      "x": 12,
-      "y": 66,
-      "largura": 36.5,
-      "altura": 13
+      "x": 8.5,
+      "y": 37.5,
+      "largura": 83,
+      "altura": 27
      },
-     "texto": "GRAVAÇÃO METODOLOGIA PEDAGÓGICA",
-     "href": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27064",
-     "corFundo": "#06d7a0",
-     "corTexto": "#0a3442",
-     "tamanho": 14,
-     "raio": 12,
-     "novaAba": false,
-     "pulsar": false
+     "html": "<span style=\"font-weight: normal;\">De</span><strong> 19/10 a 21/10</strong><span style=\"font-weight: normal;\">,</span> <span style=\"font-weight: normal;\">teremos momentos para aprofundar os conteúdos do módulo, trocar experiências e refletir sobre situações da prática docente.</span><div>\n<p dir=\"ltr\"></p></div>",
+     "tamanho": 16,
+     "cor": "#0a3442",
+     "peso": 800,
+     "alinhamento": "center",
+     "alturaLinha": 1.2,
+     "maiusculas": false
     },
     {
-     "id": "mmvpbo1k37",
+     "id": "zqtdc57",
      "tipo": "botao",
      "caixa": {
-      "x": 51.5,
-      "y": 66,
-      "largura": 36.5,
-      "altura": 13
+      "x": 25,
+      "y": 74,
+      "largura": 50,
+      "altura": 10
      },
-     "texto": "GRAVAÇÃO PRÁTICA ENSINO TÉCNICO",
-     "href": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27065",
-     "corFundo": "#f04770",
+     "texto": "CRONOGRAMA",
+     "href": "https://https://docs.google.com/document/d/1ilLWfXUqfpWbNz7pXW2OxQKmZRfpTHFz/edit?usp=sharing&ouid=108835230929063636830&rtpof=true&sd=true",
+     "corFundo": "#0a3442",
      "corTexto": "#ffffff",
-     "tamanho": 14,
-     "raio": 12,
-     "novaAba": false,
-     "pulsar": false
+     "tamanho": 16,
+     "raio": 34,
+     "novaAba": true,
+     "pulsar": true
+    },
+    {
+     "id": "i1bbtf4",
+     "tipo": "texto",
+     "caixa": {
+      "x": 13,
+      "y": 55.5,
+      "largura": 74,
+      "altura": 14
+     },
+     "html": "<strong style=\"font-size: 16px;\">Clique no botão abaixo</strong><span style=\"font-size: 16px;\"> </span><span style=\"font-size: 16px; font-weight: normal;\">para consultar as datas, horários e links dos encontros da sua turma.</span>",
+     "tamanho": 16,
+     "cor": "#0a3442",
+     "peso": 800,
+     "alinhamento": "center",
+     "alturaLinha": 1.2,
+     "maiusculas": false
     }
    ]
   }
