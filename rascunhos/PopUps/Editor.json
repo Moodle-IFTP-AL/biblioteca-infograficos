@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-11-06T20:49:32.211Z",
+ "quando": "2026-11-06T20:50:36.738Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -74,7 +74,7 @@
       "largura": 74,
       "altura": 14
      },
-     "html": "<strong style=\"font-size: 16px;\">Clique no botão abaixo</strong><span style=\"font-size: 16px;\"> </span><span style=\"font-size: 16px; font-weight: normal;\">para consultar as datas, horários e links dos encontros da sua turma.</span>",
+     "html": "<span style=\"font-size: 16px; font-weight: normal;\">Clique </span><span style=\"font-size: 16px; font-weight: normal;\">no botão abaixo</span><span style=\"font-size: 16px;\"> </span><span style=\"font-size: 16px; font-weight: normal;\">para consultar as datas, horários e links dos encontros da sua turma.</span>",
      "tamanho": 16,
      "cor": "#0a3442",
      "peso": 800,
