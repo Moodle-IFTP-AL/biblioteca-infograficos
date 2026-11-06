@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Residência Pedagógica/Tarefa Residência Pedagógica",
- "quando": "2026-11-06T12:15:30.014Z",
+ "quando": "2026-11-06T12:18:06.152Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -40,6 +40,11 @@
     "novo": false,
     "caixaCorTexto": "#0a3442"
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Para finalizar",
+   "texto": "O planejamento quinzenal também é uma oportunidade de desenvolvimento profissional.<br><ul><li>Ao planejar momentos de autonomia, você aprimora sua prática pedagógica.<br></li><li>Ao definir as estratégias de mediação, você fortalece sua atuação docente.<br></li><li>Ao analisar as evidências de aprendizagem, você identifica os ajustes necessários no seu planejamento.<br></li><li>Ao integrar território e mundo do trabalho, você amplia as possibilidades do ensino.<br></li></ul>",
+   "blocos": []
+  }
  }
 }
