@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-09T12:11:19.987Z",
+ "quando": "2026-11-09T12:16:11.706Z",
  "autor": "Eduarda",
  "dados": {
   "agoraSuaVez": {
@@ -50,6 +50,7 @@
     "novo": false,
     "caixaCorTexto": "#0a3442"
    }
-  ]
+  ],
+  "link": "https://ead.educacao.al.gov.br/mod/assign/view.php?id=29220"
  }
 }
