@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-09T13:36:21.498Z",
+ "quando": "2026-11-09T13:38:18.780Z",
  "autor": "Eduarda",
  "dados": {
   "agoraSuaVez": {
@@ -22,6 +22,13 @@
      "texto": "Faça o upload do documento na plataforma para evidenciar como os conhecimentos serão mobilizados de forma integrada."
     }
    ]
+  },
+  "campos": {
+   "texto1": "<b>Competência:&nbsp;</b><br><b>5 -</b> Planejar percursos formativos integrados e interdisciplinares, articulando saberes gerais e técnicos, competências da BNCC e demandas do mundo do trabalho: desenvolver a capacidade de organizar percursos formativos que articulem teoria e prática, competências gerais e técnicas, conteúdos de diferentes áreas e demandas reais do mundo do trabalho. Envolve integrar saberes gerais e profissionais, planejar sequências e unidades didáticas contextualizadas, construir projetos e atividades interdisciplinarmente articuladas e elaborar planos de aula coerentes com os itinerários formativos e as necessidades dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>5.1 - </b>Organizar conteúdos e práticas que articulem teoria, prática e mundo do trabalho, integrando as competências da BNCC às competências técnicas dos eixos temáticos.<br><b>Objetos do Conhecimento:</b><br>Sistematização das aprendizagens sobre integração curricular.<br><b>Conteúdos:</b><br><ul><li>Revisão das articulações entre conhecimentos.<br></li><li>Análise da coerência entre planejamento e prática.<br></li><li>Sistematização dos aprendizados e identificação de possibilidades de aprimoramento.<br></li></ul><b>Objetivo:</b><br>Analisar as experiências de integração curricular desenvolvidas ao longo do ano, identificando avanços, desafios e possibilidades de aprimoramento para os próximos planejamentos.<br>",
+   "texto2": "Analisar as experiências de integração curricular desenvolvidas ao longo do ano, identificando avanços, desafios e possibilidades de aprimoramento para os próximos planejamentos.&nbsp;<br>",
+   "texto3": "<b>Retomando as Integrações do Ano</b>",
+   "texto5": "Com a chegada do final do ano letivo, é hora de analisar como o planejamento integrado aconteceu na prática e o que as experiências desenvolvidas revelaram sobre a aprendizagem dos(as) estudantes.<br><br>Mais do que verificar o cumprimento do que foi previsto, essa análise permite compreender as escolhas realizadas, as adaptações necessárias e as contribuições das articulações curriculares para o desenvolvimento das atividades.<br><br><h3><b><font color=\"#f04770\">Revise o planejamento e a prática</font></b></h3><br>Retome o planejamento anual, as sequências didáticas e os projetos desenvolvidos. Compare o que estava previsto com o que foi realizado e observe as adaptações feitas, as estratégias adotadas e as condições disponíveis.<br>",
+   "texto7": ""
   }
  }
 }
