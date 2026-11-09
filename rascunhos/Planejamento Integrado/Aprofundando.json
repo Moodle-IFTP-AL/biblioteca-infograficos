@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-09T13:42:37.213Z",
+ "quando": "2026-11-09T13:44:19.392Z",
  "autor": "Eduarda",
  "dados": {
   "agoraSuaVez": {
@@ -27,7 +27,7 @@
    "texto1": "<b>Competência:&nbsp;</b><br><b>5 -</b> Planejar percursos formativos integrados e interdisciplinares, articulando saberes gerais e técnicos, competências da BNCC e demandas do mundo do trabalho: desenvolver a capacidade de organizar percursos formativos que articulem teoria e prática, competências gerais e técnicas, conteúdos de diferentes áreas e demandas reais do mundo do trabalho. Envolve integrar saberes gerais e profissionais, planejar sequências e unidades didáticas contextualizadas, construir projetos e atividades interdisciplinarmente articuladas e elaborar planos de aula coerentes com os itinerários formativos e as necessidades dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>5.1 - </b>Organizar conteúdos e práticas que articulem teoria, prática e mundo do trabalho, integrando as competências da BNCC às competências técnicas dos eixos temáticos.<br><b>Objetos do Conhecimento:</b><br>Sistematização das aprendizagens sobre integração curricular.<br><b>Conteúdos:</b><br><ul><li>Revisão das articulações entre conhecimentos.<br></li><li>Análise da coerência entre planejamento e prática.<br></li><li>Sistematização dos aprendizados e identificação de possibilidades de aprimoramento.<br></li></ul><b>Objetivo:</b><br>Analisar as experiências de integração curricular desenvolvidas ao longo do ano, identificando avanços, desafios e possibilidades de aprimoramento para os próximos planejamentos.<br>",
    "texto2": "Analisar as experiências de integração curricular desenvolvidas ao longo do ano, identificando avanços, desafios e possibilidades de aprimoramento para os próximos planejamentos.&nbsp;<br>",
    "texto3": "<b>Retomando as Integrações do Ano</b>",
-   "texto5": "Com a chegada do final do ano letivo, é hora de analisar como o planejamento integrado aconteceu na prática e o que as experiências desenvolvidas revelaram sobre a aprendizagem dos(as) estudantes.<br><br>Mais do que verificar o cumprimento do que foi previsto, essa análise permite compreender as escolhas realizadas, as adaptações necessárias e as contribuições das articulações curriculares para o desenvolvimento das atividades.<br><br><h3><b><font color=\"#f04770\">Revise o planejamento e a prática</font></b></h3><br>Retome o planejamento anual, as sequências didáticas e os projetos desenvolvidos. Compare o que estava previsto com o que foi realizado e observe as adaptações feitas, as estratégias adotadas e as condições disponíveis.<br>[INFOGRAFICO1]<br><h3><b><font color=\"#f04770\">Analise as articulações curriculares</font></b></h3><br>Observe como os conhecimentos, as habilidades e as competências dos diferentes componentes e experiências curriculares do pALei foram articulados nas atividades e nos projetos desenvolvidos.<br><br>Reflita:<br>[INFOGRAFICO2]<br><h3><b><font color=\"#f04770\">Sistematize os aprendizados do ano<br><br></font></b></h3>Retome as reflexões e os registros produzidos ao longo dos bimestres. A partir desse conjunto, identifique os principais avanços, os desafios que permaneceram e as mudanças que contribuíram para o desenvolvimento das práticas integradas.<br><br>Para organizar essa síntese, considere três aspectos:<br>[INFOGRAFICO3]<br>[DICA1]",
+   "texto5": "Com a chegada do final do ano letivo, é hora de analisar como o planejamento integrado aconteceu na prática e o que as experiências desenvolvidas revelaram sobre a aprendizagem dos(as) estudantes.<br><br>Mais do que verificar o cumprimento do que foi previsto, essa análise permite compreender as escolhas realizadas, as adaptações necessárias e as contribuições das articulações curriculares para o desenvolvimento das atividades.<br><br><h3><b><font color=\"#f04770\">Revise o planejamento e a prática</font></b></h3><br>Retome o planejamento anual, as sequências didáticas e os projetos desenvolvidos. Compare o que estava previsto com o que foi realizado e observe as adaptações feitas, as estratégias adotadas e as condições disponíveis.<br>[INFOGRAFICO1]<br><h3><b><font color=\"#f04770\">Analise as articulações curriculares</font></b></h3><br>Observe como os conhecimentos, as habilidades e as competências dos diferentes componentes e experiências curriculares do pALei foram articulados nas atividades e nos projetos desenvolvidos.<br><br><br><h3><b><font color=\"#f04770\">Sistematize os aprendizados do ano<br><br></font></b></h3>Retome as reflexões e os registros produzidos ao longo dos bimestres. A partir desse conjunto, identifique os principais avanços, os desafios que permaneceram e as mudanças que contribuíram para o desenvolvimento das práticas integradas.<br><br>Para organizar essa síntese, considere três aspectos:<br>[INFOGRAFICO3]<br>[DICA1]",
    "texto7": ""
   },
   "blocos": [
@@ -64,6 +64,16 @@
     "tipo": "dica",
     "texto": "<b>Começar, Parar e Continuar<br></b><br>Utilize essa técnica para transformar a análise em decisões para os próximos planejamentos:<br><ul><li><b>Começar:</b> que articulação curricular ou estratégia vale a pena incorporar?<br></li><li><b>Parar:</b> que prática não contribuiu como esperado e precisa ser revista?<br></li><li><b>Continuar:</b> que estratégia favoreceu a integração curricular e deve ser mantida?<br></li></ul>",
     "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "lista_interativa",
+    "infograficoData": {
+     "titulo": "Reflita:",
+     "linhas": "[\"Quais integrações contribuíram para tornar as aprendizagens mais significativas?\",\"Em quais situações a articulação entre os componentes fez sentido para os(as) estudantes?\",\"Como os conhecimentos gerais e técnicos foram relacionados às situações estudadas e, quando pertinente, ao território e ao mundo do trabalho?&nbsp;<br>\",\"Que aspectos da integração curricular ainda precisam ser aprimorados?\"]"
+    },
+    "novo": false
    }
   ],
   "conclusao": {
@@ -71,6 +81,7 @@
    "texto": "Analisar as experiências do ano permite reconhecer como a integração curricular se concretizou, quais aprendizagens foram favorecidas e o que ainda precisa ser aprimorado.<br><br>No próximo HTPC, compartilhe suas reflexões com os(as) demais professores(as) para sistematizar os aprendizados coletivos e definir possibilidades de melhoria para os próximos planejamentos integrados.<br>",
    "blocos": []
   },
-  "tipoBotao": "bibliografia"
+  "tipoBotao": "bibliografia",
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29200"
  }
 }
