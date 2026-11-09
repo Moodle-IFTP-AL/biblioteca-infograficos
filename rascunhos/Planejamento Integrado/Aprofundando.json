@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-09T12:10:10.740Z",
+ "quando": "2026-11-09T12:11:19.987Z",
  "autor": "Eduarda",
  "dados": {
   "agoraSuaVez": {
@@ -10,16 +10,16 @@
    "chamada": "Agora é sua vez de planejar!",
    "cards": [
     {
-     "titulo": "Reúna os(as) colegas",
-     "texto": "Aproveite o HTPC para revisar coletivamente os objetivos, saberes e possibilidades de integração entre a Formação Geral Básica, o Ensino Técnico e outros componentes do pALei."
+     "titulo": "Retomem as experiências",
+     "texto": "Compartilhem práticas, registros e evidências que ajudem a compreender os resultados das integrações realizadas."
     },
     {
-     "titulo": "Planeje de forma integrada",
-     "texto": "Utilize o planejamento já esboçado, o modelo de planejamento da SEDUC/AL e as matrizes curriculares como apoio para consolidar e aprimorar o plano."
+     "titulo": "Definam os próximos passos",
+     "texto": "Identifiquem estratégias a iniciar, interromper ou manter nos próximos planejamentos."
     },
     {
-     "titulo": "Registre e compartilhe",
-     "texto": "Faça o upload do documento na plataforma para evidenciar como os conhecimentos serão mobilizados de forma integrada."
+     "titulo": "Registrem e compartilhem",
+     "texto": "Preencham o documento Análise das Práticas e Integrações do Ano Letivo  e enviem o arquivo preenchido pela plataforma para registrar as reflexões e decisões construídas coletivamente durante o HTPC."
     }
    ]
   },
