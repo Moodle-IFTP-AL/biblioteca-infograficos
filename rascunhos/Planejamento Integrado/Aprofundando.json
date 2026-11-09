@@ -1,11 +1,11 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-09T19:25:54.408Z",
+ "quando": "2026-11-09T19:35:54.315Z",
  "autor": "Teste",
  "dados": {
   "agoraSuaVez": {
-   "ativo": true,
+   "ativo": false,
    "titulo": "Planejar para integrar",
    "chamada": "Agora é sua vez de planejar!",
    "cards": [
@@ -38,6 +38,7 @@
     "linkBotao": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29141",
     "novo": false
    }
-  ]
+  ],
+  "tipoBotao": "voltar"
  }
 }
