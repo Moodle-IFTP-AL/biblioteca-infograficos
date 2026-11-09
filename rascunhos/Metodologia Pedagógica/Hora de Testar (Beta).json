@@ -1,30 +1,14 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-11-06T14:34:51.710Z",
+ "quando": "2026-11-09T13:17:37.925Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Classificar as estratégias didáticas apresentadas, utilizando critérios que caracterizem atividades pontuais, oficinas, sequências didáticas e Projetos Integrados.<br>",
-   "titulo": "Na prática: é Projeto Integrado?<br>",
-   "conteudo": "Agora, você aplicará os critérios estudados em dois momentos:<br><br>1º. Realizará uma verificação conceitual sobre atividades pontuais, oficinas, sequências didáticas e Projetos Integrados.<br>2º. Analisará uma situação da educação profissional e identificará quais mudanças permitiriam que uma atividade pontual passasse a integrar um projeto.<br><br>Observe a finalidade, a articulação curricular, as etapas e a resposta esperada. O objetivo é compreender os critérios que orientam cada classificação.<br>",
-   "reflexao": "<b>E na sua prática?<br><br></b>Você já aplicou os critérios a situações da educação profissional. Agora, retome uma prática, reflita sobre o que mudou em sua compreensão e identifique um próximo passo possível para aprimorar seu planejamento.<br><br><b>Revendo minha prática: passado, presente e futuro&nbsp;</b><br>Escolha uma prática que você já realizou e percorra sua linha do tempo. Mantenha a mesma experiência como fio condutor e complete:<br><br><b>Passado - Meu olhar anterior:</b> antes, eu considerava essa prática um Projeto Integrado porque...<br><br><b>Presente - Minha nova compreensão:</b> ao analisá-la com os critérios desta aula, percebo que ela...<br><br><b>Futuro - Meu próximo passo: </b>em uma próxima oportunidade, minha decisão será manter, ajustar ou integrar essa prática a um projeto, porque...<br><br>Ao final, releia suas respostas e identifique a principal mudança no seu modo de planejar e organizar a aprendizagem.<br>"
-  },
-  "atividades": [
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31861\" width=\"1237\" height=\"411\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U02-APLI-MULTI1\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   },
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31859\" width=\"1237\" height=\"618\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U02-APLI-MULTI\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   }
-  ],
-  "tipoReflexao": "texto",
-  "conclusao": {
-   "titulo": "Da análise ao planejamento de projetos ",
-   "texto": "Você concluiu esta aula com critérios para distinguir estratégias didáticas e reconhecer o que caracteriza um Projeto Integrado.<br><br>Na próxima aula, você vai analisar situações da escola, do território e do mundo do trabalho para identificar problemas que possam orientar a elaboração de projetos contextualizados na educação profissional.<br>",
-   "blocos": []
-  },
-  "tipoBotao": "voltar",
-  "link": "https://ead.educacao.al.gov.br/course/view.php?id=280#section-77"
+   "objetivo": "Elaborar um registro de articulação curricular para seu projeto técnico integrado, relacionando competências, habilidades e objetos de conhecimento da Formação Geral Básica e da Formação Técnica às atividades e às evidências de aprendizagem, com justificativa das escolhas.<br>",
+   "titulo": "<b>Da Matriz ao Projeto</b><br>",
+   "conteudo": "Agora é a sua vez de colocar em prática o que aprendeu!<br><br>Primeiro, analise um exemplo de articulação entre diferentes componentes curriculares.<br><br>Depois, retome sua situação-problema e consulte a Matriz Curricular do curso em que atua para selecionar competências, habilidades e objetos de conhecimento da Formação Geral Básica e da Formação Técnica.<br><br>Relacione essas aprendizagens às atividades e às evidências do projeto, verificando como contribuem para investigar o problema e construir uma resposta fundamentada.<br>",
+   "reflexao": ""
+  }
  }
 }
