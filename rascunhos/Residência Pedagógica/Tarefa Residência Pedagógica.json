@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Residência Pedagógica/Tarefa Residência Pedagógica",
- "quando": "2026-11-09T13:59:34.559Z",
+ "quando": "2026-11-09T14:00:47.198Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -39,6 +39,11 @@
     "novo": false,
     "caixaCorTexto": "#0a3442"
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Para Finalizar",
+   "texto": "Refletir sobre a prática é transformar a experiência em conhecimento para orientar novas decisões pedagógicas.<br><br>Ao relacionar o que foi planejado, o que aconteceu durante a aula e as evidências de aprendizagem, você amplia sua compreensão sobre as necessidades dos(as) estudantes e sobre os efeitos de suas escolhas.<br><br><b>Registrar, analisar, intervir e replanejar:</b> um ciclo contínuo de desenvolvimento profissional docente.<br>",
+   "blocos": []
+  }
  }
 }
