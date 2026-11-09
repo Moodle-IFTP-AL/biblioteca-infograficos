@@ -1,7 +1,60 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Fórum",
- "quando": "2026-11-09T19:38:43.849Z",
+ "quando": "2026-11-09T19:39:39.066Z",
  "autor": "Teste",
- "dados": {}
+ "dados": {
+  "etapaForum": "Aprofundando",
+  "campos": {
+   "objetivo": "<div><br></div>",
+   "titulo": "Chegamos ao início do Módulo 3!&nbsp;",
+   "conteudo": "Até aqui, exploramos diferentes metodologias, estratégias e possibilidades para fortalecer as práticas de ensino técnico em conexão com o território e o mundo do trabalho.<br><br>Neste módulo, vamos aprofundar nosso olhar sobre as práticas realizadas, explorando como os registros pedagógicos, as evidências de aprendizagem e as intervenções docentes podem apoiar o acompanhamento e o aprimoramento das práticas de ensino.<br><br>Sabemos que muitas práticas e projetos interessantes estão sendo realizados nas escolas da rede, contribuindo para a aprendizagem dos(as) estudantes.<br>[CAIXADESTAQUE1]<br>Compartilhe uma prática pedagógica ou projeto realizada neste ano que trouxe resultados positivos para a aprendizagem dos(as) estudantes. Conte um pouco sobre essa experiência, apresentando:<br>[INFOGRAFICO1]<br>Se desejar, enriqueça seu relato com fotos dos materiais, das produções dos(as) estudantes ou do ambiente em que a atividade aconteceu.<br>[PERGUNTA1]<br>[CAIXADESTAQUE2]",
+   "instrucoesTitulo": "Sua participação deve conter:",
+   "orientacoesTitulo": "Orientações para o formato:"
+  },
+  "blocos": [
+   {
+    "tipo": "caixadestaque",
+    "texto": "<b>Queremos conhecer um pouco mais dessas experiências e aprender com o que vocês estão construindo no dia a dia!&nbsp;</b><br>",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#fefce8",
+    "caixaCorBorda": "#fec43e",
+    "novo": false,
+    "caixaCorTexto": "#0a3442"
+   },
+   {
+    "tipo": "pergunta",
+    "texto": "",
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "Atenção às fotos:",
+     "texto": "Caso apareçam estudantes, verifique se há autorização para uso das imagens. Caso contrário, priorize fotos dos materiais e das produções ou registros que não permitam identificá-los(as), como imagens de costas ou com os rostos desfocados.",
+     "videoUrl": "",
+     "iframeH5P": ""
+    },
+    "novo": false
+   },
+   {
+    "tipo": "caixadestaque",
+    "texto": "<b>Vamos aprender com as experiências e trocar ideias sobre práticas que fazem a diferença na Educação Profissional!</b>",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#beeffc",
+    "caixaCorBorda": "#79d3f2",
+    "novo": false,
+    "caixaCorTexto": "#0a3442"
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "cards_icones_setas",
+    "infograficoData": {
+     "titulo": "",
+     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Di%C3%A1logo.png\",\"titulo\":\"O contexto\",\"texto\":\"O curso técnico e a escola em que atua.\",\"corFundo\":\"#beeffc\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Luz%20ideia.png\",\"titulo\":\"A prática\",\"texto\":\"O que foi realizado e como a atividade aconteceu.\",\"corFundo\":\"#fdf0f3\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/M%C3%A3o%20Megafone.png\",\"titulo\":\"O impacto\",\"texto\":\"O que tornou essa experiência significativa para a aprendizagem dos(as) estudantes.&nbsp;\",\"corFundo\":\"#fefce8\"}]"
+    },
+    "novo": false
+   }
+  ]
+ }
 }
