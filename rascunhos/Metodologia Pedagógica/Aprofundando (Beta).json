@@ -1,15 +1,15 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-11-09T13:14:50.028Z",
+ "quando": "2026-11-09T13:16:39.446Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>1</b> - Planejar e estruturar práticas de aprendizagem participativas e contextualizadas, mobilizando conhecimentos da Formação Geral Básica no contexto da Educação Profissional e Tecnológica, por meio da seleção de metodologias, conteúdos e estratégias pedagógicas alinhadas ao perfil da turma, às competências técnicas e às demandas do mundo do trabalho.<br><b>Habilidade:&nbsp;</b><br><b>1.3 -</b> Selecionar conteúdos essenciais e estratégias pedagógicas alinhadas ao perfil da turma e ao avanço do(a) estudante.<br><b>Objeto do Conhecimento:</b><br>Articulação entre competências, habilidades e objetos de conhecimento.<br><b>Conteúdos:</b><br><ul><li>Competências e habilidades da Formação Geral Básica e da Formação Técnica.<br></li><li>Objetos de conhecimento mobilizados no projeto.<br></li><li>Coerência entre objetivos, atividades, evidências e entrega final.<br></li><li>Integração curricular como critério de planejamento.<br></li></ul><b>Objetivo:&nbsp;</b><br>Articular competências, habilidades e objetos de conhecimento da Formação Geral Básica e da Formação Técnica em propostas de projetos técnicos integrados.<br>",
    "objetivo": "Articular competências, habilidades e objetos de conhecimento da Formação Geral Básica e da Formação Técnica em propostas de projetos técnicos integrados.<br>",
    "titulo": "<b>Quais Aprendizagens Sustentam o Projeto?</b>",
-   "conteudo": "O(a) professor(a) já formulou a situação-problema, mas tem dúvidas sobre quais competências, habilidades e objetos de conhecimento selecionar para o projeto.<br><br>Como definir a contribuição da Formação Geral Básica, da Formação Técnica e de outros componentes?<br><br>Nesta aula, você fará essas escolhas, considerando os objetivos de aprendizagem e, quando pertinente, o território e o projeto de vida dos(as) estudantes.<br><br><h3><b><font color=\"#f04770\">Como Selecionar e Articular Aprendizagens&nbsp;</font></b></h3><br>Para fazer a integração, parta dos objetivos de aprendizagem e do desafio do projeto.<br><br>Consulte as Matrizes Curriculares para selecionar competências, habilidades e objetos de conhecimento que contribuam para investigar o problema e construir uma resposta.<br><br>Articule componentes da Formação Geral Básica, da Formação Técnica e outros componentes conforme sua contribuição:&nbsp;<b><br></b>[CAIXADESTAQUE1]<br><br><br>",
-   "conectando": ""
+   "conteudo": "O(a) professor(a) já formulou a situação-problema, mas tem dúvidas sobre quais competências, habilidades e objetos de conhecimento selecionar para o projeto.<br><br>Como definir a contribuição da Formação Geral Básica, da Formação Técnica e de outros componentes?<br><br>Nesta aula, você fará essas escolhas, considerando os objetivos de aprendizagem e, quando pertinente, o território e o projeto de vida dos(as) estudantes.<br><br><h3><b><font color=\"#f04770\">Como Selecionar e Articular Aprendizagens&nbsp;</font></b></h3><br>Para fazer a integração, parta dos objetivos de aprendizagem e do desafio do projeto.<br><br>Consulte as Matrizes Curriculares para selecionar competências, habilidades e objetos de conhecimento que contribuam para investigar o problema e construir uma resposta.<br><br>Articule componentes da Formação Geral Básica, da Formação Técnica e outros componentes conforme sua contribuição:&nbsp;<b><br></b>[CAIXADESTAQUE1]<br>[VIDEO1]<br><h3><b><font color=\"#f04770\">Consulte as Matrizes Curriculares&nbsp;</font></b></h3><br>Consulte as Matrizes Curriculares para identificar competências, habilidades e objetos de conhecimento que contribuam para os objetivos do seu projeto.<br><br>Abra a matriz do curso, explore a aba “Matriz Curricular Completa” e verifique, na parte de integração com a FGB, quais relações fazem sentido para o desafio proposto.<br>[CAIXADESTAQUE2]",
+   "conectando": "Agora, você vai analisar um exemplo de articulação curricular e selecionar aprendizagens para sua proposta, justificando como contribuem para o desenvolvimento do projeto.<br>"
   },
   "blocos": [
    {
@@ -26,9 +26,35 @@
     "tipo": "video",
     "texto": "Veja, em um exemplo, como selecionar e articular aprendizagens de diferentes componentes para desenvolver um projeto técnico integrador.<br>",
     "titulo": "Como os Componentes se Integram no Projeto ",
-    "url": "",
-    "novo": true
+    "url": "https://youtu.be/frI0lAERLVw",
+    "novo": false
+   },
+   {
+    "tipo": "caixadestaque",
+    "texto": "<b>Comece pelo seu componente: localize uma habilidade e acompanhe as relações indicadas na matriz. Verifique como essas aprendizagens, articuladas, ajudarão os(as) estudantes a investigar o problema, tomar decisões ou construir a resposta do projeto.</b><br>",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#fefce8",
+    "caixaCorBorda": "#fec43e",
+    "novo": false,
+    "caixaCorTexto": "#0a3442"
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Em Resumo: o que Orienta a Integração",
+   "texto": "<ul><li>Os objetivos de aprendizagem e o desafio do projeto orientam a seleção de competências, habilidades e objetos de conhecimento.<br></li><li>Diferentes componentes contribuem de forma articulada para uma mesma proposta.<br></li><li>As aprendizagens selecionadas devem aparecer nas atividades, nas evidências de aprendizagem e na entrega final.<br></li><li>As Matrizes Curriculares ajudam a localizar essas aprendizagens e identificar possibilidades de integração.</li><li>Saberes do território e questões relacionadas ao projeto de vida podem compor essa articulação quando contribuírem para os objetivos do projeto.</li></ul>[TOMENOTA1]<br>[DICA1]",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "As relações indicadas nas matrizes são possibilidades de integração. Ao selecionar uma delas, verifique como as habilidades contribuem para enfrentar o desafio do projeto e como essa contribuição aparecerá nas ações e produções dos(as) estudantes.<br>",
+     "novo": false
+    },
+    {
+     "tipo": "dica",
+     "texto": "Comece pelo seu componente: localize uma habilidade e acompanhe as relações indicadas na Matriz Curricular. Verifique como essas aprendizagens, articuladas, ajudarão os(as) estudantes a investigar o problema, tomar decisões ou construir a resposta do projeto.<br>",
+     "novo": false
+    }
+   ]
+  }
  }
 }
