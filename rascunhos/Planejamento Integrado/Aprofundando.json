@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-09T19:35:54.315Z",
+ "quando": "2026-11-09T19:37:54.788Z",
  "autor": "Teste",
  "dados": {
   "agoraSuaVez": {
@@ -27,7 +27,7 @@
    "texto1": "",
    "texto2": "",
    "texto3": "<h3><b><u>Chegamos ao último módulo da nossa formação!</u></b></h3>",
-   "texto5": "Ao longo deste percurso, construímos conhecimentos, desenvolvemos práticas e refletimos sobre diferentes possibilidades para fortalecer o ensino técnico.<br>Neste módulo, vamos consolidar essas aprendizagens, aprofundando a integração curricular, a análise das práticas realizadas e a reflexão sobre os resultados alcançados, com foco no aprimoramento das experiências de ensino e aprendizagem.<br><br>[BOTAO1]<br><br><br>",
+   "texto5": "Ao longo deste percurso, construímos conhecimentos, desenvolvemos práticas e refletimos sobre diferentes possibilidades para fortalecer o ensino técnico.<br>Neste módulo, vamos consolidar essas aprendizagens, aprofundando a integração curricular, a análise das práticas realizadas e a reflexão sobre os resultados alcançados, com foco no aprimoramento das experiências de ensino e aprendizagem.<br><br>[BOTAO1]<br><br>[INFOGRAFICO1]",
    "texto7": ""
   },
   "blocos": [
@@ -36,7 +36,20 @@
     "texto": "Iniciar Módulo 4",
     "corBotao": "#0a3442",
     "linkBotao": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29141",
-    "novo": false
+    "novo": false,
+    "minimizado": true
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "cards_icones_setas",
+    "infograficoData": {
+     "titulo": "<b>E que tal aproveitar este espaço para compartilhar suas experiências?</b><br><br>",
+     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/rede%20leitor.png\",\"titulo\":\"<b>Compartilhe uma boa prática</b><br>\",\"texto\":\"Conte brevemente uma experiência realizada e as aprendizagens que se destacaram.<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2082.png\",\"titulo\":\"<b>Conheça outras experiências</b><br>\",\"texto\":\"Leia os relatos dos(as) colegas e, se desejar, participe da conversa.<br>\",\"corFundo\":\"#fec43e\"}]",
+     "semSetas": "1"
+    },
+    "novo": false,
+    "minimizado": true
    }
   ],
   "tipoBotao": "voltar"
