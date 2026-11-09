@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-11-09T13:18:14.527Z",
+ "quando": "2026-11-09T13:18:22.443Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -22,6 +22,7 @@
    "titulo": "Da Articulação Curricular ao Planejamento",
    "texto": "Articular aprendizagens exige identificar como cada componente contribui para investigar um problema e construir uma resposta.<br><br>O registro elaborado conecta competências, habilidades e objetos de conhecimento às atividades e às evidências de aprendizagem.<br><br>Utilize-o para orientar o planejamento do projeto e dialogar com outros(as) professores(as) sobre as contribuições de cada componente.<br>",
    "blocos": []
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29208"
  }
 }
