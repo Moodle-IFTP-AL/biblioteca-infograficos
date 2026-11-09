@@ -173,6 +173,19 @@
    "criadoEm": "2026-11-04T16:20:51.125Z",
    "atualizadoEm": "2026-11-04T16:17:53.750Z",
    "autor": "Eduarda"
+  },
+  {
+   "id": "79183e80-7778-4d84-95a4-72e71ec3c8b9",
+   "nome": "Considere:",
+   "pasta": "M4U03",
+   "tipo": "cards_icones_setas",
+   "data": {
+    "titulo": "Considere:<br>",
+    "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Arquivo%20preparado.png\",\"titulo\":\"<br>\",\"texto\":\"<b>O que foi realizado conforme o planejado e o que precisou ser ajustado?</b>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2012.png\",\"titulo\":\"<br>\",\"texto\":\"<b>Quais adaptações contribuíram para o desenvolvimento das atividades?</b>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/ALVO.png\",\"titulo\":\"\",\"texto\":\"<b>O que vale a pena manter ou repensar nos próximos planejamentos?&nbsp;</b><br>\"}]"
+   },
+   "criadoEm": "2026-11-09T13:43:04.758Z",
+   "atualizadoEm": "2026-11-09T13:39:55.286Z",
+   "autor": "Eduarda"
   }
  ]
 }
