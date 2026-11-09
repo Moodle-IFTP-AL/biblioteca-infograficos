@@ -1,57 +1,56 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-09T19:37:54.788Z",
+ "quando": "2026-11-09T20:54:28.624Z",
  "autor": "Teste",
  "dados": {
   "agoraSuaVez": {
-   "ativo": false,
+   "ativo": true,
    "titulo": "Planejar para integrar",
    "chamada": "Agora é sua vez de planejar!",
    "cards": [
     {
-     "titulo": "Reúna os(as) colegas",
-     "texto": "Aproveite o HTPC para revisar coletivamente os objetivos, saberes e possibilidades de integração entre a Formação Geral Básica, o Ensino Técnico e outros componentes do pALei."
+     "titulo": "Retomem as experiências",
+     "texto": "Compartilhem práticas, registros e evidências que ajudem a compreender os resultados das integrações realizadas."
     },
     {
-     "titulo": "Planeje de forma integrada",
-     "texto": "Utilize o planejamento já esboçado, o modelo de planejamento da SEDUC/AL e as matrizes curriculares como apoio para consolidar e aprimorar o plano."
+     "titulo": "Definam os próximos passos",
+     "texto": "Identifiquem estratégias a iniciar, interromper ou manter nos próximos planejamentos."
     },
     {
-     "titulo": "Registre e compartilhe",
-     "texto": "Faça o upload do documento na plataforma para evidenciar como os conhecimentos serão mobilizados de forma integrada."
+     "titulo": "Registrem e compartilhem",
+     "texto": "Preencham o documento Análise das Práticas e Integrações do Ano Letivo  e enviem o arquivo preenchido pela plataforma para registrar as reflexões e decisões construídas coletivamente durante o HTPC."
     }
    ]
   },
   "campos": {
-   "texto1": "",
-   "texto2": "",
-   "texto3": "<h3><b><u>Chegamos ao último módulo da nossa formação!</u></b></h3>",
-   "texto5": "Ao longo deste percurso, construímos conhecimentos, desenvolvemos práticas e refletimos sobre diferentes possibilidades para fortalecer o ensino técnico.<br>Neste módulo, vamos consolidar essas aprendizagens, aprofundando a integração curricular, a análise das práticas realizadas e a reflexão sobre os resultados alcançados, com foco no aprimoramento das experiências de ensino e aprendizagem.<br><br>[BOTAO1]<br><br>[INFOGRAFICO1]",
+   "texto1": "<b>Competência:&nbsp;</b><br><b>5 -</b> Planejar percursos formativos integrados e interdisciplinares, articulando saberes gerais e técnicos, competências da BNCC e demandas do mundo do trabalho: desenvolver a capacidade de organizar percursos formativos que articulem teoria e prática, competências gerais e técnicas, conteúdos de diferentes áreas e demandas reais do mundo do trabalho. Envolve integrar saberes gerais e profissionais, planejar sequências e unidades didáticas contextualizadas, construir projetos e atividades interdisciplinarmente articuladas e elaborar planos de aula coerentes com os itinerários formativos e as necessidades dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>5.3 -</b> Colaborar com outros(as) professores(as) na construção de percursos, sequências e projetos articulados, garantindo coerência pedagógica e progressão da aprendizagem.<br><b>Objetos do Conhecimento:</b><br>Sistematização do percurso formativo integrado.<br><b>Conteúdos:</b><br><ul><li>Síntese das estratégias de integração utilizadas.<br></li><li>Análise das práticas e dos resultados ao longo do ano.<br></li><li>Registro das decisões pedagógicas para os próximos planejamentos.</li></ul>",
+   "texto2": "Sistematizar coletivamente as experiências de integração curricular do ano, registrando aprendizagens, desafios e decisões para os próximos planejamentos.<br>",
+   "texto3": "<b>Sistematização das Integrações do Ano</b><br>",
+   "texto5": "Na aula anterior, você refletiu sobre as articulações curriculares realizadas ao longo do ano, comparando o planejamento com o que aconteceu na prática e identificando aprendizagens, desafios e possibilidades de melhoria.<br><br>No HTPC, compartilhe suas reflexões com os(as) colegas, compare experiências e registre as principais conclusões no documento <b>Análise das Práticas e Integrações do Ano Letivo</b>.<br><br><b>Siga as etapas para realizar a atividade:</b><br>[INFOGRAFICO1]<br>[CAIXADESTAQUE1]",
    "texto7": ""
   },
   "blocos": [
    {
-    "tipo": "botao",
-    "texto": "Iniciar Módulo 4",
-    "corBotao": "#0a3442",
-    "linkBotao": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29141",
-    "novo": false,
-    "minimizado": true
-   },
-   {
     "tipo": "infografico",
     "texto": "",
-    "infograficoTipo": "cards_icones_setas",
+    "infograficoTipo": "timeline",
     "infograficoData": {
-     "titulo": "<b>E que tal aproveitar este espaço para compartilhar suas experiências?</b><br><br>",
-     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/rede%20leitor.png\",\"titulo\":\"<b>Compartilhe uma boa prática</b><br>\",\"texto\":\"Conte brevemente uma experiência realizada e as aprendizagens que se destacaram.<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2082.png\",\"titulo\":\"<b>Conheça outras experiências</b><br>\",\"texto\":\"Leia os relatos dos(as) colegas e, se desejar, participe da conversa.<br>\",\"corFundo\":\"#fec43e\"}]",
-     "semSetas": "1"
+     "etapas": "[{\"topico\":\"<b>Retomem as experiências:</b>\",\"texto\":\"resgatem os planejamentos, as reflexões e as evidências produzidas ao longo do ano. Selecionem experiências significativas, considerando as articulações realizadas, os resultados observados e os desafios encontrados.<br>\"},{\"topico\":\"<b>Analisem coletivamente:</b>\",\"texto\":\"compartilhem as experiências e discutam quais estratégias contribuíram para as aprendizagens, quais dificuldades permaneceram e como os diferentes componentes curriculares se articularam.<br>\"},{\"topico\":\"<b>Registrem as decisões:</b><br>\",\"texto\":\"Preencham o documento com as principais conclusões e definam o que começar, parar e continuar fazendo nos próximos planejamentos integrados.&nbsp;<br>\"}]"
     },
+    "novo": false
+   },
+   {
+    "tipo": "caixadestaque",
+    "texto": "<b>Ao final, o grupo terá uma síntese das experiências do ano e das decisões que poderão orientar o planejamento futuro.</b><br>",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#fefce8",
+    "caixaCorBorda": "#fec43e",
     "novo": false,
-    "minimizado": true
+    "caixaCorTexto": "#0a3442"
    }
   ],
-  "tipoBotao": "voltar"
+  "link": "https://ead.educacao.al.gov.br/mod/assign/view.php?id=29220"
  }
 }
