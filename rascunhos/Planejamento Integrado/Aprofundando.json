@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-09T18:38:29.657Z",
+ "quando": "2026-11-09T18:40:21.986Z",
  "autor": "Teste",
  "dados": {
   "agoraSuaVez": {
@@ -27,7 +27,7 @@
    "texto1": "<b>Competência:&nbsp;</b><br><b>5 -</b> Planejar percursos formativos integrados e interdisciplinares, articulando saberes gerais e técnicos, competências da BNCC e demandas do mundo do trabalho: desenvolver a capacidade de organizar percursos formativos que articulem teoria e prática, competências gerais e técnicas, conteúdos de diferentes áreas e demandas reais do mundo do trabalho. Envolve integrar saberes gerais e profissionais, planejar sequências e unidades didáticas contextualizadas, construir projetos e atividades interdisciplinarmente articuladas e elaborar planos de aula coerentes com os itinerários formativos e as necessidades dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>5.3 -</b> Colaborar com outros professores na construção de percursos, sequências e projetos articulados, garantindo a coerência pedagógica e a progressão da aprendizagem.<br><b>Objetos do conhecimento: </b>socialização dos resultados de Projetos Integrados.<br><b>Conteúdos:</b><br><ul><li>socialização dos resultados de aprendizagem;<br></li><li>análise coletiva das aprendizagens desenvolvidas;<br></li><li>identificação de avanços e desafios ao longo do percurso.<br></li></ul><b>Objetivo:</b> analisar coletivamente os resultados dos Projetos Integrados, identificando aprendizagens, avanços e desafios, a fim de definir possibilidades de aprimoramento das práticas pedagógicas.<br>",
    "texto2": "Analisar coletivamente os resultados dos Projetos Integrados, identificando aprendizagens, avanços e desafios, a fim de definir possibilidades de aprimoramento das práticas pedagógicas.",
    "texto3": "<b>Compartilhando os resultados do projeto&nbsp;</b>",
-   "texto5": "Na aula anterior, vimos como avaliar um Projeto Integrado para além do produto final, relacionando o planejamento, as evidências do percurso e os resultados apresentados.<br><br>Também refletimos sobre como identificar as aprendizagens desenvolvidas, reconhecer avanços e dificuldades e identificar aspectos da prática pedagógica que podem ser aprimorados.<br><br>Agora, é hora de compartilhar essas análises com os(as) demais docentes, confrontar percepções e construir, coletivamente, possibilidades de melhoria para os próximos projetos.<br><br><h3><b><font color=\"#f04770\">Da análise aos encaminhamentos</font><br><br></b></h3>Comecem compartilhando as evidências do processo e os produtos finais dos diferentes grupos. Retomem os objetivos e os critérios previstos no planejamento para discutir os resultados.<br><br><b>Orientem a conversa pelas seguintes perguntas:</b><br><ul><li>Quais aprendizagens e avanços foram identificados?<br></li><li>Quais dificuldades surgiram em diferentes grupos?<br></li><li>Como os conhecimentos técnicos e os demais componentes curriculares envolvidos se articularam?<br></li><li>Quais estratégias pedagógicas contribuíram para as aprendizagens?<br></li><li>O que precisa ser mantido, ajustado ou aprimorado?<br></li></ul>Registrem as principais conclusões e os encaminhamentos acordados no <b>Documento de Análise do Projeto Integrado</b>.<br>[CAIXADESTAQUE1]<div><br></div><div><br></div>",
+   "texto5": "Na aula anterior, vimos como avaliar um Projeto Integrado para além do produto final, relacionando o planejamento, as evidências do percurso e os resultados apresentados.<br><br>Também refletimos sobre como identificar as aprendizagens desenvolvidas, reconhecer avanços e dificuldades e identificar aspectos da prática pedagógica que podem ser aprimorados.<br><br>Agora, é hora de compartilhar essas análises com os(as) demais docentes, confrontar percepções e construir, coletivamente, possibilidades de melhoria para os próximos projetos.<br><br><h3><b><font color=\"#f04770\">Da análise aos encaminhamentos</font><br><br></b></h3>Comecem compartilhando as evidências do processo e os produtos finais dos diferentes grupos. Retomem os objetivos e os critérios previstos no planejamento para discutir os resultados.<br><br><b>Orientem a conversa pelas seguintes perguntas:</b><br><ul><li>Quais aprendizagens e avanços foram identificados?<br></li><li>Quais dificuldades surgiram em diferentes grupos?<br></li><li>Como os conhecimentos técnicos e os demais componentes curriculares envolvidos se articularam?<br></li><li>Quais estratégias pedagógicas contribuíram para as aprendizagens?<br></li><li>O que precisa ser mantido, ajustado ou aprimorado?<br></li></ul>Registrem as principais conclusões e os encaminhamentos acordados no <b>Documento de Análise do Projeto Integrado</b>.<br>[CAIXADESTAQUE1]<div><br></div><div>[BOTAO1]</div>",
    "texto7": ""
   },
   "blocos": [
@@ -43,10 +43,10 @@
    },
    {
     "tipo": "botao",
-    "texto": "",
-    "corBotao": "#79d3f2",
+    "texto": "Clique aqui para acessar o documento de sua tarefa.📄",
+    "corBotao": "#f04770",
     "linkBotao": "https://docs.google.com/document/d/1n-0bPSj-qrs5wwU1twwIm9j9PLX9yhRBBLdd8BldNvE/edit?usp=sharing",
-    "novo": true
+    "novo": false
    }
   ],
   "link": "https://ead.educacao.al.gov.br/mod/assign/view.php?id=29177"
