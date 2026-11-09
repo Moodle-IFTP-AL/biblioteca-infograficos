@@ -1,28 +1,27 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-11-09T13:18:22.443Z",
+ "quando": "2026-11-09T13:34:30.144Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Elaborar um registro de articulação curricular para seu projeto técnico integrado, relacionando competências, habilidades e objetos de conhecimento da Formação Geral Básica e da Formação Técnica às atividades e às evidências de aprendizagem, com justificativa das escolhas.<br>",
-   "titulo": "<b>Da Matriz ao Projeto</b><br>",
-   "conteudo": "Agora é a sua vez de colocar em prática o que aprendeu!<br><br>Primeiro, analise um exemplo de articulação entre diferentes componentes curriculares.<br><br>Depois, retome sua situação-problema e consulte a Matriz Curricular do curso em que atua para selecionar competências, habilidades e objetos de conhecimento da Formação Geral Básica e da Formação Técnica.<br><br>Relacione essas aprendizagens às atividades e às evidências do projeto, verificando como contribuem para investigar o problema e construir uma resposta fundamentada.<br>",
+   "objetivo": "Formular e revisar uma situação-problema integradora para sua turma, articulando contexto real, desafio técnico e conhecimentos da Formação Geral Básica e da Formação Técnica, conforme os objetivos de aprendizagem.<br>",
+   "titulo": "<b>Uma Situação-Problema Integradora</b><br>",
+   "conteudo": "<b>Por que Formular Boas Situações-Problema? \n</b><br>\n<br>Uma situação-problema bem formulada ajuda os(as) estudantes a perceber o que precisam investigar e por que determinados conhecimentos são necessários. \n<br>\n<br>Agora, você vai elaborar um enunciado para sua turma, considerando um problema do seu contexto, as aprendizagens pretendidas e as condições da escola. \n<br>\n<br>A proposta deverá conectar a Formação Geral Básica à Formação Técnica e abrir espaço para decisões e respostas fundamentadas.<br>",
    "reflexao": ""
   },
   "atividades": [
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31897\" width=\"1237\" height=\"487\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U02-APLI-MULTI\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31900\" width=\"1237\" height=\"603\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U03-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    },
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31899\" width=\"1237\" height=\"573\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U04-APLI-DOC\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31901\" width=\"1237\" height=\"413\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U03-APLI-MULTI\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    }
   ],
   "conclusao": {
-   "titulo": "Da Articulação Curricular ao Planejamento",
-   "texto": "Articular aprendizagens exige identificar como cada componente contribui para investigar um problema e construir uma resposta.<br><br>O registro elaborado conecta competências, habilidades e objetos de conhecimento às atividades e às evidências de aprendizagem.<br><br>Utilize-o para orientar o planejamento do projeto e dialogar com outros(as) professores(as) sobre as contribuições de cada componente.<br>",
+   "titulo": "Da Formulação ao Planejamento Docente",
+   "texto": "Nesta aula, você formulou uma situação-problema integradora, articulando a realidade dos(as) estudantes, os objetivos de aprendizagem e conhecimentos da Formação Geral Básica e da Formação Técnica.<br><br>Sua produção é um ponto de partida para planejar uma prática em que os(as) estudantes investiguem, tomem decisões e justifiquem suas escolhas.<br><br>Utilize esse enunciado no planejamento e defina os apoios necessários para desenvolver a proposta com sua turma, considerando as possibilidades da escola.<br>",
    "blocos": []
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29208"
+  }
  }
 }
