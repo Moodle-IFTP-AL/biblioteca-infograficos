@@ -1,7 +1,14 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão e Operações",
- "quando": "2026-11-09T18:33:12.370Z",
+ "quando": "2026-11-09T18:33:38.331Z",
  "autor": "Eduarda",
- "dados": {}
+ "dados": {
+  "campos": {
+   "objetivo": "Analisar uma prática técnica já realizada, relacionando o que foi planejado ao que aconteceu na experiência e identificando aspectos que precisam ser aprimorados.<br>",
+   "titulo": "<b>Sua vez de analisar</b><br>",
+   "conteudo": "Escolha uma prática técnica significativa que você já tenha realizado com sua turma. Os registros a seguir ajudarão a comparar planejamento, execução e aprendizagem, reconhecendo tanto os aspectos positivos quanto os pontos que merecem maior atenção.<br>",
+   "reflexao": ""
+  }
+ }
 }
