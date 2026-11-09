@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-11-09T13:17:37.925Z",
+ "quando": "2026-11-09T13:18:14.527Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -9,6 +9,19 @@
    "titulo": "<b>Da Matriz ao Projeto</b><br>",
    "conteudo": "Agora é a sua vez de colocar em prática o que aprendeu!<br><br>Primeiro, analise um exemplo de articulação entre diferentes componentes curriculares.<br><br>Depois, retome sua situação-problema e consulte a Matriz Curricular do curso em que atua para selecionar competências, habilidades e objetos de conhecimento da Formação Geral Básica e da Formação Técnica.<br><br>Relacione essas aprendizagens às atividades e às evidências do projeto, verificando como contribuem para investigar o problema e construir uma resposta fundamentada.<br>",
    "reflexao": ""
+  },
+  "atividades": [
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31897\" width=\"1237\" height=\"487\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U02-APLI-MULTI\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   },
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31899\" width=\"1237\" height=\"573\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U04-APLI-DOC\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   }
+  ],
+  "conclusao": {
+   "titulo": "Da Articulação Curricular ao Planejamento",
+   "texto": "Articular aprendizagens exige identificar como cada componente contribui para investigar um problema e construir uma resposta.<br><br>O registro elaborado conecta competências, habilidades e objetos de conhecimento às atividades e às evidências de aprendizagem.<br><br>Utilize-o para orientar o planejamento do projeto e dialogar com outros(as) professores(as) sobre as contribuições de cada componente.<br>",
+   "blocos": []
   }
  }
 }
