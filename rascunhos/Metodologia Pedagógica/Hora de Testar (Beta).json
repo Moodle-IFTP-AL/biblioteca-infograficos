@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-11-09T13:34:30.144Z",
+ "quando": "2026-11-09T13:34:40.465Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -22,6 +22,7 @@
    "titulo": "Da Formulação ao Planejamento Docente",
    "texto": "Nesta aula, você formulou uma situação-problema integradora, articulando a realidade dos(as) estudantes, os objetivos de aprendizagem e conhecimentos da Formação Geral Básica e da Formação Técnica.<br><br>Sua produção é um ponto de partida para planejar uma prática em que os(as) estudantes investiguem, tomem decisões e justifiquem suas escolhas.<br><br>Utilize esse enunciado no planejamento e defina os apoios necessários para desenvolver a proposta com sua turma, considerando as possibilidades da escola.<br>",
    "blocos": []
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29187"
  }
 }
