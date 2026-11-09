@@ -1,0 +1,48 @@
+{
+ "versao": 1,
+ "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Tecnologia da Informação",
+ "quando": "2026-11-09T18:41:16.369Z",
+ "autor": "Eduarda",
+ "dados": {
+  "campos": {
+   "objetivo": "Analisar uma prática técnica já realizada, relacionando o que foi planejado ao que aconteceu na experiência e identificando aspectos que precisam ser aprimorados.",
+   "titulo": "<b>Sua vez de analisar</b>",
+   "conteudo": "Chegou o momento de exercitar sua visão reflexiva. Utilize a ferramenta a seguir para mapear uma prática técnica de Tecnologia da Informação que você já realizou, identificando aprendizados, desafios e possibilidades concretas de aprimoramento didático.<br>",
+   "reflexao": ""
+  },
+  "atividades": [
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31816\" width=\"1103\" height=\"573\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"TI-M4-U01-APLI-DOC\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   },
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31817\" width=\"1112\" height=\"515\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"TI-M4-U01-APLI-MULTI\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   }
+  ],
+  "conclusao": {
+   "titulo": "A reflexão como parte da prática docente",
+   "texto": "Dedicar tempo para analisar criticamente suas aulas de Tecnologia da Informação fortalece a intencionalidade pedagógica e eleva a qualidade do ensino técnico.<br><br>Reconhecer o que funcionou e o que precisa de ajustes transforma a experiência em aprendizado docente contínuo.<br><br>",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "Revisite as aulas abaixo para articular os desafios do mundo do trabalho ao seu planejamento e transformar a reflexão em ação.<br>",
+     "idRevisar": "mw9m0gf8g36m9p",
+     "itensRevisar": [
+      {
+       "id": "mw9m0laodf2nzn",
+       "texto": "Módulo 1 – 1ª aula síncrona: Transformação de problemas reais em práticas técnicas.&nbsp;&nbsp;<br>",
+       "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=22813"
+      },
+      {
+       "id": "mw9m0ljkq4oy7z",
+       "texto": "Módulo 2 – Unidade 5: Planejamento de práticas técnicas a partir de problemas profissionais.&nbsp;<br>",
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24785"
+      }
+     ],
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": true
+    }
+   ]
+  }
+ }
+}
