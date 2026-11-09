@@ -1,11 +1,11 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-09T13:42:18.916Z",
+ "quando": "2026-11-09T13:42:37.213Z",
  "autor": "Eduarda",
  "dados": {
   "agoraSuaVez": {
-   "ativo": true,
+   "ativo": false,
    "titulo": "Planejar para integrar",
    "chamada": "Agora é sua vez de planejar!",
    "cards": [
@@ -67,9 +67,10 @@
    }
   ],
   "conclusao": {
-   "titulo": "Em Resumo: ",
-   "texto": "",
+   "titulo": "Em Resumo:",
+   "texto": "Analisar as experiências do ano permite reconhecer como a integração curricular se concretizou, quais aprendizagens foram favorecidas e o que ainda precisa ser aprimorado.<br><br>No próximo HTPC, compartilhe suas reflexões com os(as) demais professores(as) para sistematizar os aprendizados coletivos e definir possibilidades de melhoria para os próximos planejamentos integrados.<br>",
    "blocos": []
-  }
+  },
+  "tipoBotao": "bibliografia"
  }
 }
