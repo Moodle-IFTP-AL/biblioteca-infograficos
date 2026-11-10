@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-11-10T14:40:02.369Z",
+ "quando": "2026-11-10T14:40:48.247Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -38,6 +38,37 @@
     },
     "novo": false
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "",
+   "texto": "",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "Revisite as aulas abaixo para retomar o planejamento das etapas e refletir sobre sua efetividade diante das condições reais de execução:<br>",
+     "idRevisar": "mwasvubyxcpi94",
+     "itensRevisar": [
+      {
+       "id": "mwasvz90hcaifa",
+       "texto": "Módulo 2 –Unidade 5: Planejamento de Práticas Técnicas.&nbsp;<br>",
+       "link": ""
+      },
+      {
+       "id": "mwasvzfjrt5h8c",
+       "texto": "Módulo 2 - Unidade 6: Organização de Sequência Prática Técnica Progressiva.&nbsp;<br>",
+       "link": ""
+      },
+      {
+       "id": "mwasvzk073a947",
+       "texto": "Módulo 3 – Unidade 1: Planejamento de Oficinas Técnicas.&nbsp;<br>",
+       "link": ""
+      }
+     ],
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": true
+    }
+   ]
+  }
  }
 }
