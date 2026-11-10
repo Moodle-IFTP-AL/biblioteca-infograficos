@@ -1,13 +1,13 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-11-10T14:35:47.633Z",
+ "quando": "2026-11-10T14:37:47.467Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "objetivo": "Avaliar o impacto de uma decisão tomada durante a execução de uma prática, justificando  sua efetividade  para o desenvolvimento da aula e para o alcance dos objetivos de aprendizagem.<br>",
    "titulo": "<b>Analisando Decisões e Impactos na Prática&nbsp;</b><br>",
-   "conteudo": "",
+   "conteudo": "[H5P1]<br><h3><b><font color=\"#f04770\">Palavras-Chave e suas Variações</font></b></h3>[INFOGRAFICO1]<br><b>Do Planejado ao Realizado: Analise sua Prática<br><br></b>",
    "reflexao": ""
   },
   "blocos": [
@@ -16,7 +16,17 @@
     "texto": "",
     "titulo": "Atividade 1",
     "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31910\" width=\"1794\" height=\"729\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M4-U02-APLI-ESSAY\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
-    "novo": true
+    "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "blocos_coloridos",
+    "infograficoData": {
+     "introducao": "",
+     "blocos": "[{\"titulo\":\"Decisão/Ajuste\",\"texto\":\"Escolha, readequação, intervenção, alteração, estratégia adotada.\"},{\"titulo\":\"Desafio\",\"texto\":\"Imprevisto, dificuldade, problema, limitação de recursos.&nbsp;<br>\"},{\"titulo\":\"Impacto\",\"texto\":\"Resultado, aprendizagem, alcance do objetivo.&nbsp;<br>\"}]"
+    },
+    "novo": false
    }
   ]
  }
