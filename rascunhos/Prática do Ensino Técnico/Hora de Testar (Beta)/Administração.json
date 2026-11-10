@@ -1,52 +1,14 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-11-10T14:21:50.157Z",
+ "quando": "2026-11-10T14:32:49.758Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Analisar evidências de aprendizagem em uma prática técnica para propor encaminhamentos pedagógicos.<br>",
-   "titulo": "<b>Analisando Evidências da Prática&nbsp;</b><br>",
-   "conteudo": "<h3><br></h3>",
-   "reflexao": "<h3><b><font color=\"#f04770\">Planejando Novos Caminhos<br><br></font></b></h3>Ao analisar uma prática, procure ir além do resultado apresentado.<br><br>Relacione as evidências aos objetivos de aprendizagem e utilize o que observou para decidir os próximos encaminhamentos.<br><br>Assim, cada atividade pode orientar novas oportunidades de desenvolvimento dos(as) estudantes.<br>"
-  },
-  "blocos": [],
-  "atividades": [
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31935\" width=\"1237\" height=\"690\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M4-U04-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   }
-  ],
-  "conclusao": {
-   "titulo": "",
-   "texto": "[REVISAR1]",
-   "blocos": [
-    {
-     "tipo": "revisar",
-     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:&nbsp;<br>",
-     "idRevisar": "mwas5k6dfbqsat",
-     "itensRevisar": [
-      {
-       "id": "mwas5qggqnu0x4",
-       "texto": "Unidade 1: Acompanhamento da Aprendizagem.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27241"
-      },
-      {
-       "id": "mwas5qpabrlqll",
-       "texto": "Unidade 2: Evidências de Aprendizagem.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27282"
-      },
-      {
-       "id": "mwas5qy03gevdv",
-       "texto": "Unidade 3: Registro Pedagógico sem Burocratização.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27309"
-      }
-     ],
-     "linkBotao": "",
-     "textoBotao": "",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29215"
+   "objetivo": "Avaliar o impacto de uma decisão tomada durante a execução de uma prática, justificando  sua efetividade  para o desenvolvimento da aula e para o alcance dos objetivos de aprendizagem.<br>",
+   "titulo": "<b>Analisando Decisões e Impactos na Prática&nbsp;</b><br>",
+   "conteudo": "",
+   "reflexao": ""
+  }
  }
 }
