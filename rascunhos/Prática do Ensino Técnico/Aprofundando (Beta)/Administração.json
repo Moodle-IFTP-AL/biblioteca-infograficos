@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-11-10T13:39:30.413Z",
+ "quando": "2026-11-10T13:39:41.209Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -65,8 +65,14 @@
   ],
   "conclusao": {
    "titulo": "Em resumo: para intervir com intencionalidade…",
-   "texto": "<ul><li><b>Identifique a necessidade:</b> observe as dificuldades apresentadas pelo(a) estudante durante a prática.<br></li><li><b>Analise a intervenção: </b>considere se as orientações, demonstrações ou outros apoios oferecidos foram adequados à necessidade identificada.<br></li><li><b>Observe os efeitos: </b>verifique se houve avanços na execução, maior segurança e redução da necessidade de ajuda.<br></li><li><b>Aprimore a mediação: </b>identifique o que funcionou e o que pode ser mantido ou ajustado para favorecer a aprendizagem e a autonomia progressiva do(a) estudante.<br></li></ul>",
-   "blocos": []
+   "texto": "<ul><li><b>Identifique a necessidade:</b> observe as dificuldades apresentadas pelo(a) estudante durante a prática.<br></li><li><b>Analise a intervenção: </b>considere se as orientações, demonstrações ou outros apoios oferecidos foram adequados à necessidade identificada.<br></li><li><b>Observe os efeitos: </b>verifique se houve avanços na execução, maior segurança e redução da necessidade de ajuda.<br></li><li><b>Aprimore a mediação: </b>identifique o que funcionou e o que pode ser mantido ou ajustado para favorecer a aprendizagem e a autonomia progressiva do(a) estudante.<br>[DICA1]</li></ul>",
+   "blocos": [
+    {
+     "tipo": "dica",
+     "texto": "Ao perceber que um(a) estudante está com dificuldade, faça perguntas para compreender melhor o que está acontecendo: “Em qual etapa você teve dificuldade?”, “O que não ficou claro?” ou “O que você já tentou fazer?”. Essas respostas ajudam a identificar o apoio necessário.",
+     "novo": false
+    }
+   ]
   }
  }
 }
