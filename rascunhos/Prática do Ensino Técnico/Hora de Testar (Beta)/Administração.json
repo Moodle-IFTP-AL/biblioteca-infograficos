@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-11-10T14:21:28.282Z",
+ "quando": "2026-11-10T14:21:42.920Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -18,7 +18,7 @@
   ],
   "conclusao": {
    "titulo": "",
-   "texto": "",
+   "texto": "[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -38,12 +38,12 @@
       {
        "id": "mwas5qy03gevdv",
        "texto": "Unidade 3: Registro Pedagógico sem Burocratização.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27309"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
   }
