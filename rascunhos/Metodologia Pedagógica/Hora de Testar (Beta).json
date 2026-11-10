@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-11-10T17:05:15.092Z",
+ "quando": "2026-11-10T17:05:23.842Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -24,7 +24,7 @@
    "texto": "Você concluiu esta aula com critérios para distinguir estratégias didáticas e reconhecer o que caracteriza um Projeto Integrado.<br><br>Na próxima aula, você vai analisar situações da escola, do território e do mundo do trabalho para identificar problemas que possam orientar a elaboração de projetos contextualizados na educação profissional.<br>",
    "blocos": []
   },
-  "tipoBotao": "voltar",
-  "link": "https://ead.educacao.al.gov.br/course/view.php?id=280#section-77"
+  "tipoBotao": "bibliografia",
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=32064"
  }
 }
