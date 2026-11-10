@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-11-10T17:00:28.525Z",
+ "quando": "2026-11-10T17:00:36.397Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -25,6 +25,6 @@
    "blocos": []
   },
   "tipoBotao": "bibliografia",
-  "link": "https://ead.educacao.al.gov.br/course/view.php?id=280#section-77"
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31919"
  }
 }
