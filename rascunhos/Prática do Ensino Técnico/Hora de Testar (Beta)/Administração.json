@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-11-10T13:42:36.067Z",
+ "quando": "2026-11-10T13:43:27.543Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -20,7 +20,7 @@
   ],
   "conclusao": {
    "titulo": "Aprender com a própria prática",
-   "texto": "Chegamos ao final de mais uma etapa! Compreender e aprimorar as intervenções pedagógicas durante as práticas técnicas — seja na gestão de acervos, na arrumação, na catalogação ou em atividades em laboratórios de informática — é essencial para conectar os(as) estudantes do ensino técnico&nbsp; às exigências reais do mundo do trabalho. Parabéns pelo empenho e dedicação ao longo desta unidade!<br>",
+   "texto": "Chegamos ao final de mais uma etapa! Compreender e aprimorar as intervenções pedagógicas durante as práticas técnicas — seja na gestão de acervos, na arrumação, na catalogação ou em atividades em laboratórios de informática — é essencial para conectar os(as) estudantes do ensino técnico&nbsp; às exigências reais do mundo do trabalho. Parabéns pelo empenho e dedicação ao longo desta unidade!<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -40,12 +40,12 @@
       {
        "id": "mwaqsew6kswy61",
        "texto": "Módulo 3 – Encontro síncrono 1: Gestão da prática técnica.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27061"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
   }
