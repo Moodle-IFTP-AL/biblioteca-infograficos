@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-11-10T14:29:47.801Z",
+ "quando": "2026-11-10T14:30:30.640Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento&nbsp; dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do Conhecimento:</b><br>Coerência entre planejamento e execução da prática técnica.<br><b>Conteúdos:</b><br><ul><li>O que foi planejado e o que foi realizado.<br></li><li>Relação entre etapas planejadas e desenvolvimento da prática.<br></li><li>Adequação dos procedimentos às condições encontradas.<br></li><li>Ajustes realizados durante a execução.<br></li><li>Decisões que favoreceram ou dificultaram o desenvolvimento da prática.<br></li></ul><b>Objetivo da Aula:</b><br>Analisar a relação entre o planejamento e a execução de uma prática técnica já realizada, identificando decisões e ajustes que assegurem o alcance dos objetivos pretendidos.<br>",
    "objetivo": "Identificar situações imprevistas durante a execução de uma aula prática e analisar decisões que permitam ajustar o planejamento sem comprometer os objetivos de aprendizagem.<br>",
    "titulo": "<b>Do Planejamento à Ação: a Prática Reflexiva&nbsp;</b><br>",
-   "conteudo": "Durante a execução de aulas práticas no Ensino Técnico, imprevistos são inevitáveis e fazem parte do cotidiano docente:<br><ul><li>Equipamentos podem falhar.<br></li><li>O tempo pode ser insuficiente.<br></li><li>Os(as) estudantes podem demandar mediações diferentes.</li></ul>Observar criticamente esses momentos não significa reconhecer falhas no planejamento, mas compreender como as escolhas feitas durante a realização da prática garantem a intencionalidade pedagógica e aperfeiçoam a transposição didática das rotinas profissionais.<br><br><h3><b><font color=\"#f04770\">O que Observar Durante a Execução?&nbsp;<br><br></font></b></h3>Ao analisar sua atuação prática, preste atenção aos seguintes pontos:<br>[INFOGRAFICO1]<br><br><h3><b><font color=\"#f04770\">Do Planejamento à Execução</font></b></h3>[INFOGRAFICO2]<br>Essa observação contínua favorece decisões oportunas e intencionais, possibilitando adequar estratégias e recursos sem perder de vista os objetivos de aprendizagem, preservar o rigor técnico e promover a autonomia e a aprendizagem efetiva dos(as) estudantes.<br>[VIDEO1]<br>[INFOGRAFICO3]<br>Ajustar não significa abandonar o planejamento, mas utilizá-lo como referência para responder à realidade com segurança, flexibilidade e intencionalidade pedagógica.<br>",
+   "conteudo": "Durante a execução de aulas práticas no Ensino Técnico, imprevistos são inevitáveis e fazem parte do cotidiano docente:<br><ul><li>Equipamentos podem falhar.<br></li><li>O tempo pode ser insuficiente.<br></li><li>Os(as) estudantes podem demandar mediações diferentes.</li></ul>Observar criticamente esses momentos não significa reconhecer falhas no planejamento, mas compreender como as escolhas feitas durante a realização da prática garantem a intencionalidade pedagógica e aperfeiçoam a transposição didática das rotinas profissionais.[GLOSSARIO1]<br><br><h3><b><font color=\"#f04770\">O que Observar Durante a Execução?&nbsp;<br><br></font></b></h3>Ao analisar sua atuação prática, preste atenção aos seguintes pontos:<br>[INFOGRAFICO1]<br><br><h3><b><font color=\"#f04770\">Do Planejamento à Execução</font></b></h3>[INFOGRAFICO2]<br>Essa observação contínua favorece decisões oportunas e intencionais, possibilitando adequar estratégias e recursos sem perder de vista os objetivos de aprendizagem, preservar o rigor técnico e promover a autonomia e a aprendizagem efetiva dos(as) estudantes.<br>[VIDEO1]<br>[INFOGRAFICO3]<br>Ajustar não significa abandonar o planejamento, mas utilizá-lo como referência para responder à realidade com segurança, flexibilidade e intencionalidade pedagógica.<br>",
    "conectando": "Agora que compreendeu a importância dos ajustes na prática, é hora de analisar e avaliar suas próprias escolhas pedagógicas!<br>"
   },
   "blocos": [
@@ -45,6 +45,21 @@
     "infograficoData": {
      "mapa": "{\"centro\":\"<b>A Relação Dinâmica entre Planejamento e&nbsp; Execução</b><br>\",\"cards\":[{\"frente\":\"RECONHECER\",\"verso\":\"Ao analisar uma prática realizada, reconheça as diferenças entre o que foi previsto no planejamento e as condições encontradas durante a execução.&nbsp;<br>\"},{\"frente\":\"COMPREENDER\",\"verso\":\"Compreenda os efeitos das decisões e dos ajustes realizados durante a prática, considerando como eles afetaram a condução da atividade e as aprendizagens.&nbsp;<br>\"},{\"frente\":\"IDENTIFICAR\",\"verso\":\"Identifique possibilidades de aprimoramento para futuras práticas, utilizando o planejamento como referência para responder à realidade com segurança, flexibilidade e intencionalidade pedagógica.&nbsp;<br>\"}]}"
     },
+    "novo": false
+   },
+   {
+    "tipo": "glossario",
+    "texto": "",
+    "termos": [
+     {
+      "termo": "Intencionalidade pedagógica",
+      "definicao": "Clareza sobre o objetivo de aprendizagem que orienta as escolhas durante o planejamento e a condução da prática.&nbsp;<br>"
+     },
+     {
+      "termo": "Transposição didática",
+      "definicao": "Processo de transformar um saber técnico/científico em um saber ensinável e prático.&nbsp;&nbsp;<br>"
+     }
+    ],
     "novo": false
    }
   ]
