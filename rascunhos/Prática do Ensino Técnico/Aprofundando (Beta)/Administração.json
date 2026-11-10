@@ -1,7 +1,29 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-11-06T18:24:32.376Z",
- "autor": "Teste",
- "dados": {}
+ "quando": "2026-11-10T13:34:45.831Z",
+ "autor": "Eduarda",
+ "dados": {
+  "campos": {
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do conhecimento: </b>mediação docente durante a prática técnica.<br><b>Conteúdos:</b><br><ul><li>intervenções realizadas durante a prática;<br></li><li>orientações e demonstrações utilizadas;<br></li><li>situações que exigiram tomada de decisão;<br></li><li>ajustes realizados diante das dificuldades dos estudantes;<br></li><li>relação entre intervenção docente e autonomia dos estudantes;<br></li><li>efeitos das intervenções observados na prática.<br></li></ul><b>Objetivo da aula:</b> analisar as intervenções realizadas durante uma prática técnica, relacionando-as às necessidades observadas e identificando possibilidades de aprimoramento da mediação docente.<br>",
+   "objetivo": "Analisar as intervenções docentes realizadas durante uma prática técnica, relacionando as necessidades observadas aos efeitos produzidos e identificando possibilidades de aprimoramento da mediação.<br>",
+   "titulo": "<b>Intervir para Ensinar: Análise da Mediação Docente</b><br>",
+   "conteudo": "<h3><b><font color=\"#f04770\">Quando surge uma dificuldade&nbsp;</font></b></h3><br>Durante uma aula prática de Técnicas de Organização em uma biblioteca escolar, um(a) estudante demonstra confusão ao aplicar as regras de catalogação e classificação de livros de literatura alagoana.<br><br>Diante da insegurança do(a) estudante em relação às estantes, o(a) professor(a) vai até ele(a) e organiza os livros de literatura, dando o exemplo de como fazer.<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">A intervenção durante a prática</font></b></h3><br>A sua mediação ocorre antes e durante a prática e exige observar atentamente como os(as) estudantes realizam as atividades, identificando dificuldades e tomando decisões rápidas.<br><br>Em Administração, em atividades práticas de organização e catalogação, por exemplo, são necessárias orientações prévias e demonstrações para fortalecer a segurança dos(as) estudantes na realização dessas atividades.<br><br>Contudo, é fundamental ir além do suporte imediato. É preciso compreender:<br><ul><li>por que a intervenção foi necessária;<br></li><li>como foi conduzida;<br></li><li>quais foram os seus efeitos reais no aprendizado e na autonomia do(a) futuro(a) profissional.<br></li></ul><br>",
+   "conectando": ""
+  },
+  "blocos": [
+   {
+    "tipo": "pergunta",
+    "texto": "",
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "O que observar na intervenção?",
+     "texto": "Quais indícios mostrariam se a intervenção do(a) professor(a) ajudou ou não na superação da dificuldade do(a) estudante?<br>",
+     "videoUrl": "",
+     "iframeH5P": ""
+    },
+    "novo": false
+   }
+  ]
+ }
 }
