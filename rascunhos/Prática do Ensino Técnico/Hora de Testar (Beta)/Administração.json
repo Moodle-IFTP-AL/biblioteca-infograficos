@@ -1,7 +1,53 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-11-09T18:38:43.317Z",
+ "quando": "2026-11-10T13:42:07.801Z",
  "autor": "Eduarda",
- "dados": {}
+ "dados": {
+  "campos": {
+   "objetivo": "Aplicar critérios de análise da mediação docente em uma situação de prática técnica, relacionando a necessidade observada, a intervenção, os efeitos e as possibilidades de aprimoramento.<br>",
+   "titulo": "<b>Analisando a Mediação na Prática&nbsp;</b><br>",
+   "conteudo": "É hora de analisar uma situação de prática técnica. Para isso, relacione a dificuldade do(a) estudante à intervenção realizada e identifique os impactos da intervenção na autonomia. Utilize este exemplo para refletir sobre a sua própria prática.<br><br><h3><b><font color=\"#f04770\">Uma situação para analisar&nbsp;</font></b></h3><br>Durante uma atividade de organização do acervo de uma biblioteca escolar, um(a) estudante apresenta dificuldades em ordenar livros de acordo com a Classificação Decimal de Dewey (CDD). Ao perceber que ele(a) consulta repetidamente os códigos sem conseguir definir a posição das obras, a professora demonstra a classificação de um exemplar e acompanha a organização de outros dois exemplares. Depois, o(a) estudante continua a tarefa sozinho(a), mas ainda comete alguns erros na conferência final.<br>",
+   "reflexao": "<h3><b><font color=\"#f04770\">Refletindo sobre sua prática&nbsp;</font></b></h3><br>Pense em uma situação recente de sua prática docente em que um(a) estudante apresentou dificuldade em uma atividade técnica.<br><ul><li>Que necessidade você observou?<br></li><li>Qual intervenção realizou?<br></li><li>Como os efeitos dessa ação poderiam ser aprimorados para promover maior autonomia do(a) estudante?</li></ul>"
+  },
+  "atividades": [
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31930\" width=\"1237\" height=\"523\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M4-U03-APLI-MULTI1\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   },
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31929\" width=\"1237\" height=\"519\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M4-U03-APLI-MULTI2\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   }
+  ],
+  "conclusao": {
+   "titulo": "Aprender com a própria prática",
+   "texto": "Chegamos ao final de mais uma etapa! Compreender e aprimorar as intervenções pedagógicas durante as práticas técnicas — seja na gestão de acervos, na arrumação, na catalogação ou em atividades em laboratórios de informática — é essencial para conectar os(as) estudantes do ensino técnico&nbsp; às exigências reais do mundo do trabalho. Parabéns pelo empenho e dedicação ao longo desta unidade!<br>",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "Retome as aulas abaixo para rever como a demonstração e a gestão da prática contribuem para a mediação docente durante as atividades técnicas:&nbsp;<br>",
+     "idRevisar": "mwaqs7xfx6cg24",
+     "itensRevisar": [
+      {
+       "id": "mwaqsczovysni1",
+       "texto": "Módulo 1 – Unidade 6: Demonstração técnica aplicada ao projeto ABP.",
+       "link": ""
+      },
+      {
+       "id": "mwaqsd8dps3o3f",
+       "texto": "Módulo 1 – Unidade 8: Preparação de demonstrações técnicas.&nbsp;<br>",
+       "link": ""
+      },
+      {
+       "id": "mwaqsew6kswy61",
+       "texto": "Módulo 3 – Encontro síncrono 1: Gestão da prática técnica.&nbsp;<br>",
+       "link": ""
+      }
+     ],
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": true
+    }
+   ]
+  }
+ }
 }
