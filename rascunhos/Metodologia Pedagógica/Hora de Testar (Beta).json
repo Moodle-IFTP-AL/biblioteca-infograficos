@@ -1,8 +1,8 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-11-10T17:07:05.647Z",
- "autor": "Eduarda",
+ "quando": "2026-11-10T18:36:21.607Z",
+ "autor": "Teste",
  "dados": {
   "campos": {
    "objetivo": "Classificar as estratégias didáticas apresentadas, utilizando critérios que caracterizem atividades pontuais, oficinas, sequências didáticas e Projetos Integrados.<br>",
@@ -25,6 +25,33 @@
    "blocos": []
   },
   "tipoBotao": "bibliografia",
-  "link": "https://ead.educacao.al.gov.br/course/view.php?id=280#section-77"
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31948",
+  "ajusteEixo": {
+   "eixo": "AGS",
+   "feitoEm": "2026-11-10T18:18:58.279Z",
+   "linhas": [
+    {
+     "tipo": "Iframe H5P",
+     "nome": "MET-M4-U02-APLI-MULTI1",
+     "de": 31861,
+     "para": null,
+     "situacao": "posterior"
+    },
+    {
+     "tipo": "Iframe H5P",
+     "nome": "MET-M4-U02-APLI-MULTI",
+     "de": 31859,
+     "para": null,
+     "situacao": "posterior"
+    },
+    {
+     "tipo": "Link",
+     "nome": "page 31948",
+     "de": 31948,
+     "para": null,
+     "situacao": "posterior"
+    }
+   ]
+  }
  }
 }
