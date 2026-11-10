@@ -1,79 +1,27 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-11-10T13:39:48.601Z",
+ "quando": "2026-11-10T14:10:11.523Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do conhecimento: </b>mediação docente durante a prática técnica.<br><b>Conteúdos:</b><br><ul><li>intervenções realizadas durante a prática;<br></li><li>orientações e demonstrações utilizadas;<br></li><li>situações que exigiram tomada de decisão;<br></li><li>ajustes realizados diante das dificuldades dos estudantes;<br></li><li>relação entre intervenção docente e autonomia dos estudantes;<br></li><li>efeitos das intervenções observados na prática.<br></li></ul><b>Objetivo da aula:</b> analisar as intervenções realizadas durante uma prática técnica, relacionando-as às necessidades observadas e identificando possibilidades de aprimoramento da mediação docente.<br>",
-   "objetivo": "Analisar as intervenções docentes realizadas durante uma prática técnica, relacionando as necessidades observadas aos efeitos produzidos e identificando possibilidades de aprimoramento da mediação.<br>",
-   "titulo": "<b>Intervir para Ensinar: Análise da Mediação Docente</b><br>",
-   "conteudo": "<h3><b><font color=\"#f04770\">Quando surge uma dificuldade&nbsp;</font></b></h3><br>Durante uma aula prática de Técnicas de Organização em uma biblioteca escolar, um(a) estudante demonstra confusão ao aplicar as regras de catalogação e classificação de livros de literatura alagoana.<br><br>Diante da insegurança do(a) estudante em relação às estantes, o(a) professor(a) vai até ele(a) e organiza os livros de literatura, dando o exemplo de como fazer.<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">A intervenção durante a prática</font></b></h3><br>A sua mediação ocorre antes e durante a prática e exige observar atentamente como os(as) estudantes realizam as atividades, identificando dificuldades e tomando decisões rápidas.<br><br>Em Administração, em atividades práticas de organização e catalogação, por exemplo, são necessárias orientações prévias e demonstrações para fortalecer a segurança dos(as) estudantes na realização dessas atividades.<br><br>Contudo, é fundamental ir além do suporte imediato. É preciso compreender:<br><ul><li>por que a intervenção foi necessária;<br></li><li>como foi conduzida;<br></li><li>quais foram os seus efeitos reais no aprendizado e na autonomia do(a) futuro(a) profissional.</li></ul><h3><b><font color=\"#f04770\">O que observar na mediação?</font></b></h3>[INFOGRAFICO1]<br><h3><b><font color=\"#f04770\">Apoio na medida certa&nbsp;</font></b></h3><br>Cada estudante aprende em seu próprio ritmo, o que exige flexibilidade na mediação.&nbsp;[GLOSSARIO1]<br><ul><li>Um(a) estudante pode precisar apenas de uma dica rápida sobre o sistema de notação Cutter-Sanborn.<br></li><li>Outro(a) exigirá uma demonstração detalhada da disposição física dos livros nas prateleiras.</li></ul>É preciso adequar a intervenção ao contexto de trabalho e aos objetivos da prática, de modo que o seu auxílio funcione como um suporte que incentive a autonomia do(a) estudante, sem criar dependência desse apoio.<br><br><h3><b><font color=\"#f04770\">Como identificar os avanços?&nbsp;<br><br></font></b></h3>Utilize estas evidências para avaliar se as suas intervenções estão sendo eficazes para os(as) estudantes ou se precisam ser ajustadas.<br>[INFOGRAFICO2]<br>",
-   "conectando": "A seguir, vamos aplicar esses conceitos a uma situação real do ensino técnico para aprofundar ainda mais as intervenções. Siga para a próxima etapa!<br>"
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do Conhecimento:</b><br>Evidências de aprendizagem na prática técnica.<br><b>Conteúdos:</b><br><ul><li>Ações, falas, produções e registros dos(as) estudantes.<br></li><li>Evidências observadas durante a prática.<br></li><li>Avanços e dificuldades identificados.<br></li><li>Relação entre evidências e objetivos de aprendizagem.<br></li><li>Evidências que confirmaram ou indicaram necessidade de ajuste na prática.<br></li></ul><b>Objetivo da Aula:</b><br>Analisar as evidências de aprendizagem produzidas durante uma prática técnica já realizada, relacionando-as aos objetivos de aprendizagem e às decisões pedagógicas tomadas.<br>",
+   "objetivo": "Identificar como as evidências produzidas durante uma prática técnica se relacionam aos objetivos de aprendizagem e podem orientar as decisões pedagógicas.<br>",
+   "titulo": "<b>Evidências do Trabalho Técnico&nbsp;</b>",
+   "conteudo": "Relembre uma prática técnica que você realizou com sua turma de Administração, como uma simulação de controle de estoque ou de atendimento ao(à) cliente.<br><ul><li>O que os(as) estudantes fizeram?<br></li><li>Como agiram diante de cada etapa?<br></li><li>O que produziram e registraram?</li></ul>Uma planilha preenchida, uma explicação dada a um(a) colega ou uma anotação no controle de caixa dizem muito sobre a aprendizagem. Ações, falas, produções e registros revelam diferentes aspectos do que foi aprendido.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Evidências de Aprendizagem<br><br></font></b></h3>A seguir, observe quatro tipos de evidência e o que cada um pode revelar:<br><br>",
+   "conectando": ""
   },
   "blocos": [
    {
-    "tipo": "pergunta",
-    "texto": "",
-    "pergunta": {
-     "tipo": "texto",
-     "titulo": "O que observar na intervenção?",
-     "texto": "Quais indícios mostrariam se a intervenção do(a) professor(a) ajudou ou não na superação da dificuldade do(a) estudante?<br>",
-     "videoUrl": "",
-     "iframeH5P": ""
-    },
-    "novo": false
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "timeline",
-    "infograficoData": {
-     "etapas": "[{\"topico\":\"<b>Pontos de dificuldade:</b>\",\"texto\":\"em quais momentos da atividade prática ocorreram o travamento ou a dúvida do(a) estudante (ex.: nas regras de catalogação)?&nbsp;<br>\"},{\"topico\":\"Suporte oferecido:\",\"texto\":\"que tipo de suporte, orientação ou demonstração prática foi utilizado (ex.: guia visual de consulta rápida)?&nbsp;<br>\"},{\"topico\":\"Necessidade de intervenção:\",\"texto\":\"qual contexto ou demanda observada na atividade prática motivou a intervenção imediata?\"},{\"topico\":\"Reação após a intervenção:\",\"texto\":\"como o(a) estudante reagiu à ajuda? Demonstrou avanço, maior independência ou a insegurança continuou?\"},{\"topico\":\"Avaliação da intervenção:\",\"texto\":\"a intervenção foi suficiente para apoiar a aprendizagem ou exigiu novas estratégias de mediação?&nbsp;<br>\"}]"
-    },
-    "novo": false
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "blocos_coloridos",
-    "infograficoData": {
-     "introducao": "",
-     "blocos": "[{\"titulo\":\"Retomada segura da tarefa\",\"texto\":\"O(a) estudante volta à tarefa de arrumação e etiquetagem se sentindo mais seguro(a) do que precisa fazer;&nbsp;<br>\"},{\"titulo\":\"Redução sensível de erros\",\"texto\":\"Ao longo do tempo, há uma redução nos erros na classificação decimal de livros;&nbsp;<br>\"},{\"titulo\":\"Maior segurança e clareza na tomada de decisão\",\"texto\":\"O(a) estudante consegue tomar decisões durante as práticas com maior segurança;&nbsp;<br>\"},{\"titulo\":\"Continuidade da atividade\",\"texto\":\"O ritmo da prática se torna mais fluido, com poucos momentos de suporte direto;&nbsp;<br>\"},{\"titulo\":\"Permanência da dificuldade\",\"texto\":\"Quando, mesmo após o seu suporte, ainda há dúvidas, isso indica que a intervenção não foi suficiente.&nbsp;<br>\"}]"
-    },
-    "novo": false
-   },
-   {
-    "tipo": "glossario",
-    "texto": "",
-    "termos": [
-     {
-      "termo": "Catalogação",
-      "definicao": "Processo de descrição física e temática de obras em acervos bibliográficos.&nbsp;&nbsp;<br>"
-     },
-     {
-      "termo": "Cutter-Sanborn",
-      "definicao": "Tabela padronizada utilizada para a ordenação alfabética de autores(as) nas estantes.&nbsp;&nbsp;<br>"
-     },
-     {
-      "termo": "Classificação Decimal de Dewey (CDD)",
-      "definicao": "Sistema de organização do conhecimento bibliográfico amplamente utilizado em bibliotecas públicas e escolares.&nbsp;&nbsp;<br>"
-     }
-    ],
-    "novo": false
+    "tipo": "caixadestaque",
+    "texto": "Ao longo de toda a prática, o que o(a) estudante faz ou produz não é apenas o resultado da atividade: é evidência dos conhecimentos e das habilidades já desenvolvidos e dos que ainda precisam ser aprimorados.",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#fdf0f3",
+    "caixaCorBorda": "#f04770",
+    "novo": false,
+    "caixaCorTexto": "#0a3442"
    }
-  ],
-  "conclusao": {
-   "titulo": "Em resumo: para intervir com intencionalidade…",
-   "texto": "<ul><li><b>Identifique a necessidade:</b> observe as dificuldades apresentadas pelo(a) estudante durante a prática.<br></li><li><b>Analise a intervenção: </b>considere se as orientações, demonstrações ou outros apoios oferecidos foram adequados à necessidade identificada.<br></li><li><b>Observe os efeitos: </b>verifique se houve avanços na execução, maior segurança e redução da necessidade de ajuda.<br></li><li><b>Aprimore a mediação: </b>identifique o que funcionou e o que pode ser mantido ou ajustado para favorecer a aprendizagem e a autonomia progressiva do(a) estudante.<br>[DICA1]</li></ul>",
-   "blocos": [
-    {
-     "tipo": "dica",
-     "texto": "Ao perceber que um(a) estudante está com dificuldade, faça perguntas para compreender melhor o que está acontecendo: “Em qual etapa você teve dificuldade?”, “O que não ficou claro?” ou “O que você já tentou fazer?”. Essas respostas ajudam a identificar o apoio necessário.",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29192"
+  ]
  }
 }
