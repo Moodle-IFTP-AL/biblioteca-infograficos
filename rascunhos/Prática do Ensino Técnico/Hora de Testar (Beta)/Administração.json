@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-11-10T14:40:48.247Z",
+ "quando": "2026-11-10T14:40:55.882Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -50,12 +50,12 @@
      "itensRevisar": [
       {
        "id": "mwasvz90hcaifa",
-       "texto": "Módulo 2 –Unidade 5: Planejamento de Práticas Técnicas.&nbsp;<br>",
+       "texto": "Módulo 2 – Unidade 5: Planejamento de Práticas Técnicas.&nbsp;<br>",
        "link": ""
       },
       {
        "id": "mwasvzfjrt5h8c",
-       "texto": "Módulo 2 - Unidade 6: Organização de Sequência Prática Técnica Progressiva.&nbsp;<br>",
+       "texto": "Módulo 2&nbsp;<b>–</b>&nbsp;Unidade 6: Organização de Sequência Prática Técnica Progressiva.&nbsp;<br>",
        "link": ""
       },
       {
