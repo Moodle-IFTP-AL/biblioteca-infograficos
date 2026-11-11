@@ -1,54 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão Imobiliária",
- "quando": "2026-11-11T15:13:10.260Z",
+ "quando": "2026-11-11T18:07:38.735Z",
  "autor": "Eduarda",
- "dados": {
-  "campos": {
-   "objetivo": "Avaliar o impacto de uma decisão tomada durante a execução de uma prática, julgando sua contribuição para o desenvolvimento da aula e para o alcance dos objetivos de aprendizagem.<br>",
-   "titulo": "<b>Revisite uma Decisão da Prática</b><br>",
-   "conteudo": "",
-   "reflexao": "<h3><b><font color=\"#f04770\">Da Reflexão à Melhoria da Prática&nbsp;</font></b></h3><br>Parabéns por concluir esta aula!<br><br>Os imprevistos das práticas técnicas podem se transformar em oportunidades de aperfeiçoamento docente quando são observados e analisados.<br>Leve os aprendizados desta reflexão para seus próximos planejamentos e siga com energia para a próxima etapa da trilha formativa!<br>"
-  },
-  "atividades": [
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32181\" width=\"1115\" height=\"731\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"GIM-M4-U02-APLI-ESSAY\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   },
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32182\" width=\"1124\" height=\"291\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"GIM-M4-U02-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   }
-  ],
-  "conclusao": {
-   "titulo": "",
-   "texto": "[REVISAR1]",
-   "blocos": [
-    {
-     "tipo": "revisar",
-     "texto": "Revisite as aulas abaixo para retomar o planejamento das etapas e refletir sobre sua efetividade diante das condições reais de execução:<br>",
-     "idRevisar": "mwc9g90wfm07uu",
-     "itensRevisar": [
-      {
-       "id": "mwc9gbcyix12yj",
-       "texto": "Módulo 2 – Unidade 5: Planejamento de Práticas Técnicas.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24774"
-      },
-      {
-       "id": "mwc9gbhe85qcmt",
-       "texto": "Módulo 2&nbsp;<b>–</b>&nbsp;Unidade 6: Organização de Sequência Prática Técnica Progressiva.&nbsp;&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24895"
-      },
-      {
-       "id": "mwc9gbljai20qj",
-       "texto": "Módulo 3 – Unidade 1: Planejamento de Oficinas Técnicas.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28609"
-      }
-     ],
-     "linkBotao": "",
-     "textoBotao": "",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30233"
- }
+ "dados": {}
 }
