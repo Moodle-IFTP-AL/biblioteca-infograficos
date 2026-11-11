@@ -1,15 +1,56 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Turismo e Eventos",
- "quando": "2026-11-11T15:40:11.353Z",
+ "quando": "2026-11-11T15:42:13.387Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do Conhecimento:</b><br>Coerência entre planejamento e execução da prática técnica.<br><b>Conteúdos:</b><br><ul><li>O que foi planejado e o que foi realizado.<br></li><li>Relação entre etapas planejadas e desenvolvimento da prática.<br></li><li>Adequação dos procedimentos às condições encontradas.<br></li><li>Ajustes realizados durante a execução.<br></li><li>Decisões que favoreceram ou dificultaram o desenvolvimento da prática.<br></li></ul><b>Objetivo da Aula:</b><br>Analisar a relação entre o planejamento e a execução de uma prática técnica já realizada, identificando decisões e ajustes que assegurem o alcance dos objetivos pretendidos.<br>",
    "objetivo": "Identificar situações imprevistas durante a execução de uma aula prática e analisar decisões que permitam ajustar o planejamento sem comprometer os objetivos de aprendizagem.<br>",
    "titulo": "<b>Planejar, Executar e Ajustar</b><br>",
-   "conteudo": "Em uma prática de Turismo e Eventos, nem tudo acontece exatamente como previsto:<br><ul><li>Um grupo de estudantes pode levar mais tempo para concluir uma etapa.<br></li><li>Um recurso pode não estar disponível.<br></li><li>Uma situação simulada pode exigir outra forma de condução.</li></ul>Esses imprevistos não anulam o planejamento. Ao contrário: observar o que aconteceu e compreender as escolhas feitas durante a execução permite avaliar se os ajustes realizados preservaram os objetivos de aprendizagem e a intencionalidade pedagógica da atividade.<br>",
+   "conteudo": "Em uma prática de Turismo e Eventos, nem tudo acontece exatamente como previsto:<br><ul><li>Um grupo de estudantes pode levar mais tempo para concluir uma etapa.<br></li><li>Um recurso pode não estar disponível.<br></li><li>Uma situação simulada pode exigir outra forma de condução.</li></ul>Esses imprevistos não anulam o planejamento. Ao contrário: observar o que aconteceu e compreender as escolhas feitas durante a execução permite avaliar se os ajustes realizados preservaram os objetivos de aprendizagem e a intencionalidade pedagógica da atividade.<br><br><h3><b><font color=\"#f04770\">O que Observar</font></b></h3><br>Ao retomar uma prática já realizada, observe com atenção:<br>[ACCORDION1]<br>[INFOGRAFICO1]<br>Acompanhar atentamente o desenvolvimento da atividade permite identificar essas situações e decidir quando adaptar um procedimento, redistribuir o tempo ou reorganizar recursos, preservando a intencionalidade pedagógica e as aprendizagens que se pretende desenvolver.",
    "conectando": ""
-  }
+  },
+  "blocos": [
+   {
+    "tipo": "accordion",
+    "texto": "",
+    "topicos": [
+     {
+      "titulo": "Tempo",
+      "texto": "Alguma etapa exigiu mais ou menos tempo do que o previsto inicialmente?&nbsp;&nbsp;<br>"
+     },
+     {
+      "titulo": "Recursos e condições",
+      "texto": "Materiais, espaços ou informações precisaram ser adaptados durante a atividade?&nbsp;"
+     },
+     {
+      "titulo": "Decisão docente",
+      "texto": "Que ajuste permitiu dar continuidade à prática e como essa escolha afetou a execução da atividade, a participação e a aprendizagem dos(as) estudantes?&nbsp;&nbsp;<br>"
+     }
+    ],
+    "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "comparativo",
+    "infograficoData": {
+     "titulo": "<b>Do Planejamento à Execução</b>",
+     "topico1_titulo": "<b>O planejamento</b>",
+     "topico1_conteudo": "<ul><li>Define os objetivos de aprendizagem.<br></li><li>Organiza as etapas e os procedimentos.<br></li><li>Identifica os recursos necessários.<br></li><li>Estabelece critérios para orientar a prática técnica.<br></li></ul>",
+     "topico2_titulo": "<b>A execução</b>",
+     "topico2_conteudo": "<ul><li>Acontece em contextos dinâmicos, com estudantes diversos(as).<br></li><li>Envolve tempos, espaços e condições concretas.<br></li><li>Pode apresentar situações não previstas no planejamento.<br></li></ul>"
+    },
+    "novo": false
+   },
+   {
+    "tipo": "video",
+    "texto": "No vídeo, acompanhe uma situação concreta e observe como planejamento, execução e ajuste se articulam diante de um imprevisto.<br>",
+    "titulo": "Como o Planejamento e a Prática se Articulam?",
+    "url": "",
+    "novo": true
+   }
+  ]
  }
 }
