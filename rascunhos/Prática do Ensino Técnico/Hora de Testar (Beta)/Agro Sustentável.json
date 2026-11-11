@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Agro Sustentável",
- "quando": "2026-11-11T16:11:25.096Z",
+ "quando": "2026-11-11T16:11:57.992Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -20,7 +20,7 @@
   ],
   "conclusao": {
    "titulo": "Da análise à prática docente ",
-   "texto": "Analisar a mediação significa relacionar a necessidade observada, a intervenção realizada e os efeitos produzidos.<br><br>Esse olhar ajuda a reconhecer os apoios que favorecem a aprendizagem e os ajustes necessários para ampliar a autonomia dos(as) estudantes.<br><br>Leve essa reflexão para suas próximas práticas: observe, intervenha com intencionalidade e acompanhe o que muda.<br><br>Parabéns pelo empenho e pela conclusão desta aula!<br>",
+   "texto": "Analisar a mediação significa relacionar a necessidade observada, a intervenção realizada e os efeitos produzidos.<br><br>Esse olhar ajuda a reconhecer os apoios que favorecem a aprendizagem e os ajustes necessários para ampliar a autonomia dos(as) estudantes.<br><br>Leve essa reflexão para suas próximas práticas: observe, intervenha com intencionalidade e acompanhe o que muda.<br><br>Parabéns pelo empenho e pela conclusão desta aula!<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -40,12 +40,12 @@
       {
        "id": "mwcbiyv21rnem7",
        "texto": "Módulo 3 – Encontro síncrono 1: Gestão da prática técnica.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=28055"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
   }
