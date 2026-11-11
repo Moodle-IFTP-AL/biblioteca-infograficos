@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Turismo e Eventos",
- "quando": "2026-11-11T15:43:24.704Z",
+ "quando": "2026-11-11T15:43:53.915Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -75,6 +75,7 @@
    "titulo": "Relação entre o Planejamento e a Execução",
    "texto": "Planejamento e execução não são etapas isoladas.<br><br>O planejamento orienta a prática, enquanto a execução revela condições que nem sempre podem ser previstas.<br><br>Analisar uma experiência já realizada permite reconhecer diferenças entre o previsto e o realizado, compreender por que determinados ajustes foram necessários e avaliar seus efeitos.<br><br>O ponto central é verificar se as decisões tomadas preservaram a intencionalidade pedagógica e contribuíram para favorecer a aprendizagem dos(as) estudantes.<br>",
    "blocos": []
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30582"
  }
 }
