@@ -1,15 +1,15 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Agro Sustentável",
- "quando": "2026-11-05T16:32:44.172Z",
+ "quando": "2026-11-11T15:54:37.111Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "infoAula": "<b>Duração da aula: </b>45 minutos<br><b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades práticas, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os estudantes durante a execução supervisionada<br><b>Objetos do conhecimento: </b>intencionalidade e contextualização da prática técnica.<br><b>Conteúdos:</b><br><ul><li>retomada de práticas técnicas já planejadas ou realizadas;<br></li><li>relação entre problema, contexto, objetivo e prática desenvolvida;<br></li><li>Relação entre a prática realizada e as aprendizagens esperadas;<br></li><li>adequação da prática ao contexto dos estudantes e do mundo do trabalho;<br></li><li>aspectos que contribuíram para ou limitaram a experiência.<br></li></ul><b>Objetivo da aula:</b> analisar uma prática técnica já realizada, considerando sua relação com o problema, o contexto e os objetivos de aprendizagem, e identificar aspectos que podem ser aprimorados.<br>",
-   "objetivo": "Identificar os principais aspectos e critérios que orientam a retomada de uma prática técnica, considerando o planejamento, a execução, as condições da atividade e as evidências de aprendizagem.<br>",
-   "titulo": "<b>O que a prática revela depois que termina</b><br>",
-   "conteudo": "<b>Quando a prática não gera a aprendizagem esperada&nbsp;</b><br><br>Em uma aula prática de Agroecologia, no sertão alagoano, uma turma montou composteiras com resíduos vegetais da merenda e folhas da horta.<br><br>Os(as) estudantes organizaram as camadas e identificaram os recipientes, mas poucos explicaram a função da umidade e da aeração. Alguns apenas copiaram registros e um(a) integrante concentrou as tarefas do grupo.<br><br>Embora a prática tenha sido tecnicamente concluída, os resultados levaram o professor a questionar se a atividade havia favorecido o alcance do objetivo de aprendizagem previsto.<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">Analisar a prática para compreender a aprendizagem&nbsp;</font></b></h3><br>Estar atento(a) à coerência pedagógica durante a aula é essencial, mas também é importante analisar o que aconteceu após a atividade.<br><br>Retomar o planejamento permite comparar o que você pretendia desenvolver com o que os(as) estudantes efetivamente demonstraram.<br><br>Nos cursos de Agricultura, Agroecologia e Alimentos, essa reflexão ajuda a perceber se os(as) estudantes compreenderam os conceitos e os aplicaram em situações práticas, como o manejo do solo, o cultivo sustentável, o aproveitamento de resíduos ou o processamento e a conservação de alimentos.<br><br>Observe se conseguiram explicar suas escolhas e interpretar os resultados ou se apenas seguiram as etapas propostas.<br><br>Essa análise permite identificar dificuldades de aprendizagem e limitações de tempo ou de recursos, além de reconhecer o que pode ser ajustado em uma nova realização, considerando as condições da escola e os materiais disponíveis.<br>[VIDEO1]<br><h3><b><font color=\"#f04770\">Quatro perguntas para analisar a prática<br><br></font></b></h3>Para retomar uma prática, organize sua análise em quatro campos:<br>[INFOGRAFICO1]",
-   "conectando": "Com essa reflexão em mente, convido você a analisar suas próprias experiências práticas na seção a seguir!<br>"
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do conhecimento: </b>mediação docente durante a prática técnica.<br><b>Conteúdos:</b><br><ul><li>intervenções realizadas durante a prática;<br></li><li>orientações e demonstrações utilizadas;<br></li><li>situações que exigiram tomada de decisão;<br></li><li>ajustes realizados diante das dificuldades dos estudantes;<br></li><li>relação entre intervenção docente e autonomia dos estudantes;<br></li><li>efeitos das intervenções observados na prática.<br></li></ul><b>Objetivo da aula:</b> analisar as intervenções realizadas durante uma prática técnica, relacionando-as às necessidades observadas e identificando possibilidades de aprimoramento da mediação docente.<br>",
+   "objetivo": "Analisar as intervenções docentes realizadas durante uma prática técnica, relacionando as necessidades observadas aos efeitos produzidos e identificando possibilidades de aprimoramento da mediação.<br>",
+   "titulo": "<b>Mediação que Promove Autonomia&nbsp;</b>",
+   "conteudo": "<b>Uma dificuldade na irrigação</b><br><br>Em uma aula prática sobre o uso eficiente da água em um canteiro de hortaliças no Agreste, um(a) estudante não conseguia regular o gotejador e abria a válvula completamente, o que resultava em uma distribuição desigual.<br><br>A professora pediu que ele(a) comparasse os volumes coletados em dois recipientes, demonstrou como ajustar, aos poucos, a abertura e pediu que repetisse o procedimento, justificando a regulagem escolhida antes de continuar a atividade.<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">A mediação durante a prática&nbsp;</font></b></h3><br>A mediação docente acontece enquanto você acompanha como os(as) estudantes executam a prática, interpretam informações e tomam decisões.<br><br>Antes da atividade, orientações e demonstrações ajudam a compreender conceitos, procedimentos e cuidados de segurança. Durante uma oficina de irrigação, por exemplo, você pode observar dificuldades na regulagem da vazão, no cálculo do volume ou no uso responsável da água, assuntos relevantes para diferentes realidades produtivas de Alagoas.<br><br>Diante dessas evidências, pode:<br><ul><li>explicar;<br></li><li>demonstrar novamente;<br></li><li>questionar;<br></li><li>adaptar a tarefa.</li></ul>A análise, porém, não termina na intervenção. É necessário compreender qual necessidade a motivou, como o apoio foi oferecido e o que mudou depois, tanto na execução quanto na autonomia do(a) estudante.<br><br><h3><b><font color=\"#f04770\">Como analisar uma intervenção?<br><br></font></b></h3>Ao analisar uma intervenção, observe esses cinco elementos conectados:<br><br>",
+   "conectando": ""
   },
   "blocos": [
    {
@@ -17,47 +17,13 @@
     "texto": "",
     "pergunta": {
      "tipo": "texto",
-     "titulo": "O que os resultados nos mostram? ",
-     "texto": "Neste caso, o que pode ter levado alguns(mas) estudantes a copiar registros sem compreender a função da umidade e da aeração, considerando o objetivo e o contexto da atividade?<br>",
+     "titulo": "O que observar na intervenção?",
+     "texto": "Quais evidências mostram que uma intervenção respondeu à dificuldade sem substituir a ação do(a) estudante?<br>",
      "videoUrl": "",
      "iframeH5P": ""
     },
     "novo": false
-   },
-   {
-    "tipo": "video",
-    "texto": "Assista ao <i>videocast</i> e acompanhe a análise de uma oficina de composteira: o que ela revela além do resultado final?<br>",
-    "titulo": "Vamos olhar além do resultado final? ",
-    "url": "https://youtu.be/8npbxGlKbMI",
-    "novo": false
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "blocos_coloridos",
-    "infograficoData": {
-     "introducao": "",
-     "blocos": "[{\"titulo\":\"O que pretendia desenvolver\",\"texto\":\"Problema, contexto e objetivos.&nbsp;<br>\"},{\"titulo\":\"O que aconteceu\",\"texto\":\"Execução e evidências observadas.\"},{\"titulo\":\"O que favoreceu ou limitou\",\"texto\":\"Turma, mediação, recursos, tempo e organização.&nbsp;<br>\"},{\"titulo\":\"O que faria diferente\",\"texto\":\"Aspecto que merece atenção em uma nova realização.&nbsp;<br>\"}]"
-    },
-    "novo": false
    }
-  ],
-  "conclusao": {
-   "titulo": "Transformar a experiência em aprendizagem ",
-   "texto": "Revisar uma prática pedagógica não é buscar falhas, mas usar as evidências produzidas durante a atividade para tomar decisões mais conscientes.<br><br>Ao analisar o alinhamento entre planejamento, contexto e aprendizagem, você fortalece sua intencionalidade e garante que as atividades de ensino técnico preparem os(as) estudantes para os desafios autênticos do mundo do trabalho.<br>[TOMENOTA1]<br>[DICA1]",
-   "blocos": [
-    {
-     "tipo": "tomenota",
-     "texto": "Concluir um procedimento não comprova, isoladamente, que houve aprendizagem. Observe as explicações, decisões, registros, dúvidas e a participação dos(as) estudantes durante toda a prática.<br>",
-     "novo": false
-    },
-    {
-     "tipo": "dica",
-     "texto": "Ao final da prática, peça que cada grupo sintetize, em uma frase, o que aprendeu e explique como chegou a essa conclusão. Registre essa fala, junto com um acerto e uma dificuldade observados, para identificar evidências de aprendizagem e planejar possíveis ajustes para as próximas atividades.<br>",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29333"
+  ]
  }
 }
