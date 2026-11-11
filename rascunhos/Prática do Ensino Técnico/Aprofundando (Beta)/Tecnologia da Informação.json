@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Tecnologia da Informação",
- "quando": "2026-11-11T15:19:41.143Z",
+ "quando": "2026-11-11T15:19:49.718Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -43,6 +43,13 @@
      "topico2_conteudo": "<ul><li>Acontece em ambientes dinâmicos.<br></li><li>Pode enfrentar instabilidades de rede.<br></li><li>Pode apresentar indisponibilidade de recursos.<br></li><li>Envolve diferentes níveis de conhecimento prévio dos(as) estudantes.<br></li></ul>"
     },
     "novo": false
+   },
+   {
+    "tipo": "video",
+    "texto": "Assista ao vídeo a seguir e reflita sobre como é possível realizar ajustes em tempo real mantendo a intencionalidade pedagógica na sala de aula.<br>",
+    "titulo": "Como Preservar as Aprendizagens Previstas?",
+    "url": "",
+    "novo": true
    }
   ]
  }
