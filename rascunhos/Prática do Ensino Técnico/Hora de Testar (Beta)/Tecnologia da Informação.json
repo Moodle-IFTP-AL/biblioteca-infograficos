@@ -1,49 +1,53 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Tecnologia da Informação",
- "quando": "2026-11-09T18:42:14.944Z",
+ "quando": "2026-11-11T15:24:04.565Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Analisar uma prática técnica já realizada, relacionando o que foi planejado ao que aconteceu na experiência e identificando aspectos que precisam ser aprimorados.",
-   "titulo": "<b>Sua vez de analisar</b>",
-   "conteudo": "Chegou o momento de exercitar sua visão reflexiva. Utilize a ferramenta a seguir para mapear uma prática técnica de Tecnologia da Informação que você já realizou, identificando aprendizados, desafios e possibilidades concretas de aprimoramento didático.<br>",
-   "reflexao": ""
+   "objetivo": "Avaliar o impacto de uma decisão tomada durante a execução de uma prática, julgando sua contribuição para o desenvolvimento da aula e para o alcance dos objetivos de aprendizagem.<br>",
+   "titulo": "<b>Análise de Decisão na Prática de TI</b><br>",
+   "conteudo": "",
+   "reflexao": "<b>Da Reflexão à Melhoria da Prática&nbsp;</b><br><br>Parabéns por concluir esta aula!<br>Lembre-se de que cada ajuste realizado enriquece seu repertório didático. Os imprevistos são excelentes oportunidades para aprimorar sua mediação.<br>Siga com todo o entusiasmo para o próximo passo da nossa trilha!<br>"
   },
   "atividades": [
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31816\" width=\"1103\" height=\"573\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"TI-M4-U01-APLI-DOC\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32189\" width=\"1115\" height=\"711\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"TI-M4-U02-APLI-ESSAY\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    },
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31817\" width=\"1112\" height=\"515\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"TI-M4-U01-APLI-MULTI\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32188\" width=\"1124\" height=\"291\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"TI-M4-U02-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    }
   ],
   "conclusao": {
-   "titulo": "A reflexão como parte da prática docente",
-   "texto": "Dedicar tempo para analisar criticamente suas aulas de Tecnologia da Informação fortalece a intencionalidade pedagógica e eleva a qualidade do ensino técnico.<br><br>Reconhecer o que funcionou e o que precisa de ajustes transforma a experiência em aprendizado docente contínuo.<br>[REVISAR1]",
+   "titulo": "",
+   "texto": "",
    "blocos": [
     {
      "tipo": "revisar",
-     "texto": "Revisite as aulas abaixo para articular os desafios do mundo do trabalho ao seu planejamento e transformar a reflexão em ação.<br>",
-     "idRevisar": "mw9m0gf8g36m9p",
+     "texto": "Revisite as aulas abaixo para retomar o planejamento das etapas e refletir sobre sua efetividade diante das condições reais de execução:<br>",
+     "idRevisar": "mwc9v7g9ilk3u0",
      "itensRevisar": [
       {
-       "id": "mw9m0laodf2nzn",
-       "texto": "Módulo 1 – 1ª aula síncrona: Transformação de problemas reais em práticas técnicas.&nbsp;&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=22813"
+       "id": "mwc9v9vakzxaqx",
+       "texto": "Módulo 2 – Unidade 5: Planejamento de Práticas Técnicas.&nbsp;&nbsp;<br>",
+       "link": ""
       },
       {
-       "id": "mw9m0ljkq4oy7z",
-       "texto": "Módulo 2 – Unidade 5: Planejamento de práticas técnicas a partir de problemas profissionais.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24785"
+       "id": "mwc9va5e67hngp",
+       "texto": "Módulo 2&nbsp;<b>–</b>&nbsp;Unidade 6: Organização de Sequência Prática Técnica Progressiva.&nbsp;&nbsp;<br>",
+       "link": ""
+      },
+      {
+       "id": "mwc9vad4lu9kj4",
+       "texto": "Módulo 3 – Unidade 1: Planejamento de Oficinas Técnicas.&nbsp;<br>",
+       "link": ""
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": false
+     "novo": true
     }
    ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30387"
+  }
  }
 }
