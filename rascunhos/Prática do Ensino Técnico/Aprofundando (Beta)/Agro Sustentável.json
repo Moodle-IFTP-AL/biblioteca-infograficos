@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Agro Sustentável",
- "quando": "2026-11-11T16:00:53.860Z",
+ "quando": "2026-11-11T16:01:13.607Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -75,11 +75,16 @@
   ],
   "conclusao": {
    "titulo": "Em resumo: os pontos essenciais da mediação ",
-   "texto": "<ul><li><b>Necessidade:</b> identifique a dificuldade que motivou a intervenção.<br></li><li><b>Intervenção:</b> analise qual apoio foi oferecido e como se relacionou ao objetivo da prática.<br></li><li><b>Efeitos:</b> observe mudanças na execução, na segurança e na tomada de decisão.<br></li><li><b>Aprimoramento:</b> reconheça o que pode ser mantido ou ajustado nas maneiras de intervir.<br></li><li><b>Autonomia:</b> verifique se o(a) estudante conseguiu prosseguir com menor dependência.<br>[TOMENOTA1]</li></ul>",
+   "texto": "<ul><li><b>Necessidade:</b> identifique a dificuldade que motivou a intervenção.<br></li><li><b>Intervenção:</b> analise qual apoio foi oferecido e como se relacionou ao objetivo da prática.<br></li><li><b>Efeitos:</b> observe mudanças na execução, na segurança e na tomada de decisão.<br></li><li><b>Aprimoramento:</b> reconheça o que pode ser mantido ou ajustado nas maneiras de intervir.<br></li><li><b>Autonomia:</b> verifique se o(a) estudante conseguiu prosseguir com menor dependência.<br>[TOMENOTA1]<br>[DICA1]</li></ul>",
    "blocos": [
     {
      "tipo": "tomenota",
      "texto": "Para analisar uma intervenção, é preciso considerar três aspectos: a necessidade identificada, o apoio oferecido e os efeitos observados na execução e na autonomia do(a) estudante.<br>",
+     "novo": false
+    },
+    {
+     "tipo": "dica",
+     "texto": "Antes de intervir, observe e pergunte ao(à) estudante como ele(a) compreendeu a tarefa. A resposta pode indicar se ele(a) precisa de orientação, demonstração, questionamento ou adaptação.<br>",
      "novo": false
     }
    ]
