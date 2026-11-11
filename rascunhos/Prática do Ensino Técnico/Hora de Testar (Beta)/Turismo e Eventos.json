@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Turismo e Eventos",
- "quando": "2026-11-11T18:33:16.006Z",
+ "quando": "2026-11-11T18:33:37.501Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -20,7 +20,7 @@
   ],
   "conclusao": {
    "titulo": "Da análise à prática docente ",
-   "texto": "Analisar a mediação docente significa relacionar as necessidades observadas às intervenções realizadas e aos efeitos produzidos.<br><br>Essa reflexão ajuda você a reconhecer estratégias que funcionam, identificar ajustes necessários e favorecer a autonomia dos(as) estudantes. Ao levar essa lógica para sua própria prática, você transforma cada experiência em uma oportunidade de aprimoramento.<br><br>Parabéns pelo empenho ao longo desta aula! Até a próxima!<br><br>",
+   "texto": "Analisar a mediação docente significa relacionar as necessidades observadas às intervenções realizadas e aos efeitos produzidos.<br><br>Essa reflexão ajuda você a reconhecer estratégias que funcionam, identificar ajustes necessários e favorecer a autonomia dos(as) estudantes. Ao levar essa lógica para sua própria prática, você transforma cada experiência em uma oportunidade de aprimoramento.<br><br>Parabéns pelo empenho ao longo desta aula! Até a próxima!<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -40,14 +40,15 @@
       {
        "id": "mwcglyv1tbwdav",
        "texto": "Módulo 3 – Encontro síncrono 1: Gestão da prática técnica.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27229"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
-  }
+  },
+  "tipoBotao": "voltar"
  }
 }
