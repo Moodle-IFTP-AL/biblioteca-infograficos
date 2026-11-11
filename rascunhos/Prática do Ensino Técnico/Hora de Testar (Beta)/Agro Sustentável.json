@@ -1,7 +1,14 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Agro Sustentável",
- "quando": "2026-11-11T16:06:58.818Z",
+ "quando": "2026-11-11T16:08:58.351Z",
  "autor": "Eduarda",
- "dados": {}
+ "dados": {
+  "campos": {
+   "objetivo": "Aplicar critérios de análise da mediação docente em uma situação de prática técnica, relacionando necessidade observada, intervenção, efeitos e possibilidades de aprimoramento.<br>",
+   "titulo": "<b>Analisar para Aprimorar a Mediação&nbsp;</b><br>",
+   "conteudo": "Nesta atividade, você analisará uma intervenção realizada durante uma prática de irrigação. Relacione a dificuldade observada ao apoio oferecido e aos efeitos produzidos. Ao final, reflita sobre como essa análise pode aprimorar sua própria mediação.<br><br><div><h3><b><font color=\"#f04770\">Regulagem do sistema de irrigação&nbsp;</font></b></h3><br>Durante uma oficina de irrigação de hortaliças, um(a) estudante regulava os gotejadores pela aparência do fluxo de água, o que resultou em volumes de água desiguais.<br><br>A professora solicitou que comparasse a água coletada em recipientes, demonstrou como realizar ajustes graduais e pediu uma nova tentativa.<br><br>Depois, o(a) estudante regulou corretamente dois gotejadores, explicou sua decisão, mas continuou pedindo confirmação antes de ajustar os demais.<br><br></div>",
+   "reflexao": ""
+  }
+ }
 }
