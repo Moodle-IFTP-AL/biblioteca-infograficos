@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Turismo e Eventos",
- "quando": "2026-11-11T15:43:53.915Z",
+ "quando": "2026-11-11T15:44:23.732Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -73,8 +73,14 @@
   ],
   "conclusao": {
    "titulo": "Relação entre o Planejamento e a Execução",
-   "texto": "Planejamento e execução não são etapas isoladas.<br><br>O planejamento orienta a prática, enquanto a execução revela condições que nem sempre podem ser previstas.<br><br>Analisar uma experiência já realizada permite reconhecer diferenças entre o previsto e o realizado, compreender por que determinados ajustes foram necessários e avaliar seus efeitos.<br><br>O ponto central é verificar se as decisões tomadas preservaram a intencionalidade pedagógica e contribuíram para favorecer a aprendizagem dos(as) estudantes.<br>",
-   "blocos": []
+   "texto": "Planejamento e execução não são etapas isoladas.<br><br>O planejamento orienta a prática, enquanto a execução revela condições que nem sempre podem ser previstas.<br><br>Analisar uma experiência já realizada permite reconhecer diferenças entre o previsto e o realizado, compreender por que determinados ajustes foram necessários e avaliar seus efeitos.<br><br>O ponto central é verificar se as decisões tomadas preservaram a intencionalidade pedagógica e contribuíram para favorecer a aprendizagem dos(as) estudantes.<br>[DICA1]",
+   "blocos": [
+    {
+     "tipo": "dica",
+     "texto": "Antes de realizar uma prática, procure antecipar situações que podem fugir do previsto. Pergunte-se:<br><ul><li>Que dificuldades os(as) estudantes podem apresentar?<br></li><li>Que recursos podem não estar disponíveis?<br></li><li>Qual etapa pode exigir mais tempo?<br></li><li>Que decisões eu poderia tomar diante dessas situações?</li></ul>",
+     "novo": false
+    }
+   ]
   },
   "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30582"
  }
