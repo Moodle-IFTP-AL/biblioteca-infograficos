@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Tecnologia da Informação",
- "quando": "2026-11-11T18:13:25.624Z",
+ "quando": "2026-11-11T18:16:23.820Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do conhecimento: </b>mediação docente durante a prática técnica.<br><b>Conteúdos:</b><br><ul><li>intervenções realizadas durante a prática;<br></li><li>orientações e demonstrações utilizadas;<br></li><li>situações que exigiram tomada de decisão;<br></li><li>ajustes realizados diante das dificuldades dos estudantes;<br></li><li>relação entre intervenção docente e autonomia dos estudantes;<br></li><li>efeitos das intervenções observados na prática.<br></li></ul><b>Objetivo da aula:</b> analisar as intervenções realizadas durante uma prática técnica, relacionando-as às necessidades observadas e identificando possibilidades de aprimoramento da mediação docente.<br>",
    "objetivo": "Analisar as intervenções docentes realizadas durante uma prática técnica, relacionando as necessidades observadas aos efeitos produzidos e identificando possibilidades de aprimoramento da mediação.<br>",
    "titulo": "<b>Mediação Docente: Condução e Autonomia na Prática</b><br>",
-   "conteudo": "<h3><b><font color=\"#f04770\">Uma dúvida na configuração</font></b></h3><br>Em uma aula prática de redes de computadores, um(a) estudante tenta configurar o roteamento estático entre duas sub-redes, mas os pacotes continuam falhando nos testes de <i>ping</i>.<br><br>Visivelmente hesitante diante do terminal de comando, o(a) estudante para a execução.<br><br>Ao perceber a paralisia, o(a) professor(a) aproxima-se da bancada, pega o teclado e digita diretamente os comandos de rota padrão, restabelecendo a conectividade da rede.<br>[PERGUNTA1]<br><b><font color=\"#f04770\">A Mediação Durante a Prática&nbsp;</font></b><br><br>A mediação pedagógica acontece durante a prática e envolve:<br><ul><li>acompanhar como os(as) estudantes realizam as atividades;<br></li><li>identificar dificuldades;<br></li><li>decidir quando intervir.</li></ul>Antes e durante as aulas práticas, você oferece orientações e demonstrações para apoiar a compreensão dos conceitos e procedimentos necessários, como o uso de ferramentas, softwares e equipamentos.<br><br>Mas mediar não significa apenas oferecer ajuda. É importante analisar o que motivou a intervenção, como ela foi realizada e o que aconteceu depois. Observe se o apoio ajudou os(as) estudantes a superar dificuldades, a avançar na atividade e a realizar as etapas com mais autonomia.<br><br><h3><b><font color=\"#f04770\">O que observar ao analisar uma intervenção?</font></b></h3><br>Para avaliar a qualidade de uma intervenção, observe os seguintes elementos fundamentais:<br><br>",
+   "conteudo": "<h3><b><font color=\"#f04770\">Uma dúvida na configuração</font></b></h3><br>Em uma aula prática de redes de computadores, um(a) estudante tenta configurar o roteamento estático entre duas sub-redes, mas os pacotes continuam falhando nos testes de <i>ping</i>.<br><br>Visivelmente hesitante diante do terminal de comando, o(a) estudante para a execução.<br><br>Ao perceber a paralisia, o(a) professor(a) aproxima-se da bancada, pega o teclado e digita diretamente os comandos de rota padrão, restabelecendo a conectividade da rede.<br>[PERGUNTA1]<br><b><font color=\"#f04770\">A Mediação Durante a Prática&nbsp;</font></b><br><br>A mediação pedagógica acontece durante a prática e envolve:<br><ul><li>acompanhar como os(as) estudantes realizam as atividades;<br></li><li>identificar dificuldades;<br></li><li>decidir quando intervir.</li></ul>Antes e durante as aulas práticas, você oferece orientações e demonstrações para apoiar a compreensão dos conceitos e procedimentos necessários, como o uso de ferramentas, softwares e equipamentos.<br><br>Mas mediar não significa apenas oferecer ajuda. É importante analisar o que motivou a intervenção, como ela foi realizada e o que aconteceu depois. Observe se o apoio ajudou os(as) estudantes a superar dificuldades, a avançar na atividade e a realizar as etapas com mais autonomia.<br><br><h3><b><font color=\"#f04770\">O que observar ao analisar uma intervenção?</font></b></h3><br>Para avaliar a qualidade de uma intervenção, observe os seguintes elementos fundamentais:<br>[INFOGRAFICO1]<br><br><h3><b><font color=\"#f04770\">Intervenções para Diferentes Necessidades</font>&nbsp;</b></h3><br>A intervenção mais adequada depende da dificuldade observada e do objetivo da atividade.<br><ul><li>Em uma prática de programação, uma pergunta sobre a lógica do código pode ajudar o(a) estudante a avançar.<br></li><li>Em outra situação, uma nova demonstração pode ser necessária para orientar o uso de um equipamento.<br></li></ul>[CAIXADESTAQUE1]",
    "conectando": ""
   },
   "blocos": [
@@ -23,6 +23,26 @@
      "iframeH5P": ""
     },
     "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "cards_icones_setas",
+    "infograficoData": {
+     "titulo": "",
+     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/ALVO.png\",\"titulo\":\"<b>Dificuldade apresentada</b>\",\"texto\":\"Identifique o que o(a) estudante teve dificuldade em realizar, como configurar um equipamento, compreender uma lógica de programação ou identificar uma falha no sistema.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2068.png\",\"titulo\":\"Apoio oferecido\",\"texto\":\"Registre a intervenção realizada, como uma demonstração, uma pergunta orientadora ou uma explicação sobre determinado procedimento.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2045.png\",\"titulo\":\"Necessidade identificada\",\"texto\":\"Analise o que justificou a intervenção: uma dúvida conceitual, uma dificuldade técnica ou a necessidade de compreender melhor uma etapa da atividade.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2033.png\",\"titulo\":\"Mudança observada\",\"texto\":\"Verifique se, após o apoio, o(a) estudante conseguiu avançar na atividade, corrigir erros ou realizar procedimentos com maior autonomia.&nbsp;<br>\",\"corFundo\":\"#beeffc\",\"corTitulo\":\"#0a3442\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%206.png\",\"titulo\":\"Adequação da intervenção\",\"texto\":\"Avalie se o apoio foi suficiente para superar a dificuldade ou se seria necessário adotar outra estratégia.&nbsp;<br>\",\"corFundo\":\"#06d7a0\",\"corTitulo\":\"#0a3442\"}]"
+    },
+    "novo": false
+   },
+   {
+    "tipo": "caixadestaque",
+    "texto": "<b>O importante é avaliar se o apoio oferecido atende à necessidade identificada. Intervir em excesso pode limitar a autonomia, enquanto oferecer pouco suporte pode dificultar a aprendizagem.&nbsp;</b>",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#f0fdf4",
+    "caixaCorBorda": "#06d7a0",
+    "novo": false,
+    "caixaCorTexto": "#0a3442"
    }
   ]
  }
