@@ -1,7 +1,53 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão Imobiliária",
- "quando": "2026-11-11T18:07:38.735Z",
+ "quando": "2026-11-11T18:10:11.962Z",
  "autor": "Eduarda",
- "dados": {}
+ "dados": {
+  "campos": {
+   "objetivo": "Aplicar critérios de análise da mediação docente em uma situação de prática técnica, relacionando a necessidade observada, a intervenção, os efeitos e as possibilidades de aprimoramento.<br>",
+   "titulo": "<b>Analisando a Mediação Docente</b><br>",
+   "conteudo": "Chegou o momento de analisar uma situação de ensino técnico em Gestão Imobiliária. Observe a dificuldade apresentada pelo(a) estudante, a intervenção realizada e seus efeitos. Em seguida, avalie como essa experiência pode contribuir para aprimorar suas decisões pedagógicas e favorecer a autonomia dos(as) estudantes.<br><br><h3><b><font color=\"#f04770\">Registrando uma Ocorrência&nbsp;</font></b></h3><br>Durante uma atividade prática de Gestão de Condomínios, em Maceió, os(as) estudantes analisam uma ocorrência de infiltração relatada por um morador e precisam organizar o registro e o encaminhamento da ocorrência. Um(a) estudante registra apenas que o problema foi resolvido, sem indicar as providências adotadas. O(A) professor(a) apresenta um modelo de registro de ocorrências e orienta a identificação dos fatos, das providências e dos responsáveis. O(A) estudante melhora o registro, mas ainda solicita ajuda nas etapas seguintes.<br>",
+   "reflexao": "<h3><b><font color=\"#f04770\">Refletindo sobre sua prática&nbsp;</font></b></h3><br>Escolha uma situação recente em que um(a) estudante apresentou dificuldade durante uma prática técnica, como preencher uma ficha de vistoria, interpretar informações de um contrato de locação ou organizar o registro de uma ocorrência condominial.<br><br>Reflita brevemente:<br><ul><li>qual necessidade você identificou?<br></li><li>que orientação, demonstração ou questionamento utilizou?<br></li><li>o que o(a) estudante conseguiu fazer após a sua intervenção?<br></li><li>ele(a) avançou com maior autonomia ou continuou dependendo de ajuda?<br></li><li>o que você manteria ou ajustaria em uma situação semelhante?</li></ul>"
+  },
+  "atividades": [
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32202\" width=\"1124\" height=\"427\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"GIM-M4-U03-APLI-MULTI1\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   },
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32203\" width=\"1124\" height=\"427\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"GIM-M4-U03-APLI-MULTI2\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   }
+  ],
+  "conclusao": {
+   "titulo": "Da análise à prática docente ",
+   "texto": "Nesta aula, você analisou como as intervenções docentes podem responder às dificuldades dos(as) estudantes durante as práticas de Gestão Imobiliária.<br><br>Lembre-se: uma intervenção eficaz não se limita a permitir que a tarefa seja concluída. É importante observar se o apoio favoreceu a compreensão dos procedimentos, a tomada de decisões e a autonomia.<br><br>Leve essa reflexão para suas próximas práticas e continue observando como suas intervenções contribuem para a formação profissional dos(as) estudantes.<br><br>Até a próxima!<br><br>",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "Retome as aulas abaixo para rever como a demonstração e a gestão da prática contribuem para a mediação docente durante as atividades técnicas.<br>",
+     "idRevisar": "mwcfsxbt3zfdpe",
+     "itensRevisar": [
+      {
+       "id": "mwcft142wzv3yf",
+       "texto": "Módulo 1 – Unidade 6: Demonstração técnica aplicada ao projeto ABP.<br>",
+       "link": ""
+      },
+      {
+       "id": "mwcft1bf7jy1fx",
+       "texto": "Módulo 1 – Unidade 8: Preparação de demonstrações técnicas.<br>",
+       "link": ""
+      },
+      {
+       "id": "mwcft1i8egcfqb",
+       "texto": "Módulo 3 – Encontro síncrono 1: Gestão da prática técnica.",
+       "link": ""
+      }
+     ],
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": true
+    }
+   ]
+  }
+ }
 }
