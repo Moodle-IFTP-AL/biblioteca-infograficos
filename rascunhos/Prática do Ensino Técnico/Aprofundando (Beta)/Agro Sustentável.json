@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Agro Sustentável",
- "quando": "2026-11-11T16:01:13.607Z",
+ "quando": "2026-11-11T16:01:43.016Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -88,6 +88,7 @@
      "novo": false
     }
    ]
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29376"
  }
 }
