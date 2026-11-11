@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Comunicação e Mercado",
- "quando": "2026-11-11T16:22:19.451Z",
+ "quando": "2026-11-11T16:22:52.797Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do conhecimento: </b>mediação docente durante a prática técnica.<br><b>Conteúdos:</b><br><ul><li>intervenções realizadas durante a prática;<br></li><li>orientações e demonstrações utilizadas;<br></li><li>situações que exigiram tomada de decisão;<br></li><li>ajustes realizados diante das dificuldades dos estudantes;<br></li><li>relação entre intervenção docente e autonomia dos estudantes;<br></li><li>efeitos das intervenções observados na prática.<br></li></ul><b>Objetivo da aula:</b> analisar as intervenções realizadas durante uma prática técnica, relacionando-as às necessidades observadas e identificando possibilidades de aprimoramento da mediação docente.<br>",
    "objetivo": "Analisar as intervenções docentes realizadas durante uma prática técnica, relacionando as necessidades observadas aos efeitos produzidos e identificando possibilidades de aprimoramento da mediação.<br>",
    "titulo": "<b>Mediação Técnica: da Observação à Decisão Pedagógica</b><br>",
-   "conteudo": "<h3><b><font color=\"#f04770\">Uma intervenção durante a prática</font></b></h3><br>Durante uma oficina de criação de campanhas digitais, uma equipe de estudantes travou ao configurar o gerenciador de anúncios.<br><br>Ao perceber a dificuldade, o(a) professor(a) aproximou-se da bancada, pegou o mouse e executou sozinho(a) todo o passo a passo da parametrização do público-alvo, solicitando que a equipe observasse a tela.<br>",
+   "conteudo": "<h3><b><font color=\"#f04770\">Uma intervenção durante a prática</font></b></h3><br>Durante uma oficina de criação de campanhas digitais, uma equipe de estudantes travou ao configurar o gerenciador de anúncios.<br><br>Ao perceber a dificuldade, o(a) professor(a) aproximou-se da bancada, pegou o mouse e executou sozinho(a) todo o passo a passo da parametrização do público-alvo, solicitando que a equipe observasse a tela.<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">A mediação durante a prática</font></b></h3><br>A mediação docente no ensino técnico ocorre no calor da prática. Acompanhar o trabalho exige a capacidade de ler rapidamente as dificuldades técnicas e de tomar decisões.<br><br>Antes e durante a oficina, demonstrações e orientações diretas ajudam na prática de procedimentos complexos.<br><br>No entanto, para analisar a mediação é preciso compreender:<br><ul><li>a necessidade real da turma;<br></li><li>o tipo de apoio oferecido;<br></li><li>o resultado na aprendizagem.</li></ul>Intervir bem significa oferecer a ajuda necessária sem assumir o papel do(a)&nbsp; estudante.<br><br><h3><b><font color=\"#f04770\">Como analisar uma intervenção?<br><br></font></b></h3>Para analisar se uma intervenção docente na prática técnica foi efetiva, observe os seguintes critérios:<br><br>",
    "conectando": ""
   },
   "blocos": [
@@ -22,7 +22,7 @@
      "videoUrl": "",
      "iframeH5P": ""
     },
-    "novo": true
+    "novo": false
    }
   ]
  }
