@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão Imobiliária",
- "quando": "2026-11-11T15:07:26.612Z",
+ "quando": "2026-11-11T15:07:40.249Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -39,6 +39,13 @@
      "cards": "{\"esquerda\":{\"titulo\":\"<b>O planejamento</b><br>\",\"itens\":\"<ul><li>Define os objetivos de aprendizagem.<br></li><li>Organiza as etapas e os procedimentos.<br></li><li>Identifica os recursos necessários.<br></li><li>Estabelece critérios de avaliação.<br></li></ul>\"},\"direita\":{\"titulo\":\"A execução\",\"itens\":\"Acontece em condições concretas:<br><ul><li>Pode apresentar imprevistos relacionados ao tempo.<br></li><li>Pode envolver dificuldades dos(as) estudantes.<br></li><li>Pode exigir adaptações diante da indisponibilidade de materiais ou espaços.<br></li></ul>\"}}"
     },
     "novo": false
+   },
+   {
+    "tipo": "video",
+    "texto": "Acompanhe o vídeo e observe como decisões e ajustes podem aproximar o planejamento das condições reais de uma prática técnica.<br>",
+    "titulo": "Como Aproximar o Planejamento da Execução?",
+    "url": "",
+    "novo": true
    }
   ]
  }
