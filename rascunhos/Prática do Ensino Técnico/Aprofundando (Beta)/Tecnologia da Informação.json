@@ -1,15 +1,15 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Tecnologia da Informação",
- "quando": "2026-11-11T15:19:49.718Z",
+ "quando": "2026-11-11T15:21:20.806Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do Conhecimento:</b><br>Coerência entre planejamento e execução da prática técnica.<br><b>Conteúdos:</b><br><ul><li>O que foi planejado e o que foi realizado.<br></li><li>Relação entre etapas planejadas e desenvolvimento da prática.<br></li><li>Adequação dos procedimentos às condições encontradas.<br></li><li>Ajustes realizados durante a execução.<br></li><li>Decisões que favoreceram ou dificultaram o desenvolvimento da prática.<br></li></ul><b>Objetivo da Aula:</b><br>Analisar a relação entre o planejamento e a execução de uma prática técnica já realizada, identificando decisões e ajustes que assegurem o alcance dos objetivos pretendidos.<br>",
    "objetivo": "Identificar situações imprevistas durante a execução de uma aula prática e analisar decisões que permitam ajustar o planejamento sem comprometer os objetivos de aprendizagem.",
    "titulo": "<b>Ajustes Didáticos na Execução de Práticas</b><br>",
-   "conteudo": "Na transposição didática do Ensino Técnico, enfrentar imprevistos em sala de aula é algo natural e recorrente.<br><br>Eles podem ser:<br><ul><li>Falhas de infraestrutura.<br></li><li>Incompatibilidade de software.<br></li><li>Ritmos heterogêneos entre os(as) estudantes.<br></li><li>Intercorrências diversas no ambiente da prática.<br></li></ul>Observar com atenção essas situações permite compreender o impacto real das escolhas pedagógicas feitas durante a aula, transformando imprevistos operacionais em momentos valiosos de aprendizado profissional e aprimoramento da prática docente.<br><br><h3><b><font color=\"#f04770\">O que Observar</font></b></h3><br>Para avaliar como foi a execução da prática, observe três elementos centrais:<br>[ACCORDION1]<br>[INFOGRAFICO1]<br>Acompanhar a atividade em tempo real permite identificar desvios e tomar decisões ágeis, mantendo a intencionalidade pedagógica e assegurando que os(as) estudantes alcancem as competências técnicas previstas na matriz curricular.<br><br>",
-   "conectando": ""
+   "conteudo": "Na transposição didática do Ensino Técnico, enfrentar imprevistos em sala de aula é algo natural e recorrente.<br><br>Eles podem ser:<br><ul><li>Falhas de infraestrutura.<br></li><li>Incompatibilidade de software.<br></li><li>Ritmos heterogêneos entre os(as) estudantes.<br></li><li>Intercorrências diversas no ambiente da prática.<br></li></ul>Observar com atenção essas situações permite compreender o impacto real das escolhas pedagógicas feitas durante a aula, transformando imprevistos operacionais em momentos valiosos de aprendizado profissional e aprimoramento da prática docente.<br><br><h3><b><font color=\"#f04770\">O que Observar</font></b></h3><br>Para avaliar como foi a execução da prática, observe três elementos centrais:<br>[ACCORDION1]<br>[INFOGRAFICO1]<br>Acompanhar a atividade em tempo real permite identificar desvios e tomar decisões ágeis, mantendo a intencionalidade pedagógica e assegurando que os(as) estudantes alcancem as competências técnicas previstas na matriz curricular.&nbsp;[GLOSSARIO1]<br>[VIDEO1]",
+   "conectando": "Agora, é sua vez de avaliar uma escolha real de sua prática técnica e mensurar seus impactos pedagógicos.<br>"
   },
   "blocos": [
    {
@@ -48,9 +48,31 @@
     "tipo": "video",
     "texto": "Assista ao vídeo a seguir e reflita sobre como é possível realizar ajustes em tempo real mantendo a intencionalidade pedagógica na sala de aula.<br>",
     "titulo": "Como Preservar as Aprendizagens Previstas?",
-    "url": "",
-    "novo": true
+    "url": "https://youtu.be/k2PpOUdVRFU",
+    "novo": false
+   },
+   {
+    "tipo": "glossario",
+    "texto": "",
+    "termos": [
+     {
+      "termo": "IDE",
+      "definicao": "<b>Ambiente de Desenvolvimento Integrado:</b> software que combina ferramentas essenciais para escrita, teste e depuração de código de programação.<br>"
+     }
+    ],
+    "novo": false
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Relação Entre o Planejamento e a Execução",
+   "texto": "Analisar uma oficina de TI já realizada permite identificar o que foi planejado, o que aconteceu durante a execução e quais ajustes foram necessários diante das condições reais.<br><br>Essa avaliação minuciosa revela como decisões pontuais e intencionais reorientaram a condução da aula, preservando a aprendizagem prevista.<br><br>Assim, é possível consolidar uma postura cada vez mais reflexiva, transformando as adaptações realizadas durante a prática em referências para aprimorar suas decisões pedagógicas.<br>[DICA1]",
+   "blocos": [
+    {
+     "tipo": "dica",
+     "texto": "Sempre inclua no seu planejamento um \"plano B\" em meio físico ou simuladores offline. Assim, se a internet oscilar durante uma aula, você poderá utilizar simuladores locais previamente instalados nas máquinas para evitar paralisações.<br>",
+     "novo": false
+    }
+   ]
+  }
  }
 }
