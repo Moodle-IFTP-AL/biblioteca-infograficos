@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão e Operações",
- "quando": "2026-11-11T17:32:29.585Z",
+ "quando": "2026-11-11T17:32:48.468Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -20,7 +20,7 @@
   ],
   "conclusao": {
    "titulo": "Da Mediação à Autonomia ",
-   "texto": "Analisar a mediação permite compreender se a intervenção atendeu à necessidade do(a) estudante e se favoreceu avanços posteriores.<br><br>O resultado imediato não deve ser o único critério: é necessário observar a redução de erros, a segurança, a justificativa das decisões e a menor dependência de ajuda. Essa reflexão ajuda a preservar intervenções eficazes e ajustar aquelas que apenas resolvem a tarefa.<br><br>Continue observando sua prática com atenção e valorizando cada oportunidade de ampliar a autonomia dos(as)&nbsp; estudantes.<br>",
+   "texto": "Analisar a mediação permite compreender se a intervenção atendeu à necessidade do(a) estudante e se favoreceu avanços posteriores.<br><br>O resultado imediato não deve ser o único critério: é necessário observar a redução de erros, a segurança, a justificativa das decisões e a menor dependência de ajuda. Essa reflexão ajuda a preservar intervenções eficazes e ajustar aquelas que apenas resolvem a tarefa.<br><br>Continue observando sua prática com atenção e valorizando cada oportunidade de ampliar a autonomia dos(as)&nbsp; estudantes.<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -40,12 +40,12 @@
       {
        "id": "mwceg64nercfan",
        "texto": "Módulo 3 – Encontro síncrono 1: Gestão da prática técnica.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27205"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
   }
