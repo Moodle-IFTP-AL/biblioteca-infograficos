@@ -1,49 +1,24 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão e Operações",
- "quando": "2026-11-09T18:35:34.803Z",
+ "quando": "2026-11-11T15:01:38.396Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Analisar uma prática técnica já realizada, relacionando o que foi planejado ao que aconteceu na experiência e identificando aspectos que precisam ser aprimorados.<br>",
-   "titulo": "<b>Sua vez de analisar</b><br>",
-   "conteudo": "Escolha uma prática técnica significativa que você já tenha realizado com sua turma. Os registros a seguir ajudarão a comparar planejamento, execução e aprendizagem, reconhecendo tanto os aspectos positivos quanto os pontos que merecem maior atenção.<br>",
-   "reflexao": ""
+   "objetivo": "Avaliar o impacto de uma decisão tomada durante a execução de uma prática, julgando sua contribuição para o desenvolvimento da aula e para o alcance dos objetivos de aprendizagem.<br>",
+   "titulo": "<b>Decisões que Transformam a Prática</b><br>",
+   "conteudo": "<br>",
+   "reflexao": "<b>Da Reflexão à Melhoria da Prática&nbsp;</b><br><br>Parabéns pela conclusão da aula!<br><br>Os imprevistos de uma prática técnica também oferecem oportunidades para analisar escolhas e aprimorar a atuação docente. Siga na trilha levando consigo um planejamento mais flexível, reflexivo e comprometido com as aprendizagens dos(as) estudantes.<br>"
   },
   "atividades": [
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31814\" width=\"1103\" height=\"612\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"GOP-M4-U01-APLI-DOC\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32178\" width=\"1115\" height=\"671\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"GOP-M4-U02-APLI-ESSAY\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
+    "titulo": "Atividade 1"
    },
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31815\" width=\"1112\" height=\"447\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"GOP-M4-U01-APLI-MULTI\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32179\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"GOP-M4-U02-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
+    "titulo": "Atividade 2"
    }
-  ],
-  "conclusao": {
-   "titulo": "A reflexão como parte da prática docente",
-   "texto": "Analisar uma prática já realizada fortalece a intencionalidade pedagógica e traz clareza para decisões futuras. Essa pausa permite comparar o planejado com o vivido, interpretar as evidências e reconhecer fatores que favoreceram ou limitaram a aprendizagem.<br><br>Sua experiência é uma fonte valiosa de conhecimento profissional. Ao revisitar o próprio trabalho com abertura e rigor, você transforma a prática de ontem em referência para ensinar melhor amanhã.<br>[REVISAR1]",
-   "blocos": [
-    {
-     "tipo": "revisar",
-     "texto": "Revisite as aulas abaixo para articular os desafios do mundo do trabalho ao seu planejamento e transformar a reflexão em ação.<br>",
-     "idRevisar": "mw9lsp015u3ix8",
-     "itensRevisar": [
-      {
-       "id": "mw9lssrtdlkj9i",
-       "texto": "Módulo 1 – 1ª aula síncrona: Transformação de problemas reais em práticas técnicas.&nbsp;&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=22781"
-      },
-      {
-       "id": "mw9lssxvdqcysl",
-       "texto": "Módulo 2 – Unidade 5: Planejamento de práticas técnicas a partir de problemas profissionais.",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24771"
-      }
-     ],
-     "linkBotao": "",
-     "textoBotao": "",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30036"
+  ]
  }
 }
