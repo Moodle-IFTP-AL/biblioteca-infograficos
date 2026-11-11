@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão Imobiliária",
- "quando": "2026-11-11T18:10:33.830Z",
+ "quando": "2026-11-11T18:10:51.151Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -40,7 +40,7 @@
       {
        "id": "mwcft1i8egcfqb",
        "texto": "Módulo 3 – Encontro síncrono 1: Gestão da prática técnica.",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27213"
       }
      ],
      "linkBotao": "",
@@ -48,6 +48,7 @@
      "novo": true
     }
    ]
-  }
+  },
+  "tipoBotao": "voltar"
  }
 }
