@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão Imobiliária",
- "quando": "2026-11-11T18:07:19.146Z",
+ "quando": "2026-11-11T18:08:00.998Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -66,8 +66,19 @@
   ],
   "conclusao": {
    "titulo": "Pontos essenciais da mediação",
-   "texto": "<ul><li>Observe a dificuldade apresentada pelo(a) estudante.<br></li><li>Relacione o apoio à necessidade identificada.<br></li><li>Considere os objetivos da prática profissional.<br></li><li>Analise os efeitos da intervenção.<br></li><li>Verifique se houve compreensão e autonomia.<br></li><li>Mantenha ou ajuste o apoio conforme os resultados observados.<br></li></ul>",
-   "blocos": []
+   "texto": "<ul><li>Observe a dificuldade apresentada pelo(a) estudante.<br></li><li>Relacione o apoio à necessidade identificada.<br></li><li>Considere os objetivos da prática profissional.<br></li><li>Analise os efeitos da intervenção.<br></li><li>Verifique se houve compreensão e autonomia.<br></li><li>Mantenha ou ajuste o apoio conforme os resultados observados.<br>[TOMENOTA1]<br>[DICA1]</li></ul>",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "A qualidade da mediação depende da relação entre a dificuldade observada, o apoio oferecido e os efeitos produzidos. Mais do que resolver a tarefa, a intervenção deve favorecer a compreensão dos procedimentos e a autonomia do(a) estudante.<br>",
+     "novo": false
+    },
+    {
+     "tipo": "dica",
+     "texto": "Em simulações de vistorias imobiliárias ou na análise de ocorrências condominiais, observe as dúvidas dos(as) estudantes. Antes de apresentar a resposta, faça perguntas que os ajudem a identificar informações relevantes, aplicar critérios e tomar decisões com maior autonomia.<br>",
+     "novo": false
+    }
+   ]
   },
   "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30252"
  }
