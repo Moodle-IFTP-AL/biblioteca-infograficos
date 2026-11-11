@@ -1,7 +1,29 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão Imobiliária",
- "quando": "2026-11-11T17:56:04.858Z",
+ "quando": "2026-11-11T17:57:15.427Z",
  "autor": "Eduarda",
- "dados": {}
+ "dados": {
+  "campos": {
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do conhecimento: </b>mediação docente durante a prática técnica.<br><b>Conteúdos:</b><br><ul><li>intervenções realizadas durante a prática;<br></li><li>orientações e demonstrações utilizadas;<br></li><li>situações que exigiram tomada de decisão;<br></li><li>ajustes realizados diante das dificuldades dos estudantes;<br></li><li>relação entre intervenção docente e autonomia dos estudantes;<br></li><li>efeitos das intervenções observados na prática.<br></li></ul><b>Objetivo da aula:</b> analisar as intervenções realizadas durante uma prática técnica, relacionando-as às necessidades observadas e identificando possibilidades de aprimoramento da mediação docente.<br>",
+   "objetivo": "Analisar as intervenções docentes realizadas durante uma prática técnica, relacionando as necessidades observadas aos efeitos produzidos e identificando possibilidades de aprimoramento da mediação.<br>",
+   "titulo": "<b>Mediação Docente nas Práticas Técnicas</b><br>",
+   "conteudo": "<h3><b><font color=\"#f04770\">Uma Dificuldade na Vistoria&nbsp;</font></b></h3><br>Durante uma atividade de vistoria de entrada em um apartamento para locação, um(a) estudante identifica manchas de umidade em uma parede, mas tem dificuldade para descrevê-las no relatório. O(A) professor(a) apresenta um exemplo de registro técnico e orienta a observação de aspectos como a localização, a extensão e a aparência das manchas. Em seguida, o(a) estudante retoma o preenchimento do documento.<br><br>",
+   "conectando": ""
+  },
+  "blocos": [
+   {
+    "tipo": "pergunta",
+    "texto": "",
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "O Que Observar Antes? ",
+     "texto": "O que você observa para saber se uma intervenção realmente ajuda o(a) estudante a avançar?<br>",
+     "videoUrl": "",
+     "iframeH5P": ""
+    },
+    "novo": true
+   }
+  ]
+ }
 }
