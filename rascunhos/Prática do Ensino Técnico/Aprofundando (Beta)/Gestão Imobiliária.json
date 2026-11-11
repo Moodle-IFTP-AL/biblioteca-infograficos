@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão Imobiliária",
- "quando": "2026-11-11T18:06:30.053Z",
+ "quando": "2026-11-11T18:07:19.146Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -68,6 +68,7 @@
    "titulo": "Pontos essenciais da mediação",
    "texto": "<ul><li>Observe a dificuldade apresentada pelo(a) estudante.<br></li><li>Relacione o apoio à necessidade identificada.<br></li><li>Considere os objetivos da prática profissional.<br></li><li>Analise os efeitos da intervenção.<br></li><li>Verifique se houve compreensão e autonomia.<br></li><li>Mantenha ou ajuste o apoio conforme os resultados observados.<br></li></ul>",
    "blocos": []
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30252"
  }
 }
