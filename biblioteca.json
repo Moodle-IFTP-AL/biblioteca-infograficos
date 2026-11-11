@@ -186,6 +186,19 @@
    "criadoEm": "2026-11-09T13:43:04.758Z",
    "atualizadoEm": "2026-11-09T13:39:55.286Z",
    "autor": "Eduarda"
+  },
+  {
+   "id": "4ec4687e-b899-4e63-8583-8f989b0862e4",
+   "nome": "Analisar uma intervenção",
+   "pasta": "M4U03",
+   "tipo": "cards_icones_setas",
+   "data": {
+    "titulo": "",
+    "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/ALVO.png\",\"titulo\":\"<b>Dificuldade observada</b>\",\"texto\":\"O(a) estudante não conseguia relacionar equipamentos, horários e funções da equipe no planejamento da operação.\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2068.png\",\"titulo\":\"Necessidade de aprendizagem\",\"texto\":\"Compreender os critérios usados para distribuir recursos e responsabilidades diante das exigências do cronograma.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2045.png\",\"titulo\":\"Intervenção realizada\",\"texto\":\"O(a) professor(a) entregou uma solução pronta, permitindo que a atividade fosse retomada rapidamente.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2033.png\",\"titulo\":\"Efeito imediato\",\"texto\":\"O(a) estudante concluiu a distribuição inicial, mas não demonstrou compreensão dos critérios utilizados.&nbsp;<br>\",\"corFundo\":\"#beeffc\",\"corTitulo\":\"#0a3442\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%206.png\",\"titulo\":\"Evidência posterior\",\"texto\":\"Com a mudança no cronograma, o(a) estudante voltou a depender da orientação direta.&nbsp;<br>\",\"corFundo\":\"#06d7a0\",\"corTitulo\":\"#0a3442\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Arquivo%20preparado.png\",\"titulo\":\"Questão para aprimoramento\",\"texto\":\"A intervenção poderia ter utilizado perguntas, comparação entre alternativas ou preenchimento parcial do quadro, preservando a decisão do(a) estudante.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2046.png\",\"titulo\":\"Relação com o objetivo\",\"texto\":\"O apoio precisa favorecer a organização, a análise e a tomada de decisão, não apenas a conclusão da tarefa.&nbsp;<br>\",\"corFundo\":\"#fec43e\"}]"
+   },
+   "criadoEm": "2026-11-11T18:17:53.943Z",
+   "atualizadoEm": "2026-11-11T18:14:42.092Z",
+   "autor": "Eduarda"
   }
  ]
 }
