@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Comunicação e Mercado",
- "quando": "2026-11-11T16:31:57.738Z",
+ "quando": "2026-11-11T16:32:16.644Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -20,7 +20,7 @@
   ],
   "conclusao": {
    "titulo": "Da análise à prática docente ",
-   "texto": "Analisar criticamente a mediação docente é essencial para transformar a prática em sala de aula em um espaço de aprendizagem ativa.<br><br>Ao conectar necessidades, ações e efeitos, você identifica a ajuda mais adequada ao contexto, permitindo que os(as) estudantes desenvolvam autonomia e habilidades técnicas.<br><br>Continue observando suas intervenções cotidianas e ajustando sua atuação.<br><br>Parabéns pelo empenho ao longo desta unidade e até a próxima etapa!<br>",
+   "texto": "Analisar criticamente a mediação docente é essencial para transformar a prática em sala de aula em um espaço de aprendizagem ativa.<br><br>Ao conectar necessidades, ações e efeitos, você identifica a ajuda mais adequada ao contexto, permitindo que os(as) estudantes desenvolvam autonomia e habilidades técnicas.<br><br>Continue observando suas intervenções cotidianas e ajustando sua atuação.<br><br>Parabéns pelo empenho ao longo desta unidade e até a próxima etapa!<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -40,14 +40,15 @@
       {
        "id": "mwcc9q35c6jsdd",
        "texto": "Módulo 3 – Encontro síncrono 1: Gestão da prática técnica.<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27076"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
-  }
+  },
+  "tipoBotao": "voltar"
  }
 }
