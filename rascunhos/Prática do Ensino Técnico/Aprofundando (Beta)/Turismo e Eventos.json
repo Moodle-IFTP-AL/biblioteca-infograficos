@@ -1,94 +1,39 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Turismo e Eventos",
- "quando": "2026-11-11T15:46:47.442Z",
+ "quando": "2026-11-11T18:27:48.606Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do Conhecimento:</b><br>Coerência entre planejamento e execução da prática técnica.<br><b>Conteúdos:</b><br><ul><li>O que foi planejado e o que foi realizado.<br></li><li>Relação entre etapas planejadas e desenvolvimento da prática.<br></li><li>Adequação dos procedimentos às condições encontradas.<br></li><li>Ajustes realizados durante a execução.<br></li><li>Decisões que favoreceram ou dificultaram o desenvolvimento da prática.<br></li></ul><b>Objetivo da Aula:</b><br>Analisar a relação entre o planejamento e a execução de uma prática técnica já realizada, identificando decisões e ajustes que assegurem o alcance dos objetivos pretendidos.<br>",
-   "objetivo": "Identificar situações imprevistas durante a execução de uma aula prática e analisar decisões que permitam ajustar o planejamento sem comprometer os objetivos de aprendizagem.<br>",
-   "titulo": "<b>Planejar, Executar e Ajustar</b><br>",
-   "conteudo": "Em uma prática de Turismo e Eventos, nem tudo acontece exatamente como previsto:<br><ul><li>Um grupo de estudantes pode levar mais tempo para concluir uma etapa.<br></li><li>Um recurso pode não estar disponível.<br></li><li>Uma situação simulada pode exigir outra forma de condução.</li></ul>Esses imprevistos não anulam o planejamento. Ao contrário: observar o que aconteceu e compreender as escolhas feitas durante a execução permite avaliar se os ajustes realizados preservaram os objetivos de aprendizagem e a intencionalidade pedagógica da atividade.<br><br><h3><b><font color=\"#f04770\">O que Observar</font></b></h3><br>Ao retomar uma prática já realizada, observe com atenção:<br>[ACCORDION1]<br>[INFOGRAFICO1]<br>Acompanhar atentamente o desenvolvimento da atividade permite identificar essas situações e decidir quando adaptar um procedimento, redistribuir o tempo ou reorganizar recursos, preservando a intencionalidade pedagógica e as aprendizagens que se pretende desenvolver.[GLOSSARIO1]<br>[VIDEO1]<br>[H5P1]",
-   "conectando": "Agora, você vai analisar uma decisão tomada em sua própria prática e avaliar seus efeitos.<br>"
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do conhecimento: </b>mediação docente durante a prática técnica.<br><b>Conteúdos:</b><br><ul><li>intervenções realizadas durante a prática;<br></li><li>orientações e demonstrações utilizadas;<br></li><li>situações que exigiram tomada de decisão;<br></li><li>ajustes realizados diante das dificuldades dos estudantes;<br></li><li>relação entre intervenção docente e autonomia dos estudantes;<br></li><li>efeitos das intervenções observados na prática.<br></li></ul><b>Objetivo da aula:</b> analisar as intervenções realizadas durante uma prática técnica, relacionando-as às necessidades observadas e identificando possibilidades de aprimoramento da mediação docente.<br>",
+   "objetivo": "Analisar as intervenções docentes realizadas durante uma prática técnica, relacionando as necessidades observadas aos efeitos produzidos e identificando possibilidades de aprimoramento da mediação.<br>",
+   "titulo": "<b>Da Intervenção à Autonomia Técnica</b><br>",
+   "conteudo": "<b>Uma dificuldade no registro e organização</b><br><br>Durante uma aula prática de serviços de bar e restaurante, um(a) estudante demonstra dificuldade em registrar e organizar os pedidos de uma mesa, especialmente ao lidar com solicitações de alterações nos pratos.<br><br>Ao perceber a hesitação, o(a) professor(a) retoma as orientações sobre o atendimento, apresenta um exemplo de comanda preenchida e acompanha o(a) estudante no registro dos pedidos antes de solicitar que continue o atendimento.<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">A mediação durante a prática</font></b></h3><br>A mediação pedagógica acontece durante a prática e envolve:<br><ul><li>acompanhar como os(as) estudantes realizam as atividades;<br></li><li>identificar dificuldades;<br></li><li>tomar decisões diante do que é observado.</li></ul>Antes e durante a execução, você oferece orientações e demonstrações para apoiar a compreensão dos conceitos e procedimentos necessários, seja na produção artesanal, na organização de eventos, no atendimento ao(à) turista, nos serviços de hospedagem, nas atividades de lazer ou nos serviços de bar e restaurante.<br><br>Mas mediar não significa apenas oferecer ajuda. É importante analisar o que motivou a intervenção, como ela foi realizada e o que aconteceu depois.<br><br>Assim, você reconhece quais apoios favorecem a aprendizagem e a autonomia técnica e quais precisam ser ajustados.<br><h3><font color=\"#f04770\"><br><b>O que observar ao analisar uma intervenção?<br><br></b></font></h3>Para analisar se uma intervenção docente na prática técnica foi efetiva, observe os seguintes critérios:<br>[INFOGRAFICO1]<br><h3><b><font color=\"#f04770\">A intervenção adequada a cada necessidade&nbsp;</font></b></h3><br>Durante uma prática, diferentes dificuldades podem surgir e exigir respostas distintas. Conheça algumas situações e possibilidades de intervenção. A escolha depende do que você observa, do objetivo da atividade e do apoio de que o(a) estudante precisa naquele momento.<br><br>",
+   "conectando": ""
   },
   "blocos": [
    {
-    "tipo": "accordion",
+    "tipo": "pergunta",
     "texto": "",
-    "topicos": [
-     {
-      "titulo": "Tempo",
-      "texto": "Alguma etapa exigiu mais ou menos tempo do que o previsto inicialmente?&nbsp;&nbsp;<br>"
-     },
-     {
-      "titulo": "Recursos e condições",
-      "texto": "Materiais, espaços ou informações precisaram ser adaptados durante a atividade?&nbsp;"
-     },
-     {
-      "titulo": "Decisão docente",
-      "texto": "Que ajuste permitiu dar continuidade à prática e como essa escolha afetou a execução da atividade, a participação e a aprendizagem dos(as) estudantes?&nbsp;&nbsp;<br>"
-     }
-    ],
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "O que observar antes de intervir?",
+     "texto": "O que você considera ao decidir como intervir diante de uma dificuldade apresentada pelo(a) estudante?<br>",
+     "videoUrl": "",
+     "iframeH5P": ""
+    },
     "novo": false
    },
    {
     "tipo": "infografico",
     "texto": "",
-    "infograficoTipo": "comparativo",
+    "infograficoTipo": "cards_icones_setas",
     "infograficoData": {
-     "titulo": "<b>Do Planejamento à Execução</b>",
-     "topico1_titulo": "<b>O planejamento</b>",
-     "topico1_conteudo": "<ul><li>Define os objetivos de aprendizagem.<br></li><li>Organiza as etapas e os procedimentos.<br></li><li>Identifica os recursos necessários.<br></li><li>Estabelece critérios para orientar a prática técnica.<br></li></ul>",
-     "topico2_titulo": "<b>A execução</b>",
-     "topico2_conteudo": "<ul><li>Acontece em contextos dinâmicos, com estudantes diversos(as).<br></li><li>Envolve tempos, espaços e condições concretas.<br></li><li>Pode apresentar situações não previstas no planejamento.<br></li></ul>"
+     "titulo": "",
+     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/ALVO.png\",\"titulo\":\"Dificuldade identificada\",\"texto\":\"<div>O(a) estudante teve dificuldade em realizar um procedimento, compreender uma orientação ou tomar uma decisão durante a atividade?&nbsp;<br></div>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2068.png\",\"titulo\":\"Apoio oferecido\",\"texto\":\"Você apresentou uma demonstração, retomou as orientações, fez perguntas ou ofereceu outro tipo de suporte?<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2045.png\",\"titulo\":\"Necessidade observada\",\"texto\":\"Qual dificuldade justificou a intervenção? Ela estava relacionada à compreensão, à execução ou à tomada de decisão?<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2033.png\",\"titulo\":\"Mudança percebida\",\"texto\":\"Após o apoio, o(a) estudante conseguiu avançar, corrigir procedimentos, atender melhor às solicitações ou realizar a atividade com mais autonomia?&nbsp;<br>\",\"corFundo\":\"#beeffc\",\"corTitulo\":\"#0a3442\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%206.png\",\"titulo\":\"Possibilidade de aprimoramento\",\"texto\":\"A intervenção foi suficiente? O que poderia ser mantido ou ajustado para apoiar a aprendizagem e desenvolver a autonomia técnica?&nbsp;<br>\",\"corFundo\":\"#06d7a0\",\"corTitulo\":\"#0a3442\"}]"
     },
     "novo": false
-   },
-   {
-    "tipo": "video",
-    "texto": "No vídeo, acompanhe uma situação concreta e observe como planejamento, execução e ajuste se articulam diante de um imprevisto.<br>",
-    "titulo": "Como o Planejamento e a Prática se Articulam?",
-    "url": "https://youtu.be/_VB9BSjvTGw",
-    "novo": false
-   },
-   {
-    "tipo": "glossario",
-    "texto": "",
-    "termos": [
-     {
-      "termo": "Ajuste pedagógico",
-      "definicao": "Adaptação realizada durante a prática para responder às condições encontradas sem perder sua intencionalidade.<br>"
-     },
-     {
-      "termo": "Flexibilidade",
-      "definicao": "Capacidade de modificar procedimentos ou recursos preservando os objetivos de aprendizagem.<br>"
-     },
-     {
-      "termo": "Execução",
-      "definicao": "Realização concreta da prática planejada, sujeita às condições reais da turma e do contexto.<br>"
-     }
-    ],
-    "novo": false
-   },
-   {
-    "tipo": "h5p",
-    "texto": "",
-    "titulo": "",
-    "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32184\" width=\"1124\" height=\"407\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"TEV-M4-U02-CONC-MULTI\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
-    "novo": false
    }
-  ],
-  "conclusao": {
-   "titulo": "Relação entre o Planejamento e a Execução",
-   "texto": "Planejamento e execução não são etapas isoladas.<br><br>O planejamento orienta a prática, enquanto a execução revela condições que nem sempre podem ser previstas.<br><br>Analisar uma experiência já realizada permite reconhecer diferenças entre o previsto e o realizado, compreender por que determinados ajustes foram necessários e avaliar seus efeitos.<br><br>O ponto central é verificar se as decisões tomadas preservaram a intencionalidade pedagógica e contribuíram para favorecer a aprendizagem dos(as) estudantes.<br>[DICA1]",
-   "blocos": [
-    {
-     "tipo": "dica",
-     "texto": "Antes de realizar uma prática, procure antecipar situações que podem fugir do previsto. Pergunte-se:<br><ul><li>Que dificuldades os(as) estudantes podem apresentar?<br></li><li>Que recursos podem não estar disponíveis?<br></li><li>Qual etapa pode exigir mais tempo?<br></li><li>Que decisões eu poderia tomar diante dessas situações?</li></ul>",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30582"
+  ]
  }
 }
