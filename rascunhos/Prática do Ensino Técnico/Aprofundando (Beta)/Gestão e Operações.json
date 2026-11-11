@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão e Operações",
- "quando": "2026-11-11T14:56:51.394Z",
+ "quando": "2026-11-11T14:57:24.692Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -39,6 +39,13 @@
      "cards": "{\"esquerda\":{\"titulo\":\"O planejamento\",\"itens\":\"<ul><li>Estabelece&nbsp; objetivos.<br></li><li>Organiza etapas, procedimentos e tempos.<br></li><li>Identifica recursos que orientam a prática.<br></li></ul>\"},\"direita\":{\"titulo\":\"A execução\",\"itens\":\"Acontece em condições concretas:<br><ul><li>Estudantes apresentam diferentes conhecimentos prévios.<br></li><li>Materiais podem se comportar de modo inesperado.<br></li><li>Algumas orientações precisam ser retomadas.<br></li></ul>\"}}"
     },
     "novo": false
+   },
+   {
+    "tipo": "video",
+    "texto": "Acompanhe o vídeo e analise como decisões realizadas durante uma prática podem preservar seus objetivos de aprendizagem diante de condições inesperadas.<br>",
+    "titulo": "Como Preservar as Aprendizagens Previstas?",
+    "url": "",
+    "novo": true
    }
   ]
  }
