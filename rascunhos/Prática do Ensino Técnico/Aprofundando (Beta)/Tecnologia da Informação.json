@@ -1,0 +1,49 @@
+{
+ "versao": 1,
+ "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Tecnologia da Informação",
+ "quando": "2026-11-11T15:19:41.143Z",
+ "autor": "Eduarda",
+ "dados": {
+  "campos": {
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do Conhecimento:</b><br>Coerência entre planejamento e execução da prática técnica.<br><b>Conteúdos:</b><br><ul><li>O que foi planejado e o que foi realizado.<br></li><li>Relação entre etapas planejadas e desenvolvimento da prática.<br></li><li>Adequação dos procedimentos às condições encontradas.<br></li><li>Ajustes realizados durante a execução.<br></li><li>Decisões que favoreceram ou dificultaram o desenvolvimento da prática.<br></li></ul><b>Objetivo da Aula:</b><br>Analisar a relação entre o planejamento e a execução de uma prática técnica já realizada, identificando decisões e ajustes que assegurem o alcance dos objetivos pretendidos.<br>",
+   "objetivo": "Identificar situações imprevistas durante a execução de uma aula prática e analisar decisões que permitam ajustar o planejamento sem comprometer os objetivos de aprendizagem.",
+   "titulo": "<b>Ajustes Didáticos na Execução de Práticas</b><br>",
+   "conteudo": "Na transposição didática do Ensino Técnico, enfrentar imprevistos em sala de aula é algo natural e recorrente.<br><br>Eles podem ser:<br><ul><li>Falhas de infraestrutura.<br></li><li>Incompatibilidade de software.<br></li><li>Ritmos heterogêneos entre os(as) estudantes.<br></li><li>Intercorrências diversas no ambiente da prática.<br></li></ul>Observar com atenção essas situações permite compreender o impacto real das escolhas pedagógicas feitas durante a aula, transformando imprevistos operacionais em momentos valiosos de aprendizado profissional e aprimoramento da prática docente.<br><br><h3><b><font color=\"#f04770\">O que Observar</font></b></h3><br>Para avaliar como foi a execução da prática, observe três elementos centrais:<br>[ACCORDION1]<br>[INFOGRAFICO1]<br>Acompanhar a atividade em tempo real permite identificar desvios e tomar decisões ágeis, mantendo a intencionalidade pedagógica e assegurando que os(as) estudantes alcancem as competências técnicas previstas na matriz curricular.<br><br>",
+   "conectando": ""
+  },
+  "blocos": [
+   {
+    "tipo": "accordion",
+    "texto": "",
+    "topicos": [
+     {
+      "titulo": "Tempo de execução",
+      "texto": "Qual etapa técnica exigiu mais tempo do que o previsto no plano?&nbsp;&nbsp;<br>"
+     },
+     {
+      "titulo": "Adaptação de recursos",
+      "texto": "Quais softwares ou insumos de hardware precisaram ser adaptados?&nbsp;&nbsp;<br>"
+     },
+     {
+      "titulo": "Decisões pedagógicas",
+      "texto": "Qual intervenção imediata você adotou para garantir a continuidade da aprendizagem da turma?&nbsp;&nbsp;<br>"
+     }
+    ],
+    "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "comparativo",
+    "infograficoData": {
+     "titulo": "<b>Do Planejamento à Execução</b><br>",
+     "topico1_titulo": "O planejamento&nbsp;<br>",
+     "topico1_conteudo": "<ul><li>Estabelece os objetivos de aprendizagem.<br></li><li>Define as etapas das oficinas.<br></li><li>Organiza os recursos necessários.<br></li><li>Orienta e apoia a realização das práticas de TI.<br></li></ul>",
+     "topico2_titulo": "<b>A execução</b>",
+     "topico2_conteudo": "<ul><li>Acontece em ambientes dinâmicos.<br></li><li>Pode enfrentar instabilidades de rede.<br></li><li>Pode apresentar indisponibilidade de recursos.<br></li><li>Envolve diferentes níveis de conhecimento prévio dos(as) estudantes.<br></li></ul>"
+    },
+    "novo": false
+   }
+  ]
+ }
+}
