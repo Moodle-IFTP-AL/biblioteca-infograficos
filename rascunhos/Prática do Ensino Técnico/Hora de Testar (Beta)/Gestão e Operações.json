@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão e Operações",
- "quando": "2026-11-11T15:01:38.396Z",
+ "quando": "2026-11-11T15:02:40.259Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -19,6 +19,37 @@
     "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32179\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"GOP-M4-U02-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
     "titulo": "Atividade 2"
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "",
+   "texto": "",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "Revisite as aulas abaixo para retomar o planejamento das etapas e refletir sobre sua efetividade diante das condições reais de execução:",
+     "idRevisar": "mwc93koxtdz96a",
+     "itensRevisar": [
+      {
+       "id": "mwc93moupfa5au",
+       "texto": "Módulo 2 – Unidade 5: Planejamento de Práticas Técnicas.&nbsp;&nbsp;<br>",
+       "link": ""
+      },
+      {
+       "id": "mwc93mwkehr9n6",
+       "texto": "Módulo 2&nbsp;<b>–</b>&nbsp;Unidade 6: Organização de Sequência Prática Técnica Progressiva.&nbsp;&nbsp;<br>",
+       "link": ""
+      },
+      {
+       "id": "mwc93o25pvaov4",
+       "texto": "Módulo 3 – Unidade 1: Planejamento de Oficinas Técnicas.&nbsp;<br>",
+       "link": ""
+      }
+     ],
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": true
+    }
+   ]
+  }
  }
 }
