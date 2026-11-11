@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Tecnologia da Informação",
- "quando": "2026-11-11T18:23:09.611Z",
+ "quando": "2026-11-11T18:23:30.374Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -20,7 +20,7 @@
   ],
   "conclusao": {
    "titulo": "Da Mediação à Autonomia",
-   "texto": "Analisar as intervenções realizadas durante a prática permite reconhecer o que atendeu às necessidades dos(as) estudantes e quais aspectos podem ser aprimorados.<br><br>Ao observar os efeitos da sua mediação, você identifica caminhos para oferecer o apoio necessário e favorecer a autonomia progressiva da turma.<br><br>Leve essa reflexão para suas próximas aulas e continue observando, avaliando e ajustando sua prática.<br><br>Parabéns pelo empenho ao longo desta aula. Até a próxima!<br>",
+   "texto": "Analisar as intervenções realizadas durante a prática permite reconhecer o que atendeu às necessidades dos(as) estudantes e quais aspectos podem ser aprimorados.<br><br>Ao observar os efeitos da sua mediação, você identifica caminhos para oferecer o apoio necessário e favorecer a autonomia progressiva da turma.<br><br>Leve essa reflexão para suas próximas aulas e continue observando, avaliando e ajustando sua prática.<br><br>Parabéns pelo empenho ao longo desta aula. Até a próxima!<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -40,12 +40,12 @@
       {
        "id": "mwcg8u2mkg5mcd",
        "texto": "Módulo 3 – Encontro síncrono 1: Gestão da prática técnica.",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27221"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
   }
