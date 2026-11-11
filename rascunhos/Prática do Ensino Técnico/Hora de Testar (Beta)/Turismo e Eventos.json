@@ -1,54 +1,53 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Turismo e Eventos",
- "quando": "2026-11-11T15:49:33.769Z",
+ "quando": "2026-11-11T18:32:40.110Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Avaliar o impacto de uma decisão tomada durante a execução de uma prática, julgando sua contribuição para o desenvolvimento da aula e para o alcance dos objetivos de aprendizagem.<br>",
-   "titulo": "<b>Decisões que Transformam a Prática</b><br>",
-   "conteudo": "",
-   "reflexao": "<h3><b><font color=\"#f04770\">Da Reflexão à Melhoria da Prática&nbsp;</font></b></h3><br>Parabéns por concluir esta etapa!<br><br>Os imprevistos de uma prática técnica não são apenas obstáculos: eles revelam como planejamento, mediação e aprendizagem se articulam na realidade.<br><br>Use essas situações para aprimorar suas decisões docentes e siga para a próxima etapa da trilha.<br>"
+   "objetivo": "Aplicar critérios de análise da mediação docente em uma situação de prática técnica, relacionando a necessidade observada, a intervenção, os efeitos e as possibilidades de aprimoramento.<br>",
+   "titulo": "<b>Analisar a Mediação, Promover a Autonomia</b><br>",
+   "conteudo": "Agora é a sua vez de analisar uma situação de prática técnica! Observe a dificuldade apresentada pelo(a) estudante, avalie a intervenção docente e identifique seus efeitos e as possibilidades de aprimoramento. Ao final, reflita sobre como essa análise pode ajudar você a aperfeiçoar suas intervenções e favorecer a autonomia dos(as) estudantes.<br><br><h3><b><font color=\"#f04770\">Uma dificuldade no check-in</font></b></h3><br>Durante uma aula prática de recepção em meios de hospedagem, um(a) estudante demonstra dificuldade em realizar o check-in de um hóspede cuja reserva apresenta uma divergência no sobrenome. O(A) professor(a) orienta o(a) estudante a comparar os dados de confirmação da reserva com o documento de identificação. Após a orientação, o(a) estudante localiza a reserva correta, mas ainda demonstra insegurança ao atualizar as informações no sistema.<br>",
+   "reflexao": "<h3><b><font color=\"#f04770\">Refletindo sobre sua prática&nbsp;</font></b></h3><br>Pense em uma situação recente de sua prática técnica em que um(a) estudante apresentou dificuldade durante uma atividade.<br><ul><li>Que necessidade você identificou?<br></li><li>Qual intervenção realizou e que efeitos observou após sua orientação?<br></li><li>O que você manteria ou ajustaria para favorecer uma maior autonomia do(a) estudante?<br></li></ul>O objetivo é exercitar um olhar reflexivo sobre sua mediação, relacionando a necessidade do(a) estudante às suas escolhas e aos resultados observados.<br>"
   },
   "atividades": [
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32186\" width=\"1115\" height=\"751\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"TEV-M4-U02-APLI-ESSAY\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32206\" width=\"1124\" height=\"427\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"TEV-M4-U03-APLI-MULTI1\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    },
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32185\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"TEV-M4-U02-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32207\" width=\"1124\" height=\"427\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"TEV-M4-U03-APLI-MULTI2\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    }
   ],
   "conclusao": {
-   "titulo": "",
-   "texto": "[REVISAR1]",
+   "titulo": "Da análise à prática docente ",
+   "texto": "Analisar a mediação docente significa relacionar as necessidades observadas às intervenções realizadas e aos efeitos produzidos.<br><br>Essa reflexão ajuda você a reconhecer estratégias que funcionam, identificar ajustes necessários e favorecer a autonomia dos(as) estudantes. Ao levar essa lógica para sua própria prática, você transforma cada experiência em uma oportunidade de aprimoramento.<br><br>Parabéns pelo empenho ao longo desta aula! Até a próxima!<br><br>",
    "blocos": [
     {
      "tipo": "revisar",
-     "texto": "Revisite as aulas abaixo para retomar o planejamento das etapas e refletir sobre sua efetividade diante das condições reais de execução:",
-     "idRevisar": "mwcaqlb774gtch",
+     "texto": "Retome as aulas abaixo para rever como a demonstração e a gestão da prática contribuem para a mediação docente durante as atividades técnicas.<br>",
+     "idRevisar": "mwcglw0v3vqcq8",
      "itensRevisar": [
       {
-       "id": "mwcaqpgts85t3n",
-       "texto": "Módulo 2 – Unidade 5: Planejamento de Práticas Técnicas.&nbsp;",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24795"
+       "id": "mwcglyb2ygxi9a",
+       "texto": "Módulo 1 – Unidade 6: Demonstração técnica aplicada ao projeto ABP.",
+       "link": ""
       },
       {
-       "id": "mwcaqpocaaiqw2",
-       "texto": "Módulo 2&nbsp;<b>–</b>&nbsp;Unidade 6: Organização de Sequência Prática Técnica Progressiva.&nbsp;&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24924"
+       "id": "mwcglyk9huij1j",
+       "texto": "Módulo 1 – Unidade 8: Preparação de demonstrações técnicas.&nbsp;<br>",
+       "link": ""
       },
       {
-       "id": "mwcaqpt69jet7j",
-       "texto": "Módulo 3 – Unidade 1: Planejamento de Oficinas Técnicas.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28962"
+       "id": "mwcglyv1tbwdav",
+       "texto": "Módulo 3 – Encontro síncrono 1: Gestão da prática técnica.&nbsp;<br>",
+       "link": ""
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": false
+     "novo": true
     }
    ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30584"
+  }
  }
 }
