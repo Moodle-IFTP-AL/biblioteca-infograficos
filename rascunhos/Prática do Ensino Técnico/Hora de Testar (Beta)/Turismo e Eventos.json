@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Turismo e Eventos",
- "quando": "2026-11-11T15:49:07.787Z",
+ "quando": "2026-11-11T15:49:23.888Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -20,7 +20,7 @@
   ],
   "conclusao": {
    "titulo": "",
-   "texto": "",
+   "texto": "[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -40,12 +40,12 @@
       {
        "id": "mwcaqpt69jet7j",
        "texto": "Módulo 3 – Unidade 1: Planejamento de Oficinas Técnicas.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28962"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
   }
