@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão e Operações",
- "quando": "2026-11-11T15:03:10.227Z",
+ "quando": "2026-11-11T15:03:23.183Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -42,7 +42,7 @@
       {
        "id": "mwc93o25pvaov4",
        "texto": "Módulo 3 – Unidade 1: Planejamento de Oficinas Técnicas.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28429"
       }
      ],
      "linkBotao": "",
@@ -50,6 +50,7 @@
      "novo": true
     }
    ]
-  }
+  },
+  "tipoBotao": "voltar"
  }
 }
