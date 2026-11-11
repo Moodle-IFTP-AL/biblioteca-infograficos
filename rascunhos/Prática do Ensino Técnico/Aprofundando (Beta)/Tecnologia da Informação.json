@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Tecnologia da Informação",
- "quando": "2026-11-11T18:19:12.791Z",
+ "quando": "2026-11-11T18:20:12.841Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -76,8 +76,15 @@
   ],
   "conclusao": {
    "titulo": "Pilares para aprimorar a mediação ",
-   "texto": "<ul><li><b>Observar a necessidade:</b> identificar a dificuldade apresentada pelo(a) estudante.<br></li><li><b>Adequar a intervenção:</b> escolher entre orientar, demonstrar ou questionar conforme a situação.<br></li><li><b>Analisar os efeitos:</b> verificar como o apoio influenciou a execução e a autonomia.<br></li><li><b>Ajustar a mediação: </b>manter as estratégias eficazes e rever aquelas que não atenderam à necessidade identificada.<br></li></ul>",
-   "blocos": []
-  }
+   "texto": "<ul><li><b>Observar a necessidade:</b> identificar a dificuldade apresentada pelo(a) estudante.<br></li><li><b>Adequar a intervenção:</b> escolher entre orientar, demonstrar ou questionar conforme a situação.<br></li><li><b>Analisar os efeitos:</b> verificar como o apoio influenciou a execução e a autonomia.<br></li><li><b>Ajustar a mediação: </b>manter as estratégias eficazes e rever aquelas que não atenderam à necessidade identificada.<br>[TOMENOTA1]</li></ul>",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "A mediação docente deve apoiar, e não substituir, a ação do(a) estudante. Ofereça o suporte necessário para que ele(a) retome a atividade com autonomia e segurança.<br>",
+     "novo": false
+    }
+   ]
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30428"
  }
 }
