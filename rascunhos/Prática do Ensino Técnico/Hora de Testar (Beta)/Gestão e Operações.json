@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão e Operações",
- "quando": "2026-11-11T15:03:23.183Z",
+ "quando": "2026-11-11T15:03:29.834Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -51,6 +51,7 @@
     }
    ]
   },
-  "tipoBotao": "voltar"
+  "tipoBotao": "voltar",
+  "link": "https://ead.educacao.al.gov.br/course/view.php?id=284#section-78"
  }
 }
