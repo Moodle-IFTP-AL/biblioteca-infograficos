@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Comunicação e Mercado",
- "quando": "2026-11-11T16:28:44.976Z",
+ "quando": "2026-11-11T16:29:15.609Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -89,8 +89,14 @@
   ],
   "conclusao": {
    "titulo": "Em resumo: pontos essenciais da mediação",
-   "texto": "<ul><li><b>Identificação atenta:</b> a análise da mediação inicia com a leitura atenta da dificuldade apresentada pelo(a) estudante na prática.<br></li><li><b>Ação intencional:</b> a escolha entre demonstrar, perguntar ou orientar deve estar alinhada ao objetivo pedagógico.<br></li><li><b>Avaliação de impacto:</b> observar as evidências pós-intervenção permite identificar o que funcionou e ajustar as ações futuras para fortalecer a autonomia do(a) estudante.<br></li></ul>",
-   "blocos": []
+   "texto": "<ul><li><b>Identificação atenta:</b> a análise da mediação inicia com a leitura atenta da dificuldade apresentada pelo(a) estudante na prática.<br></li><li><b>Ação intencional:</b> a escolha entre demonstrar, perguntar ou orientar deve estar alinhada ao objetivo pedagógico.<br></li><li><b>Avaliação de impacto:</b> observar as evidências pós-intervenção permite identificar o que funcionou e ajustar as ações futuras para fortalecer a autonomia do(a) estudante.<br>[TOMENOTA1]</li></ul>",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "Intervir não é resolver pelo(a) estudante. A mediação qualificada faz perguntas reflexivas e oferece pistas para que o(a) próprio(a) estudante entenda o procedimento técnico e conquiste autonomia na prática.<br>",
+     "novo": false
+    }
+   ]
   },
   "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29551"
  }
