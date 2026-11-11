@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão Imobiliária",
- "quando": "2026-11-11T15:09:17.214Z",
+ "quando": "2026-11-11T15:10:13.357Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -72,8 +72,19 @@
   ],
   "conclusao": {
    "titulo": "Relação Entre o Planejamento e a Execução",
-   "texto": "Planejamento e execução estão diretamente relacionados, mas não são necessariamente idênticos.<br><br>Analisar uma prática já realizada permite reconhecer diferenças entre o previsto e o realizado, compreender as decisões tomadas e avaliar os efeitos dos ajustes sobre a aprendizagem.<br><br>Essa reflexão contribui para o desenvolvimento da prática docente ao identificar possibilidades de melhoria, planejar com maior flexibilidade e preservar os objetivos de aprendizagem diante das condições concretas da prática técnico-profissional.<br>",
-   "blocos": []
+   "texto": "Planejamento e execução estão diretamente relacionados, mas não são necessariamente idênticos.<br><br>Analisar uma prática já realizada permite reconhecer diferenças entre o previsto e o realizado, compreender as decisões tomadas e avaliar os efeitos dos ajustes sobre a aprendizagem.<br><br>Essa reflexão contribui para o desenvolvimento da prática docente ao identificar possibilidades de melhoria, planejar com maior flexibilidade e preservar os objetivos de aprendizagem diante das condições concretas da prática técnico-profissional.<br>[TOMENOTA1]<br>[DICA1]",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "Ajustar uma atividade não significa abandonar o planejamento. O objetivo de aprendizagem permanece como referência para reorganizar tempo, recursos, ajustar procedimentos e intervenções diante das necessidades identificadas durante a execução.<br>",
+     "novo": false
+    },
+    {
+     "tipo": "dica",
+     "texto": "Após uma aula prática, registre três informações:<br><ul><li>O que aconteceu de forma diferente.<br></li><li>Qual decisão foi tomada.<br></li><li>Quais efeitos foram observados.<br></li></ul>Utilize esses registros para utilizar novamente, modificar ou antecipar procedimentos no próximo planejamento.<br>",
+     "novo": false
+    }
+   ]
   }
  }
 }
