@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Turismo e Eventos",
- "quando": "2026-11-12T14:29:03.112Z",
+ "quando": "2026-11-12T14:29:16.574Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -46,6 +46,7 @@
     }
    ]
   },
-  "tipoBotao": "voltar"
+  "tipoBotao": "voltar",
+  "link": "https://ead.educacao.al.gov.br/course/view.php?id=287#section-82"
  }
 }
