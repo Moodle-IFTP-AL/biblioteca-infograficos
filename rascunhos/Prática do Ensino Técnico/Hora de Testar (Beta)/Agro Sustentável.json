@@ -1,13 +1,13 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Agro Sustentável",
- "quando": "2026-11-12T14:54:17.970Z",
+ "quando": "2026-11-12T14:54:55.884Z",
  "autor": "Teste",
  "dados": {
   "blocos": [
    {
     "tipo": "revisar",
-    "texto": "",
+    "texto": "Revisite as aulas abaixo para retomar o planejamento das etapas e refletir sobre sua efetividade diante das condições reais de execução:<br><br>",
     "idRevisar": "mwdo2w5fq84mx6",
     "itensRevisar": [
      {
@@ -28,8 +28,14 @@
     ],
     "linkBotao": "",
     "textoBotao": "",
-    "novo": true
+    "novo": false
    }
-  ]
+  ],
+  "campos": {
+   "objetivo": "",
+   "titulo": "",
+   "conteudo": "[REVISAR1]",
+   "reflexao": ""
+  }
  }
 }
