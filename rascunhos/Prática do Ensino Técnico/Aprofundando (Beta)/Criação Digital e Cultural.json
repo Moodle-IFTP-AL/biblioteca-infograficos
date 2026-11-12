@@ -1,15 +1,15 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Criação Digital e Cultural",
- "quando": "2026-11-12T11:55:47.580Z",
+ "quando": "2026-11-12T11:58:16.551Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do Conhecimento:</b><br>Evidências de aprendizagem na prática técnica.<br><b>Conteúdos:</b><br><ul><li>Ações, falas, produções e registros dos(as) estudantes.<br></li><li>Evidências observadas durante a prática.<br></li><li>Avanços e dificuldades identificados.<br></li><li>Relação entre evidências e objetivos de aprendizagem.<br></li><li>Evidências que confirmaram ou indicaram necessidade de ajuste na prática.<br></li></ul><b>Objetivo da Aula:</b><br>Analisar as evidências de aprendizagem produzidas durante uma prática técnica já realizada, relacionando-as aos objetivos de aprendizagem e às decisões pedagógicas tomadas.<br>",
    "objetivo": "Identificar como as evidências produzidas durante uma prática técnica se relacionam aos objetivos de aprendizagem e podem orientar as decisões pedagógicas.",
    "titulo": "<b>O que a Prática Revela</b><br>",
-   "conteudo": "Pense em uma prática técnica que você conduziu. Relembre o que os(as) estudantes fizeram, como agiram diante de cada etapa e o que produziram ao final.<br><br>Talvez venha à memória uma explicação dada a um(a) colega, uma peça bem-resolvida ou uma anotação feita às pressas. Ações, falas, produções e registros revelam diferentes aspectos da aprendizagem.<br><br>Ao longo de toda a prática, o que o(a) estudante faz ou produz vai além do resultado da atividade: é evidência dos conhecimentos e das habilidades já desenvolvidos e dos que ainda precisam ser aprimorados.<br><br><h3><b><font color=\"#f04770\">Evidências de Aprendizagem<br><br></font></b></h3>Com isso em mente, observe quatro tipos de evidência:<br>[INFOGRAFICO1]<br><h3><b><font color=\"#f04770\">Alinhamento Pedagógico&nbsp;</font></b></h3><br>Para que uma atividade realmente contribua para a aprendizagem, é importante que o objetivo, a experiência proposta e as evidências estejam conectados.<br><br>Primeiro, pense no que você espera que os(as) estudantes aprendam. Depois, planeje uma atividade que permita desenvolver essa aprendizagem e defina o que observar para perceber se ela aconteceu.<br>[INFOGRAFICO2]<br><h3><b><font color=\"#f04770\">Analisando as Evidências<br><br></font></b></h3>Analisar as evidências depois da prática é relacionar o que os(as) estudantes fizeram, disseram, produziram ou registraram aos objetivos de aprendizagem.<br><br>Essa análise mostra o que já aprenderam, que dificuldades permanecem e o que precisa ser retomado, oferecendo às próximas decisões uma base mais segura que uma impressão geral da aula.<br><br>",
-   "conectando": ""
+   "conteudo": "Pense em uma prática técnica que você conduziu. Relembre o que os(as) estudantes fizeram, como agiram diante de cada etapa e o que produziram ao final.<br><br>Talvez venha à memória uma explicação dada a um(a) colega, uma peça bem-resolvida ou uma anotação feita às pressas. Ações, falas, produções e registros revelam diferentes aspectos da aprendizagem.<br><br>Ao longo de toda a prática, o que o(a) estudante faz ou produz vai além do resultado da atividade: é evidência dos conhecimentos e das habilidades já desenvolvidos e dos que ainda precisam ser aprimorados.<br><br><h3><b><font color=\"#f04770\">Evidências de Aprendizagem<br><br></font></b></h3>Com isso em mente, observe quatro tipos de evidência:<br>[INFOGRAFICO1][GLOSSARIO1]<br><h3><b><font color=\"#f04770\">Alinhamento Pedagógico&nbsp;</font></b></h3><br>Para que uma atividade realmente contribua para a aprendizagem, é importante que o objetivo, a experiência proposta e as evidências estejam conectados.<br><br>Primeiro, pense no que você espera que os(as) estudantes aprendam. Depois, planeje uma atividade que permita desenvolver essa aprendizagem e defina o que observar para perceber se ela aconteceu.<br>[INFOGRAFICO2]<br><h3><b><font color=\"#f04770\">Analisando as Evidências<br><br></font></b></h3>Analisar as evidências depois da prática é relacionar o que os(as) estudantes fizeram, disseram, produziram ou registraram aos objetivos de aprendizagem.<br><br>Essa análise mostra o que já aprenderam, que dificuldades permanecem e o que precisa ser retomado, oferecendo às próximas decisões uma base mais segura que uma impressão geral da aula.<br>[ACCORDION1]",
+   "conectando": "Agora, leia uma prática de divulgação da feira de ciências e analise as evidências deixadas pelos(as) estudantes. Siga em frente!<br>"
   },
   "blocos": [
    {
@@ -49,8 +49,35 @@
       "texto": "<b>Evidência observada</b><br>Na elaboração de um plano de divulgação de uma mostra cultural, os grupos criaram peças para redes sociais, mas não incluíram informações sobre acessibilidade, gratuidade e formas de participação do público.<br><br><b>O que essa evidência revela</b><br>Reconhecem a importância da divulgação, mas ainda precisam considerar as informações necessárias para ampliar o acesso e orientar a participação do público.<br><br><b>Decisão pedagógica</b><br>Retomar os elementos essenciais de uma comunicação de evento e propor a revisão das peças, considerando as necessidades de diferentes públicos.<br>"
      }
     ],
-    "novo": true
+    "novo": false
+   },
+   {
+    "tipo": "glossario",
+    "texto": "",
+    "termos": [
+     {
+      "termo": "Zine",
+      "definicao": "Publicação independente e artesanal, geralmente de pequena tiragem, criada para compartilhar ideias, histórias e expressões artísticas.<br>"
+     }
+    ],
+    "novo": false
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Aprendizagem em Foco",
+   "texto": "Objetivo, experiência e evidência caminham juntos:<br><ul><li>O objetivo orienta a experiência proposta.<br></li><li>A experiência cria oportunidades para o(a) estudante mostrar o que sabe.<br></li><li>As evidências, analisadas com atenção, revelam avanços e dificuldades.<br></li></ul>Essa leitura oferece a você uma base concreta para decidir se avança, retoma ou ajusta a próxima prática.<br>[TOMENOTA1]<br>[DICA1]",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "Ações, falas, produções e registros ajudam a ler a aprendizagem. Observados juntos e comparados ao objetivo, mostram o que o(a) estudante já sabe fazer e o que ainda precisa desenvolver.<br>",
+     "novo": false
+    },
+    {
+     "tipo": "dica",
+     "texto": "Ao planejar a próxima prática, escreva ao lado do objetivo a evidência que você espera observar, como uma explicação, uma peça ou um registro. Assim, você chega à atividade sabendo o que olhar.<br>",
+     "novo": false
+    }
+   ]
+  }
  }
 }
