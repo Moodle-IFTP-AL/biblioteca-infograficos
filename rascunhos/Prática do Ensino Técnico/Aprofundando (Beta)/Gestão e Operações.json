@@ -1,93 +1,27 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão e Operações",
- "quando": "2026-11-11T16:47:48.474Z",
+ "quando": "2026-11-12T12:45:14.812Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do conhecimento: </b>mediação docente durante a prática técnica.<br><b>Conteúdos:</b><br><ul><li>intervenções realizadas durante a prática;<br></li><li>orientações e demonstrações utilizadas;<br></li><li>situações que exigiram tomada de decisão;<br></li><li>ajustes realizados diante das dificuldades dos estudantes;<br></li><li>relação entre intervenção docente e autonomia dos estudantes;<br></li><li>efeitos das intervenções observados na prática.<br></li></ul><b>Objetivo da aula:</b> analisar as intervenções realizadas durante uma prática técnica, relacionando-as às necessidades observadas e identificando possibilidades de aprimoramento da mediação docente.<br>",
-   "objetivo": "Analisar intervenções docentes realizadas durante uma prática técnica, relacionando as necessidades observadas aos efeitos produzidos e identificando possibilidades de aprimoramento da mediação.<br>",
-   "titulo": "<b>Analisando a Mediação Docente&nbsp;</b>",
-   "conteudo": "<h3><b><font color=\"#f04770\">Uma Dificuldade na Logística&nbsp;</font></b></h3><br>Durante uma prática de organização logística para uma produção audiovisual em Marechal Deodoro, um(a) estudante não consegue relacionar os equipamentos, os horários e as funções da equipe.<br><br>O professor entrega um quadro já preenchido com a distribuição correta e pede que o(a) estudante continue a atividade.<br><br>O estudante retoma a tarefa rapidamente, mas, diante de uma nova alteração no cronograma, solicita novamente ao professor a solução.<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">A Mediação Durante a Prática&nbsp;</font></b></h3><br>A mediação docente ocorre enquanto você acompanha procedimentos, registros, decisões e formas de participação dos(as) estudantes.<br><br>Antes da prática, orientações e demonstrações ajudam a compreender conceitos, critérios e etapas. Durante a execução, dúvidas e erros podem exigir questionamentos, retomadas, novos exemplos ou ajustes na tarefa.<br><br>No cenário apresentado, entregar o quadro preenchido resolveu momentaneamente o bloqueio, mas não tornou os critérios de distribuição mais compreensíveis.<br><br>Para analisar essa intervenção, não basta verificar se o(a) estudante continuou trabalhando. É necessário compreender qual dificuldade motivou a ação, que apoio foi oferecido e o que aconteceu depois.<br><br>Essa relação permite avaliar se a intervenção atendeu à necessidade observada e favoreceu o desenvolvimento da autonomia.<br><br><h3><b><font color=\"#f04770\">Elementos da Intervenção Docente&nbsp;</font></b></h3><br>Para analisar se uma intervenção docente na prática técnica foi efetiva, observe os seguintes critérios:<br>[INFOGRAFICO1]<br><h3><b><font color=\"#f04770\">Intervenções para Diferentes Necessidades&nbsp;</font></b></h3><br>Intervenções dependem das necessidades observadas, pois diferentes necessidades exigem intervenções distintas.<br>[ACCORDION1]<br>O apoio favorece a autonomia quando permite que o(a) estudante retome a execução, compreenda os critérios envolvidos e enfrente situações semelhantes com menor dependência. Observe os efeitos da intervenção para identificar o que deve ser mantido ou ajustado.<br><br><h3><b><font color=\"#f04770\">Evidências dos Efeitos da Mediação&nbsp;</font></b></h3><br>As ações do(a) estudante após a intervenção ajudam você a analisar os efeitos da mediação.<br>[INFOGRAFICO2]<br>Ao relacionar dificuldade, intervenção e efeitos, você identifica o que deve ser mantido ou ajustado.&nbsp; Aprimorar a mediação significa oferecer o apoio adequado, favorecendo progressivamente a autonomia.",
-   "conectando": "Na próxima etapa, analise uma intervenção docente e identifique possibilidades de aprimoramento da mediação. Avance!<br>"
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do Conhecimento:</b><br>Evidências de aprendizagem na prática técnica.<br><b>Conteúdos:</b><br><ul><li>Ações, falas, produções e registros dos(as) estudantes.<br></li><li>Evidências observadas durante a prática.<br></li><li>Avanços e dificuldades identificados.<br></li><li>Relação entre evidências e objetivos de aprendizagem.<br></li><li>Evidências que confirmaram ou indicaram necessidade de ajuste na prática.<br></li></ul><b>Objetivo da Aula:</b><br>Analisar as evidências de aprendizagem produzidas durante uma prática técnica já realizada, relacionando-as aos objetivos de aprendizagem e às decisões pedagógicas tomadas.<br>",
+   "objetivo": "Identificar como as evidências produzidas durante uma prática técnica se relacionam aos objetivos de aprendizagem e podem orientar as decisões pedagógicas.<br>",
+   "titulo": "<b>Evidências que Revelam Aprendizagens</b>",
+   "conteudo": "Relembre uma prática que tenha realizado com sua turma. Durante a atividade, o que os(as) estudantes fizeram, explicaram, produziram ou registraram?<br><br>Talvez tenham executado corretamente um procedimento, justificado uma decisão, preenchido um documento ou apresentado dúvidas recorrentes.<br><br>Essas manifestações não são apenas resultados da atividade: constituem evidências de aprendizagem. Por meio delas, você pode reconhecer conhecimentos e habilidades desenvolvidos, identificar dificuldades e compreender como a turma mobilizou critérios técnicos.<br><br>Analisar essas evidências exige relacioná-las ao objetivo da prática. Um formulário preenchido, por exemplo, só se torna uma evidência relevante quando permite verificar aquilo que o(a) estudante deveria aprender, demonstrar ou executar.<br><br><h3><b><font color=\"#f04770\">Evidências de Aprendizagem</font></b></h3><br>As evidências podem aparecer em diferentes momentos e formatos:<br>[INFOGRAFICO1]<br>Cada manifestação revela uma dimensão da aprendizagem e precisa ser interpretada conforme o objetivo proposto.<br><br><h3><b><font color=\"#f04770\">Alinhamento Pedagógico&nbsp;</font></b></h3><br>O objetivo de aprendizagem deve orientar tanto a experiência proposta quanto as evidências que serão observadas.<br><br>Se o objetivo exige justificar uma decisão, a prática precisa criar oportunidade para o(a) estudante explicar seus critérios. Se envolve executar um procedimento, a atividade precisa permitir essa execução.<br><br><b>Exemplo:</b> em uma prática sobre devolução de materiais de construção, o objetivo é classificar itens e justificar sua destinação. Os(as) estudantes analisam produtos simulados, registram as condições e apresentam suas decisões. As evidências são a classificação realizada, a ficha preenchida e a justificativa técnica apresentada.<br><br><h3><b><font color=\"#f04770\">Analisando as Evidências</font></b></h3><br>Analisar as evidências após uma prática significa relacionar o que os(as) estudantes fizeram, disseram, produziram ou registraram aos objetivos de aprendizagem.<br><br>Essa análise ajuda você a reconhecer os avanços, identificar dificuldades e planejar intervenções mais adequadas às necessidades da turma. Assim, suas próximas decisões pedagógicas partem do que foi observado durante a atividade.<br><br><b><font color=\"#f04770\">Exemplos de análise de evidências</font></b><br><br>",
+   "conectando": ""
   },
   "blocos": [
-   {
-    "tipo": "pergunta",
-    "texto": "",
-    "pergunta": {
-     "tipo": "texto",
-     "titulo": "O Que Observar Antes?",
-     "texto": "O que você observa para saber se uma intervenção realmente ajuda o estudante a avançar?<br>",
-     "videoUrl": "",
-     "iframeH5P": ""
-    },
-    "novo": false
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "cards_icones_setas",
-    "infograficoData": {
-     "titulo": "",
-     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/ALVO.png\",\"titulo\":\"<b>Dificuldade observada</b>\",\"texto\":\"O(a) estudante não conseguia relacionar equipamentos, horários e funções da equipe no planejamento da operação.\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2068.png\",\"titulo\":\"Necessidade de aprendizagem\",\"texto\":\"Compreender os critérios usados para distribuir recursos e responsabilidades diante das exigências do cronograma.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2045.png\",\"titulo\":\"Intervenção realizada\",\"texto\":\"O(a) professor(a) entregou uma solução pronta, permitindo que a atividade fosse retomada rapidamente.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2033.png\",\"titulo\":\"Efeito imediato\",\"texto\":\"O(a) estudante concluiu a distribuição inicial, mas não demonstrou compreensão dos critérios utilizados.&nbsp;<br>\",\"corFundo\":\"#beeffc\",\"corTitulo\":\"#0a3442\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%206.png\",\"titulo\":\"Evidência posterior\",\"texto\":\"Com a mudança no cronograma, o(a) estudante voltou a depender da orientação direta.&nbsp;<br>\",\"corFundo\":\"#06d7a0\",\"corTitulo\":\"#0a3442\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Arquivo%20preparado.png\",\"titulo\":\"Questão para aprimoramento\",\"texto\":\"A intervenção poderia ter utilizado perguntas, comparação entre alternativas ou preenchimento parcial do quadro, preservando a decisão do(a) estudante.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2046.png\",\"titulo\":\"Relação com o objetivo\",\"texto\":\"O apoio precisa favorecer a organização, a análise e a tomada de decisão, não apenas a conclusão da tarefa.&nbsp;<br>\",\"corFundo\":\"#fec43e\"}]"
-    },
-    "novo": false
-   },
-   {
-    "tipo": "accordion",
-    "texto": "",
-    "topicos": [
-     {
-      "titulo": "Dificuldade na organização do estoque",
-      "texto": "<b>Necessidade observada: </b>o(a) estudante apresenta dificuldade em organizar produtos, considerando categorias, localização e critérios de armazenamento.<br><b>Possível intervenção docente: </b>retomar os critérios de organização, apresentar um esquema de endereçamento ou demonstrar como identificar e registrar a localização dos produtos.<br>"
-     },
-     {
-      "titulo": "Erros no controle de entradas e saídas",
-      "texto": "<b>Necessidade observada:</b> o(a) estudante registra incorretamente as movimentações ou deixa de atualizar as quantidades disponíveis.<br><b>Possível intervenção docente:</b> orientar a conferência dos registros, propor a comparação entre o estoque físico e o sistema e demonstrar como identificar divergências.<br>"
-     },
-     {
-      "titulo": "Dificuldade na análise de currículos",
-      "texto": "<b>Necessidade observada: </b>o(a) estudante não consegue relacionar as informações dos currículos aos requisitos de uma vaga.<br><b>Possível intervenção docente:</b> retomar os critérios de seleção e propor perguntas que ajudem a comparar experiências, competências e requisitos profissionais.<br>"
-     },
-     {
-      "titulo": "Insegurança na condução de entrevistas",
-      "texto": "<b>Necessidade observada: </b>o(a) estudante demonstra dificuldade em elaborar perguntas ou em conduzir uma entrevista de seleção.<br><b>Possível intervenção docente:</b> apresentar exemplos de perguntas relacionadas à vaga e propor uma simulação de entrevista, seguida de uma reflexão sobre a clareza e a pertinência das perguntas.<br>"
-     },
-     {
-      "titulo": "Dificuldade na resolução de conflitos",
-      "texto": "<b>Necessidade observada:</b> o(a) estudante apresenta dificuldade em analisar um conflito na equipe e em considerar diferentes perspectivas.<br><b>Possível intervenção docente: </b>utilizar perguntas orientadoras para identificar os envolvidos, os interesses e as causas do conflito, incentivando a análise de alternativas e de suas consequências.<br>"
-     }
-    ],
-    "novo": false
-   },
    {
     "tipo": "infografico",
     "texto": "",
     "infograficoTipo": "blocos_coloridos",
     "infograficoData": {
      "introducao": "",
-     "blocos": "[{\"titulo\":\"Retoma a tarefa compreendendo o próximo passo\",\"texto\":\"Compreende as etapas e continua a tarefa.&nbsp;<br>\"},{\"titulo\":\"Reduz erros na distribuição de recursos e funções\",\"texto\":\"Aplica corretamente os critérios técnicos retomados.&nbsp;<br>\"},{\"titulo\":\"Atua com segurança\",\"texto\":\"Executa o procedimento com maior controle.&nbsp;<br>\"},{\"titulo\":\"Justifica decisões\",\"texto\":\"Explica os critérios utilizados em suas escolhas.\"},{\"titulo\":\"Amplia a autonomia\",\"texto\":\"Prossegue com menor necessidade de ajuda.&nbsp;<br>\"},{\"titulo\":\"Transfere a aprendizagem\",\"texto\":\"Aplica o procedimento a uma nova situação.&nbsp;<br>\"},{\"titulo\":\"Mantém a dificuldade\",\"texto\":\"Continua dependente da solução apresentada.&nbsp;<br>\"}]"
+     "blocos": "[{\"titulo\":\"Ações\",\"texto\":\"Mostram como o(a) estudante executa procedimentos e mobiliza conhecimentos. Exemplo: confere o estado dos materiais devolvidos antes de definir sua destinação.\"},{\"titulo\":\"Falas\",\"texto\":\"Revelam como compreende, explica e justifica decisões. Exemplo: em Recursos Humanos, explica por que priorizou um(a) candidato(a) na triagem simulada.&nbsp;<br>\"},{\"titulo\":\"Produções\",\"texto\":\"Demonstram como aplica conhecimentos na elaboração de uma solução. Exemplo: constrói um fluxo de devolução, conferência e atendimento ao(à) cliente.&nbsp;<br>\"},{\"titulo\":\"Registros\",\"texto\":\"Evidenciam como organiza, documenta e comunica informações. Exemplo: preenche uma ficha com motivo da devolução, condição do produto e encaminhamento adotado.&nbsp;<br>\"}]"
     },
     "novo": false
    }
-  ],
-  "conclusao": {
-   "titulo": "Pontos Essenciais da Mediação",
-   "texto": "<ul><li>Observe a dificuldade antes de intervir.<br></li><li>Relacione o apoio à necessidade apresentada.<br></li><li>Considere o objetivo técnico da prática.<br></li><li>Analise o que aconteceu após a intervenção.<br></li><li>Verifique se o estudante compreendeu ou apenas concluiu.<br></li><li>Preserve intervenções que ampliam a participação e a segurança.<br></li><li>Ajuste apoios que criam dependência.<br></li><li>Qualifique a mediação para favorecer decisões progressivamente autônomas.<br>[TOMENOTA1]<br>[DICA1]</li></ul>",
-   "blocos": [
-    {
-     "tipo": "tomenota",
-     "texto": "<div>Uma intervenção não deve ser analisada apenas pelo resultado imediato. Observe se o apoio ajudou o(a) estudante a compreender os critérios e a enfrentar novas situações com maior autonomia.<br><br></div>",
-     "novo": false
-    },
-    {
-     "tipo": "dica",
-     "texto": "Antes de apresentar a solução, reconheça o que o(a) estudante já compreendeu, formule uma pergunta sobre o critério e ofereça apenas a pista necessária.<br>",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30077"
+  ]
  }
 }
