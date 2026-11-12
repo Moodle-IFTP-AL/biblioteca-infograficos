@@ -1,90 +1,37 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Tecnologia da Informação",
- "quando": "2026-11-11T18:20:12.841Z",
+ "quando": "2026-11-12T13:30:42.881Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do conhecimento: </b>mediação docente durante a prática técnica.<br><b>Conteúdos:</b><br><ul><li>intervenções realizadas durante a prática;<br></li><li>orientações e demonstrações utilizadas;<br></li><li>situações que exigiram tomada de decisão;<br></li><li>ajustes realizados diante das dificuldades dos estudantes;<br></li><li>relação entre intervenção docente e autonomia dos estudantes;<br></li><li>efeitos das intervenções observados na prática.<br></li></ul><b>Objetivo da aula:</b> analisar as intervenções realizadas durante uma prática técnica, relacionando-as às necessidades observadas e identificando possibilidades de aprimoramento da mediação docente.<br>",
-   "objetivo": "Analisar as intervenções docentes realizadas durante uma prática técnica, relacionando as necessidades observadas aos efeitos produzidos e identificando possibilidades de aprimoramento da mediação.<br>",
-   "titulo": "<b>Mediação Docente: Condução e Autonomia na Prática</b><br>",
-   "conteudo": "<h3><b><font color=\"#f04770\">Uma dúvida na configuração</font></b></h3>[GLOSSARIO1]<br>Em uma aula prática de redes de computadores, um(a) estudante tenta configurar o roteamento estático entre duas sub-redes, mas os pacotes continuam falhando nos testes de <i>ping</i>.<br><br>Visivelmente hesitante diante do terminal de comando, o(a) estudante para a execução.<br><br>Ao perceber a paralisia, o(a) professor(a) aproxima-se da bancada, pega o teclado e digita diretamente os comandos de rota padrão, restabelecendo a conectividade da rede.<br>[PERGUNTA1]<br><b><font color=\"#f04770\">A Mediação Durante a Prática&nbsp;</font></b><br><br>A mediação pedagógica acontece durante a prática e envolve:<br><ul><li>acompanhar como os(as) estudantes realizam as atividades;<br></li><li>identificar dificuldades;<br></li><li>decidir quando intervir.</li></ul>Antes e durante as aulas práticas, você oferece orientações e demonstrações para apoiar a compreensão dos conceitos e procedimentos necessários, como o uso de ferramentas, softwares e equipamentos.<br><br>Mas mediar não significa apenas oferecer ajuda. É importante analisar o que motivou a intervenção, como ela foi realizada e o que aconteceu depois. Observe se o apoio ajudou os(as) estudantes a superar dificuldades, a avançar na atividade e a realizar as etapas com mais autonomia.<br><br><h3><b><font color=\"#f04770\">O que observar ao analisar uma intervenção?</font></b></h3><br>Para avaliar a qualidade de uma intervenção, observe os seguintes elementos fundamentais:<br>[INFOGRAFICO1]<br><br><h3><b><font color=\"#f04770\">Intervenções para Diferentes Necessidades</font>&nbsp;</b></h3><br>A intervenção mais adequada depende da dificuldade observada e do objetivo da atividade.<br><ul><li>Em uma prática de programação, uma pergunta sobre a lógica do código pode ajudar o(a) estudante a avançar.<br></li><li>Em outra situação, uma nova demonstração pode ser necessária para orientar o uso de um equipamento.<br></li></ul>[CAIXADESTAQUE1]<br>Por isso, observe os efeitos da sua mediação e ajuste-a sempre que necessário.<br><br><h3><b><font color=\"#f04770\">Evidências dos Efeitos da Mediação&nbsp;</font></b></h3><br>Observar como o(a) estudante reage após o apoio permite analisar os efeitos da intervenção e identificar possibilidades de aprimoramento da mediação.<br>[INFOGRAFICO2]<br>Relacionar a dificuldade inicial, a intervenção realizada e seus efeitos permite identificar o que funcionou, o que deve ser mantido e o que precisa ser ajustado.<br><br>Aprimorar a mediação não significa intervir mais, mas sim oferecer o apoio adequado às necessidades observadas, favorecendo a autonomia do(a) estudante.<br>",
-   "conectando": "A seguir, você analisará um caso prático de mediação e avaliará suas decisões pedagógicas. Avance!<br>"
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do Conhecimento:</b><br>Evidências de aprendizagem na prática técnica.<br><b>Conteúdos:</b><br><ul><li>Ações, falas, produções e registros dos(as) estudantes.<br></li><li>Evidências observadas durante a prática.<br></li><li>Avanços e dificuldades identificados.<br></li><li>Relação entre evidências e objetivos de aprendizagem.<br></li><li>Evidências que confirmaram ou indicaram necessidade de ajuste na prática.<br></li></ul><b>Objetivo da Aula:</b><br>Analisar as evidências de aprendizagem produzidas durante uma prática técnica já realizada, relacionando-as aos objetivos de aprendizagem e às decisões pedagógicas tomadas.<br>",
+   "objetivo": "Identificar como as evidências produzidas durante uma prática técnica se relacionam aos objetivos de aprendizagem e podem orientar as decisões pedagógicas.<br>",
+   "titulo": "<b>Evidências Práticas: do Diagnóstico às Decisões</b><br>",
+   "conteudo": "Relembre uma aula prática de Informática, Manutenção e Suporte em Informática ou Redes de Computadores que você já realizou.<br><ul><li>O que os(as) estudantes fizeram durante a atividade?<br></li><li>Como resolveram os problemas, explicaram suas escolhas e registraram os resultados?</li></ul>Ao configurar um computador, testar uma conexão ou organizar uma rede, por exemplo, os(as) estudantes demonstram conhecimentos de diferentes maneiras.<br><br>Suas ações, falas, produções e registros ajudam você a perceber o que já aprenderam, quais dificuldades encontraram e o que ainda precisam desenvolver.<br><br>Observar essas manifestações é um caminho para compreender melhor a aprendizagem e planejar as próximas intervenções.<br><br><h3><b><font color=\"#f04770\">Evidências de Aprendizagem<br><br></font></b></h3>Durante as práticas de Tecnologia da Informação, você pode observar quatro tipos de evidências de aprendizagem:<br>[INFOGRAFICO1]<br><br><h3><b><font color=\"#f04770\">Alinhamento Pedagógico&nbsp;</font></b></h3><br>O objetivo de aprendizagem deve orientar a atividade e ajudar você a definir o que observar durante a prática.<br><br>Se a intenção é que os(as) estudantes aprendam a diagnosticar falhas de roteamento, por exemplo, precisam analisar uma situação em que a comunicação entre dispositivos foi interrompida e investigar suas possíveis causas.<br><br>",
+   "conectando": ""
   },
   "blocos": [
-   {
-    "tipo": "pergunta",
-    "texto": "",
-    "pergunta": {
-     "tipo": "texto",
-     "titulo": "Como saber se a intervenção foi efetiva?",
-     "texto": "O que você observa para avaliar se a sua intervenção realmente desenvolve a autonomia técnica do(a) estudante?<br>",
-     "videoUrl": "",
-     "iframeH5P": ""
-    },
-    "novo": false
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "cards_icones_setas",
-    "infograficoData": {
-     "titulo": "",
-     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/ALVO.png\",\"titulo\":\"<b>Dificuldade apresentada</b>\",\"texto\":\"Identifique o que o(a) estudante teve dificuldade em realizar, como configurar um equipamento, compreender uma lógica de programação ou identificar uma falha no sistema.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2068.png\",\"titulo\":\"Apoio oferecido\",\"texto\":\"Registre a intervenção realizada, como uma demonstração, uma pergunta orientadora ou uma explicação sobre determinado procedimento.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2045.png\",\"titulo\":\"Necessidade identificada\",\"texto\":\"Analise o que justificou a intervenção: uma dúvida conceitual, uma dificuldade técnica ou a necessidade de compreender melhor uma etapa da atividade.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2033.png\",\"titulo\":\"Mudança observada\",\"texto\":\"Verifique se, após o apoio, o(a) estudante conseguiu avançar na atividade, corrigir erros ou realizar procedimentos com maior autonomia.&nbsp;<br>\",\"corFundo\":\"#beeffc\",\"corTitulo\":\"#0a3442\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%206.png\",\"titulo\":\"Adequação da intervenção\",\"texto\":\"Avalie se o apoio foi suficiente para superar a dificuldade ou se seria necessário adotar outra estratégia.&nbsp;<br>\",\"corFundo\":\"#06d7a0\",\"corTitulo\":\"#0a3442\"}]"
-    },
-    "novo": false
-   },
-   {
-    "tipo": "caixadestaque",
-    "texto": "<b>O importante é avaliar se o apoio oferecido atende à necessidade identificada. Intervir em excesso pode limitar a autonomia, enquanto oferecer pouco suporte pode dificultar a aprendizagem.&nbsp;</b>",
-    "caixaImgUrl": "",
-    "caixaImgSize": 40,
-    "caixaCorFundo": "#f0fdf4",
-    "caixaCorBorda": "#06d7a0",
-    "novo": false,
-    "caixaCorTexto": "#0a3442"
-   },
    {
     "tipo": "infografico",
     "texto": "",
     "infograficoTipo": "blocos_coloridos",
     "infograficoData": {
      "introducao": "",
-     "blocos": "[{\"titulo\":\"<b>Retomada da tarefa</b>\",\"texto\":\"Prossegue com a configuração da rede após a orientação.&nbsp;<br>\"},{\"titulo\":\"Redução de erros\",\"texto\":\"Executa o procedimento com menos falhas.&nbsp;<br>\"},{\"titulo\":\"Maior segurança\",\"texto\":\"Realiza as etapas com mais confiança.&nbsp;<br>\"},{\"titulo\":\"Tomada de decisão\",\"texto\":\"Justifica as escolhas sem depender da validação docente.&nbsp;<br>\"},{\"titulo\":\"Autonomia progressiva\",\"texto\":\"Dá continuidade à atividade com menos ajuda.\"},{\"titulo\":\"Dificuldade persistente\",\"texto\":\"Continua a apresentar obstáculos após a intervenção.&nbsp;<br>\"}]"
+     "blocos": "[{\"titulo\":\"Ações\",\"texto\":\"Mostram como o(a) estudante executa procedimentos e utiliza recursos técnicos. Ex.: em Manutenção e Suporte, testa a memória RAM para identificar a origem de uma falha no computador.&nbsp;<br>\"},{\"titulo\":\"Falas\",\"texto\":\"Revelam como explica e justifica suas escolhas. Ex.: em Redes de Computadores, explica por que definiu determinado endereço IP para um dispositivo.&nbsp;<br>\"},{\"titulo\":\"Produções\",\"texto\":\"Demonstram como aplica os conhecimentos para criar soluções. Ex.: em Informática, desenvolve uma planilha com fórmulas para automatizar cálculos.&nbsp;<br>\"},{\"titulo\":\"Registros\",\"texto\":\"Mostram como documenta etapas e resultados. Ex.: em Redes de Computadores, elabora um diagrama com a identificação dos dispositivos e suas conexões.&nbsp;<br>\"}]"
     },
     "novo": false
    },
    {
-    "tipo": "glossario",
+    "tipo": "infografico",
     "texto": "",
-    "termos": [
-     {
-      "termo": "Roteamento estático",
-      "definicao": "Configuração manual das rotas que determinam por onde os dados devem passar para chegar a outra rede.<br>"
-     },
-     {
-      "termo": "Sub-redes",
-      "definicao": "Divisões de uma rede maior em redes menores, que organizam a comunicação entre dispositivos.<br>"
-     },
-     {
-      "termo": "Rota padrão",
-      "definicao": "Caminho definido para encaminhar os dados quando não há uma rota específica configurada para o destino.<br>"
-     }
-    ],
-    "novo": false
+    "infograficoTipo": "lista_interativa",
+    "infograficoData": {
+     "titulo": "<b>Exemplo:</b>",
+     "linhas": "[\"<b>Objetivo:</b> diagnosticar falhas de roteamento IP.\",\"<b>Experiência:</b> simular a interrupção da comunicação entre dispositivos em um software de redes.\",\"<b>Evidência:</b> identificar a alteração na tabela de rotas e explicar como ela afeta a comunicação.&nbsp;<br>\"]"
+    },
+    "novo": true
    }
-  ],
-  "conclusao": {
-   "titulo": "Pilares para aprimorar a mediação ",
-   "texto": "<ul><li><b>Observar a necessidade:</b> identificar a dificuldade apresentada pelo(a) estudante.<br></li><li><b>Adequar a intervenção:</b> escolher entre orientar, demonstrar ou questionar conforme a situação.<br></li><li><b>Analisar os efeitos:</b> verificar como o apoio influenciou a execução e a autonomia.<br></li><li><b>Ajustar a mediação: </b>manter as estratégias eficazes e rever aquelas que não atenderam à necessidade identificada.<br>[TOMENOTA1]</li></ul>",
-   "blocos": [
-    {
-     "tipo": "tomenota",
-     "texto": "A mediação docente deve apoiar, e não substituir, a ação do(a) estudante. Ofereça o suporte necessário para que ele(a) retome a atividade com autonomia e segurança.<br>",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30428"
+  ]
  }
 }
