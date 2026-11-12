@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Economia Social",
- "quando": "2026-11-12T12:23:04.760Z",
+ "quando": "2026-11-12T12:25:04.817Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -32,7 +32,7 @@
      },
      {
       "titulo": "Contabilidade",
-      "texto": "Evidência observada<br>Em uma atividade de elaboração de um fluxo de caixa, os(as) estudantes registraram corretamente as entradas e saídas previstas, mas não identificaram que o saldo ficaria negativo em determinado período.<br><br>O q"
+      "texto": "<b>Evidência observada</b><br>Em uma atividade de elaboração de um fluxo de caixa, os(as) estudantes registraram corretamente as entradas e saídas previstas, mas não identificaram que o saldo ficaria negativo em determinado período.<br><br><b>O que essa evidência revela</b><br>Conseguem organizar os dados financeiros, mas ainda apresentam dificuldade em interpretar o fluxo de caixa e antecipar situações de insuficiência de recursos.<br><br><b>Decisão pedagógica</b><br>Propor a análise de diferentes cenários financeiros, orientando a identificação de períodos de saldo negativo e a elaboração de alternativas para equilibrar o caixa.<br>"
      }
     ],
     "novo": true
