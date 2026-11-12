@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Turismo e Eventos",
- "quando": "2026-11-12T14:28:48.889Z",
+ "quando": "2026-11-12T14:29:03.112Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -17,7 +17,7 @@
   ],
   "conclusao": {
    "titulo": "Planejando Novos Caminhos",
-   "texto": "Analisar as evidências produzidas pelos(as) estudantes ajuda você a reconhecer aprendizagens, identificar dificuldades e planejar intervenções mais adequadas.<br><br>Ao levar esse olhar para suas próximas práticas técnicas, transforme o que observa em oportunidades para ajustar estratégias e favorecer o desenvolvimento dos(as) estudantes.<br>",
+   "texto": "Analisar as evidências produzidas pelos(as) estudantes ajuda você a reconhecer aprendizagens, identificar dificuldades e planejar intervenções mais adequadas.<br><br>Ao levar esse olhar para suas próximas práticas técnicas, transforme o que observa em oportunidades para ajustar estratégias e favorecer o desenvolvimento dos(as) estudantes.<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -37,14 +37,15 @@
       {
        "id": "mwdnbxyt0dllaj",
        "texto": "Unidade 3: Registro Pedagógico sem Burocratização.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29003"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
-  }
+  },
+  "tipoBotao": "voltar"
  }
 }
