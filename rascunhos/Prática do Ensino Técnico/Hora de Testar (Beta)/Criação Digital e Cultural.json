@@ -1,50 +1,14 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Criação Digital e Cultural",
- "quando": "2026-11-05T17:09:29.928Z",
+ "quando": "2026-11-12T11:59:40.721Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Analisar uma prática técnica já realizada, relacionando o que foi planejado ao que ocorreu na experiência e identificando aspectos que precisam ser aprimorados.<br>",
-   "titulo": "Sua vez de analisar<br>",
-   "conteudo": "Chegou o momento de aplicar esse olhar à sua realidade.\n<br>\n<br>Na atividade a seguir, você vai retomar uma prática técnica que já conduziu e analisá-la com calma, usando as quatro perguntas que estruturaram esta aula.\n<br>\n<br> Não há resposta certa: o objetivo é aprender com a sua própria experiência.<br>",
+   "objetivo": "Analisar evidências de aprendizagem em uma prática técnica para propor encaminhamentos pedagógicos.",
+   "titulo": "<b>Olhar de Volta para as Evidências</b><br><br>",
+   "conteudo": "",
    "reflexao": ""
-  },
-  "atividades": [
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31810\" width=\"1103\" height=\"573\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"CDC-M4-U01-APLI-DOC\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   },
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31811\" width=\"1112\" height=\"515\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"CDC-M4-U01-APLI-MULTI\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   }
-  ],
-  "conclusao": {
-   "titulo": "A reflexão como parte da prática docente",
-   "texto": "Analisar as próprias práticas não é apenas um exercício de autocrítica: é o que fortalece a sua intencionalidade pedagógica e torna cada novo planejamento mais claro.  Ao parar para refletir, você transforma experiência em decisão consciente. \n<br><br>Você chegou ao fim de mais uma etapa com dedicação. Parabéns pelo seu empenho e até a próxima aula!&nbsp;&nbsp;<br>[REVISAR1]",
-   "blocos": [
-    {
-     "tipo": "revisar",
-     "texto": "Revisite as aulas abaixo para articular os desafios do mundo do trabalho ao seu planejamento e transformar a reflexão em ação.&nbsp;<br>",
-     "idRevisar": "mw3sx14ie6tu4d",
-     "itensRevisar": [
-      {
-       "id": "mw3sx4sbk8tpj5",
-       "texto": "Módulo 1 – 1ª aula síncrona: Transformação de problemas reais em práticas técnicas.&nbsp;&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=22749"
-      },
-      {
-       "id": "mw3sx8leefjl11",
-       "texto": "Módulo 2 – Unidade 5: Planejamento de práticas técnicas a partir de problemas profissionais.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24749"
-      }
-     ],
-     "linkBotao": "",
-     "textoBotao": "",
-     "novo": false
-    }
-   ]
-  },
-  "tipoBotao": "voltar",
-  "link": "https://ead.educacao.al.gov.br/course/view.php?id=283#section-76"
+  }
  }
 }
