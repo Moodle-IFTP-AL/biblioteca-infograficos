@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Criação Digital e Cultural",
- "quando": "2026-11-12T12:03:51.394Z",
+ "quando": "2026-11-12T12:04:17.873Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -17,7 +17,7 @@
   ],
   "conclusao": {
    "titulo": "Planejando Novos Caminhos ",
-   "texto": "Parabéns por concluir esta aula!<br><br>Analisar o que os(as) estudantes fazem, dizem, produzem e registram ajuda a compreender o que aprenderam e a decidir os próximos passos com mais segurança.<br><br>Leve esse olhar atento para as suas próximas práticas.<br>",
+   "texto": "Parabéns por concluir esta aula!<br><br>Analisar o que os(as) estudantes fazem, dizem, produzem e registram ajuda a compreender o que aprenderam e a decidir os próximos passos com mais segurança.<br><br>Leve esse olhar atento para as suas próximas práticas.<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -32,19 +32,20 @@
       {
        "id": "mwdi5968eqp5tf",
        "texto": "Unidade 2: Evidências de Aprendizagem.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28090"
       },
       {
        "id": "mwdi59c5e47la5",
        "texto": "Unidade 3: Registro Pedagógico sem Burocratização.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28111"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
-  }
+  },
+  "tipoBotao": "voltar"
  }
 }
