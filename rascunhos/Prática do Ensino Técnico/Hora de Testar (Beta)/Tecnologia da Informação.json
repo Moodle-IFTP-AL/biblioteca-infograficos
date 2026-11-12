@@ -1,54 +1,50 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Tecnologia da Informação",
- "quando": "2026-11-11T18:23:40.416Z",
+ "quando": "2026-11-12T13:38:53.054Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Aplicar critérios de análise da mediação docente em uma situação de prática técnica, relacionando a necessidade observada, a intervenção, os efeitos e as possibilidades de aprimoramento.<br>",
-   "titulo": "<b>Análise da Mediação na Prática de TI</b><br>",
-   "conteudo": "Analise o cenário prático a seguir, identificando como a intervenção do(a) docente se relaciona com as necessidades dos(as) estudantes. Em seguida, responda às questões para avaliar os efeitos dessa mediação e reflita sobre sua própria prática.<br><br><h3><b><font color=\"#f04770\">Uma falha na rede: como intervir?&nbsp;<br><br></font></b></h3>Durante uma aula prática de manutenção de computadores, um(a) estudante identifica uma falha no carregamento dos drivers de rede. Em vez de analisar a mensagem de erro, tenta reiniciar o computador repetidamente. O(A) professor(a) pergunta: “Qual código de erro aparece no registro do sistema?”. Ao consultar o log no terminal, o(a) estudante identifica uma dependência ausente, instala o driver correto e restabelece a conexão sem necessidade de ajuda adicional.<br><br>",
-   "reflexao": "<h3><b><font color=\"#f04770\">Refletindo sobre sua prática</font></b></h3><br>Pensando na sua prática recente, escolha uma situação em que um(a) estudante enfrentou uma dificuldade técnica e você precisou intervir.<br>Reflita:<br><ul><li>qual era a dificuldade real observada?<br></li><li>que tipo de suporte você ofereceu (demonstração, pergunta ou orientação direta)?<br></li><li>como o(a) estudante reagiu após sua intervenção?<br></li><li>o que você manteria ou ajustaria nessa mediação para estimular ainda mais a autonomia do(a) estudante em aulas futuras?</li></ul>"
+   "objetivo": "Analisar evidências de aprendizagem em uma prática técnica para propor encaminhamentos pedagógicos.<br>",
+   "titulo": "<b>Análise de Evidências na Prática de TI</b><br>",
+   "conteudo": "",
+   "reflexao": ""
   },
   "atividades": [
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32205\" width=\"1124\" height=\"427\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"TI-M4-U03-APLI-MULTI1\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   },
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32204\" width=\"1124\" height=\"427\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"TI-M4-U03-APLI-MULTI2\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32214\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ECS-M4-U04-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    }
   ],
   "conclusao": {
-   "titulo": "Da Mediação à Autonomia",
-   "texto": "Analisar as intervenções realizadas durante a prática permite reconhecer o que atendeu às necessidades dos(as) estudantes e quais aspectos podem ser aprimorados.<br><br>Ao observar os efeitos da sua mediação, você identifica caminhos para oferecer o apoio necessário e favorecer a autonomia progressiva da turma.<br><br>Leve essa reflexão para suas próximas aulas e continue observando, avaliando e ajustando sua prática.<br><br>Parabéns pelo empenho ao longo desta aula. Até a próxima!<br>[REVISAR1]",
+   "titulo": "Planejando Novos Caminhos ",
+   "texto": "Analisar as evidências permite reconhecer não apenas se os(as) estudantes concluíram uma atividade, mas também se compreenderam os procedimentos e critérios envolvidos.<br><br>Leve esse olhar para suas próximas práticas e utilize o que observar para planejar novas intervenções.<br>",
    "blocos": [
     {
      "tipo": "revisar",
-     "texto": "Retome as aulas abaixo para rever como a demonstração e a gestão da prática contribuem para a mediação docente durante as atividades técnicas.<br>",
-     "idRevisar": "mwcg8pd2ukolrt",
+     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:<br>",
+     "idRevisar": "mwdljv60gxk7vu",
      "itensRevisar": [
       {
-       "id": "mwcg8tm12z8j9c",
-       "texto": "Módulo 1 – Unidade 6: Demonstração técnica aplicada ao projeto ABP.<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22611"
+       "id": "mwdljyyuwmfzyw",
+       "texto": "Unidade 1: Acompanhamento da Aprendizagem.&nbsp;<br>",
+       "link": ""
       },
       {
-       "id": "mwcg8tr02azd03",
-       "texto": "Módulo 1 – Unidade 8: Preparação de demonstrações técnicas.",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=23174"
+       "id": "mwdljzmbrmx9wo",
+       "texto": "Unidade 2: Evidências de Aprendizagem.",
+       "link": ""
       },
       {
-       "id": "mwcg8u2mkg5mcd",
-       "texto": "Módulo 3 – Encontro síncrono 1: Gestão da prática técnica.",
-       "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27221"
+       "id": "mwdlk00644xvr5",
+       "texto": "Unidade 3: Registro Pedagógico sem Burocratização.&nbsp;<br>",
+       "link": ""
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": false
+     "novo": true
     }
    ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30430"
+  }
  }
 }
