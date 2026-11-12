@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão Imobiliária",
- "quando": "2026-11-12T13:26:20.386Z",
+ "quando": "2026-11-12T13:26:29.868Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -17,7 +17,7 @@
   ],
   "conclusao": {
    "titulo": "Planejando Novos Caminhos ",
-   "texto": "As evidências de aprendizagem ganham significado quando são interpretadas à luz dos objetivos propostos.<br><br>Ao observar avanços e dificuldades, você poderá tomar decisões pedagógicas mais fundamentadas.<br><br>Nas próximas práticas, valorize os registros, as explicações e as ações dos(as) estudantes como oportunidades de compreender e aprimorar a aprendizagem.<br>",
+   "texto": "As evidências de aprendizagem ganham significado quando são interpretadas à luz dos objetivos propostos.<br><br>Ao observar avanços e dificuldades, você poderá tomar decisões pedagógicas mais fundamentadas.<br><br>Nas próximas práticas, valorize os registros, as explicações e as ações dos(as) estudantes como oportunidades de compreender e aprimorar a aprendizagem.<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -37,12 +37,12 @@
       {
        "id": "mwdl3l0037piez",
        "texto": "Unidade 3: Registro Pedagógico sem Burocratização.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28650"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
   }
