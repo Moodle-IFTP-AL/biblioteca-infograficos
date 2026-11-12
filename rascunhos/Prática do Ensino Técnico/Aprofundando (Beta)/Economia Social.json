@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Economia Social",
- "quando": "2026-11-12T12:22:01.734Z",
+ "quando": "2026-11-12T12:23:04.760Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -28,11 +28,11 @@
     "topicos": [
      {
       "titulo": "Cooperativismo ",
-      "texto": "<b>Evidência observada</b><br>Em uma atividade de planejamento de uma cooperativa fictícia, os grupos distribuíram as responsabilidades entre os(as) cooperados(as), mas atribuíram todas as decisões sobre compras e contratação a uma única pessoa, sem prever mecanismos de participação dos(as) demais.<br><br><b>O que essa evidência revela</b><br>Os(as) estudantes conseguem distribuir tarefas, mas ainda precisam compreender como a participação dos(as) cooperados(as) deve estar presente nos processos de gestão.<br><br><br>"
+      "texto": "<b>Evidência observada</b><br>Em uma atividade de planejamento de uma cooperativa fictícia, os grupos distribuíram as responsabilidades entre os(as) cooperados(as), mas atribuíram todas as decisões sobre compras e contratação a uma única pessoa, sem prever mecanismos de participação dos(as) demais.<br><br><b>O que essa evidência revela</b><br>Os(as) estudantes conseguem distribuir tarefas, mas ainda precisam compreender como a participação dos(as) cooperados(as) deve estar presente nos processos de gestão.<br><br><b>Decisão pedagógica</b><br>Apresentar situações de gestão compartilhada e propor a revisão do planejamento, incluindo formas de consulta e participação dos(as) cooperados(as) nas decisões.<br>"
      },
      {
-      "titulo": "",
-      "texto": ""
+      "titulo": "Contabilidade",
+      "texto": "Evidência observada<br>Em uma atividade de elaboração de um fluxo de caixa, os(as) estudantes registraram corretamente as entradas e saídas previstas, mas não identificaram que o saldo ficaria negativo em determinado período.<br><br>O q"
      }
     ],
     "novo": true
