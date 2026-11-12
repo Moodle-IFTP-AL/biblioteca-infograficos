@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Turismo e Eventos",
- "quando": "2026-11-12T13:42:54.563Z",
+ "quando": "2026-11-12T13:43:46.691Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -10,6 +10,18 @@
    "titulo": "<b>Evidências da Aprendizagem: Observar para Avançar</b><br>",
    "conteudo": "Você já terminou uma oficina técnica e ficou em dúvida sobre o que os(as) estudantes realmente aprenderam? Relembre uma prática de Turismo e Eventos que você realizou recentemente: o que fizeram, como agiram durante as etapas e o que produziram?<br><br>Essas lembranças ajudam a perceber que a aprendizagem se manifesta de diferentes formas. As ações, as falas, as produções e os registros dos(as) estudantes revelam como mobilizam conhecimentos, desenvolvem habilidades e enfrentam dificuldades.<br><br>Ao longo da prática, cada uma dessas manifestações constitui uma evidência que pode ser observada e analisada. Em vez de serem apenas resultados da atividade, essas manifestações oferecem pistas importantes para compreender o que já foi aprendido e o que ainda precisa ser desenvolvido.<br><br><h3><b><font color=\"#f04770\">Evidências de Aprendizagem</font></b></h3><br>Durante as práticas, você pode observar quatro tipos de evidências de aprendizagem:<br><br>",
    "conectando": ""
-  }
+  },
+  "blocos": [
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "blocos_coloridos",
+    "infograficoData": {
+     "introducao": "",
+     "blocos": "[{\"titulo\":\"Ações\",\"texto\":\"O que o(a) estudante faz durante a prática. Revelam como mobiliza conhecimentos e procedimentos. Ex.: em Serviços de Bar e Restaurante, prepara uma mesa seguindo os padrões de montagem e organização.&nbsp;<br>\"},{\"titulo\":\"Falas\",\"texto\":\"O que explica ou justifica. Revelam como compreende e fundamenta suas escolhas. Ex.: em Guia de Turismo, explica como adapta as orientações do roteiro às características do grupo.&nbsp;<br>\"},{\"titulo\":\"Produções\",\"texto\":\"O que elabora como resultado da atividade. Revelam como aplica os conhecimentos. Ex.: em Artesanato, confecciona uma peça utilizando técnicas e materiais adequados à proposta.&nbsp;<br>\"},{\"titulo\":\"Registros\",\"texto\":\"O que anota, organiza ou documenta. Revelam como sistematiza informações e acompanha procedimentos. Ex.: em Hospedagem, registra solicitações e pendências dos hóspedes durante a troca de turno.&nbsp;<br>\"}]"
+    },
+    "novo": false
+   }
+  ]
  }
 }
