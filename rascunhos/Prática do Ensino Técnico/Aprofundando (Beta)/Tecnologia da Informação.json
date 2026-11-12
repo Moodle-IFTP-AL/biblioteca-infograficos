@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Tecnologia da Informação",
- "quando": "2026-11-12T13:30:42.881Z",
+ "quando": "2026-11-12T13:32:42.787Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do Conhecimento:</b><br>Evidências de aprendizagem na prática técnica.<br><b>Conteúdos:</b><br><ul><li>Ações, falas, produções e registros dos(as) estudantes.<br></li><li>Evidências observadas durante a prática.<br></li><li>Avanços e dificuldades identificados.<br></li><li>Relação entre evidências e objetivos de aprendizagem.<br></li><li>Evidências que confirmaram ou indicaram necessidade de ajuste na prática.<br></li></ul><b>Objetivo da Aula:</b><br>Analisar as evidências de aprendizagem produzidas durante uma prática técnica já realizada, relacionando-as aos objetivos de aprendizagem e às decisões pedagógicas tomadas.<br>",
    "objetivo": "Identificar como as evidências produzidas durante uma prática técnica se relacionam aos objetivos de aprendizagem e podem orientar as decisões pedagógicas.<br>",
    "titulo": "<b>Evidências Práticas: do Diagnóstico às Decisões</b><br>",
-   "conteudo": "Relembre uma aula prática de Informática, Manutenção e Suporte em Informática ou Redes de Computadores que você já realizou.<br><ul><li>O que os(as) estudantes fizeram durante a atividade?<br></li><li>Como resolveram os problemas, explicaram suas escolhas e registraram os resultados?</li></ul>Ao configurar um computador, testar uma conexão ou organizar uma rede, por exemplo, os(as) estudantes demonstram conhecimentos de diferentes maneiras.<br><br>Suas ações, falas, produções e registros ajudam você a perceber o que já aprenderam, quais dificuldades encontraram e o que ainda precisam desenvolver.<br><br>Observar essas manifestações é um caminho para compreender melhor a aprendizagem e planejar as próximas intervenções.<br><br><h3><b><font color=\"#f04770\">Evidências de Aprendizagem<br><br></font></b></h3>Durante as práticas de Tecnologia da Informação, você pode observar quatro tipos de evidências de aprendizagem:<br>[INFOGRAFICO1]<br><br><h3><b><font color=\"#f04770\">Alinhamento Pedagógico&nbsp;</font></b></h3><br>O objetivo de aprendizagem deve orientar a atividade e ajudar você a definir o que observar durante a prática.<br><br>Se a intenção é que os(as) estudantes aprendam a diagnosticar falhas de roteamento, por exemplo, precisam analisar uma situação em que a comunicação entre dispositivos foi interrompida e investigar suas possíveis causas.<br><br>",
+   "conteudo": "Relembre uma aula prática de Informática, Manutenção e Suporte em Informática ou Redes de Computadores que você já realizou.<br><ul><li>O que os(as) estudantes fizeram durante a atividade?<br></li><li>Como resolveram os problemas, explicaram suas escolhas e registraram os resultados?</li></ul>Ao configurar um computador, testar uma conexão ou organizar uma rede, por exemplo, os(as) estudantes demonstram conhecimentos de diferentes maneiras.<br><br>Suas ações, falas, produções e registros ajudam você a perceber o que já aprenderam, quais dificuldades encontraram e o que ainda precisam desenvolver.<br><br>Observar essas manifestações é um caminho para compreender melhor a aprendizagem e planejar as próximas intervenções.<br><br><h3><b><font color=\"#f04770\">Evidências de Aprendizagem<br><br></font></b></h3>Durante as práticas de Tecnologia da Informação, você pode observar quatro tipos de evidências de aprendizagem:<br>[INFOGRAFICO1]<br><br><h3><b><font color=\"#f04770\">Alinhamento Pedagógico&nbsp;</font></b></h3><br>O objetivo de aprendizagem deve orientar a atividade e ajudar você a definir o que observar durante a prática.<br><br>Se a intenção é que os(as) estudantes aprendam a diagnosticar falhas de roteamento, por exemplo, precisam analisar uma situação em que a comunicação entre dispositivos foi interrompida e investigar suas possíveis causas.<br>[INFOGRAFICO2]<br><h3><b><font color=\"#f04770\">Analisando as Evidências<br><br></font></b></h3>Analisar as evidências após uma prática significa relacionar o que os(as) estudantes fizeram, disseram, produziram ou registraram aos objetivos de aprendizagem.<br><br>Essa análise ajuda você a identificar o que já foi aprendido, quais dificuldades permanecem e que aspectos precisam ser retomados.<br><br>Assim, é possível planejar novas atividades e intervenções com base nas necessidades observadas durante a prática.<br><br><b><font color=\"#f04770\">Exemplos de análise de evidências</font></b><br>[ACCORDION1]",
    "conectando": ""
   },
   "blocos": [
@@ -30,7 +30,26 @@
      "titulo": "<b>Exemplo:</b>",
      "linhas": "[\"<b>Objetivo:</b> diagnosticar falhas de roteamento IP.\",\"<b>Experiência:</b> simular a interrupção da comunicação entre dispositivos em um software de redes.\",\"<b>Evidência:</b> identificar a alteração na tabela de rotas e explicar como ela afeta a comunicação.&nbsp;<br>\"]"
     },
-    "novo": true
+    "novo": false
+   },
+   {
+    "tipo": "accordion",
+    "texto": "",
+    "topicos": [
+     {
+      "titulo": "Informática",
+      "texto": "<b>Evidência observada\n</b><br>Em uma atividade de elaboração de uma apresentação digital, os(as) estudantes organizaram textos e imagens, mas utilizaram recursos visuais e efeitos de transição em excesso, dificultando a compreensão das informações principais.\n<br>\n<br><b>O que essa evidência revela</b><br>Conseguem utilizar os recursos do software, mas ainda precisam desenvolver critérios de organização visual e comunicação da informação.<br><br><b>Decisão Pedagógica</b><br>Exibir exemplos de apresentações com diferentes níveis de organização visual e propor a revisão dos materiais, considerando hierarquia das informações, legibilidade e finalidade da apresentação.<br>"
+     },
+     {
+      "titulo": "Manutenção e Suporte em Informática ",
+      "texto": "<b>Evidência observada<br></b>Durante uma prática de instalação de sistema operacional, os(as) estudantes concluíram a instalação, mas não realizaram a atualização dos drivers necessários para o funcionamento dos dispositivos.<br><br><b>O que essa evidência revela<br></b>Compreendem as etapas principais da instalação, mas ainda não reconhecem a importância de verificar a compatibilidade e o funcionamento dos componentes após o procedimento.<br><br><b>Decisão Pedagógica<br></b>Retomar as etapas de pós-instalação e propor uma atividade de verificação dos dispositivos, identificação de drivers e conferência do funcionamento do equipamento.<br><b></b><b></b>"
+     },
+     {
+      "titulo": "Redes de Computadores",
+      "texto": "<b>Evidência observada<br></b>Em uma atividade de planejamento de uma rede para um pequeno escritório, os(as) estudantes representaram corretamente os dispositivos e suas conexões, mas não previram equipamentos suficientes para atender à quantidade de pontos de acesso solicitada.<br><br><b>O que essa evidência revela<br></b>Conseguem representar a estrutura da rede, mas ainda precisam relacionar a quantidade de dispositivos e pontos de acesso aos recursos necessários para sua implementação.<br><b><br></b><b>Decisão Pedagógica<br></b>Propor a revisão do projeto com diferentes cenários de dimensionamento, orientando a análise da quantidade de dispositivos, portas disponíveis e capacidade dos equipamentos.<br><b></b><b></b>"
+     }
+    ],
+    "novo": false
    }
   ]
  }
