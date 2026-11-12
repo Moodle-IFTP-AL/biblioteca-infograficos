@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Economia Social",
- "quando": "2026-11-12T12:37:00.656Z",
+ "quando": "2026-11-12T12:37:13.297Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -17,7 +17,7 @@
   ],
   "conclusao": {
    "titulo": "Planejando Novos Caminhos",
-   "texto": "Ao analisar ações, falas, produções e registros, você reúne informações da prática que ajudam a orientar novas decisões pedagógicas.<br><br>Leve esse olhar para suas próximas atividades de Cooperativismo e Contabilidade, relacionando sempre as evidências observadas aos objetivos de aprendizagem.<br>",
+   "texto": "Ao analisar ações, falas, produções e registros, você reúne informações da prática que ajudam a orientar novas decisões pedagógicas.<br><br>Leve esse olhar para suas próximas atividades de Cooperativismo e Contabilidade, relacionando sempre as evidências observadas aos objetivos de aprendizagem.<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -37,14 +37,15 @@
       {
        "id": "mwdjc6onayjvuj",
        "texto": "Unidade 3: Registro Pedagógico sem Burocratização.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28290"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
-  }
+  },
+  "tipoBotao": "voltar"
  }
 }
