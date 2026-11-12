@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Criação Digital e Cultural",
- "quando": "2026-11-12T11:54:17.794Z",
+ "quando": "2026-11-12T11:55:47.580Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -42,11 +42,11 @@
      },
      {
       "titulo": "Multimídia",
-      "texto": ""
+      "texto": "<b>Evidência observada</b><br>Na produção de um podcast, os(as) estudantes gravaram as entrevistas e organizaram os trechos, mas o áudio final apresentou diferenças acentuadas de volume entre as falas dos(as) participantes.<br><br><b>O que essa evidência revela</b><br>Conseguem organizar o material gravado, mas ainda precisam desenvolver habilidades de tratamento e equalização de áudio.<br><br><b>Decisão pedagógica</b><br>Realizar uma demonstração de ajuste dos níveis de volume e propor uma nova edição utilizando os mesmos arquivos de áudio.<br>"
      },
      {
       "titulo": "Produção Cultural",
-      "texto": ""
+      "texto": "<b>Evidência observada</b><br>Na elaboração de um plano de divulgação de uma mostra cultural, os grupos criaram peças para redes sociais, mas não incluíram informações sobre acessibilidade, gratuidade e formas de participação do público.<br><br><b>O que essa evidência revela</b><br>Reconhecem a importância da divulgação, mas ainda precisam considerar as informações necessárias para ampliar o acesso e orientar a participação do público.<br><br><b>Decisão pedagógica</b><br>Retomar os elementos essenciais de uma comunicação de evento e propor a revisão das peças, considerando as necessidades de diferentes públicos.<br>"
      }
     ],
     "novo": true
