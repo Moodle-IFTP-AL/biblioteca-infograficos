@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão Imobiliária",
- "quando": "2026-11-12T13:23:06.487Z",
+ "quando": "2026-11-12T13:23:14.338Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -82,6 +82,7 @@
      "novo": false
     }
    ]
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30273"
  }
 }
