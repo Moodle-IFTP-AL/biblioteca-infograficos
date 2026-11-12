@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Turismo e Eventos",
- "quando": "2026-11-12T14:05:29.061Z",
+ "quando": "2026-11-12T14:07:28.722Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -38,26 +38,26 @@
     "topicos": [
      {
       "titulo": "Artesanato",
-      "texto": ""
+      "texto": "<b>Evidência observada</b><br>Durante uma oficina de produção com fibras naturais, os(as) estudantes conseguiram selecionar e preparar os materiais, mas apresentaram dificuldade em calcular a quantidade necessária para produzir todas as peças previstas, gerando desperdício.<br><br><b>O que essa evidência revela</b><br>Demonstram domínio das etapas de preparação, mas ainda precisam desenvolver a capacidade de calcular o consumo de materiais e planejar a produção.<br><br><b>Decisão Pedagógica</b><br>Propor uma nova atividade de planejamento, na qual calculem a quantidade de matéria-prima necessária considerando as dimensões e o número de peças.<br>"
      },
      {
       "titulo": "Eventos",
-      "texto": ""
+      "texto": "<b>Evidência observada<br></b>Na elaboração de um plano de organização de uma feira escolar, os grupos distribuíram os espaços entre os expositores, mas não consideraram áreas de circulação suficientes para o público.<br><br><b>O que essa evidência revela<br></b>Conseguem organizar a distribuição dos espaços, mas ainda precisam considerar o fluxo de pessoas e as condições de circulação no planejamento.<br><b><br></b><b>Decisão Pedagógica<br></b>Apresentar diferentes plantas de eventos e propor a revisão do mapa de ocupação, considerando acessos, circulação e distribuição dos expositores.<br><b></b><b></b>"
      },
      {
       "titulo": "Guia de Turismo",
-      "texto": ""
+      "texto": "<b>Evidência observada</b><br>Em uma simulação de visita guiada a um patrimônio histórico, os(as) estudantes apresentaram informações sobre a construção, mas não conseguiram relacionar os acontecimentos históricos às características culturais da comunidade local.<br><br><b>O que essa evidência revela<br></b>Conseguem recuperar informações históricas, mas ainda precisam desenvolver a capacidade de contextualizá-las e relacioná-las à identidade cultural do território.<br><br><b>Decisão Pedagógica<br></b>Propor uma pesquisa sobre a história e as manifestações culturais da comunidade e realizar uma nova simulação de visita, incorporando essas relações à narrativa.<b></b><b></b>"
      },
      {
-      "titulo": "",
-      "texto": ""
+      "titulo": "Hospedagem",
+      "texto": "<b>Evidência observada</b><br>Durante uma simulação de arrumação de unidades habitacionais, os(as) estudantes finalizaram a limpeza dos quartos, mas não identificaram itens danificados que precisavam ser comunicados à manutenção.<br><br><b>O que essa evidência revela</b><br>Dominam os procedimentos de limpeza, mas ainda precisam reconhecer a importância da inspeção e da comunicação de problemas para garantir as condições de uso dos espaços.<br><br><b>Decisão Pedagógica</b><br>Apresentar situações com diferentes tipos de avarias e propor uma nova prática de inspeção, com identificação e encaminhamento dos problemas encontrados.<br>"
      },
      {
-      "titulo": "",
-      "texto": ""
+      "titulo": "Lazer",
+      "texto": "<b>Evidência observada</b><br>Na elaboração de uma atividade recreativa para um grupo de crianças, os(as) estudantes propuseram brincadeiras com regras que exigiam deslocamentos rápidos, sem prever alternativas para participantes com diferentes condições de mobilidade.<br><br><b>O que essa evidência revela</b><br>Conseguem selecionar atividades recreativas, mas ainda precisam considerar a diversidade dos(as) participantes e adaptar as propostas para garantir a participação de todos(as).<br><br><b>Decisão Pedagógica</b><br>Apresentar diferentes situações de participação e propor a adaptação das brincadeiras, considerando alternativas de execução e participação para todo o grupo.<br>"
      },
      {
-      "titulo": "",
+      "titulo": "Serviços de Bar e Restaurante",
       "texto": ""
      }
     ],
