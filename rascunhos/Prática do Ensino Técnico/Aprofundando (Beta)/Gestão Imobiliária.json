@@ -1,85 +1,37 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão Imobiliária",
- "quando": "2026-11-11T18:08:00.998Z",
+ "quando": "2026-11-12T13:20:31.097Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do conhecimento: </b>mediação docente durante a prática técnica.<br><b>Conteúdos:</b><br><ul><li>intervenções realizadas durante a prática;<br></li><li>orientações e demonstrações utilizadas;<br></li><li>situações que exigiram tomada de decisão;<br></li><li>ajustes realizados diante das dificuldades dos estudantes;<br></li><li>relação entre intervenção docente e autonomia dos estudantes;<br></li><li>efeitos das intervenções observados na prática.<br></li></ul><b>Objetivo da aula:</b> analisar as intervenções realizadas durante uma prática técnica, relacionando-as às necessidades observadas e identificando possibilidades de aprimoramento da mediação docente.<br>",
-   "objetivo": "Analisar as intervenções docentes realizadas durante uma prática técnica, relacionando as necessidades observadas aos efeitos produzidos e identificando possibilidades de aprimoramento da mediação.<br>",
-   "titulo": "<b>Mediação Docente nas Práticas Técnicas</b><br>",
-   "conteudo": "<h3><b><font color=\"#f04770\">Uma Dificuldade na Vistoria&nbsp;</font></b></h3><br>Durante uma atividade de vistoria de entrada em um apartamento para locação, um(a) estudante identifica manchas de umidade em uma parede, mas tem dificuldade para descrevê-las no relatório. O(A) professor(a) apresenta um exemplo de registro técnico e orienta a observação de aspectos como a localização, a extensão e a aparência das manchas. Em seguida, o(a) estudante retoma o preenchimento do documento.<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">A mediação durante a prática<br><br></font></b></h3>Nas práticas de Gestão Imobiliária, a mediação docente envolve acompanhar a forma como os(as) estudantes interpretam informações, executam procedimentos e tomam decisões.<br><br>Em Transações Imobiliárias, você pode orientar a análise de documentos, a realização de vistorias e o atendimento a clientes. Em Gestão de Condomínios, pode acompanhar atividades de organização de registros, análise de ocorrências e encaminhamento de demandas dos moradores.<br><br>Durante essas práticas, podem surgir dificuldades que exigem diferentes formas de apoio. Por isso, é importante compreender qual necessidade motivou a intervenção, como ela foi realizada e quais efeitos produziu na aprendizagem e na autonomia do(a) estudante.<br><br><h3><b><font color=\"#f04770\">Elementos da Intervenção Docente<br><br></font></b></h3>Para analisar uma intervenção docente, observe a relação entre estes elementos:&nbsp;[GLOSSARIO1]<br>[INFOGRAFICO1]<br><br><h3><b><font color=\"#f04770\">Intervenções para diferentes necessidades<br><br></font></b></h3>As intervenções precisam considerar a dificuldade apresentada e o objetivo da prática.<br><br>Em Transações Imobiliárias, se o(a) estudante não identifica quais informações registrar em uma vistoria, você pode retomar os critérios de observação ou apresentar exemplos de relatórios.<br><br>Em Gestão de Condomínios, quando há dificuldade em analisar uma ocorrência, perguntas orientadoras podem ajudar a identificar os envolvidos, organizar os fatos e avaliar os encaminhamentos.<br><br>Em ambos os casos, observe se o apoio permite avançar ou se mantém a dependência da orientação docente.<br><br><h3><b><font color=\"#f04770\">Evidências dos efeitos da mediação<br><br></font></b></h3>Observe as ações do(a) estudante após a intervenção para analisar seus efeitos.<br>[INFOGRAFICO2]<br>Ao relacionar a dificuldade, a intervenção e seus efeitos, você identifica o que funcionou e o que precisa ser ajustado para favorecer a autonomia.<br>",
-   "conectando": "Na próxima etapa, analise uma situação de prática e identifique possibilidades de aprimoramento da mediação docente.<br>"
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do Conhecimento:</b><br>Evidências de aprendizagem na prática técnica.<br><b>Conteúdos:</b><br><ul><li>Ações, falas, produções e registros dos(as) estudantes.<br></li><li>Evidências observadas durante a prática.<br></li><li>Avanços e dificuldades identificados.<br></li><li>Relação entre evidências e objetivos de aprendizagem.<br></li><li>Evidências que confirmaram ou indicaram necessidade de ajuste na prática.<br></li></ul><b>Objetivo da Aula:</b><br>Analisar as evidências de aprendizagem produzidas durante uma prática técnica já realizada, relacionando-as aos objetivos de aprendizagem e às decisões pedagógicas tomadas.<br>",
+   "objetivo": "Identificar como as evidências produzidas durante uma prática técnica se relacionam aos objetivos de aprendizagem e podem orientar as decisões pedagógicas.<br>",
+   "titulo": "<b>Evidências que Revelam a Aprendizagem</b><br>",
+   "conteudo": "Recorde uma atividade prática que você já realizou com seus(suas) estudantes. Quais comportamentos, explicações ou produções demonstraram que eles(as) compreenderam o conteúdo trabalhado?<br><br>Em uma simulação de locação comercial, por exemplo, o preenchimento de uma ficha cadastral, a conferência de documentos e a justificativa de uma pendência podem revelar diferentes aprendizagens. Entretanto, concluir uma tarefa não significa, necessariamente, compreender os procedimentos envolvidos.<br><br>As ações, falas, produções e registros precisam ser analisados considerando o objetivo da atividade.<br><br>Ao retomar essas evidências, você poderá:<br><ul><li>reconhecer conhecimentos mobilizados;<br></li><li>identificar dificuldades persistentes;<br></li><li>compreender quais aspectos da aprendizagem precisam ser fortalecidos nas próximas práticas.</li></ul><h3><b><font color=\"#f04770\">O que Observar nas Evidências?&nbsp;<br><br></font></b></h3>Na Gestão Imobiliária, as evidências aparecem em diferentes momentos da prática profissional. Observe como o(a) estudante mobiliza conhecimentos e toma decisões:<br>[INFOGRAFICO1]<br>Cada manifestação oferece indícios diferentes sobre a aprendizagem e ajuda você a compreender como os(as) estudantes aplicam os conhecimentos em situações profissionais.<br><br><h3><b><font color=\"#f04770\">Alinhamento Pedagógico&nbsp;<br><br></font></b></h3>Para saber se os(as) estudantes desenvolveram a aprendizagem esperada, é importante que o objetivo da aula esteja conectado à atividade proposta e ao que você pretende observar.<br><br>Se a intenção é que aprendam a identificar e justificar pendências documentais em uma locação, por exemplo, precisam analisar documentos e explicar suas decisões. Apenas preencher um checklist não permite verificar se compreenderam os critérios utilizados.<br><br>",
+   "conectando": ""
   },
   "blocos": [
-   {
-    "tipo": "pergunta",
-    "texto": "",
-    "pergunta": {
-     "tipo": "texto",
-     "titulo": "O Que Observar Antes? ",
-     "texto": "O que você observa para saber se uma intervenção realmente ajuda o(a) estudante a avançar?<br>",
-     "videoUrl": "",
-     "iframeH5P": ""
-    },
-    "novo": false
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "cards_icones_setas",
-    "infograficoData": {
-     "titulo": "",
-     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/ALVO.png\",\"titulo\":\"<b>Dificuldade observada</b>\",\"texto\":\"O(a) estudante não consegue descrever as condições de um imóvel ou organizar as informações de uma ocorrência condominial.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Documento%20check.png\",\"titulo\":\"<b>Necessidade de aprendizagem</b>\",\"texto\":\"Compreender quais informações são relevantes e como registrá-las de acordo com a finalidade da atividade.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Engrenagem%20Ferramenta.png\",\"titulo\":\"<b>Intervenção realizada</b>\",\"texto\":\"O(a) professor(a) apresenta um modelo de registro, retoma os critérios ou propõe perguntas orientadoras.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2017.png\",\"titulo\":\"<b>Efeito imediato</b>\",\"texto\":\"O(a) estudante retoma o preenchimento do documento ou a organização das informações.&nbsp;<br>\",\"corFundo\":\"#79d3f2\",\"corTitulo\":\"#0a3442\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2041.png\",\"titulo\":\"<b>Evidência de aprendizagem</b>\",\"texto\":\"<font color=\\\"#ffffff\\\">Consegue selecionar, registrar e organizar os dados com maior clareza.&nbsp;</font><br>\",\"corFundo\":\"#f04770\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Arquivo%20preparado.png\",\"titulo\":\"<b>Possibilidade de aprimoramento</b>\",\"texto\":\"Propor situações semelhantes para que o(a) estudante aplique os critérios sem depender de uma resposta pronta.\"}]"
-    },
-    "novo": false
-   },
    {
     "tipo": "infografico",
     "texto": "",
     "infograficoTipo": "blocos_coloridos",
     "infograficoData": {
      "introducao": "",
-     "blocos": "[{\"titulo\":\"<b>Retoma a atividade</b>\",\"texto\":\"Continua a vistoria, o atendimento ou a análise de uma ocorrência.&nbsp;<br>\"},{\"titulo\":\"Organiza informações\",\"texto\":\"Registra dados relevantes sobre imóveis ou situações condominiais.&nbsp;<br>\"},{\"titulo\":\"Reduz erros\",\"texto\":\"Aplica corretamente os critérios e procedimentos da atividade.&nbsp;<br>\"},{\"titulo\":\"Justifica decisões\",\"texto\":\"Explica os critérios utilizados nos registros ou nos encaminhamentos.&nbsp;<br>\"},{\"titulo\":\"Amplia a autonomia\",\"texto\":\"Realiza atividades semelhantes com menor necessidade de orientação.&nbsp;<br>\"},{\"titulo\":\"Mantém a dificuldade\",\"texto\":\"Continua dependendo de exemplos ou de respostas prontas.&nbsp;<br>\"}]"
+     "blocos": "[{\"titulo\":\"Ações\",\"texto\":\"Mostram como executa procedimentos. Ex.: em Gestão Condominial, realiza uma vistoria nas áreas comuns e identifica necessidades de manutenção.&nbsp;<br>\"},{\"titulo\":\"Falas\",\"texto\":\"Revelam como explica e justifica suas escolhas. Ex.: em Transações Imobiliárias, argumenta por que determinado imóvel atende aos critérios apresentados por um(a) cliente.&nbsp;<br>\"},{\"titulo\":\"Produções\",\"texto\":\"Demonstram como aplica conhecimentos na elaboração de soluções. Ex.: em Gestão Condominial, organiza uma proposta de cronograma de manutenção preventiva.&nbsp;<br>\"},{\"titulo\":\"Registros\",\"texto\":\"Mostram como organiza e documenta informações. Ex.: em Transações Imobiliárias, preenche um relatório de visita, registrando características do imóvel e observações do(a) interessado(a).&nbsp;<br>\"}]"
     },
     "novo": false
    },
    {
-    "tipo": "glossario",
+    "tipo": "infografico",
     "texto": "",
-    "termos": [
-     {
-      "termo": "Evidência de aprendizagem",
-      "definicao": "Manifestação observável que permite analisar os avanços ou as dificuldades do estudante.<br>"
-     },
-     {
-      "termo": "Intervenção pedagógica",
-      "definicao": "Orientação ou ajuste realizado diante de uma necessidade de aprendizagem identificada.&nbsp;<br>"
-     },
-     {
-      "termo": "Mediação docente",
-      "definicao": "Ações pedagógicas que orientam, acompanham e favorecem a aprendizagem durante a prática.<br>"
-     }
-    ],
+    "infograficoTipo": "lista_interativa",
+    "infograficoData": {
+     "titulo": "<b>Exemplo:</b>",
+     "linhas": "[\"<b>Objetivo:</b> identificar e justificar pendências documentais em uma locação.&nbsp;<br>\",\"<b>Experiência:</b> analisar a documentação fictícia de um imóvel para locação comercial.&nbsp;<br>\",\"<b>Evidência:</b> checklist preenchido, acompanhado das justificativas para cada pendência identificada.&nbsp;<br>\"]"
+    },
     "novo": false
    }
-  ],
-  "conclusao": {
-   "titulo": "Pontos essenciais da mediação",
-   "texto": "<ul><li>Observe a dificuldade apresentada pelo(a) estudante.<br></li><li>Relacione o apoio à necessidade identificada.<br></li><li>Considere os objetivos da prática profissional.<br></li><li>Analise os efeitos da intervenção.<br></li><li>Verifique se houve compreensão e autonomia.<br></li><li>Mantenha ou ajuste o apoio conforme os resultados observados.<br>[TOMENOTA1]<br>[DICA1]</li></ul>",
-   "blocos": [
-    {
-     "tipo": "tomenota",
-     "texto": "A qualidade da mediação depende da relação entre a dificuldade observada, o apoio oferecido e os efeitos produzidos. Mais do que resolver a tarefa, a intervenção deve favorecer a compreensão dos procedimentos e a autonomia do(a) estudante.<br>",
-     "novo": false
-    },
-    {
-     "tipo": "dica",
-     "texto": "Em simulações de vistorias imobiliárias ou na análise de ocorrências condominiais, observe as dúvidas dos(as) estudantes. Antes de apresentar a resposta, faça perguntas que os ajudem a identificar informações relevantes, aplicar critérios e tomar decisões com maior autonomia.<br>",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30252"
+  ]
  }
 }
