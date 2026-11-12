@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-11-12T14:09:43.391Z",
+ "quando": "2026-11-12T21:04:04.330Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -51,13 +51,13 @@
      "id": "mmwdm9kbv6",
      "tipo": "botao",
      "caixa": {
-      "x": 12.5,
+      "x": 12,
       "y": 66,
       "largura": 36.5,
       "altura": 13
      },
      "texto": "GRAVAÇÃO METODOLOGIA PEDAGÓGICA",
-     "href": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27232",
+     "href": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27088",
      "corFundo": "#06d7a0",
      "corTexto": "#0a3442",
      "tamanho": 14,
@@ -69,13 +69,13 @@
      "id": "mmwdm9kbv7",
      "tipo": "botao",
      "caixa": {
-      "x": 51.5,
+      "x": 50.5,
       "y": 66,
       "largura": 36.5,
       "altura": 13
      },
      "texto": "GRAVAÇÃO PRÁTICA ENSINO TÉCNICO",
-     "href": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27233",
+     "href": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27089",
      "corFundo": "#f04770",
      "corTexto": "#ffffff",
      "tamanho": 14,
@@ -84,6 +84,32 @@
      "pulsar": false
     }
    ]
+  },
+  "ajusteEixo": {
+   "eixo": "CDC",
+   "feitoEm": "2026-11-12T21:04:00.799Z",
+   "linhas": [
+    {
+     "tipo": "Link Fórum",
+     "nome": "7ªGRAVACAOPARTE1(METODOLOGIAPEDAGOGICA)",
+     "de": 27080,
+     "para": 27088,
+     "situacao": "trocado",
+     "eixoOrigem": "COM",
+     "mod": "forum",
+     "rotulo": "href GRAVAÇÃO METODOLOGIA PEDAGÓGICA #0a3442"
+    },
+    {
+     "tipo": "Link Fórum",
+     "nome": "7ªGRAVACAOPARTE2(PRATICASDOENSINOTECNICO)",
+     "de": 27089,
+     "para": 27089,
+     "situacao": "correto",
+     "mod": "forum",
+     "rotulo": "href GRAVAÇÃO PRÁTICA ENSINO TÉCNICO #ffffff"
+    }
+   ],
+   "manuais": {}
   }
  }
 }
