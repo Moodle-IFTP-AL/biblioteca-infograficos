@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Tecnologia da Informação",
- "quando": "2026-11-12T13:39:10.389Z",
+ "quando": "2026-11-12T13:39:24.111Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -17,7 +17,7 @@
   ],
   "conclusao": {
    "titulo": "Planejando Novos Caminhos ",
-   "texto": "Analisar as evidências permite reconhecer não apenas se os(as) estudantes concluíram uma atividade, mas também se compreenderam os procedimentos e critérios envolvidos.<br><br>Leve esse olhar para suas próximas práticas e utilize o que observar para planejar novas intervenções.<br>",
+   "texto": "Analisar as evidências permite reconhecer não apenas se os(as) estudantes concluíram uma atividade, mas também se compreenderam os procedimentos e critérios envolvidos.<br><br>Leve esse olhar para suas próximas práticas e utilize o que observar para planejar novas intervenções.<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -37,14 +37,15 @@
       {
        "id": "mwdlk00644xvr5",
        "texto": "Unidade 3: Registro Pedagógico sem Burocratização.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28830"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
-  }
+  },
+  "tipoBotao": "bibliografia"
  }
 }
