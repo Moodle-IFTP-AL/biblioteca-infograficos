@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Criação Digital e Cultural",
- "quando": "2026-11-12T12:01:33.119Z",
+ "quando": "2026-11-12T12:03:27.942Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -14,6 +14,37 @@
    {
     "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32213\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"CDC-M4-U04-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Planejando Novos Caminhos ",
+   "texto": "Parabéns por concluir esta aula!<br><br>Analisar o que os(as) estudantes fazem, dizem, produzem e registram ajuda a compreender o que aprenderam e a decidir os próximos passos com mais segurança.<br><br>Leve esse olhar atento para as suas próximas práticas.<br>",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:<br>",
+     "idRevisar": "mwdi56ur0oakd4",
+     "itensRevisar": [
+      {
+       "id": "mwdi58ogvxxtx7",
+       "texto": "Unidade 1: Acompanhamento da Aprendizagem.&nbsp;<br>",
+       "link": ""
+      },
+      {
+       "id": "mwdi5968eqp5tf",
+       "texto": "Unidade 2: Evidências de Aprendizagem.&nbsp;<br>",
+       "link": ""
+      },
+      {
+       "id": "mwdi59c5e47la5",
+       "texto": "Unidade 3: Registro Pedagógico sem Burocratização.&nbsp;<br>",
+       "link": ""
+      }
+     ],
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": true
+    }
+   ]
+  }
  }
 }
