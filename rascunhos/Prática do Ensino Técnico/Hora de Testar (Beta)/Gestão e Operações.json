@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão e Operações",
- "quando": "2026-11-12T12:54:57.107Z",
+ "quando": "2026-11-12T12:55:09.195Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -17,7 +17,7 @@
   ],
   "conclusao": {
    "titulo": "Planejando Novos Caminhos ",
-   "texto": "As evidências ajudam a compreender tanto as aprendizagens consolidadas quanto os aspectos que ainda precisam ser desenvolvidos.<br><br>Leve esse olhar para suas próximas práticas: observe ações, falas, produções e registros antes de definir intervenções ou novas oportunidades de aprendizagem.<br>",
+   "texto": "As evidências ajudam a compreender tanto as aprendizagens consolidadas quanto os aspectos que ainda precisam ser desenvolvidos.<br><br>Leve esse olhar para suas próximas práticas: observe ações, falas, produções e registros antes de definir intervenções ou novas oportunidades de aprendizagem.<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -37,14 +37,15 @@
       {
        "id": "mwdjz8nezfm30m",
        "texto": "Unidade 3: Registro Pedagógico sem Burocratização.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28472"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
-  }
+  },
+  "tipoBotao": "voltar"
  }
 }
