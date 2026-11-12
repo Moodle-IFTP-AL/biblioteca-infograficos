@@ -1,50 +1,50 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Economia Social",
- "quando": "2026-11-05T17:25:23.280Z",
+ "quando": "2026-11-12T12:36:44.822Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Analisar uma prática técnica já realizada, relacionando o que foi planejado ao que ocorreu na experiência e identificando aspectos que precisam ser aprimorados.<br>",
-   "titulo": "Sua vez de analisar<br>",
-   "conteudo": "Agora, você vai retomar uma prática técnica já realizada e analisá-la com base no que foi planejado, no que aconteceu e nas evidências de aprendizagem observadas. O objetivo não é julgar a experiência, mas compreendê-la melhor.<br>",
+   "objetivo": "Analisar evidências de aprendizagem em uma prática técnica para propor encaminhamentos pedagógicos.<br>",
+   "titulo": "<b>Das Evidências às Próximas Decisões</b><br>",
+   "conteudo": "",
    "reflexao": ""
   },
   "atividades": [
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31812\" width=\"1103\" height=\"612\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ECS-M4-U01-APLI-DOC\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   },
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31813\" width=\"1112\" height=\"495\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ECS-M4-U01-APLI-MULTI\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32214\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ECS-M4-U04-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    }
   ],
   "conclusao": {
-   "titulo": "A reflexão como parte da prática docente",
-   "texto": "Analisar uma prática já realizada é uma forma de fortalecer a intencionalidade pedagógica.<br><br>Ao observar evidências, reconhecer o que favoreceu a aprendizagem e identificar pontos que merecem atenção, você transforma a experiência em referência para decisões futuras.<br><br>No eixo Economia Social, esse olhar ajuda a qualificar práticas relacionadas à cooperação, aos registros e às decisões coletivas.<br><br>Parabéns pelo seu empenho nesta etapa e até a próxima aula!<br>[REVISAR1]",
+   "titulo": "Planejando Novos Caminhos",
+   "texto": "Ao analisar ações, falas, produções e registros, você reúne informações da prática que ajudam a orientar novas decisões pedagógicas.<br><br>Leve esse olhar para suas próximas atividades de Cooperativismo e Contabilidade, relacionando sempre as evidências observadas aos objetivos de aprendizagem.<br>",
    "blocos": [
     {
      "tipo": "revisar",
-     "texto": "Revisite as aulas abaixo para articular os desafios do mundo do trabalho ao seu planejamento e transformar a reflexão em ação.<br>",
-     "idRevisar": "mw3tj1q4n7ao2q",
+     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:<br>",
+     "idRevisar": "mwdjc26vtszr1z",
      "itensRevisar": [
       {
-       "id": "mw3tj3ri1jrnoe",
-       "texto": "Módulo 1 – 1ª aula síncrona: Transformação de problemas reais em práticas técnicas.&nbsp;&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=22765"
+       "id": "mwdjc6br9er73i",
+       "texto": "Unidade 1: Acompanhamento da Aprendizagem.&nbsp;<br>",
+       "link": ""
       },
       {
-       "id": "mw3tj40owfjevx",
-       "texto": "Módulo 2 – Unidade 5: Planejamento de práticas técnicas a partir de problemas profissionais.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24761"
+       "id": "mwdjc6i4s16jpp",
+       "texto": "Unidade 2: Evidências de Aprendizagem.&nbsp;<br>",
+       "link": ""
+      },
+      {
+       "id": "mwdjc6onayjvuj",
+       "texto": "Unidade 3: Registro Pedagógico sem Burocratização.&nbsp;<br>",
+       "link": ""
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": false
+     "novo": true
     }
    ]
-  },
-  "tipoBotao": "voltar",
-  "link": "https://ead.educacao.al.gov.br/course/view.php?id=279#section-75"
+  }
  }
 }
