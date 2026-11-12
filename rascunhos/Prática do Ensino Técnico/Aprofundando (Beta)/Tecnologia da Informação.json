@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Tecnologia da Informação",
- "quando": "2026-11-12T13:34:28.976Z",
+ "quando": "2026-11-12T13:34:32.776Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -65,7 +65,7 @@
      },
      {
       "termo": "Decisão pedagógica",
-      "definicao": "Escolha docente fundamentada nas evidências e nas necessidades de aprendizagem identificadas.sssssssssssssssssss<br>"
+      "definicao": "Escolha docente fundamentada nas evidências e nas necessidades de aprendizagem identificadas.<br>"
      }
     ],
     "novo": true
