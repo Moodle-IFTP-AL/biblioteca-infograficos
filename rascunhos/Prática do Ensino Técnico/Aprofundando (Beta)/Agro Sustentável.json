@@ -1,42 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Agro Sustentável",
- "quando": "2026-11-12T15:11:53.716Z",
+ "quando": "2026-11-12T15:12:57.309Z",
  "autor": "Teste",
- "dados": {
-  "blocos": [
-   {
-    "tipo": "revisar",
-    "texto": "Revisite as aulas abaixo para retomar o planejamento das etapas e refletir sobre sua efetividade diante das condições reais de execução:",
-    "idRevisar": "mwdokto49mq854",
-    "itensRevisar": [
-     {
-      "id": "mwdol584cnloeo",
-      "texto": "<ul><li>Módulo 2 –Unidade 5: Planejamento de Práticas Técnicas.<br></li></ul>",
-      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=23521"
-     },
-     {
-      "id": "mwdol6akr105t4",
-      "texto": "Módulo 2 - Unidade 6: Organização de Sequência Prática Técnica Progressiva.",
-      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=23521"
-     },
-     {
-      "id": "mwdol6wdonggv6",
-      "texto": "Módulo 3 – Unidade 1: Planejamento de Oficinas Técnicas.",
-      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=23521"
-     }
-    ],
-    "linkBotao": "",
-    "textoBotao": "",
-    "novo": false
-   }
-  ],
-  "campos": {
-   "infoAula": "",
-   "objetivo": "",
-   "titulo": "",
-   "conteudo": "[REVISAR1]",
-   "conectando": ""
-  }
- }
+ "dados": {}
 }
