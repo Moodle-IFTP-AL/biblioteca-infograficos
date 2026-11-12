@@ -1,14 +1,19 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Criação Digital e Cultural",
- "quando": "2026-11-12T11:59:40.721Z",
+ "quando": "2026-11-12T12:01:33.119Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "objetivo": "Analisar evidências de aprendizagem em uma prática técnica para propor encaminhamentos pedagógicos.",
-   "titulo": "<b>Olhar de Volta para as Evidências</b><br><br>",
+   "titulo": "<b>Olhar de Volta para as Evidências</b><br>",
    "conteudo": "",
    "reflexao": ""
-  }
+  },
+  "atividades": [
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32213\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"CDC-M4-U04-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   }
+  ]
  }
 }
