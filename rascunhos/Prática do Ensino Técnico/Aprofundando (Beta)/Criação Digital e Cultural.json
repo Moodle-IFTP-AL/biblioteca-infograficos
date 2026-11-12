@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Criação Digital e Cultural",
- "quando": "2026-11-12T11:58:16.551Z",
+ "quando": "2026-11-12T11:58:21.016Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -78,6 +78,7 @@
      "novo": false
     }
    ]
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29748"
  }
 }
