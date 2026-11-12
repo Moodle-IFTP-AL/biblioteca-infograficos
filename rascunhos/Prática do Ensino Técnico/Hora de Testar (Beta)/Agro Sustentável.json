@@ -1,54 +1,35 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Agro Sustentável",
- "quando": "2026-11-11T16:12:04.233Z",
- "autor": "Eduarda",
+ "quando": "2026-11-12T14:52:53.241Z",
+ "autor": "Teste",
  "dados": {
-  "campos": {
-   "objetivo": "Aplicar critérios de análise da mediação docente em uma situação de prática técnica, relacionando necessidade observada, intervenção, efeitos e possibilidades de aprimoramento.<br>",
-   "titulo": "<b>Analisar para Aprimorar a Mediação&nbsp;</b><br>",
-   "conteudo": "Nesta atividade, você analisará uma intervenção realizada durante uma prática de irrigação. Relacione a dificuldade observada ao apoio oferecido e aos efeitos produzidos. Ao final, reflita sobre como essa análise pode aprimorar sua própria mediação.<br><br><div><h3><b><font color=\"#f04770\">Regulagem do sistema de irrigação&nbsp;</font></b></h3><br>Durante uma oficina de irrigação de hortaliças, um(a) estudante regulava os gotejadores pela aparência do fluxo de água, o que resultou em volumes de água desiguais.<br><br>A professora solicitou que comparasse a água coletada em recipientes, demonstrou como realizar ajustes graduais e pediu uma nova tentativa.<br><br>Depois, o(a) estudante regulou corretamente dois gotejadores, explicou sua decisão, mas continuou pedindo confirmação antes de ajustar os demais.<br><br></div>",
-   "reflexao": "<h3><b><font color=\"#f04770\">Refletindo sobre sua prática&nbsp;<br></font></b></h3>Pense em uma prática técnica realizada recentemente e responda: como a análise da sua intervenção pode ajudar o(a) estudante a avançar com maior autonomia?<br><br>Escolha uma situação concreta e registre brevemente:<br><ul><li>qual dificuldade ou necessidade você observou;<br></li><li>que orientação, demonstração, questionamento ou adaptação ofereceu;<br></li><li>quais efeitos percebeu na execução, na segurança ou na tomada de decisão;<br></li><li>o que manteria ou ajustaria em uma próxima situação.</li></ul>"
-  },
-  "atividades": [
+  "blocos": [
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32192\" width=\"1124\" height=\"427\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"AGR-M4-U03-APLI-MULTI1\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   },
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32193\" width=\"1124\" height=\"427\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"AGR-M4-U03-APLI-MULTI2\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "tipo": "revisar",
+    "texto": "",
+    "idRevisar": "mwdo2w5fq84mx6",
+    "itensRevisar": [
+     {
+      "id": "mwdo3003dgvckd",
+      "texto": "",
+      "link": ""
+     },
+     {
+      "id": "mwdo30lv3626w1",
+      "texto": "",
+      "link": ""
+     },
+     {
+      "id": "mwdo31qby9if1p",
+      "texto": "",
+      "link": ""
+     }
+    ],
+    "linkBotao": "",
+    "textoBotao": "",
+    "novo": true
    }
-  ],
-  "conclusao": {
-   "titulo": "Da análise à prática docente ",
-   "texto": "Analisar a mediação significa relacionar a necessidade observada, a intervenção realizada e os efeitos produzidos.<br><br>Esse olhar ajuda a reconhecer os apoios que favorecem a aprendizagem e os ajustes necessários para ampliar a autonomia dos(as) estudantes.<br><br>Leve essa reflexão para suas próximas práticas: observe, intervenha com intencionalidade e acompanhe o que muda.<br><br>Parabéns pelo empenho e pela conclusão desta aula!<br>[REVISAR1]",
-   "blocos": [
-    {
-     "tipo": "revisar",
-     "texto": "Retome as aulas abaixo para rever como a demonstração e a gestão da prática contribuem para a mediação docente durante as atividades técnicas:&nbsp;<br>",
-     "idRevisar": "mwcbivkd0uut66",
-     "itensRevisar": [
-      {
-       "id": "mwcbix3hxvmj7y",
-       "texto": "Módulo 1 – Unidade 6: Demonstração técnica aplicada ao projeto ABP.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22562"
-      },
-      {
-       "id": "mwcbixejg6cccm",
-       "texto": "Módulo 1 – Unidade 8: Preparação de demonstrações técnicas.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=23180"
-      },
-      {
-       "id": "mwcbiyv21rnem7",
-       "texto": "Módulo 3 – Encontro síncrono 1: Gestão da prática técnica.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=28055"
-      }
-     ],
-     "linkBotao": "",
-     "textoBotao": "",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29378"
+  ]
  }
 }
