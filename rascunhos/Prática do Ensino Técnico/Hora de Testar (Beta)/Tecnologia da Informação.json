@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Tecnologia da Informação",
- "quando": "2026-11-12T13:39:24.111Z",
+ "quando": "2026-11-12T13:39:31.431Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -46,6 +46,7 @@
     }
    ]
   },
-  "tipoBotao": "bibliografia"
+  "tipoBotao": "bibliografia",
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30451"
  }
 }
