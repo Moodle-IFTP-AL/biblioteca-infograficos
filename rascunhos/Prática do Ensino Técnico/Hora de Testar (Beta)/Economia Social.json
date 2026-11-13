@@ -1,52 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Economia Social",
- "quando": "2026-11-12T12:37:21.818Z",
- "autor": "Eduarda",
- "dados": {
-  "campos": {
-   "objetivo": "Analisar evidências de aprendizagem em uma prática técnica para propor encaminhamentos pedagógicos.<br>",
-   "titulo": "<b>Das Evidências às Próximas Decisões</b><br>",
-   "conteudo": "",
-   "reflexao": ""
-  },
-  "atividades": [
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32214\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ECS-M4-U04-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   }
-  ],
-  "conclusao": {
-   "titulo": "Planejando Novos Caminhos",
-   "texto": "Ao analisar ações, falas, produções e registros, você reúne informações da prática que ajudam a orientar novas decisões pedagógicas.<br><br>Leve esse olhar para suas próximas atividades de Cooperativismo e Contabilidade, relacionando sempre as evidências observadas aos objetivos de aprendizagem.<br>[REVISAR1]",
-   "blocos": [
-    {
-     "tipo": "revisar",
-     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:<br>",
-     "idRevisar": "mwdjc26vtszr1z",
-     "itensRevisar": [
-      {
-       "id": "mwdjc6br9er73i",
-       "texto": "Unidade 1: Acompanhamento da Aprendizagem.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28249"
-      },
-      {
-       "id": "mwdjc6i4s16jpp",
-       "texto": "Unidade 2: Evidências de Aprendizagem.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28269"
-      },
-      {
-       "id": "mwdjc6onayjvuj",
-       "texto": "Unidade 3: Registro Pedagógico sem Burocratização.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28290"
-      }
-     ],
-     "linkBotao": "",
-     "textoBotao": "",
-     "novo": false
-    }
-   ]
-  },
-  "tipoBotao": "voltar",
-  "link": "https://ead.educacao.al.gov.br/course/view.php?id=279#section-82"
- }
+ "quando": "2026-11-13T15:44:49.124Z",
+ "autor": "Teste",
+ "dados": {}
 }
