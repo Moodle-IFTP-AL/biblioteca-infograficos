@@ -1,46 +1,54 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Comunicação e Mercado",
- "quando": "2026-11-11T16:32:30.762Z",
+ "quando": "2026-11-13T16:27:54.352Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Aplicar critérios de análise da mediação docente em uma situação de prática técnica, relacionando necessidade observada, intervenção, efeitos e possibilidades de aprimoramento.<br>",
-   "titulo": "<b>Analisando a Mediação na Prática</b><br>",
-   "conteudo": "Agora você vai analisar uma situação de uma prática de Comunicação e Mercado.<br><br>Observe a dificuldade apresentada pelos(as) estudantes, a intervenção realizada pela professora e os efeitos produzidos.<br><br>Em seguida, avalie como essa experiência pode orientar suas decisões em situações semelhantes.<br><br><h3><b><font color=\"#f04770\">Uma dificuldade na diagramação&nbsp;</font></b></h3><br>Em uma oficina de diagramação de catálogos impressos, uma equipe de estudantes demonstrou insegurança ao configurar as margens de corte no software. A professora perguntou o que o grupo sabia sobre essa configuração e qual referência poderia consultar. Orientou a consulta ao guia de especificações da gráfica e pediu que verificassem os parâmetros. Depois, os(as) estudantes corrigiram a configuração e explicaram os ajustes realizados.<br>",
-   "reflexao": "<h3><b><font color=\"#f04770\">Refletindo sobre sua prática&nbsp;</font></b></h3><br>Pense em uma situação recente de aula prática em que você precisou intervir para ajudar um(a) estudante com dúvidas.<br><ul><li>Qual era a dificuldade observada?<br></li><li>Como foi a sua intervenção?</li></ul>Ao observar a reação do(a) estudante após o seu apoio, que ajuste simples na sua forma de intervir poderia ter promovido ainda mais a autonomia dele(a) na atividade?<br>"
+   "objetivo": "Aplicar estratégias de registro e análise de evidências da execução para identificar possibilidades de aprimoramento da prática docente.<br>",
+   "titulo": "<b>Evidências em Ação: Ajustando a Prática Pedagógica</b><br>",
+   "conteudo": "Como transformar momentos da aula prática em registros úteis para orientar intervenções futuras?<br><br>Nas atividades a seguir, você vai organizar as etapas de um ciclo de registro numa simulação de briefing e, depois, escolher uma situação da sua própria prática que merece ser registrada.<br><br>Essa experiência ajudará você a identificar estratégias simples para registrar o desempenho dos(as) estudantes e aprimorar continuamente suas aulas.<br>[H5P1]<br>[H5P2]<br>[CAIXADESTAQUE1]",
+   "reflexao": ""
   },
-  "atividades": [
+  "blocos": [
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32194\" width=\"1124\" height=\"427\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"COM-M4-U03-APLI-MULTI1\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "tipo": "h5p",
+    "texto": "",
+    "titulo": "Atividade 1",
+    "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31776\" width=\"1103\" height=\"619\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"COM-M3-U08-APLI-STP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
+    "novo": false
    },
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32195\" width=\"1124\" height=\"427\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"COM-M4-U03-APLI-MULTI2\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "tipo": "h5p",
+    "texto": "",
+    "titulo": "Atividade 2",
+    "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31777\" width=\"1112\" height=\"507\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"COM-M3-U08-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
+    "novo": false
+   },
+   {
+    "tipo": "caixadestaque",
+    "texto": "<b>Registrar, Analisar e Ajustar&nbsp;</b><br><br>Você percorreu o ciclo completo: execução, registro, retomada, análise e ajuste. O valor do registro está em interpretar as evidências e usá-las para decidir. Na segunda atividade, não há resposta única: registre a situação escolhida na próxima prática e retome o registro antes de planejar a aula seguinte.<br>",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#fefce8",
+    "caixaCorBorda": "#fec43e",
+    "novo": false,
+    "caixaCorTexto": "#0a3442"
    }
   ],
   "conclusao": {
-   "titulo": "Da análise à prática docente ",
-   "texto": "Analisar criticamente a mediação docente é essencial para transformar a prática em sala de aula em um espaço de aprendizagem ativa.<br><br>Ao conectar necessidades, ações e efeitos, você identifica a ajuda mais adequada ao contexto, permitindo que os(as) estudantes desenvolvam autonomia e habilidades técnicas.<br><br>Continue observando suas intervenções cotidianas e ajustando sua atuação.<br><br>Parabéns pelo empenho ao longo desta unidade e até a próxima etapa!<br>[REVISAR1]",
+   "titulo": "Evidências que Transformam a Prática ",
+   "texto": "Observar, registrar, analisar e ajustar formam um ciclo contínuo de aprimoramento docente.<br><br>Ao adotar registros simples durante as aulas práticas de Comércio, Marketing e Publicidade, você identifica detalhes que passariam despercebidos e obtém evidências concretas sobre a aprendizagem dos(as) estudantes.<br><br>Esse hábito fortalece sua intencionalidade pedagógica, permitindo tomar decisões mais conscientes e transformar cada aula em uma oportunidade de desenvolvimento profissional.<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
-     "texto": "Retome as aulas abaixo para rever como a demonstração e a gestão da prática contribuem para a mediação docente durante as atividades técnicas:<br>",
-     "idRevisar": "mwcc9mrp915ung",
+     "texto": "Acesse a aula abaixo para consolidar seus conhecimentos e dar continuidade à aprendizagem, refletindo sobre como transformar registros em instrumentos de melhoria:<br>",
+     "idRevisar": "mw3r90q9ouvi20",
      "itensRevisar": [
       {
-       "id": "mwcc9plyt8mj6n",
-       "texto": "Módulo 1 – Unidade 6: Demonstração técnica aplicada ao projeto ABP.",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22579"
-      },
-      {
-       "id": "mwcc9pubat7dt1",
-       "texto": "Módulo 1 – Unidade 8: Preparação de demonstrações técnicas.<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=23179"
-      },
-      {
-       "id": "mwcc9q35c6jsdd",
-       "texto": "Módulo 3 – Encontro síncrono 1: Gestão da prática técnica.<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27076"
+       "id": "mw3r92n1udl3it",
+       "texto": "Módulo 1 - Unidade 7 -&nbsp; Avaliação Técnica e Devolutivas Formativas.",
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22936"
       }
      ],
      "linkBotao": "",
@@ -50,6 +58,6 @@
    ]
   },
   "tipoBotao": "voltar",
-  "link": "https://ead.educacao.al.gov.br/course/view.php?id=282#section-80"
+  "link": "https://ead.educacao.al.gov.br/course/view.php?id=282#section-69"
  }
 }
