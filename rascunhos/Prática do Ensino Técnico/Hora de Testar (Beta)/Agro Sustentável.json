@@ -1,41 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Agro Sustentável",
- "quando": "2026-11-12T14:54:55.884Z",
+ "quando": "2026-11-13T15:44:40.454Z",
  "autor": "Teste",
- "dados": {
-  "blocos": [
-   {
-    "tipo": "revisar",
-    "texto": "Revisite as aulas abaixo para retomar o planejamento das etapas e refletir sobre sua efetividade diante das condições reais de execução:<br><br>",
-    "idRevisar": "mwdo2w5fq84mx6",
-    "itensRevisar": [
-     {
-      "id": "mwdo3003dgvckd",
-      "texto": "<ul><li>Módulo 2 –Unidade 5: Planejamento de Práticas Técnicas.&nbsp;&nbsp;<br></li></ul>",
-      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24795"
-     },
-     {
-      "id": "mwdo30lv3626w1",
-      "texto": "",
-      "link": ""
-     },
-     {
-      "id": "mwdo31qby9if1p",
-      "texto": "",
-      "link": ""
-     }
-    ],
-    "linkBotao": "",
-    "textoBotao": "",
-    "novo": false
-   }
-  ],
-  "campos": {
-   "objetivo": "",
-   "titulo": "",
-   "conteudo": "[REVISAR1]",
-   "reflexao": ""
-  }
- }
+ "dados": {}
 }
