@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Agro Sustentável",
- "quando": "2026-11-14T23:35:39.299Z",
+ "quando": "2026-11-14T23:37:20.227Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -26,7 +26,7 @@
    "blocos": [
     {
      "tipo": "revisar",
-     "texto": "",
+     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:",
      "idRevisar": "mwfi10l3bgj0cq",
      "itensRevisar": [
       {
