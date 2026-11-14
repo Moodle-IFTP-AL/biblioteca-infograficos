@@ -1,7 +1,67 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Economia Social",
- "quando": "2026-11-13T15:44:49.124Z",
+ "quando": "2026-11-14T23:16:51.497Z",
  "autor": "Teste",
- "dados": {}
+ "dados": {
+  "campos": {
+   "objetivo": "Aplicar critérios de análise da mediação docente em uma situação de prática técnica, relacionando a necessidade observada, a intervenção, os efeitos e as possibilidades de aprimoramento.",
+   "titulo": "<b>Analisando a Mediação na Prática</b><br>",
+   "conteudo": "Agora, você analisará uma situação de Contabilidade em uma cooperativa simulada. Observe a dificuldade apresentada pelo(a) estudante, a intervenção realizada e os efeitos produzidos. Avalie o que pode ser mantido ou ajustado na mediação para favorecer a aprendizagem e a autonomia. Ao final, reflita sobre como essa análise pode orientar sua própria prática.<div>[H5P1]</div><div>[H5P2]</div><div>[PERGUNTA1]</div>",
+   "reflexao": "Escolha uma situação recente de aula prática em que um(a) estudante apresentou dificuldade em realizar um procedimento, interpretar uma informação ou tomar uma decisão.<br>Reflita:<br><ul><li>qual necessidade você identificou?<br></li><li>que intervenção realizou e por que a escolheu?<br></li><li>quais efeitos observou após o apoio oferecido?<br></li><li>o(a) estudante conseguiu avançar com mais autonomia?<br></li></ul>Por fim, pense no que você manteria ou ajustaria em uma situação semelhante para favorecer a aprendizagem e a capacidade de tomar decisões fundamentadas.<br>"
+  },
+  "blocos": [
+   {
+    "tipo": "h5p",
+    "texto": "<h3><b>Classificando despesas na cooperativa</b></h3>Em uma atividade de Contabilidade aplicada a uma cooperativa simulada de artesãs, um(a) estudante demonstra dúvida ao classificar o valor pago pelo transporte dos produtos vendidos. A professora pergunta qual é a finalidade desse gasto e propõe compará-lo à compra de matéria-prima utilizada na produção. Após a conversa, o(a) estudante revisa o lançamento e explica o critério utilizado.<br>",
+    "titulo": "Atividade 1",
+    "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32198\" width=\"949\" height=\"541\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ECS-M4-U03-APLI-MULTI1\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
+    "novo": false,
+    "minimizado": true
+   },
+   {
+    "tipo": "h5p",
+    "texto": "",
+    "titulo": "Atividade 2",
+    "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32199\" width=\"949\" height=\"517\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ECS-M4-U03-APLI-MULTI2\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
+    "novo": false,
+    "minimizado": true
+   }
+  ],
+  "atividades": [],
+  "conclusao": {
+   "titulo": "Da análise à prática docente ",
+   "texto": "<h3><b>Da análise à prática docente&nbsp;</b></h3>Analisar a mediação docente implica relacionar a necessidade observada, o apoio oferecido e seus efeitos na aprendizagem.<br>Em práticas de Cooperativismo e Contabilidade, essa análise permite reconhecer quando uma orientação, demonstração ou pergunta favorece a compreensão e quando é necessário ajustar a intervenção.<br>Ao considerar evidências da execução e da autonomia dos(as) estudantes, você qualifica suas escolhas pedagógicas sem substituir o raciocínio deles(as).<br>Ao concluir esta unidade, leve essa perspectiva para a análise das suas próximas práticas. Bom trabalho!<br>[REVISAR1]",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "",
+     "idRevisar": "mwfh3tjrzagp9r",
+     "itensRevisar": [
+      {
+       "id": "mwfh3v46w5ixuu",
+       "texto": "Módulo 1 – Unidade 6: Demonstração técnica aplicada ao projeto ABP.",
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22614"
+      },
+      {
+       "id": "mwfh3vicy8z94c",
+       "texto": "Módulo 1 – Unidade 8: Preparação de demonstrações técnicas.&nbsp;<br>",
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=23177"
+      },
+      {
+       "id": "mwfh3vtec61bti",
+       "texto": "Módulo 3 – Encontro síncrono 1: Gestão da prática técnica.",
+       "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27197"
+      }
+     ],
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": false,
+     "minimizado": true
+    }
+   ]
+  },
+  "tipoBotao": "voltar",
+  "link": "https://ead.educacao.al.gov.br/course/view.php?id=279#section-80"
+ }
 }
