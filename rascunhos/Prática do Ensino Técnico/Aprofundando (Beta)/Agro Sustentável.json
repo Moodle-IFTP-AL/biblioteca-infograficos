@@ -1,7 +1,86 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Agro Sustentável",
- "quando": "2026-11-12T16:32:37.296Z",
+ "quando": "2026-11-14T23:43:07.328Z",
  "autor": "Teste",
- "dados": {}
+ "dados": {
+  "campos": {
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do Conhecimento:</b><br>Evidências de aprendizagem na prática técnica.<br><b>Conteúdos:</b><br><ul><li>Ações, falas, produções e registros dos(as) estudantes.<br></li><li>Evidências observadas durante a prática.<br></li><li>Avanços e dificuldades identificados.<br></li><li>Relação entre evidências e objetivos de aprendizagem.<br></li><li>Evidências que confirmaram ou indicaram necessidade de ajuste na prática.<br></li></ul><b>Objetivo da Aula:</b><br>Analisar as evidências de aprendizagem produzidas durante uma prática técnica já realizada, relacionando-as aos objetivos de aprendizagem e às decisões pedagógicas tomadas.<br>",
+   "objetivo": "Identificar como as evidências produzidas durante uma prática técnica se relacionam aos objetivos de aprendizagem e podem orientar as decisões pedagógicas.",
+   "titulo": "<b>Evidências que Revelam Aprendizagens&nbsp;</b>",
+   "conteudo": "Relembre uma prática técnica que você realizou recentemente: o que os(as) estudantes fizeram, disseram, produziram e registraram?<br>Durante uma atividade de compostagem, a forma de organizar as camadas, justificar a escolha dos materiais ou anotar temperatura e umidade revela muito mais do que a conclusão da tarefa. Essas manifestações constituem evidências de aprendizagem. Elas mostram conhecimentos e habilidades já desenvolvidos, além de dificuldades que ainda precisam de acompanhamento.<br>O resultado final não é a única fonte de análise. Cada ação, fala, produção ou registro realizado ao longo da experiência pode ajudar você a compreender como os(as) estudantes aprenderam e o que ainda precisam desenvolver.<div><h3><font face=\"Open Sans, sans-serif\"></font><b>Evidências de Aprendizagem</b></h3>Durante a prática, observe diferentes manifestações da aprendizagem:</div><div>[INFOGRAFICO1]</div><div>Essas evidências se complementam. Um procedimento aparentemente correto ganha maior significado quando o(a) estudante também consegue explicar suas escolhas e registrar os resultados obtidos.<br></div><h3><b>Alinhamento Pedagógico&nbsp;</b></h3><p>Objetivo, experiência e evidência precisam estar alinhados. Aquilo que você espera que o(a) estudante desenvolva deve orientar tanto a atividade proposta quanto o que será observado.</p><p>Se o objetivo for monitorar uma composteira e decidir quando revolver os materiais, a experiência deve permitir medir e comparar suas condições. As evidências poderão incluir registros de temperatura e umidade, a justificativa da decisão tomada e a execução correta do revolvimento.</p><p>Assim, você analisa exatamente a aprendizagem prevista, e não apenas a participação ou o produto.</p><p>[GLOSSARIO1]</p><p><h3><b>Analisando as Evidências&nbsp;</b></h3><p>Nem toda dificuldade observada exige retomar toda a atividade, assim como a conclusão de um procedimento não significa que todos os aspectos foram compreendidos. O desafio está em identificar quais aprendizagens já estão consolidadas e quais ainda precisam de atenção. Essa leitura ajuda você a definir os próximos encaminhamentos, considerando o que os(as) estudantes demonstraram durante a prática.</p><p>[ACCORDION1]</p><p><br></p><br></p>",
+   "conectando": "Na próxima etapa, você analisará evidências de uma prática e indicará o encaminhamento pedagógico mais adequado."
+  },
+  "blocos": [
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "cards_coloridos",
+    "infograficoData": {
+     "cards": "[{\"titulo\":\"<b>Ações:</b>\",\"texto\":\"Revelam como o(a) estudante mobiliza procedimentos e cuidados técnicos.\",\"textoColorido\":\"\",\"textoContinuacao\":\"Exemplo: alterna corretamente materiais secos e úmidos ao montar a composteira.&nbsp;<br>\"},{\"titulo\":\"<b>Falas:</b>\",\"texto\":\"Mostram como compreende e justifica suas decisões.\",\"textoColorido\":\"\",\"textoContinuacao\":\"Exemplo: explica por que restos vegetais precisam ser combinados com materiais ricos em carbono.&nbsp;<br>\"},{\"titulo\":\"Produções:\",\"texto\":\"demonstram como aplica conhecimentos em um resultado concreto.\",\"textoColorido\":\"\",\"textoContinuacao\":\"Exemplo: em Agricultura, prepara um canteiro seguindo o espaçamento definido no croqui.&nbsp;<br>\"},{\"titulo\":\"Registros:&nbsp;\",\"texto\":\"Evidenciam como coleta, organiza e interpreta informações. Exemplo: anota temperatura, umidade, odor e datas de revolvimento.&nbsp;<br>\",\"textoColorido\":\"\",\"textoContinuacao\":\"\"}]"
+    },
+    "novo": false,
+    "minimizado": true
+   },
+   {
+    "tipo": "accordion",
+    "texto": "",
+    "topicos": [
+     {
+      "titulo": "Agricultura",
+      "texto": "<font color=\"#f04770\"><b>Evidências observada:&nbsp;</b></font>durante uma prática de análise do solo, os grupos coletaram amostras e preencheram as fichas de observação, mas não conseguiram relacionar a textura identificada às condições de cultivo.<font color=\"#f04770\"><br><b>O que ela revela:&nbsp;</b></font>os(as) estudantes conseguem realizar a coleta e registrar características do solo, mas ainda apresentam dificuldade para interpretar os resultados e relacioná-los ao manejo agrícola.&nbsp;<font color=\"#f04770\"><br><b>Qual decisão pedagógica tomar:&nbsp;</b></font>retomar as características físicas do solo e propor uma atividade de comparação entre amostras, relacionando os resultados às possibilidades de cultivo.&nbsp;<br>"
+     },
+     {
+      "titulo": "Agroecologia",
+      "texto": "<font color=\"#fec43e\"><b>Evidências observada:&nbsp;</b></font>em uma atividade de identificação de insetos em uma área de cultivo, os(as) estudantes reconheceram diferentes espécies, mas classificaram todos os insetos como prejudiciais à plantação.&nbsp;<font color=\"#fec43e\"><br><b>O que ela revela:&nbsp;</b></font>conseguem observar e identificar organismos, mas ainda precisam compreender as relações ecológicas e a função de diferentes insetos no equilíbrio do agroecossistema<font color=\"#fec43e\"><br><b>Qual decisão pedagógica tomar:&nbsp;</b></font>retomar o papel dos insetos no ambiente agrícola e propor uma atividade de identificação de espécies benéficas, prejudiciais e neutras ao cultivo."
+     },
+     {
+      "titulo": "Alimentos",
+      "texto": "<font color=\"#06d7a0\"><b>Evidências observada:&nbsp;</b></font>durante a produção de polpa de fruta, os grupos higienizaram as frutas e embalaram a polpa, mas deixaram de registrar o peso e a data de cada lote na ficha de produção.&nbsp;<font color=\"#06d7a0\"><br><b>O que ela revela:&nbsp;</b></font>os(as) estudantes executam as etapas de processamento, mas ainda não reconhecem a importância dos registros para o controle da produção e a rastreabilidade dos alimentos.&nbsp;<font color=\"#06d7a0\"><br><b>Qual decisão pedagógica tomar:&nbsp;</b></font>retomar o preenchimento da ficha de produção, apresentar um exemplo e solicitar que cada grupo confira os registros antes de armazenar os lotes.&nbsp;"
+     }
+    ],
+    "novo": false,
+    "minimizado": true
+   },
+   {
+    "tipo": "glossario",
+    "texto": "",
+    "termos": [
+     {
+      "termo": "Evidências de aprendizagem ",
+      "definicao": "Ações, falas, produções ou registros que mostram o que o(a) estudante aprendeu.<br>"
+     },
+     {
+      "termo": "Experiência de aprendizagem ",
+      "definicao": "Situação planejada para que o(a) estudante desenvolva e demonstre determinada aprendizagem.<br>"
+     },
+     {
+      "termo": "Decisão pedagógica",
+      "definicao": "Escolha docente fundamentada nas evidências e nas necessidades de aprendizagem identificadas.<br>"
+     }
+    ],
+    "novo": false,
+    "minimizado": true
+   }
+  ],
+  "conclusao": {
+   "titulo": "Aprendizagem em Foco ",
+   "texto": "Quando objetivo, experiência e evidências permanecem articulados, a análise da aprendizagem torna-se mais precisa.<br>O que os(as) estudantes fazem, dizem, produzem e registram permite identificar conhecimentos consolidados e dificuldades ainda presentes.<br>Quando interpretadas em relação ao objetivo, essas evidências orientam decisões como avançar, retomar conteúdos, oferecer nova demonstração ou criar outra oportunidade de prática.<br><div>[TOMENOTA1]</div><div>[DICA1]</div>",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "Uma evidência ganha significado quando é interpretada em relação ao objetivo de aprendizagem. Isoladamente, uma ação ou produção não informa com precisão o que o(a) estudante desenvolveu.",
+     "novo": false,
+     "minimizado": true
+    },
+    {
+     "tipo": "dica",
+     "texto": "Antes da prática, defina o que espera observar. Durante a atividade, registre ações, falas, produções e anotações que permitam analisar o desenvolvimento da aprendizagem prevista.",
+     "novo": false,
+     "minimizado": true
+    }
+   ]
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29397"
+ }
 }
