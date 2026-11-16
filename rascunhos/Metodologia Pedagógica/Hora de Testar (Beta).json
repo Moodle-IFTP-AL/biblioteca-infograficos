@@ -1,66 +1,14 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-11-10T19:15:04.893Z",
- "autor": "Teste",
+ "quando": "2026-11-16T19:10:18.921Z",
+ "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Classificar as estratégias didáticas apresentadas, utilizando critérios que caracterizem atividades pontuais, oficinas, sequências didáticas e Projetos Integrados.<br>",
-   "titulo": "Na prática: é Projeto Integrado?<br>",
-   "conteudo": "Agora, você aplicará os critérios estudados em dois momentos:<br><br>1º. Realizará uma verificação conceitual sobre atividades pontuais, oficinas, sequências didáticas e Projetos Integrados.<br>2º. Analisará uma situação da educação profissional e identificará quais mudanças permitiriam que uma atividade pontual passasse a integrar um projeto.<br><br>Observe a finalidade, a articulação curricular, as etapas e a resposta esperada. O objetivo é compreender os critérios que orientam cada classificação.<br>",
-   "reflexao": "<b>E na sua prática?<br><br></b>Você já aplicou os critérios a situações da educação profissional. Agora, retome uma prática, reflita sobre o que mudou em sua compreensão e identifique um próximo passo possível para aprimorar seu planejamento.<br><br><b>Revendo minha prática: passado, presente e futuro&nbsp;</b><br>Escolha uma prática que você já realizou e percorra sua linha do tempo. Mantenha a mesma experiência como fio condutor e complete:<br><br><b>Passado - Meu olhar anterior:</b> antes, eu considerava essa prática um Projeto Integrado porque...<br><br><b>Presente - Minha nova compreensão:</b> ao analisá-la com os critérios desta aula, percebo que ela...<br><br><b>Futuro - Meu próximo passo: </b>em uma próxima oportunidade, minha decisão será manter, ajustar ou integrar essa prática a um projeto, porque...<br><br>Ao final, releia suas respostas e identifique a principal mudança no seu modo de planejar e organizar a aprendizagem.<br>"
-  },
-  "atividades": [
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31952\" width=\"1237\" height=\"411\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U02-APLI-MULTI1\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   },
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31953\" width=\"1237\" height=\"618\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U02-APLI-MULTI\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   }
-  ],
-  "tipoReflexao": "texto",
-  "conclusao": {
-   "titulo": "Da análise ao planejamento de projetos ",
-   "texto": "Você concluiu esta aula com critérios para distinguir estratégias didáticas e reconhecer o que caracteriza um Projeto Integrado.<br><br>Na próxima aula, você vai analisar situações da escola, do território e do mundo do trabalho para identificar problemas que possam orientar a elaboração de projetos contextualizados na educação profissional.<br>",
-   "blocos": []
-  },
-  "tipoBotao": "bibliografia",
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31948",
-  "ajusteEixo": {
-   "eixo": "AGS",
-   "feitoEm": "2026-11-10T19:14:43.888Z",
-   "linhas": [
-    {
-     "tipo": "Iframe H5P",
-     "nome": "MET-M4-U02-APLI-MULTI1",
-     "de": 31861,
-     "para": 31952,
-     "situacao": "trocado",
-     "eixoOrigem": "ADM",
-     "mod": "hvp",
-     "rotulo": "iframe"
-    },
-    {
-     "tipo": "Iframe H5P",
-     "nome": "MET-M4-U02-APLI-MULTI2",
-     "de": 31859,
-     "para": 31953,
-     "situacao": "trocado",
-     "eixoOrigem": "ADM",
-     "mod": "hvp",
-     "rotulo": "iframe"
-    },
-    {
-     "tipo": "Link Página",
-     "nome": "(MET)REFERENCIASBIBLIOGRAFICAS-M4U02",
-     "de": 31948,
-     "para": 31948,
-     "situacao": "correto",
-     "mod": "page",
-     "rotulo": "link"
-    }
-   ],
-   "manuais": {}
+   "objetivo": "Analisar decisões de planejamento de um projeto técnico integrado e definir ajustes para organizar as etapas do próprio projeto.<br>",
+   "titulo": "<b>Organizando o Percurso do Projeto Integrado</b><br>",
+   "conteudo": "",
+   "reflexao": ""
   }
  }
 }
