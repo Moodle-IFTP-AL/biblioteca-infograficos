@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-16T15:20:40.624Z",
+ "quando": "2026-11-16T15:23:12.290Z",
  "autor": "Eduarda",
  "dados": {
   "agoraSuaVez": {
@@ -92,6 +92,7 @@
    "titulo": "Em resumo:",
    "texto": "Uma boa prática integrada articula conhecimentos, conecta a aprendizagem à realidade e contribui para a formação integral dos(as) estudantes. Sua efetividade pode ser analisada por meio de evidências das aprendizagens desenvolvidas.<br><br>No próximo HTPC, você e os(as) demais professores(as) utilizarão esses critérios para analisar até três experiências do ano e selecionar uma boa prática para compartilhar.<br>",
    "blocos": []
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29249"
  }
 }
