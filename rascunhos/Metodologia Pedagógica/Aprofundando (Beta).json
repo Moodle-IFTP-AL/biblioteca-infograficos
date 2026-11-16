@@ -1,15 +1,33 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-11-16T18:47:51.643Z",
+ "quando": "2026-11-16T18:49:16.678Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>1 - </b>Planejar e estruturar práticas de aprendizagem participativas e contextualizadas, mobilizando conhecimentos da Formação Geral Básica no contexto da Educação Profissional e Tecnológica, por meio da seleção de metodologias, conteúdos e estratégias pedagógicas alinhadas ao perfil da turma, às competências técnicas e às demandas do mundo do trabalho.<br><b>Habilidade:&nbsp;</b><br><b>1.1 </b>-Planejar atividades de aprendizagem que promovam protagonismo, colaboração e tomada de decisão dos(as) estudantes.<br><b>Objeto do Conhecimento:</b><br>Planejamento das etapas do projeto técnico integrador.<br><b>Conteúdos:</b><br><ul><li>Organização das etapas do projeto.<br></li><li>Entregas parciais e entrega final.<br></li><li>Distribuição de tempos, recursos e responsabilidades.<br></li><li>Participação dos(as) estudantes no percurso do projeto.<br></li></ul><b>Objetivo:&nbsp;</b><br>Planejar etapas de projetos técnicos integrados, definindo entregas parciais, tempos, recursos e responsabilidades, de modo a favorecer a participação, a colaboração e a tomada de decisão dos(as) estudantes.<br>",
    "objetivo": "Identificar como organizar as etapas de um projeto técnico integrado, relacionando aprendizagens, entregas parciais e final, tempos, recursos e responsabilidades à participação e à autonomia progressiva dos(as) estudantes.<br>",
-   "titulo": "",
-   "conteudo": "",
+   "titulo": "<b>Das Aprendizagens às Etapas do Projeto</b><br>",
+   "conteudo": "<h3><b><font color=\"#f04770\">Quando a Entrega Final Não É Suficiente&nbsp;</font></b></h3><br>Um(a) professor(a) planejou um projeto sobre a circulação na oficina, articulando conhecimentos da Formação Geral Básica e da Formação Técnica. Combinou com a turma a entrega de um croqui com melhorias e justificativa. Porém, perto do prazo, percebeu que alguns grupos ainda não haviam registrado as medidas, enquanto outros já desenhavam propostas sem analisar os obstáculos. Como organizar esse percurso? Nesta aula, você vai planejar etapas conectadas, definir entregas parciais e distribuir tempos, recursos e responsabilidades para que os(as) estudantes avancem na investigação e construam a resposta gradualmente.<br><br><div><h3><b><font color=\"#f04770\">Como Organizar o Percurso do Projeto&nbsp;&nbsp;</font></b></h3><br>Parta da situação-problema e das aprendizagens selecionadas na unidade anterior.<br><br>Organize o percurso em etapas conectadas, definindo:<br><ul><li>o que os(as) estudantes farão;<br></li><li>o que precisarão aprender;<br></li><li>como cada momento contribuirá para construir a resposta.</li></ul>Preveja entregas parciais que permitam acompanhar o desenvolvimento do projeto, oferecer devolutivas e orientar revisões. Defina também tempos, espaços, recursos e responsabilidades compatíveis com as condições da escola.<br><br><h3><b><font color=\"#f04770\">Elementos do Planejamento<br><br></font></b></h3>Para organizar as etapas do projeto, considere quatro elementos:<br>[INFOGRAFICO1]</div>",
    "conectando": ""
-  }
+  },
+  "blocos": [
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "timeline",
+    "infograficoData": {
+     "etapas": "[{\"topico\":\"Etapas:\",\"texto\":\"definem as ações e a contribuição de cada momento para investigar o problema e construir uma resposta.&nbsp;<br>\"},{\"topico\":\"Entregas e evidências:\",\"texto\":\"indicam as produções e ações que permitem acompanhar as aprendizagens.&nbsp;<br>\"},{\"topico\":\"Devolutivas e revisões:\",\"texto\":\"orientam ajustes nas produções e decisões sobre os próximos passos.&nbsp;<br>\"},{\"topico\":\"Entrega final:&nbsp;\",\"texto\":\"reúne e apresenta os resultados desenvolvidos ao longo do percurso.&nbsp;<br>\"}]"
+    },
+    "novo": false
+   },
+   {
+    "tipo": "video",
+    "texto": "Veja como organizar as etapas de um projeto técnico integrador, articulando entregas, prazos, recursos e a atuação dos(as) profissionais para construir a resposta ao desafio.<br>",
+    "titulo": "Planejando o Percurso do Projeto ",
+    "url": "",
+    "novo": true
+   }
+  ]
  }
 }
