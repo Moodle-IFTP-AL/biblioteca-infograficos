@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Residência Pedagógica/Tarefa Residência Pedagógica",
- "quando": "2026-11-16T17:51:31.611Z",
+ "quando": "2026-11-16T17:54:12.889Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -107,6 +107,15 @@
      "linhas": "[\"Quais avanços foram observados após as intervenções e devolutivas?&nbsp;<br>\",\"Que dificuldades permaneceram? Quais limitações foram identificadas nas estratégias utilizadas?&nbsp;<br>\",\"Quais evidências permitem avaliar os efeitos das ações realizadas?&nbsp;<br>\",\"O que poderia ter sido feito de outra maneira para responder às necessidades identificadas?&nbsp;<br>\"]"
     },
     "novo": false
+   },
+   {
+    "tipo": "caixadestaque",
+    "texto": "<b>Atenção:</b> caso não existam evidências suficientes para avaliar determinada intervenção, registre essa limitação e indique quais informações seriam necessárias para compreender melhor seus resultados. Evite atribuir diretamente uma mudança à intervenção quando os registros não permitirem estabelecer essa relação.",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#0a3442",
+    "caixaCorBorda": "#06d7a0",
+    "novo": true
    }
   ]
  }
