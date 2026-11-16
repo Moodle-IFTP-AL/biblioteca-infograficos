@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-16T18:22:26.253Z",
+ "quando": "2026-11-16T19:22:01.419Z",
  "autor": "Eduarda",
  "dados": {
   "agoraSuaVez": {
@@ -10,48 +10,101 @@
    "chamada": "Agora é sua vez de planejar!",
    "cards": [
     {
-     "titulo": "Retome as experiências",
-     "texto": "Selecionem até três experiências de integração curricular desenvolvidas ao longo do ano."
+     "titulo": "Reúna os(as) colegas",
+     "texto": "Aproveite o HTPC para revisar coletivamente os objetivos, saberes e possibilidades de integração entre a Formação Geral Básica, o Ensino Técnico e outros componentes do pALei."
     },
     {
-     "titulo": "Avalie as práticas",
-     "texto": "Analisem as formas de articulação, os critérios de efetividade e os resultados de aprendizagem."
+     "titulo": "Planeje de forma integrada",
+     "texto": "Utilize o planejamento já esboçado, o modelo de planejamento da SEDUC/AL e as matrizes curriculares como apoio para consolidar e aprimorar o plano."
     },
     {
      "titulo": "Registre e compartilhe",
-     "texto": "Preencham coletivamente o documento Mapeamento de Boas Práticas Integradas, selecionem uma prática para compartilhar e envie o arquivo pela plataforma. "
+     "texto": "Faça o upload do documento na plataforma para evidenciar como os conhecimentos serão mobilizados de forma integrada."
     }
    ]
   },
   "campos": {
-   "texto1": "<b>Competência:&nbsp;</b><br><b>5 -</b> Planejar percursos formativos integrados e interdisciplinares, articulando saberes gerais e técnicos, competências da BNCC e demandas do mundo do trabalho: desenvolver a capacidade de organizar percursos formativos que articulem teoria e prática, competências gerais e técnicas, conteúdos de diferentes áreas e demandas reais do mundo do trabalho. Envolve integrar saberes gerais e profissionais, planejar sequências e unidades didáticas contextualizadas, construir projetos e atividades interdisciplinarmente articuladas e elaborar planos de aula coerentes com os itinerários formativos e as necessidades dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>5.3 </b>- Colaborar com outros(as) professores(as) na construção de percursos, sequências e projetos articulados, garantindo coerência pedagógica e progressão da aprendizagem.<br><b>Objetos do Conhecimento:</b><br>Identificação e validação de boas práticas integradas.<br><b>Conteúdos:</b><br><ul><li>Identificação de práticas integradas.<br></li><li>Análise coletiva de critérios e resultados.<br></li><li>Seleção e compartilhamento de boas práticas.<br></li></ul><b>Objetivo:</b><br>Identificar e validar coletivamente boas práticas de integração curricular, considerando suas contribuições para a aprendizagem e a formação integral dos(as) estudantes.<br>",
-   "texto2": "Identificar e validar coletivamente boas práticas de integração curricular, considerando suas contribuições para a aprendizagem e a formação integral dos(as) estudantes.&nbsp;<br>",
-   "texto3": "<b>Mapeando Boas Práticas Integradas</b>",
-   "texto5": "Na aula anterior, você conheceu critérios para avaliar a efetividade das estratégias de integração curricular, considerando a articulação dos conhecimentos, a conexão com a realidade e as contribuições para a aprendizagem e a formação integral dos(as) estudantes.<br><br>Agora, no HTPC, é o momento de compartilhar experiências com os(as) colegas e identificar coletivamente boas práticas desenvolvidas ao longo do ano.<br><br><h3><b><font color=\"#f04770\">Como Utilizar o Mapeamento de Boas Práticas Integradas?</font></b></h3><br>O documento orientará a análise das experiências e a seleção de uma prática para compartilhar.<br><br><b><font color=\"#f04770\">Siga as etapas:<br></font></b><br><b>1. Selecione as práticas</b><br>Retomem as experiências desenvolvidas ao longo do ano e escolham coletivamente até três para análise. Registrem o nome, os componentes envolvidos e o que foi realizado.<br><br><b>2. Analise as experiências</b><br>Utilizem os critérios da aula anterior para analisar as práticas. Identifiquem as formas de articulação curricular e observem as contribuições e os resultados na aprendizagem dos(as) estudantes.<br><br><b>3. Compartilhe uma boa prática</b><br>Escolham a experiência que mais se destacou e registrem um breve relato sobre sua realização e suas contribuições para a aprendizagem. Se possível, incluam registros da experiência, sem identificar os(as) estudantes.<br>Ao final, enviem o documento preenchido pela plataforma.<br>[BOTAO1]",
+   "texto1": "<b>Competência:&nbsp;</b><br><b>5 -</b> Planejar percursos formativos integrados e interdisciplinares, articulando saberes gerais e técnicos, competências da BNCC e demandas do mundo do trabalho: desenvolver a capacidade de organizar percursos formativos que articulem teoria e prática, competências gerais e técnicas, conteúdos de diferentes áreas e demandas reais do mundo do trabalho. Envolve integrar saberes gerais e profissionais, planejar sequências e unidades didáticas contextualizadas, construir projetos e atividades interdisciplinarmente articuladas e elaborar planos de aula coerentes com os itinerários formativos e as necessidades dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>5.2 - </b>Planejar projetos, unidades e sequências didáticas interdisciplinares, relacionando saberes gerais e técnicos para solucionar problemas reais e contextualizados.<br><b>Objetos do Conhecimento:</b><br>Avaliação da efetividade das estratégias de integração curricular.<br><b>Conteúdos:</b><br><ul><li>Formas de articulação curricular.<br></li><li>Critérios de efetividade das práticas integradas.<br></li><li>Contribuições para a aprendizagem e a formação integral.<br></li></ul><b>Objetivo:</b><br>Avaliar a efetividade das estratégias de integração curricular, considerando as formas de articulação dos conhecimentos e suas contribuições para a aprendizagem e a formação integral dos(as) estudantes, de modo a identificar possibilidades de aprimoramento dos próximos planejamentos.<br>",
+   "texto2": "Avaliar a efetividade das estratégias de integração curricular, considerando as formas de articulação dos conhecimentos e suas contribuições para a aprendizagem e a formação integral dos(as) estudantes.<br>",
+   "texto3": "<b>O que Caracteriza uma Boa Prática Integrada?</b><br><br>",
+   "texto5": "Ao longo do ano, você desenvolveu e acompanhou diferentes experiências de integração curricular, articulando conhecimentos e investigando situações relacionadas ao território e ao mundo do trabalho.<br><br>Mas como reconhecer quais dessas experiências podem ser consideradas boas práticas integradas?<br><br>Nesta aula, vamos retomar as formas de articulação curricular e conhecer critérios para avaliar as práticas desenvolvidas. No próximo HTPC, esses conhecimentos ajudarão a identificar e compartilhar boas práticas do ano.<br><font color=\"#06d7a0\"><br></font><b><font color=\"#06d7a0\">Revisitando as formas de integração curricular</font><br></b><br>No 1º módulo, você conheceu três formas de articulação dos conhecimentos. Agora, vamos retomá-las para compreender como podem aparecer nas práticas pedagógicas.<br>[INFOGRAFICO1]<br>Essas formas de articulação podem contribuir para as aprendizagens de diferentes maneiras. O importante é que as relações entre os conhecimentos estejam a serviço dos objetivos pedagógicos.<br>[PERGUNTA1]<br>[INFOGRAFICO2]<div><br>No pALei, essas articulações podem envolver a Formação Geral Básica, a Formação Técnica, o Projeto de Vida, os Estudos Orientados, as Práticas de Integração com o Território e outros componentes e experiências curriculares. O essencial é que cada contribuição esteja relacionada aos objetivos de aprendizagem.<br><br><h3><font color=\"#f04770\"></font><b><font color=\"#f04770\">Como reconhecer os resultados?</font></b></h3><br>A participação dos(as) estudantes, por si só, não garante que houve aprendizagem integrada. É importante observar como mobilizaram diferentes conhecimentos para analisar situações, tomar decisões e elaborar propostas.<br>Registros das atividades, produções dos(as) estudantes, apresentações e soluções elaboradas são exemplos de evidências que ajudam nessa análise.<br>Veja três situações que representam diferentes graus de articulação dos conhecimentos:<br>[INFOGRAFICO4]<br>Essas situações são referências para analisar as práticas, não categorias rígidas. Uma mesma experiência pode apresentar diferentes níveis de articulação.<br><br>Ao revisitar as experiências do ano, observe como os(as) estudantes relacionaram e aplicaram os conhecimentos, identificando avanços e desafios. Essa análise ajudará a selecionar boas práticas para compartilhar no próximo HTPC.<br>[DICA1]<br></div>",
    "texto7": ""
   },
-  "tipoBotao": "avancar",
-  "link": "https://ead.educacao.al.gov.br/mod/assign/view.php?id=29269",
   "blocos": [
    {
-    "tipo": "botao",
-    "texto": "Preencha o documento Mapeamento de Boas Práticas Integradas",
-    "corBotao": "#f04770",
-    "linkBotao": "https://docs.google.com/document/d/1gRiK7xGY5-SMKKpK4hmyMXpqYzPrR7PNV6-L94i_44A/edit?tab=t.0",
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "tabela_completa",
+    "infograficoData": {
+     "tabela": "{\"titulo\":\"\",\"subtitulo\":\"\",\"colunas\":[\"<b>Intradisciplinaridade</b>\",\"<b>Interdisciplinaridade</b><br>\",\"Transdisciplinaridade&nbsp;<br>\"],\"linhas\":[[\"Relaciona conteúdos e habilidades de um mesmo componente curricular.<br>\",\"Articula conhecimentos de diferentes componentes curriculares para investigar situações e construir soluções conjuntas.<br>\",\"Articula conhecimentos de diferentes áreas e saberes para compreender situações reais, considerando suas dimensões sociais, culturais, técnicas e ambientais.<br>\"]]}"
+    },
+    "novo": false
+   },
+   {
+    "tipo": "pergunta",
+    "texto": "",
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "O que torna uma integração efetiva?",
+     "texto": "Uma boa prática integrada não depende apenas da participação de diferentes professores(as) ou componentes curriculares. É preciso observar como os conhecimentos foram relacionados e o que os(as) estudantes aprenderam com essa experiência.<br>",
+     "videoUrl": "",
+     "iframeH5P": ""
+    },
+    "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "tabela_completa",
+    "infograficoData": {
+     "tabela": "{\"titulo\":\"\",\"subtitulo\":\"\",\"colunas\":[\"<b>Critério</b>\",\"<b>O que observar?</b>\"],\"linhas\":[[\"<b>Integração dos conhecimentos</b><br>\",\"Os conhecimentos de diferentes componentes foram relacionados para compreender uma situação comum?<br>\"],[\"<b>Conexão com a realidade</b><br>\",\"A experiência dialogou com o território, o projeto de vida dos(as) estudantes e o mundo do trabalho?<br>\"],[\"<b>Aprendizagem</b><br>\",\"Os(as) estudantes conseguiram relacionar e utilizar conhecimentos em situações significativas?<br>\"],[\"<b>Engajamento e formação integral</b><br>\",\"A prática favoreceu a participação, a autonomia, a colaboração ou o pensamento crítico?<br>\"]]}"
+    },
+    "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "etapas_sequencial",
+    "infograficoData": {
+     "titulo": "",
+     "etapas": "[\"\",\"\",\"\",\"\"]"
+    },
+    "novo": true
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "timeline_gavetas",
+    "infograficoData": {
+     "titulo": "",
+     "subtitulo": "",
+     "gavetas": "[{\"imagem\":\"\",\"titulo\":\"Integração Fragmentada&nbsp;<br>\",\"conteudo\":\"<b>Situação observada:</b> os(as) estudantes produziram materiais ou apresentaram informações de diferentes componentes, mas não relacionaram os conhecimentos para compreender a situação estudada.<br><b>O que isso revela:</b> a prática reuniu contribuições de diferentes componentes, mas a integração não se concretizou como esperado.<br>\",\"porqueTexto\":\"<br>\"},{\"imagem\":\"\",\"titulo\":\"<b>Integração Parcial</b><br>\",\"conteudo\":\"<b>Situação observada:</b> os(as) estudantes utilizaram conhecimentos de diferentes componentes, mas tiveram dificuldades para relacioná-los na análise da situação ou na construção de uma proposta.<br><b>O que isso revela:</b> houve aprendizagens, mas a mobilização integrada dos conhecimentos ainda apresenta limitações.<br>\",\"porqueTexto\":\"\"},{\"imagem\":\"\",\"titulo\":\"Integração Articulada&nbsp;<br>\",\"conteudo\":\"<b>Situação observada: </b>os(as) estudantes mobilizaram conhecimentos de diferentes componentes para analisar um desafio do território ou do mundo do trabalho, propor soluções e justificar suas escolhas.<br><b>O que isso revela:</b> a articulação dos saberes contribuiu para a análise da situação e a aplicação dos conhecimentos.<br>\",\"porqueTexto\":\"\"}]"
+    },
+    "novo": false
+   },
+   {
+    "tipo": "dica",
+    "texto": "<b>Dica | Compartilhando boas práticas</b><br>Promova um momento de compartilhamento das boas práticas integradas com as famílias e a comunidade escolar. Essa iniciativa pode valorizar as aprendizagens dos(as) estudantes e aproximar a escola do território.<br>",
     "novo": false
    }
   ],
+  "conclusao": {
+   "titulo": "Em resumo:",
+   "texto": "Uma boa prática integrada articula conhecimentos, conecta a aprendizagem à realidade e contribui para a formação integral dos(as) estudantes. Sua efetividade pode ser analisada por meio de evidências das aprendizagens desenvolvidas.<br><br>No próximo HTPC, você e os(as) demais professores(as) utilizarão esses critérios para analisar até três experiências do ano e selecionar uma boa prática para compartilhar.<br>",
+   "blocos": []
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29249",
   "ajusteEixo": {
    "eixo": "ADM",
-   "feitoEm": "2026-11-16T18:25:22.273Z",
+   "feitoEm": "2026-11-16T19:25:20.563Z",
    "linhas": [
     {
-     "tipo": "Link Tarefa",
-     "nome": "(PI)TAREFAPLANEJAMENTOINTEGRADO-M4U06",
-     "de": 29269,
-     "para": 29269,
+     "tipo": "Link Página",
+     "nome": "(PI)REFERENCIAS-M4U05",
+     "de": 29249,
+     "para": 29249,
      "situacao": "correto",
-     "mod": "assign",
+     "mod": "page",
      "rotulo": "link"
     }
    ],
