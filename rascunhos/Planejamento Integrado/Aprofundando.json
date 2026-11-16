@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-16T16:38:20.845Z",
+ "quando": "2026-11-16T16:41:38.855Z",
  "autor": "Eduarda",
  "dados": {
   "agoraSuaVez": {
@@ -78,7 +78,7 @@
     "infograficoData": {
      "titulo": "",
      "subtitulo": "",
-     "gavetas": "[{\"imagem\":\"\",\"titulo\":\"Integração Fragmentada&nbsp;<br>\",\"conteudo\":\"<b>ituação observada:</b> os(as) estudantes produziram materiais ou apresentaram informações de diferentes componentes, mas não relacionaram os conhecimentos para compreender a situação estudada.<br><br><b>O que isso revela:</b> a prática reuniu contribuições de diferentes componentes, mas a integração não se concretizou como esperado.<br>\",\"porqueTexto\":\"Integração Fragmentada<br><b>Situação observada:</b> os(as) estudantes produziram materiais ou apresentaram informações de diferentes componentes, mas não relacionaram os conhecimentos para compreender a situação estudada.<br><b>O que isso revela:</b> a prática reuniu contribuições de diferentes componentes, mas a integração não se concretizou como esperado.<br><br><b>Integração Parcial</b><br><b>Situação observada:</b> os(as) estudantes utilizaram conhecimentos de diferentes componentes, mas tiveram dificuldades para relacioná-los na análise da situação ou na construção de uma proposta.<br><b>O que isso revela:</b> houve aprendizagens, mas a mobilização integrada dos conhecimentos ainda apresenta limitações.<br><br>Integração Articulada<br><b>Situação observada: </b>os(as) estudantes mobilizaram conhecimentos de diferentes componentes para analisar um desafio do território ou do mundo do trabalho, propor soluções e justificar suas escolhas.<br><b>O que isso revela:</b> a articulação dos saberes contribuiu para a análise da situação e a aplicação dos conhecimentos.<br><br>\"},{\"imagem\":\"\",\"titulo\":\"\",\"conteudo\":\"\",\"porqueTexto\":\"\"},{\"imagem\":\"\",\"titulo\":\"\",\"conteudo\":\"\",\"porqueTexto\":\"\"}]"
+     "gavetas": "[{\"imagem\":\"\",\"titulo\":\"Integração Fragmentada&nbsp;<br>\",\"conteudo\":\"<b>Situação observada:</b> os(as) estudantes produziram materiais ou apresentaram informações de diferentes componentes, mas não relacionaram os conhecimentos para compreender a situação estudada.<br><b>O que isso revela:</b> a prática reuniu contribuições de diferentes componentes, mas a integração não se concretizou como esperado.<br>\",\"porqueTexto\":\"<br>\"},{\"imagem\":\"\",\"titulo\":\"<b>Integração Parcial</b><br>\",\"conteudo\":\"<b>Situação observada:</b> os(as) estudantes utilizaram conhecimentos de diferentes componentes, mas tiveram dificuldades para relacioná-los na análise da situação ou na construção de uma proposta.<br><b>O que isso revela:</b> houve aprendizagens, mas a mobilização integrada dos conhecimentos ainda apresenta limitações.<br>\",\"porqueTexto\":\"\"},{\"imagem\":\"\",\"titulo\":\"Integração Articulada&nbsp;<br>\",\"conteudo\":\"<b>Situação observada: </b>os(as) estudantes mobilizaram conhecimentos de diferentes componentes para analisar um desafio do território ou do mundo do trabalho, propor soluções e justificar suas escolhas.<br><b>O que isso revela:</b> a articulação dos saberes contribuiu para a análise da situação e a aplicação dos conhecimentos.<br>\",\"porqueTexto\":\"\"}]"
     },
     "novo": false
    },
