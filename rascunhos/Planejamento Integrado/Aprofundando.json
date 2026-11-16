@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-16T15:14:56.312Z",
+ "quando": "2026-11-16T15:17:12.134Z",
  "autor": "Eduarda",
  "dados": {
   "agoraSuaVez": {
@@ -27,7 +27,7 @@
    "texto1": "<b>Competência:&nbsp;</b><br><b>5 -</b> Planejar percursos formativos integrados e interdisciplinares, articulando saberes gerais e técnicos, competências da BNCC e demandas do mundo do trabalho: desenvolver a capacidade de organizar percursos formativos que articulem teoria e prática, competências gerais e técnicas, conteúdos de diferentes áreas e demandas reais do mundo do trabalho. Envolve integrar saberes gerais e profissionais, planejar sequências e unidades didáticas contextualizadas, construir projetos e atividades interdisciplinarmente articuladas e elaborar planos de aula coerentes com os itinerários formativos e as necessidades dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>5.2 - </b>Planejar projetos, unidades e sequências didáticas interdisciplinares, relacionando saberes gerais e técnicos para solucionar problemas reais e contextualizados.<br><b>Objetos do Conhecimento:</b><br>Avaliação da efetividade das estratégias de integração curricular.<br><b>Conteúdos:</b><br><ul><li>Formas de articulação curricular.<br></li><li>Critérios de efetividade das práticas integradas.<br></li><li>Contribuições para a aprendizagem e a formação integral.<br></li></ul><b>Objetivo:</b><br>Avaliar a efetividade das estratégias de integração curricular, considerando as formas de articulação dos conhecimentos e suas contribuições para a aprendizagem e a formação integral dos(as) estudantes, de modo a identificar possibilidades de aprimoramento dos próximos planejamentos.<br>",
    "texto2": "<b>Objetivo Geral: </b>avaliar a efetividade das estratégias de integração curricular, considerando as formas de articulação dos conhecimentos e suas contribuições para a aprendizagem e a formação integral dos(as) estudantes.<br>",
    "texto3": "<b>O que Caracteriza uma Boa Prática Integrada?</b><br><br>",
-   "texto5": "Ao longo do ano, você desenvolveu e acompanhou diferentes experiências de integração curricular, articulando conhecimentos e investigando situações relacionadas ao território e ao mundo do trabalho.<br><br>Mas como reconhecer quais dessas experiências podem ser consideradas boas práticas integradas?<br><br>Nesta aula, vamos retomar as formas de articulação curricular e conhecer critérios para avaliar as práticas desenvolvidas. No próximo HTPC, esses conhecimentos ajudarão a identificar e compartilhar boas práticas do ano.<br><font color=\"#06d7a0\"><br></font><b><font color=\"#06d7a0\">Revisitando as formas de integração curricular</font><br></b><br>No 1º módulo, você conheceu três formas de articulação dos conhecimentos. Agora, vamos retomá-las para compreender como podem aparecer nas práticas pedagógicas.<br>[INFOGRAFICO1]<br>Essas formas de articulação podem contribuir para as aprendizagens de diferentes maneiras. O importante é que as relações entre os conhecimentos estejam a serviço dos objetivos pedagógicos.<br>[PERGUNTA1]<br>[INFOGRAFICO2]",
+   "texto5": "Ao longo do ano, você desenvolveu e acompanhou diferentes experiências de integração curricular, articulando conhecimentos e investigando situações relacionadas ao território e ao mundo do trabalho.<br><br>Mas como reconhecer quais dessas experiências podem ser consideradas boas práticas integradas?<br><br>Nesta aula, vamos retomar as formas de articulação curricular e conhecer critérios para avaliar as práticas desenvolvidas. No próximo HTPC, esses conhecimentos ajudarão a identificar e compartilhar boas práticas do ano.<br><font color=\"#06d7a0\"><br></font><b><font color=\"#06d7a0\">Revisitando as formas de integração curricular</font><br></b><br>No 1º módulo, você conheceu três formas de articulação dos conhecimentos. Agora, vamos retomá-las para compreender como podem aparecer nas práticas pedagógicas.<br>[INFOGRAFICO1]<br>Essas formas de articulação podem contribuir para as aprendizagens de diferentes maneiras. O importante é que as relações entre os conhecimentos estejam a serviço dos objetivos pedagógicos.<br>[PERGUNTA1]<br>[INFOGRAFICO2]<div><br>No pALei, essas articulações podem envolver a Formação Geral Básica, a Formação Técnica, o Projeto de Vida, os Estudos Orientados, as Práticas de Integração com o Território e outros componentes e experiências curriculares. O essencial é que cada contribuição esteja relacionada aos objetivos de aprendizagem.<br><br><h3><font color=\"#f04770\"></font><b><font color=\"#f04770\">Como reconhecer os resultados?</font></b></h3><br>A participação dos(as) estudantes, por si só, não garante que houve aprendizagem integrada. É importante observar como mobilizaram diferentes conhecimentos para analisar situações, tomar decisões e elaborar propostas.<br>Registros das atividades, produções dos(as) estudantes, apresentações e soluções elaboradas são exemplos de evidências que ajudam nessa análise.<br>Veja três situações que representam diferentes graus de articulação dos conhecimentos:<br><br></div>",
    "texto7": ""
   },
   "blocos": [
@@ -60,6 +60,16 @@
      "tabela": "{\"titulo\":\"\",\"subtitulo\":\"\",\"colunas\":[\"<b>Critério</b>\",\"<b>O que observar?</b>\"],\"linhas\":[[\"<b>Integração dos conhecimentos</b><br>\",\"Os conhecimentos de diferentes componentes foram relacionados para compreender uma situação comum?<br>\"],[\"<b>Conexão com a realidade</b><br>\",\"A experiência dialogou com o território, o projeto de vida dos(as) estudantes e o mundo do trabalho?<br>\"],[\"<b>Aprendizagem</b><br>\",\"Os(as) estudantes conseguiram relacionar e utilizar conhecimentos em situações significativas?<br>\"],[\"<b>Engajamento e formação integral</b><br>\",\"A prática favoreceu a participação, a autonomia, a colaboração ou o pensamento crítico?<br>\"]]}"
     },
     "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "etapas_sequencial",
+    "infograficoData": {
+     "titulo": "",
+     "etapas": "[\"\",\"\",\"\",\"\"]"
+    },
+    "novo": true
    }
   ]
  }
