@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-11-16T19:10:18.921Z",
+ "quando": "2026-11-16T19:19:09.843Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -9,6 +9,19 @@
    "titulo": "<b>Organizando o Percurso do Projeto Integrado</b><br>",
    "conteudo": "",
    "reflexao": ""
+  },
+  "atividades": [
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32522\" width=\"1237\" height=\"663\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U04-APLI-MULTI (copiado)\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   },
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32523\" width=\"1237\" height=\"507\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U05-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   }
+  ],
+  "conclusao": {
+   "titulo": "Do Planejamento à Prática Docente ",
+   "texto": "Planejar um projeto técnico integrado exige conectar as aprendizagens às etapas e às entregas parciais e final, considerando tempos, recursos e responsabilidades.<br><br>A decisão que você registrou é um ponto de partida para aprimorar esse percurso. Leve-a ao planejamento com os(as) demais professores(as) e preveja momentos de acompanhamento, devolutiva e revisão, para que os(as) estudantes participem das decisões e avancem na construção da resposta ao problema.<br>",
+   "blocos": []
   }
  }
 }
