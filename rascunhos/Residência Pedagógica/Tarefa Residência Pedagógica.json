@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Residência Pedagógica/Tarefa Residência Pedagógica",
- "quando": "2026-11-16T17:56:13.304Z",
+ "quando": "2026-11-16T18:00:12.854Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -126,6 +126,14 @@
      "tabela": "{\"titulo\":\"\",\"subtitulo\":\"\",\"colunas\":[\"<b>Prioridade de aprimoramento</b><br>\",\"Ação proposta\",\"Como acompanhar os resultados?<br>\"],\"linhas\":[[\"Ex.: Aprimorar as estratégias que desenvolvem a argumentação dos(as) estudantes.<br>\",\"Incorporar atividades de comparação de alternativas e justificativa de decisões.<br>\",\"Analisar as justificativas produzidas pelos(as) estudantes e verificar sua evolução ao longo das atividades.<br>\"]]}"
     },
     "novo": false
+   },
+   {
+    "tipo": "saibamais",
+    "texto": "O encerramento do ano letivo também é uma oportunidade de reconhecer conquistas, valorizar experiências e levar os aprendizados construídos para novas práticas de ensino.<br>A reportagem da <i>Nova Escola</i> apresenta reflexões sobre como aproveitar os resultados e as experiências de um ano para orientar escolhas pedagógicas futuras.<br>Saiba mais em: <u>Como fazer um balanço do ano e construir caminhos para o próximo?</u><br>",
+    "titulo": "<b>Do Encerramento a Novos Caminhos</b><br>",
+    "linkBotao": "",
+    "textoBotao": "",
+    "novo": true
    }
   ]
  }
