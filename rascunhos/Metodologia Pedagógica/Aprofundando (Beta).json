@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-11-16T18:56:12.134Z",
+ "quando": "2026-11-16T18:57:39.871Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -33,7 +33,7 @@
     "texto": "",
     "infograficoTipo": "tabela_completa",
     "infograficoData": {
-     "tabela": "{\"titulo\":\"\",\"subtitulo\":\"\",\"colunas\":[\"<b style=\\\"\\\">Etapa</b>\",\"<b style=\\\"\\\">Produção&nbsp;</b>\",\"<b style=\\\"\\\">Aprendizagens a observar<font color=\\\"#ffffff\\\">&nbsp;</font></b><br>\",\"<b style=\\\"\\\">Função no projeto<font color=\\\"#ffffff\\\">&nbsp;</font></b><br>\"],\"linhas\":[[\"1. Investigar\",\"Levantamento de medidas, registros de obstáculos e deslocamentos e croqui inicial.\",\"Identifica obstáculos e pontos de circulação; realiza e registra medidas; representa o espaço no croqui.<br>\",\"Identificar as condições de circulação, reunir informações e verificar se os dados são suficientes para iniciar a análise.\"],[\"2. Analisar alternativas\",\"Quadro de alternativas com vantagens e limites.<br>\",\"Relaciona medidas, fluxos de trabalho e riscos; compara possibilidades e explica vantagens e limites de cada alternativa.<br>\",\"Comparar possibilidades e identificar quais informações precisam ser verificadas antes de elaborar a proposta.<br>\"],[\"3. Elaborar a proposta\",\"Croqui preliminar e justificativa.<br>\",\"Utiliza os dados levantados para fundamentar a proposta; relaciona as mudanças sugeridas às melhorias na circulação; justifica suas escolhas.<br>\",\"Construir uma proposta de melhoria fundamentada, retomando registros ou realizando novas medições quando necessário. <br>\"],[\"4. Revisar e apresentar<br>\",\"Croqui revisado e justificativa final.<br>\",\"Analisa as devolutivas, justifica os ajustes realizados e explica como a versão revisada responde ao desafio e aos critérios de avaliação.<br>\",\"Aprimorar a proposta com base nas devolutivas e nos critérios compartilhados, comunicar as escolhas e apresentar a resposta ao desafio.<br>\"]],\"corTextoHeader\":\"#0a3442\",\"corHeader\":\"#79d3f2\"}"
+     "tabela": "{\"titulo\":\"\",\"subtitulo\":\"\",\"colunas\":[\"<b style=\\\"\\\">Etapa</b>\",\"<b style=\\\"\\\">Produção&nbsp;</b>\",\"<b style=\\\"\\\">Aprendizagens a observar<font color=\\\"#ffffff\\\">&nbsp;</font></b><br>\",\"<b style=\\\"\\\">Função no projeto<font color=\\\"#ffffff\\\">&nbsp;</font></b><br>\"],\"linhas\":[[\"<b>1. Investigar</b>\",\"Levantamento de medidas, registros de obstáculos e deslocamentos e croqui inicial.\",\"Identifica obstáculos e pontos de circulação; realiza e registra medidas; representa o espaço no croqui.<br>\",\"Identificar as condições de circulação, reunir informações e verificar se os dados são suficientes para iniciar a análise.\"],[\"<b>2. Analisar alternativas</b>\",\"Quadro de alternativas com vantagens e limites.<br>\",\"Relaciona medidas, fluxos de trabalho e riscos; compara possibilidades e explica vantagens e limites de cada alternativa.<br>\",\"Comparar possibilidades e identificar quais informações precisam ser verificadas antes de elaborar a proposta.<br>\"],[\"<b>3. Elaborar a proposta</b>\",\"Croqui preliminar e justificativa.<br>\",\"Utiliza os dados levantados para fundamentar a proposta; relaciona as mudanças sugeridas às melhorias na circulação; justifica suas escolhas.<br>\",\"Construir uma proposta de melhoria fundamentada, retomando registros ou realizando novas medições quando necessário. <br>\"],[\"<b>4. Revisar e apresentar</b><br>\",\"Croqui revisado e justificativa final.<br>\",\"Analisa as devolutivas, justifica os ajustes realizados e explica como a versão revisada responde ao desafio e aos critérios de avaliação.<br>\",\"Aprimorar a proposta com base nas devolutivas e nos critérios compartilhados, comunicar as escolhas e apresentar a resposta ao desafio.<br>\"]],\"corTextoHeader\":\"#0a3442\",\"corHeader\":\"#79d3f2\"}"
     },
     "novo": false
    },
@@ -78,6 +78,7 @@
      "novo": false
     }
    ]
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29234"
  }
 }
