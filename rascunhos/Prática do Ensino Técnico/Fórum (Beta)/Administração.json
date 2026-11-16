@@ -1,38 +1,51 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Administração",
- "quando": "2026-10-19T14:49:17.207Z",
- "autor": "Teste",
+ "quando": "2026-11-16T14:28:35.897Z",
+ "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Analisar situações reais de imprevistos no ensino prático, identificando lacunas de prevenção e propondo condutas corretivas fundamentadas, e avaliar a viabilidade das soluções apresentadas pelos pares.<br><br>",
-   "titulo": "<b>Que imprevisto marcou a sua prática?</b><br><br>",
-   "conteudo": "Bem-vindo(a) ao fórum!<br>Agora, relacione o conteúdo da aula com uma situação real ou possível em uma prática de Administração.<br><b>1. Compartilhe sua situação</b><br>Escolha uma prática e descreva:<br><ul><li>o que aconteceu ou poderia acontecer;<br></li><li>qual risco estava envolvido;<br></li><li>qual protocolo preventivo poderia evitá-lo;<br></li><li>qual conduta corretiva você adotaria.<br></li></ul><b>2. Comente a postagem de um(a) colega</b><br>Analise se a solução proposta é viável e, se necessário, sugira um cuidado adicional.<br><br><div>[REVISAR1]</div>",
-   "instrucoesTitulo": "",
+   "objetivo": "Analisar uma prática técnica com base nas evidências de aprendizagem e nos efeitos das intervenções pedagógicas, identificando possibilidades de aprimoramento da própria atuação docente.<br>",
+   "titulo": "<b>Avaliando uma Prática Administrativa&nbsp;</b><br>",
+   "conteudo": "Pense em uma atividade recente que você realizou com sua turma. Pode ser uma simulação de controle de estoque, de abertura de microempresa ou de uma atividade relacionada às rotinas do Departamento de Gestão de Pessoas (DGP).<br><br><b>1. Analise sua experiência</b><br>Com base na prática escolhida, reflita sobre as seguintes questões:<br><ul><li>O que você observou no desempenho dos(as) estudantes? Quais evidências indicaram avanços ou dificuldades?<br></li><li>Que devolutivas ou intervenções você realizou diante do que observou? Como os(as) estudantes reagiram?<br></li><li>O que você faria de maneira diferente em uma próxima experiência para favorecer a aprendizagem técnica?<br></li></ul><b>2. Compartilhe e interaja</b><br>Publique sua reflexão no fórum, apresentando a prática e suas análises. Depois, leia a contribuição de pelo menos um(a) colega e comente, relacionando uma das ideias apresentadas à sua própria realidade de ensino.<br>[CAIXADESTAQUE1]",
+   "instrucoesTitulo": "Sua participação deve conter:",
    "orientacoesTitulo": "Orientações para o formato:"
   },
   "blocos": [
    {
+    "tipo": "caixadestaque",
+    "texto": "<b>Atenção: </b>evite respostas genéricas. Procure apresentar situações concretas da sua prática e explicar como suas decisões pedagógicas podem contribuir para o desenvolvimento técnico dos(as) estudantes.",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#fdf0f3",
+    "caixaCorBorda": "#f04770",
+    "novo": false,
+    "caixaCorTexto": "#0a3442"
+   },
+   {
     "tipo": "revisar",
-    "texto": "Para aprofundar a adaptação de materiais à realidade da sua escola, revise a aula:",
-    "idRevisar": "mvfda9dkjdr1jf",
+    "texto": "Revisite as aulas abaixo para retomar aspectos da demonstração, da orientação e da gestão da prática técnica e aprofundar a análise da sua atuação.<br>",
+    "idRevisar": "mwjd3e6vp7ja3x",
     "itensRevisar": [
      {
-      "id": "mvfdagnnddqbjo",
-      "texto": "&nbsp;Módulo 1 — Unidade 5: Seleção e adaptação de recursos.",
-      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22338"
+      "id": "mwjd3k2exzaih3",
+      "texto": "Módulo 1 – Unidade 7: Demonstração técnica aplicada ao projeto ABP.&nbsp;<br>",
+      "link": ""
+     },
+     {
+      "id": "mwjd3kaffxpum1",
+      "texto": "Módulo 1 – Unidade 8: Preparação de demonstrações técnicas.&nbsp;<br>",
+      "link": ""
+     },
+     {
+      "id": "mwjd3kippuzfss",
+      "texto": "Módulo 3 – Unidade 2: Gestão da prática técnica.&nbsp;<br>",
+      "link": ""
      }
     ],
     "linkBotao": "",
     "textoBotao": "",
-    "novo": false
-   }
-  ],
-  "acoes": [
-   {
-    "id": "it-mvfd9jjh-1",
-    "titulo": "Compartilhe sua situação",
-    "texto": ""
+    "novo": true
    }
   ]
  }
