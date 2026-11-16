@@ -1,13 +1,13 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Administração",
- "quando": "2026-11-16T14:28:57.320Z",
+ "quando": "2026-11-16T14:29:19.110Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "objetivo": "Analisar uma prática técnica com base nas evidências de aprendizagem e nos efeitos das intervenções pedagógicas, identificando possibilidades de aprimoramento da própria atuação docente.<br>",
    "titulo": "<b>Avaliando uma Prática Administrativa&nbsp;</b><br>",
-   "conteudo": "Pense em uma atividade recente que você realizou com sua turma. Pode ser uma simulação de controle de estoque, de abertura de microempresa ou de uma atividade relacionada às rotinas do Departamento de Gestão de Pessoas (DGP).<br><br><b>1. Analise sua experiência</b><br>Com base na prática escolhida, reflita sobre as seguintes questões:<br><ul><li>O que você observou no desempenho dos(as) estudantes? Quais evidências indicaram avanços ou dificuldades?<br></li><li>Que devolutivas ou intervenções você realizou diante do que observou? Como os(as) estudantes reagiram?<br></li><li>O que você faria de maneira diferente em uma próxima experiência para favorecer a aprendizagem técnica?<br></li></ul><b>2. Compartilhe e interaja</b><br>Publique sua reflexão no fórum, apresentando a prática e suas análises. Depois, leia a contribuição de pelo menos um(a) colega e comente, relacionando uma das ideias apresentadas à sua própria realidade de ensino.<br>[CAIXADESTAQUE1]",
+   "conteudo": "Pense em uma atividade recente que você realizou com sua turma. Pode ser uma simulação de controle de estoque, de abertura de microempresa ou de uma atividade relacionada às rotinas do Departamento de Gestão de Pessoas (DGP).<br><br><b>1. Analise sua experiência</b><br>Com base na prática escolhida, reflita sobre as seguintes questões:<br><ul><li>O que você observou no desempenho dos(as) estudantes? Quais evidências indicaram avanços ou dificuldades?<br></li><li>Que devolutivas ou intervenções você realizou diante do que observou? Como os(as) estudantes reagiram?<br></li><li>O que você faria de maneira diferente em uma próxima experiência para favorecer a aprendizagem técnica?<br></li></ul><b>2. Compartilhe e interaja</b><br>Publique sua reflexão no fórum, apresentando a prática e suas análises. Depois, leia a contribuição de pelo menos um(a) colega e comente, relacionando uma das ideias apresentadas à sua própria realidade de ensino.<br>[CAIXADESTAQUE1]<br>[REVISAR1]",
    "instrucoesTitulo": "Sua participação deve conter:",
    "orientacoesTitulo": "Orientações para o formato:"
   },
@@ -40,12 +40,12 @@
      {
       "id": "mwjd3kippuzfss",
       "texto": "Módulo 3 – Unidade 2: Gestão da prática técnica.&nbsp;<br>",
-      "link": ""
+      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27289"
      }
     ],
     "linkBotao": "",
     "textoBotao": "",
-    "novo": true
+    "novo": false
    }
   ]
  }
