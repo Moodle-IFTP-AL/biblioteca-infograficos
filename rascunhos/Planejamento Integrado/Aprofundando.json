@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-16T17:24:55.807Z",
+ "quando": "2026-11-16T17:32:21.232Z",
  "autor": "Eduarda",
  "dados": {
   "agoraSuaVez": {
@@ -27,7 +27,7 @@
    "texto1": "<b>Competência:&nbsp;</b><br><b>5 -</b> Planejar percursos formativos integrados e interdisciplinares, articulando saberes gerais e técnicos, competências da BNCC e demandas do mundo do trabalho: desenvolver a capacidade de organizar percursos formativos que articulem teoria e prática, competências gerais e técnicas, conteúdos de diferentes áreas e demandas reais do mundo do trabalho. Envolve integrar saberes gerais e profissionais, planejar sequências e unidades didáticas contextualizadas, construir projetos e atividades interdisciplinarmente articuladas e elaborar planos de aula coerentes com os itinerários formativos e as necessidades dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>5.3 </b>- Colaborar com outros(as) professores(as) na construção de percursos, sequências e projetos articulados, garantindo coerência pedagógica e progressão da aprendizagem.<br><b>Objetos do Conhecimento:</b><br>Identificação e validação de boas práticas integradas.<br><b>Conteúdos:</b><br><ul><li>Identificação de práticas integradas.<br></li><li>Análise coletiva de critérios e resultados.<br></li><li>Seleção e compartilhamento de boas práticas.<br></li></ul><b>Objetivo:</b><br>Identificar e validar coletivamente boas práticas de integração curricular, considerando suas contribuições para a aprendizagem e a formação integral dos(as) estudantes.<br>",
    "texto2": "Identificar e validar coletivamente boas práticas de integração curricular, considerando suas contribuições para a aprendizagem e a formação integral dos(as) estudantes.&nbsp;<br>",
    "texto3": "<b>Mapeando Boas Práticas Integradas</b>",
-   "texto5": "Na aula anterior, você conheceu critérios para avaliar a efetividade das estratégias de integração curricular, considerando a articulação dos conhecimentos, a conexão com a realidade e as contribuições para a aprendizagem e a formação integral dos(as) estudantes.<br><br>Agora, no HTPC, é o momento de compartilhar experiências com os(as) colegas e identificar coletivamente boas práticas desenvolvidas ao longo do ano.<br><br><h3><b><font color=\"#f04770\">Como Utilizar o Mapeamento de Boas Práticas Integradas?</font></b></h3><br>O documento orientará a análise das experiências e a seleção de uma prática para compartilhar.<br><br><b><font color=\"#f04770\">Siga as etapas:<br></font></b><br><b>1. Selecione as práticas</b><br>Retomem as experiências desenvolvidas ao longo do ano e escolham coletivamente até três para análise. Registrem o nome, os componentes envolvidos e o que foi realizado.<br><br><b>2. Analise as experiências</b><br>Utilizem os critérios da aula anterior para analisar as práticas. Identifiquem as formas de articulação curricular e observem as contribuições e os resultados na aprendizagem dos(as) estudantes.<br><br><b>3. Compartilhe uma boa prática</b><br>Escolham a experiência que mais se destacou e registrem um breve relato sobre sua realização e suas contribuições para a aprendizagem. Se possível, incluam registros da experiência, sem identificar os(as) estudantes.<br>Ao final, enviem o documento preenchido pela plataforma.<br>",
+   "texto5": "Na aula anterior, você conheceu critérios para avaliar a efetividade das estratégias de integração curricular, considerando a articulação dos conhecimentos, a conexão com a realidade e as contribuições para a aprendizagem e a formação integral dos(as) estudantes.<br><br>Agora, no HTPC, é o momento de compartilhar experiências com os(as) colegas e identificar coletivamente boas práticas desenvolvidas ao longo do ano.<br><br><h3><b><font color=\"#f04770\">Como Utilizar o Mapeamento de Boas Práticas Integradas?</font></b></h3><br>O documento orientará a análise das experiências e a seleção de uma prática para compartilhar.<br><br><b><font color=\"#f04770\">Siga as etapas:<br></font></b><br><b>1. Selecione as práticas</b><br>Retomem as experiências desenvolvidas ao longo do ano e escolham coletivamente até três para análise. Registrem o nome, os componentes envolvidos e o que foi realizado.<br><br><b>2. Analise as experiências</b><br>Utilizem os critérios da aula anterior para analisar as práticas. Identifiquem as formas de articulação curricular e observem as contribuições e os resultados na aprendizagem dos(as) estudantes.<br><br><b>3. Compartilhe uma boa prática</b><br>Escolham a experiência que mais se destacou e registrem um breve relato sobre sua realização e suas contribuições para a aprendizagem. Se possível, incluam registros da experiência, sem identificar os(as) estudantes.<br>Ao final, enviem o documento preenchido pela plataforma.<br>[BOTAO1]",
    "texto7": ""
   },
   "tipoBotao": "avancar",
@@ -36,9 +36,9 @@
    {
     "tipo": "botao",
     "texto": "Preencha o documento Mapeamento de Boas Práticas Integradas",
-    "corBotao": "#79d3f2",
-    "linkBotao": "",
-    "novo": true
+    "corBotao": "#f04770",
+    "linkBotao": "https://inserirdocumentoaqui.com",
+    "novo": false
    }
   ]
  }
