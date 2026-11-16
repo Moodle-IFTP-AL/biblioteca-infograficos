@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-11-16T18:57:39.871Z",
+ "quando": "2026-11-16T18:59:40.559Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -43,7 +43,7 @@
     "infograficoTipo": "cards_icones_setas",
     "infograficoData": {
      "titulo": "",
-     "cards": "[{\"imagem\":\"\",\"titulo\":\"1. Compreender o percurso\",\"texto\":\"Apresente o desafio, as etapas e as entregas. Peça aos(às) estudantes que expliquem como cada registro contribui para a proposta.&nbsp;&nbsp;<br>\"},{\"imagem\":\"\",\"titulo\":\"2. Assumir responsabilidade\",\"texto\":\"Distribua e alterne tarefas de medição, registro e análise. Garanta a participação de todos(as) nas decisões.&nbsp;&nbsp;<br>\"},{\"imagem\":\"\",\"titulo\":\"3. Acompanhar a qualidade\",\"texto\":\"Compartilhe critérios, como precisão das medidas e relação entre obstáculos e melhorias. Reserve tempo para conferir e revisar as produções.&nbsp;&nbsp;<br>\"},{\"imagem\":\"\",\"titulo\":\"4. Ampliar a autonomia\",\"texto\":\"<font color=\\\"#ffffff\\\">Demonstre os procedimentos e acompanhe as primeiras ações. Conforme a turma avança, amplie as possibilidades de organização e escolha, mantendo a atenção à segurança.&nbsp;&nbsp;</font><br>\"}]"
+     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2013.png\",\"titulo\":\"1. Compreender o percurso\",\"texto\":\"Apresente o desafio, as etapas e as entregas. Peça aos(às) estudantes que expliquem como cada registro contribui para a proposta.&nbsp;&nbsp;<br>\",\"corFundo\":\"#beeffc\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/ALVO.png\",\"titulo\":\"2. Assumir responsabilidade\",\"texto\":\"Distribua e alterne tarefas de medição, registro e análise. Garanta a participação de todos(as) nas decisões.&nbsp;&nbsp;<br>\",\"corFundo\":\"#f0fdf4\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2012.png\",\"titulo\":\"3. Acompanhar a qualidade\",\"texto\":\"Compartilhe critérios, como precisão das medidas e relação entre obstáculos e melhorias. Reserve tempo para conferir e revisar as produções.&nbsp;&nbsp;<br>\",\"corFundo\":\"#fdf0f3\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2079.png\",\"titulo\":\"<font color=\\\"#0a3442\\\">4. Ampliar a autonomia</font>\",\"texto\":\"Demonstre os procedimentos e acompanhe as primeiras ações. Conforme a turma avança, amplie as possibilidades de organização e escolha, mantendo a atenção à segurança.&nbsp;&nbsp;<br>\",\"corFundo\":\"#fefce8\"}]"
     },
     "novo": false
    },
