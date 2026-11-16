@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-16T18:22:03.476Z",
+ "quando": "2026-11-16T18:22:26.253Z",
  "autor": "Eduarda",
  "dados": {
   "agoraSuaVez": {
@@ -37,7 +37,7 @@
     "tipo": "botao",
     "texto": "Preencha o documento Mapeamento de Boas Práticas Integradas",
     "corBotao": "#f04770",
-    "linkBotao": "https://inserirdocumentoaqui.com",
+    "linkBotao": "https://docs.google.com/document/d/1gRiK7xGY5-SMKKpK4hmyMXpqYzPrR7PNV6-L94i_44A/edit?tab=t.0",
     "novo": false
    }
   ],
