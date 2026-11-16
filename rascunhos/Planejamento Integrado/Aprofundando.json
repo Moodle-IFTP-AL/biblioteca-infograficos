@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-16T17:32:21.232Z",
+ "quando": "2026-11-16T18:22:03.476Z",
  "autor": "Eduarda",
  "dados": {
   "agoraSuaVez": {
@@ -40,6 +40,22 @@
     "linkBotao": "https://inserirdocumentoaqui.com",
     "novo": false
    }
-  ]
+  ],
+  "ajusteEixo": {
+   "eixo": "ADM",
+   "feitoEm": "2026-11-16T18:25:22.273Z",
+   "linhas": [
+    {
+     "tipo": "Link Tarefa",
+     "nome": "(PI)TAREFAPLANEJAMENTOINTEGRADO-M4U06",
+     "de": 29269,
+     "para": 29269,
+     "situacao": "correto",
+     "mod": "assign",
+     "rotulo": "link"
+    }
+   ],
+   "manuais": {}
+  }
  }
 }
