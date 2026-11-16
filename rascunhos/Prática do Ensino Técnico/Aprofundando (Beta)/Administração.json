@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-11-16T14:23:56.077Z",
+ "quando": "2026-11-16T14:24:57.325Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -9,7 +9,7 @@
    "objetivo": "Avaliar a própria mediação pedagógica após uma prática técnica, identificando ajustes para o aprimoramento de ações futuras.<br>",
    "titulo": "<b>Reflexões sobre as Práticas&nbsp;</b><br>",
    "conteudo": "Após conduzir uma prática técnica, é preciso avaliar como ocorreu a mediação da aprendizagem dos(as) estudantes.<br><br>Essa reflexão crítica permite identificar:<br><ul><li>o que funcionou nas práticas das rotinas administrativas;<br></li><li>quais dificuldades surgiram;</li><li>quais intervenções podem ser ajustadas para qualificar, ainda mais, a formação profissional no contexto alagoano.</li></ul>[PERGUNTA1]<h3><span style=\"font-size: 1rem;\"></span><b><font color=\"#f04770\">A importância de refletir sobre a mediação</font></b></h3><br>A avaliação das aulas práticas no ensino técnico não se limita a verificar se os(as) estudantes conseguiram ou não realizar, mas também como você conduziu a aprendizagem.<br><br>Analisar sua própria mediação ajuda a compreender se:<br><ul><li>as orientações foram claras;<br></li><li>as estratégias utilizadas favoreceram a participação;<br></li><li>as intervenções responderam às dificuldades identificadas.</li></ul>Essa reflexão permite reconhecer o que funcionou, perceber aspectos que passaram despercebidos durante a aula e planejar ajustes para tornar as próximas experiências mais adequadas às necessidades de aprendizagem da turma.<br><br><h3><b><font color=\"#f04770\">O que observar na sua atuação?</font></b></h3>Pense sobre os seguintes aspectos ao avaliar as suas aulas:<br><br><b><font color=\"#f04770\">Critérios de avaliação</font></b><br>Retomar os critérios avaliativos aplicados nas aulas práticas de processos administrativos é importante para verificar a coerência com os objetivos planejados. Essa análise revela se as escolhas realmente avaliaram o domínio técnico dos(as) estudantes ou se os critérios precisam ser repensados.<br><i><b>Reflita:</b> os critérios de avaliação aplicados permitiram acompanhar, com clareza, o desenvolvimento das competências administrativas planejadas?</i><br><br><b><font color=\"#f04770\">Evidências de aprendizagem</font></b><br>Revisitar as evidências observadas e registradas durante a execução das tarefas ajuda a compreender quais avanços e dificuldades reais a turma apresentou.<br><i><b>Reflita:</b> em quais dados concretos da tarefa baseei minha avaliação do desempenho dos(as) estudantes?</i><br><br><b><font color=\"#f04770\">Devolutivas aos(às) estudantes</font></b><br>Analisar as devolutivas oferecidas aos(às) estudantes pode indicar se as orientações foram diretas e eficazes para corrigir ou validar o desempenho da turma.<br><i><b>Reflita:</b> minhas devolutivas foram claras o suficiente para orientar o(a) estudante a aprimorar sua entrega técnica?</i><br><br><b><font color=\"#f04770\">Efeitos das intervenções</font></b><br>Observar o que mudou após a sua intervenção permite perceber se houve uma evolução real no desempenho da turma.<br><i><b>Reflita:</b> as orientações que forneci durante a prática geraram mudanças efetivas na execução da atividade pelos(as) estudantes?</i><br><br><b><font color=\"#f04770\">Avaliação e aprendizagem</font></b><br>Refletir sobre as estratégias de avaliação ajuda a identificar quais escolhas favoreceram o desenvolvimento do raciocínio técnico-administrativo e quais devem ser repensadas.<br><i><b>Reflita:</b> de que maneira o processo avaliativo contribuiu para consolidar a aprendizagem técnica?</i><br><br><b><font color=\"#f04770\">O que ajustar na próxima prática</font></b><br>Utilizar essa análise para planejar mudanças concretas nas novas aulas favorece a melhoria contínua da mediação pedagógica.<br><i><b>Reflita:</b> o que posso modificar na minha condução para tornar a próxima prática mais eficaz?</i><br>",
-   "conectando": ""
+   "conectando": "Na próxima etapa, você vai analisar situações reais do ensino técnico e debater as melhores estratégias. Siga em frente!<br>"
   },
   "blocos": [
    {
@@ -23,6 +23,21 @@
      "iframeH5P": ""
     },
     "novo": false
+   },
+   {
+    "tipo": "glossario",
+    "texto": "",
+    "termos": [
+     {
+      "termo": "Devolutiva formativa",
+      "definicao": "Retorno fornecido ao(à) estudante para orientar a melhoria de seu desempenho técnico.<br>"
+     },
+     {
+      "termo": "Evidência de aprendizagem",
+      "definicao": "Indício observável que demonstra o domínio prático de um procedimento ou conceito por parte do(a) estudante.<br>"
+     }
+    ],
+    "novo": true
    }
   ],
   "conclusao": {
