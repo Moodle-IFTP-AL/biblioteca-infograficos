@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-16T19:32:16.516Z",
+ "quando": "2026-11-16T19:35:34.661Z",
  "autor": "Eduarda",
  "dados": {
   "agoraSuaVez": {
@@ -71,7 +71,7 @@
     "texto": "",
     "infograficoTipo": "zigzag_setas",
     "infograficoData": {
-     "items": "[{\"titulo\":\"<b><font color=\\\"#06d7a0\\\">Integração Fragmentada</font></b>\",\"texto\":\"<b>Situação observada:</b> os(as) estudantes produziram materiais ou apresentaram informações de diferentes componentes, mas não relacionaram os conhecimentos para compreender a situação estudada.<br><b>O que isso revela:</b> a prática reuniu contribuições de diferentes componentes, mas a integração não se concretizou como esperado.<br>\"},{\"titulo\":\"<b><font color=\\\"#79d3f2\\\">Integração Parcial</font></b><br>\",\"texto\":\"<b>Situação observada:</b> os(as) estudantes utilizaram conhecimentos de diferentes componentes, mas tiveram dificuldades para relacioná-los na análise da situação ou na construção de uma proposta.<br><b>O que isso revela:</b> houve aprendizagens, mas a mobilização integrada dos conhecimentos ainda apresenta limitações.<br>\"},{\"titulo\":\"<b><font color=\\\"#06d7a0\\\">Integração Articulada</font></b><br>\",\"texto\":\"<b>Situação observada: </b>os(as) estudantes mobilizaram conhecimentos de diferentes componentes para analisar um desafio do território ou do mundo do trabalho, propor soluções e justificar suas escolhas.<br><b>O que isso revela:</b> a articulação dos saberes contribuiu para a análise da situação e a aplicação dos conhecimentos.<br>\"}]"
+     "items": "[{\"titulo\":\"<b><font color=\\\"#f04770\\\">Integração Fragmentada</font></b>\",\"texto\":\"<b>Situação observada:</b> os(as) estudantes produziram materiais ou apresentaram informações de diferentes componentes, mas não relacionaram os conhecimentos para compreender a situação estudada.<br><b>O que isso revela:</b> a prática reuniu contribuições de diferentes componentes, mas a integração não se concretizou como esperado.<br>\",\"corFundo\":\"#f04770\"},{\"titulo\":\"<b><font color=\\\"#fec43e\\\">Integração Parcial</font></b><br>\",\"texto\":\"<b>Situação observada:</b> os(as) estudantes utilizaram conhecimentos de diferentes componentes, mas tiveram dificuldades para relacioná-los na análise da situação ou na construção de uma proposta.<br><b>O que isso revela:</b> houve aprendizagens, mas a mobilização integrada dos conhecimentos ainda apresenta limitações.<br>\",\"corFundo\":\"#fec43e\"},{\"titulo\":\"<b><font color=\\\"#06d7a0\\\">Integração Articulada</font></b><br>\",\"texto\":\"<b>Situação observada: </b>os(as) estudantes mobilizaram conhecimentos de diferentes componentes para analisar um desafio do território ou do mundo do trabalho, propor soluções e justificar suas escolhas.<br><b>O que isso revela:</b> a articulação dos saberes contribuiu para a análise da situação e a aplicação dos conhecimentos.<br>\",\"corFundo\":\"#06d7a0\"}]"
     },
     "novo": false
    }
