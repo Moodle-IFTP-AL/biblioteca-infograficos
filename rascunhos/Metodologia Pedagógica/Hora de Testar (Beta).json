@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-11-17T11:31:04.040Z",
+ "quando": "2026-11-17T11:31:10.971Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -19,6 +19,7 @@
    "titulo": "Da Mediação à Prática Docente ",
    "texto": "Nesta aula, você relacionou evidências às necessidades de aprendizagem e elaborou uma proposta de intervenção com acompanhamento dos resultados.<br><br>Leve esse olhar aos seus projetos: observe como os(as) estudantes investigam, explicam e decidem.<br><br>Utilize essas informações para ajustar os apoios, mantendo os objetivos de aprendizagem e favorecendo a colaboração e a autonomia.<br>",
    "blocos": []
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29257"
  }
 }
