@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-11-17T11:25:55.501Z",
+ "quando": "2026-11-17T12:19:23.170Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -107,6 +107,22 @@
     }
    ]
   },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29255"
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29255",
+  "ajusteEixo": {
+   "eixo": "ADM",
+   "feitoEm": "2026-11-17T12:22:43.767Z",
+   "linhas": [
+    {
+     "tipo": "Link Página",
+     "nome": "(MET)HORADETESTAR-M4U06",
+     "de": 29255,
+     "para": 29255,
+     "situacao": "correto",
+     "mod": "page",
+     "rotulo": "link"
+    }
+   ],
+   "manuais": {}
+  }
  }
 }
