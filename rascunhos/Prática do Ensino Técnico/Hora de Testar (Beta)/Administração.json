@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-11-17T13:12:48.355Z",
+ "quando": "2026-11-17T13:17:22.619Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -20,7 +20,7 @@
   ],
   "conclusao": {
    "titulo": "Consolidando as Aprendizagens",
-   "texto": "Relacionar evidências a devolutivas exige observar além do resultado apresentado.<br>É importante identificar como os(as) estudantes: analisam problemas, mobilizam conhecimentos técnicos, aplicam procedimentos e justificam suas decisões.<br><br>Uma boa devolutiva reconhece o que foi demonstrado e indica, de forma objetiva, o que precisa ser desenvolvido e quais caminhos podem favorecer esse avanço.<br><br>Esse processo também oferece informações sobre sua própria prática:<br><ul><li>As estratégias utilizadas foram adequadas?<br></li><li>Os critérios de observação estavam claros?<br></li><li>Que ajustes podem melhorar o acompanhamento da aprendizagem?</li></ul>Assim, observar, registrar e oferecer devolutivas contribui tanto para o desenvolvimento dos(as) estudantes quanto para o aprimoramento da sua mediação.<br>",
+   "texto": "Relacionar evidências a devolutivas exige observar além do resultado apresentado.<br>É importante identificar como os(as) estudantes: analisam problemas, mobilizam conhecimentos técnicos, aplicam procedimentos e justificam suas decisões.<br><br>Uma boa devolutiva reconhece o que foi demonstrado e indica, de forma objetiva, o que precisa ser desenvolvido e quais caminhos podem favorecer esse avanço.<br><br>Esse processo também oferece informações sobre sua própria prática:<br><ul><li>As estratégias utilizadas foram adequadas?<br></li><li>Os critérios de observação estavam claros?<br></li><li>Que ajustes podem melhorar o acompanhamento da aprendizagem?</li></ul>Assim, observar, registrar e oferecer devolutivas contribui tanto para o desenvolvimento dos(as) estudantes quanto para o aprimoramento da sua mediação.<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -40,9 +40,10 @@
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29264"
  }
 }
