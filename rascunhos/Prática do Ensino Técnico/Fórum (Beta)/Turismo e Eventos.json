@@ -1,13 +1,13 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Turismo e Eventos",
- "quando": "2026-11-17T15:21:28.886Z",
+ "quando": "2026-11-17T15:22:20.289Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "objetivo": "Analisar uma prática técnica a partir das evidências de aprendizagem e dos efeitos das intervenções pedagógicas, identificando possibilidades de aprimoramento da atuação docente.<br>",
    "titulo": "<b>Analisar para aprimorar a prática</b><br>",
-   "conteudo": "Selecione uma prática técnica recente que você realizou com seus(suas) estudantes. Retome brevemente o objetivo da atividade e as principais ações desenvolvidas.<br><br><h3><b><font color=\"#f04770\">1. Reflita sobre sua atuação</font><br><br></b></h3>Com base nessa experiência, analise três aspectos:<br><ul><li><b>Evidências de aprendizagem:</b> o que você observou nas ações, falas ou produções dos(as) estudantes?<br></li><li><b>Intervenções pedagógicas:</b> como utilizou essas evidências para oferecer devolutivas ou ajustar suas estratégias durante a atividade?<br></li><li><b>Aprimoramento:</b> o que você manteria e o que poderia melhorar na sua atuação em uma próxima experiência?<br><br></li></ul><h3><b><font color=\"#f04770\">2. Compartilhe e interaja<br><br></font></b></h3>Publique sua análise no fórum, apresentando uma situação concreta e uma possibilidade de melhoria em sua prática.<br>Em seguida, leia a contribuição de pelo menos um(a) colega e comente uma ideia que considere relevante, explicando como ela poderia ser adaptada à sua própria prática técnica.<br>[CAIXADESTAQUE1]",
+   "conteudo": "Selecione uma prática técnica recente que você realizou com seus(suas) estudantes. Retome brevemente o objetivo da atividade e as principais ações desenvolvidas.<br><br><h3><b><font color=\"#f04770\">1. Reflita sobre sua atuação</font><br><br></b></h3>Com base nessa experiência, analise três aspectos:<br><ul><li><b>Evidências de aprendizagem:</b> o que você observou nas ações, falas ou produções dos(as) estudantes?<br></li><li><b>Intervenções pedagógicas:</b> como utilizou essas evidências para oferecer devolutivas ou ajustar suas estratégias durante a atividade?<br></li><li><b>Aprimoramento:</b> o que você manteria e o que poderia melhorar na sua atuação em uma próxima experiência?<br><br></li></ul><h3><b><font color=\"#f04770\">2. Compartilhe e interaja<br><br></font></b></h3>Publique sua análise no fórum, apresentando uma situação concreta e uma possibilidade de melhoria em sua prática.<br>Em seguida, leia a contribuição de pelo menos um(a) colega e comente uma ideia que considere relevante, explicando como ela poderia ser adaptada à sua própria prática técnica.<br>[CAIXADESTAQUE1]<br>[REVISAR1]",
    "instrucoesTitulo": "Sua participação deve conter:",
    "orientacoesTitulo": "Orientações para o formato:"
   },
@@ -45,7 +45,7 @@
     ],
     "linkBotao": "",
     "textoBotao": "",
-    "novo": true
+    "novo": false
    }
   ]
  }
