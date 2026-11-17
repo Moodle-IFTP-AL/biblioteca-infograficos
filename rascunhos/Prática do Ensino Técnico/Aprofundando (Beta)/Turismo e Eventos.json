@@ -1,99 +1,29 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Turismo e Eventos",
- "quando": "2026-11-12T14:16:51.801Z",
+ "quando": "2026-11-17T15:13:38.305Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do Conhecimento:</b><br>Evidências de aprendizagem na prática técnica.<br><b>Conteúdos:</b><br><ul><li>Ações, falas, produções e registros dos(as) estudantes.<br></li><li>Evidências observadas durante a prática.<br></li><li>Avanços e dificuldades identificados.<br></li><li>Relação entre evidências e objetivos de aprendizagem.<br></li><li>Evidências que confirmaram ou indicaram necessidade de ajuste na prática.<br></li></ul><b>Objetivo da Aula:</b><br>Analisar as evidências de aprendizagem produzidas durante uma prática técnica já realizada, relacionando-as aos objetivos de aprendizagem e às decisões pedagógicas tomadas.<br>",
-   "objetivo": "Identificar como as evidências produzidas durante uma prática técnica se relacionam aos objetivos de aprendizagem e podem orientar as decisões pedagógicas.<br>",
-   "titulo": "<b>Evidências da Aprendizagem: Observar para Avançar</b><br>",
-   "conteudo": "Você já terminou uma oficina técnica e ficou em dúvida sobre o que os(as) estudantes realmente aprenderam? Relembre uma prática de Turismo e Eventos que você realizou recentemente: o que fizeram, como agiram durante as etapas e o que produziram?<br><br>Essas lembranças ajudam a perceber que a aprendizagem se manifesta de diferentes formas. As ações, as falas, as produções e os registros dos(as) estudantes revelam como mobilizam conhecimentos, desenvolvem habilidades e enfrentam dificuldades.<br><br>Ao longo da prática, cada uma dessas manifestações constitui uma evidência que pode ser observada e analisada. Em vez de serem apenas resultados da atividade, essas manifestações oferecem pistas importantes para compreender o que já foi aprendido e o que ainda precisa ser desenvolvido.<br><br><h3><b><font color=\"#f04770\">Evidências de Aprendizagem</font></b></h3><br>Durante as práticas, você pode observar quatro tipos de evidências de aprendizagem:<br>[INFOGRAFICO1]<br><h3><b><font color=\"#f04770\">Alinhamento Pedagógico&nbsp;<br><br></font></b></h3>A análise das evidências começa no planejamento: o objetivo de aprendizagem define o que o(a) estudante precisa desenvolver, a experiência cria oportunidades para essa aprendizagem e as evidências permitem identificar o que foi alcançado.<br>Se o objetivo envolve explicar, é necessário observar a qualidade da explicação; se envolve executar um procedimento, é preciso acompanhar seu desempenho durante a prática.<br>[INFOGRAFICO2]<br><h3><b><font color=\"#f04770\">Analisando as Evidências</font></b></h3><br>Analisar as evidências após uma prática técnica significa relacionar o que os(as) estudantes fizeram, disseram, produziram ou registraram aos objetivos de aprendizagem. Essa análise permite identificar conhecimentos desenvolvidos, dificuldades persistentes e aspectos que precisam ser retomados. Assim, suas próximas decisões pedagógicas podem se apoiar em evidências concretas, e não apenas em uma impressão geral sobre o resultado da aula.<br><br><b><font color=\"#f04770\">Exemplos de análise de evidências</font></b><br>[ACCORDION1]<br>[GLOSSARIO1]",
-   "conectando": "Na próxima etapa, você vai aplicar essa análise a uma situação prática e transformar evidências em decisões pedagógicas.<br>"
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do conhecimento: </b>avaliação e devolutiva na prática técnica.<br><b>Conteúdos:</b><br><ul><li>critérios utilizados para acompanhar e avaliar a aprendizagem;<br></li><li>evidências consideradas na avaliação;<br></li><li>devolutivas realizadas durante ou após a prática;<br></li><li>relação entre devolutivas e avanços observados;<br></li><li>aspectos da avaliação que contribuíram para a aprendizagem;<br></li><li>aspectos a serem ajustados em novas experiências.</li></ul><b>Objetivo da aula: </b>analisar a eficácia de avaliações e devolutivas aplicadas em práticas técnicas, relacionando as evidências observadas aos avanços e às necessidades de aprimoramento da aprendizagem.<br>",
+   "objetivo": "Avaliar a própria mediação pedagógica após uma prática técnica, identificando ajustes para o aprimoramento de ações futuras.<br>",
+   "titulo": "<b>Refletir sobre a prática para transformar o ensino</b><br>",
+   "conteudo": "Após realizar uma prática técnica, reserve um momento para refletir sobre como você conduziu a atividade e mediou a aprendizagem.<br>Essa análise permite identificar:<br><ul><li>quais estratégias favoreceram a aprendizagem dos(as) estudantes;<br></li><li>quais dificuldades surgiram;<br></li><li>como eles(as) responderam às suas orientações.<br></li></ul>Ao considerar esses aspectos, você reconhece possibilidades de aprimoramento e pode ajustar suas intervenções em experiências futuras, tornando suas escolhas pedagógicas mais conscientes e alinhadas às necessidades da turma.<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">Analisar suas escolhas&nbsp;<br><br></font></b></h3>Avaliar uma prática técnica exige analisar não apenas os resultados apresentados pelos(as) estudantes, mas também as próprias decisões pedagógicas.<br><br>Em Turismo e Eventos, isso envolve refletir sobre como o planejamento, os recursos, a organização das atividades e as intervenções contribuíram para a aprendizagem, seja na elaboração de roteiros turísticos, na organização de eventos, no atendimento em meios de hospedagem ou na execução de serviços de bar e de restaurante.<br><br>Essa análise permite reconhecer estratégias eficazes, identificar dificuldades e planejar ajustes para novas experiências.<br><br><h3><b><font color=\"#f04770\">O que analisar?<br><br></font></b></h3>Conheça seis aspectos que ajudam você a analisar sua mediação pedagógica, reconhecer o que favoreceu a aprendizagem e identificar ajustes para suas próximas práticas técnicas.<br><br>",
+   "conectando": ""
   },
   "blocos": [
    {
-    "tipo": "infografico",
+    "tipo": "pergunta",
     "texto": "",
-    "infograficoTipo": "blocos_coloridos",
-    "infograficoData": {
-     "introducao": "",
-     "blocos": "[{\"titulo\":\"Ações\",\"texto\":\"O que o(a) estudante faz durante a prática. Revelam como mobiliza conhecimentos e procedimentos. Ex.: em Serviços de Bar e Restaurante, prepara uma mesa seguindo os padrões de montagem e organização.&nbsp;<br>\"},{\"titulo\":\"Falas\",\"texto\":\"O que explica ou justifica. Revelam como compreende e fundamenta suas escolhas. Ex.: em Guia de Turismo, explica como adapta as orientações do roteiro às características do grupo.&nbsp;<br>\"},{\"titulo\":\"Produções\",\"texto\":\"O que elabora como resultado da atividade. Revelam como aplica os conhecimentos. Ex.: em Artesanato, confecciona uma peça utilizando técnicas e materiais adequados à proposta.&nbsp;<br>\"},{\"titulo\":\"Registros\",\"texto\":\"O que anota, organiza ou documenta. Revelam como sistematiza informações e acompanha procedimentos. Ex.: em Hospedagem, registra solicitações e pendências dos hóspedes durante a troca de turno.&nbsp;<br>\"}]"
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "Vamos refletir?",
+     "texto": "Depois de uma prática técnica, como você analisa os resultados da sua mediação para identificar estratégias que favoreceram a aprendizagem e aspectos que precisam ser aprimorados nas próximas aulas?&nbsp;<br>",
+     "videoUrl": "",
+     "iframeH5P": ""
     },
-    "novo": false
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "lista_interativa",
-    "infograficoData": {
-     "titulo": "<b>Exemplo:</b>",
-     "linhas": "[\"<b>Objetivo:</b> conduzir o credenciamento dos(as) participantes de um evento seguindo o protocolo de recepção.&nbsp;<br>\",\"<b>Experiência:</b> simular o credenciamento de um seminário com lista de inscritos(as) e crachás.&nbsp;<br>\",\"<b>Evidências:</b> atendimento realizado na recepção e lista de presença preenchida.&nbsp;<br>\"]"
-    },
-    "novo": false
-   },
-   {
-    "tipo": "accordion",
-    "texto": "",
-    "topicos": [
-     {
-      "titulo": "Artesanato",
-      "texto": "<b>Evidência observada</b><br>Durante uma oficina de produção com fibras naturais, os(as) estudantes conseguiram selecionar e preparar os materiais, mas apresentaram dificuldade em calcular a quantidade necessária para produzir todas as peças previstas, gerando desperdício.<br><br><b>O que essa evidência revela</b><br>Demonstram domínio das etapas de preparação, mas ainda precisam desenvolver a capacidade de calcular o consumo de materiais e planejar a produção.<br><br><b>Decisão Pedagógica</b><br>Propor uma nova atividade de planejamento, na qual calculem a quantidade de matéria-prima necessária considerando as dimensões e o número de peças.<br>"
-     },
-     {
-      "titulo": "Eventos",
-      "texto": "<b>Evidência observada<br></b>Na elaboração de um plano de organização de uma feira escolar, os grupos distribuíram os espaços entre os expositores, mas não consideraram áreas de circulação suficientes para o público.<br><br><b>O que essa evidência revela<br></b>Conseguem organizar a distribuição dos espaços, mas ainda precisam considerar o fluxo de pessoas e as condições de circulação no planejamento.<br><b><br></b><b>Decisão Pedagógica<br></b>Apresentar diferentes plantas de eventos e propor a revisão do mapa de ocupação, considerando acessos, circulação e distribuição dos expositores.<br><b></b><b></b>"
-     },
-     {
-      "titulo": "Guia de Turismo",
-      "texto": "<b>Evidência observada</b><br>Em uma simulação de visita guiada a um patrimônio histórico, os(as) estudantes apresentaram informações sobre a construção, mas não conseguiram relacionar os acontecimentos históricos às características culturais da comunidade local.<br><br><b>O que essa evidência revela<br></b>Conseguem recuperar informações históricas, mas ainda precisam desenvolver a capacidade de contextualizá-las e relacioná-las à identidade cultural do território.<br><br><b>Decisão Pedagógica<br></b>Propor uma pesquisa sobre a história e as manifestações culturais da comunidade e realizar uma nova simulação de visita, incorporando essas relações à narrativa.<b></b><b></b>"
-     },
-     {
-      "titulo": "Hospedagem",
-      "texto": "<b>Evidência observada</b><br>Durante uma simulação de arrumação de unidades habitacionais, os(as) estudantes finalizaram a limpeza dos quartos, mas não identificaram itens danificados que precisavam ser comunicados à manutenção.<br><br><b>O que essa evidência revela</b><br>Dominam os procedimentos de limpeza, mas ainda precisam reconhecer a importância da inspeção e da comunicação de problemas para garantir as condições de uso dos espaços.<br><br><b>Decisão Pedagógica</b><br>Apresentar situações com diferentes tipos de avarias e propor uma nova prática de inspeção, com identificação e encaminhamento dos problemas encontrados.<br>"
-     },
-     {
-      "titulo": "Lazer",
-      "texto": "<b>Evidência observada</b><br>Na elaboração de uma atividade recreativa para um grupo de crianças, os(as) estudantes propuseram brincadeiras com regras que exigiam deslocamentos rápidos, sem prever alternativas para participantes com diferentes condições de mobilidade.<br><br><b>O que essa evidência revela</b><br>Conseguem selecionar atividades recreativas, mas ainda precisam considerar a diversidade dos(as) participantes e adaptar as propostas para garantir a participação de todos(as).<br><br><b>Decisão Pedagógica</b><br>Apresentar diferentes situações de participação e propor a adaptação das brincadeiras, considerando alternativas de execução e participação para todo o grupo.<br>"
-     },
-     {
-      "titulo": "Serviços de Bar e Restaurante",
-      "texto": "<b>Evidência observada</b><br>Durante uma prática de preparo de bebidas não alcoólicas, os(as) estudantes reproduziram corretamente as receitas, mas utilizaram quantidades diferentes dos ingredientes, produzindo bebidas com sabores distintos.<br><br><b>O que essa evidência revela</b><br>Conseguem executar as etapas de preparo, mas ainda precisam compreender a importância da padronização das medidas para manter a qualidade e a uniformidade dos produtos.<br><br><b>Decisão Pedagógica</b><br>Propor uma nova prática utilizando fichas técnicas e instrumentos de medição, comparando os resultados obtidos com as quantidades previstas nas receitas.<br>"
-     }
-    ],
-    "novo": false
-   },
-   {
-    "tipo": "glossario",
-    "texto": "",
-    "termos": [
-     {
-      "termo": "Evidências de aprendizagem",
-      "definicao": "Ações, falas, produções ou registros que mostram o que o(a) estudante aprendeu.<br>"
-     },
-     {
-      "termo": "Experiência de aprendizagem ",
-      "definicao": "Situação planejada para que o(a) estudante desenvolva e demonstre determinada aprendizagem.<br>"
-     },
-     {
-      "termo": "Decisão pedagógica",
-      "definicao": "Escolha docente fundamentada nas evidências e nas necessidades de aprendizagem identificadas.<br>"
-     }
-    ],
     "novo": false
    }
-  ],
-  "conclusao": {
-   "titulo": "Aprendizagem em Foco ",
-   "texto": "Analisar a aprendizagem exige articular o objetivo definido, a experiência proposta e as evidências produzidas pelos(as) estudantes.<br><br>Ao relacionar esses elementos, você identifica avanços, reconhece dificuldades e compreende o que ainda precisa ser desenvolvido.<br><br>Essa análise transforma o que aconteceu durante a prática em informações para orientar suas próximas decisões pedagógicas, ajustar estratégias e criar novas oportunidades de aprendizagem.<br>[TOMENOTA1]",
-   "blocos": [
-    {
-     "tipo": "tomenota",
-     "texto": "Ações, falas, produções e registros dos(as) estudantes são evidências de aprendizagem. Ao relacioná-las ao objetivo e à experiência proposta, você identifica avanços, dificuldades e necessidades de retomada, e decide os próximos passos da prática.<br>",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30624"
+  ]
  }
 }
