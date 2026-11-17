@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-11-17T11:24:00.415Z",
+ "quando": "2026-11-17T11:25:36.928Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>2 -</b> Avaliar a aprendizagem por competências, a partir de evidências das práticas pedagógicas e técnicas desenvolvidas pelos(as) estudantes, considerando a mobilização de conhecimentos gerais no contexto da Educação Profissional e Tecnológica, para orientar o planejamento e o replanejamento das aulas e o desenvolvimento dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>2.3</b> - Utilizar os resultados da avaliação para replanejar aulas, ajustar estratégias e orientar o desenvolvimento dos(as) estudantes.<br><b>Objeto do Conhecimento:</b><br>Mediação docente no desenvolvimento de projetos técnicos.<br><b>Conteúdos:</b><br><ul><li>Acompanhamento do percurso dos(as) estudantes.<br></li><li>Intervenção pedagógica durante o projeto.<br></li><li>Ajustes de rota com base nas evidências observadas.<br></li><li>Apoio à autonomia, à colaboração e à tomada de decisão dos(as) estudantes.<br></li></ul><b>Objetivo:&nbsp;</b><br>Definir estratégias de mediação docente com base nas evidências de aprendizagem, considerando as necessidades dos(as) estudantes e os ajustes necessários ao desenvolvimento de projetos técnicos integrados.<br>",
    "objetivo": "Analisar evidências de aprendizagem para identificar necessidades dos(as) estudantes e definir estratégias de mediação e ajustes no desenvolvimento de projetos técnicos integrados.<br>",
    "titulo": "<b>Como Mediar o Desenvolvimento do Projeto?</b><br>",
-   "conteudo": "Na aula anterior, discutimos como organizar etapas, entregas e responsabilidades do projeto.<br><br>Durante a elaboração do croqui da oficina, um grupo propõe mudar os materiais de lugar, mas não consegue explicar como isso melhora a circulação.<br>[PERGUNTA1]<br>Nesta aula, você vai analisar evidências e decidir como intervir para apoiar os(as) estudantes na construção de respostas fundamentadas.<br><br><h3><b><font color=\"#f04770\">Quando e como Intervir&nbsp;</font></b></h3><br>Acompanhar o projeto exige observar o que os(as) estudantes fazem, produzem e explicam durante as etapas. Essas evidências ajudam a identificar avanços, dificuldades e conhecimentos que ainda precisam ser mobilizados. Na oficina, observe como utilizam medidas e conhecimentos técnicos para analisar a circulação.<br>[INFOGRAFICO1]<br><h3><b><font color=\"#f04770\">Escolhendo o Apoio Necessário&nbsp;&nbsp;<br><br></font></b></h3>As evidências ajudam a decidir quais apoios oferecer e o que ajustar no planejamento. Se um grupo propõe mudanças na oficina sem justificá-las, investigue como utilizou os registros antes de definir a intervenção.<br>[INFOGRAFICO2]<br>[CAIXADESTAQUE1]<br>[VIDEO1]<br><b><font color=\"#f04770\">Da Observação à Intervenção Docente&nbsp;</font></b><br>[INFOGRAFICO3]<br>",
+   "conteudo": "Na aula anterior, discutimos como organizar etapas, entregas e responsabilidades do projeto.[GLOSSARIO1]<br><br>Durante a elaboração do croqui da oficina, um grupo propõe mudar os materiais de lugar, mas não consegue explicar como isso melhora a circulação.<br>[PERGUNTA1]<br>Nesta aula, você vai analisar evidências e decidir como intervir para apoiar os(as) estudantes na construção de respostas fundamentadas.<br><br><h3><b><font color=\"#f04770\">Quando e como Intervir&nbsp;</font></b></h3><br>Acompanhar o projeto exige observar o que os(as) estudantes fazem, produzem e explicam durante as etapas. Essas evidências ajudam a identificar avanços, dificuldades e conhecimentos que ainda precisam ser mobilizados. Na oficina, observe como utilizam medidas e conhecimentos técnicos para analisar a circulação.<br>[INFOGRAFICO1]<br><h3><b><font color=\"#f04770\">Escolhendo o Apoio Necessário&nbsp;&nbsp;<br><br></font></b></h3>As evidências ajudam a decidir quais apoios oferecer e o que ajustar no planejamento. Se um grupo propõe mudanças na oficina sem justificá-las, investigue como utilizou os registros antes de definir a intervenção.<br>[INFOGRAFICO2]<br>[CAIXADESTAQUE1]<br>[VIDEO1]<br><b><font color=\"#f04770\">Da Observação à Intervenção Docente&nbsp;</font></b><br>[INFOGRAFICO3]<br>",
    "conectando": "Agora que você aprendeu a relacionar evidências às necessidades de aprendizagem e propor intervenções, avance para a próxima seção e amplie suas estratégias de acompanhamento dos projetos.<br>"
   },
   "blocos": [
@@ -69,6 +69,25 @@
      "titulo": "",
      "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Lupa%20%282%29.png\",\"titulo\":\"<h3><b>Observar as evidências</b></h3>\",\"texto\":\"Analise as produções, explicações e decisões dos(as) estudantes. Identifique o que já conseguem demonstrar e quais aprendizagens ainda precisam desenvolver.<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/Alvo.png\",\"titulo\":\"<h3><b>Interpretar as necessidades</b></h3>\",\"texto\":\"Relacione as evidências aos objetivos de aprendizagem. Converse com os(as) estudantes para compreender suas dificuldades e identificar qual apoio será necessário.&nbsp;<br>\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/M%C3%A3o%20L%C3%A1pis.png\",\"titulo\":\"<h3><b>Intervir e acompanhar</b></h3>\",\"texto\":\"Ofereça orientações, ajuste tempos ou atividades e incentive a tomada de decisões. Depois, observe as novas produções e explicações para verificar os avanços.&nbsp;<br>\"}]"
     },
+    "novo": false
+   },
+   {
+    "tipo": "glossario",
+    "texto": "",
+    "termos": [
+     {
+      "termo": "Mediação docente",
+      "definicao": "Atuação do(a) professor(a) que orienta aprendizagens e apoia a participação e as decisões dos(as) estudantes.<br>"
+     },
+     {
+      "termo": "Intervenção pedagógica",
+      "definicao": "Ação de apoio escolhida para atender uma necessidade de aprendizagem identificada.<br>"
+     },
+     {
+      "termo": "Ajuste de rota",
+      "definicao": "Mudança no percurso do projeto orientada pelas evidências e pelos objetivos de aprendizagem.<br>"
+     }
+    ],
     "novo": false
    }
   ],
