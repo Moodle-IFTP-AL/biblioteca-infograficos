@@ -1,67 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-11-17T10:41:30.824Z",
+ "quando": "2026-11-17T12:37:18.994Z",
  "autor": "Eduarda",
- "dados": {
-  "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do conhecimento: </b>avaliação e devolutiva na prática técnica.<br><b>Conteúdos:</b><br><ul><li>critérios utilizados para acompanhar e avaliar a aprendizagem;<br></li><li>evidências consideradas na avaliação;<br></li><li>devolutivas realizadas durante ou após a prática;<br></li><li>relação entre devolutivas e avanços observados;<br></li><li>aspectos da avaliação que contribuíram para a aprendizagem;<br></li><li>aspectos a serem ajustados em novas experiências.<br></li></ul><b>Objetivo da aula:</b> analisar a eficácia de avaliações e devolutivas aplicadas em práticas técnicas, relacionando as evidências observadas aos avanços e às necessidades de aprimoramento da aprendizagem.<br>",
-   "objetivo": "Avaliar a própria mediação pedagógica após uma prática técnica, identificando ajustes para o aprimoramento de ações futuras.<br>",
-   "titulo": "<b>Reflexões sobre as Práticas&nbsp;</b><br>",
-   "conteudo": "Após conduzir uma prática técnica, é preciso avaliar como ocorreu a mediação da aprendizagem dos(as) estudantes.<br><br>Essa reflexão crítica permite identificar:<br><ul><li>o que funcionou nas práticas das rotinas administrativas;<br></li><li>quais dificuldades surgiram;</li><li>quais intervenções podem ser ajustadas para qualificar, ainda mais, a formação profissional no contexto alagoano.</li></ul>[PERGUNTA1]<br><h3><span style=\"font-size: 1rem;\"></span><b><font color=\"#f04770\">A importância de refletir sobre a mediação</font></b></h3><br>A avaliação das aulas práticas no ensino técnico não se limita a verificar se os(as) estudantes conseguiram ou não realizar, mas também como você conduziu a aprendizagem.<br><br>Analisar sua própria mediação ajuda a compreender se:<br><ul><li>as orientações foram claras;<br></li><li>as estratégias utilizadas favoreceram a participação;<br></li><li>as intervenções responderam às dificuldades identificadas.</li></ul>Essa reflexão permite reconhecer o que funcionou, perceber aspectos que passaram despercebidos durante a aula e planejar ajustes para tornar as próximas experiências mais adequadas às necessidades de aprendizagem da turma.&nbsp;<span style=\"color: #ffffff;\"><b>[GLOSSARIO1]</b></span><br>[INFOGRAFICO1]<br>",
-   "conectando": "Na próxima etapa, você vai analisar situações reais do ensino técnico e debater as melhores estratégias. Siga em frente!<br>"
-  },
-  "blocos": [
-   {
-    "tipo": "pergunta",
-    "texto": "",
-    "pergunta": {
-     "tipo": "texto",
-     "titulo": "Para começar a refletir ",
-     "texto": "Depois de uma aula prática, quais pontos da aula você costuma utilizar para avaliar se suas orientações ajudaram os(as) estudantes a compreender os processos?<br>",
-     "videoUrl": "",
-     "iframeH5P": ""
-    },
-    "novo": false
-   },
-   {
-    "tipo": "glossario",
-    "texto": "",
-    "termos": [
-     {
-      "termo": "Devolutiva formativa",
-      "definicao": "Retorno fornecido ao(à) estudante para orientar a melhoria de seu desempenho técnico.<br>"
-     },
-     {
-      "termo": "Evidência de aprendizagem",
-      "definicao": "Indício observável que demonstra o domínio prático de um procedimento ou conceito por parte do(a) estudante.<br>"
-     }
-    ],
-    "novo": false
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "timeline_gavetas",
-    "infograficoData": {
-     "titulo": "<b>O que observar na sua atuação?</b>",
-     "subtitulo": "Pense sobre os seguintes aspectos ao avaliar as suas aulas:",
-     "gavetas": "[{\"imagem\":\"\",\"titulo\":\"<b>Critérios de avaliação</b>\",\"conteudo\":\"Retomar os critérios avaliativos aplicados nas aulas práticas de processos administrativos é importante para verificar a coerência com os objetivos planejados. Essa análise revela se as escolhas realmente avaliaram o domínio técnico dos(as) estudantes ou se os critérios precisam ser repensados.<br>\",\"porqueTexto\":\"<i>Os critérios de avaliação aplicados permitiram acompanhar, com clareza, o desenvolvimento das competências administrativas planejadas?</i>\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"<b>Evidências de aprendizagem</b><br>\",\"conteudo\":\"Revisitar as evidências observadas e registradas durante a execução das tarefas ajuda a compreender quais avanços e dificuldades reais a turma apresentou.<br>\",\"porqueTexto\":\"<i>Em quais dados concretos da tarefa baseei minha avaliação do desempenho dos(as) estudantes?</i><br>\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"<b>Devolutivas aos(às) estudantes</b>\",\"conteudo\":\"Analisar as devolutivas oferecidas aos(às) estudantes pode indicar se as orientações foram diretas e eficazes para corrigir ou validar o desempenho da turma.<br>\",\"porqueTexto\":\"<i>Minhas devolutivas foram claras o suficiente para orientar o(a) estudante a aprimorar sua entrega técnica?</i><br>\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"<b>Efeitos das intervenções</b>\",\"conteudo\":\"Observar o que mudou após a sua intervenção permite perceber se houve uma evolução real no desempenho da turma.<br>\",\"porqueTexto\":\"<i>As orientações que forneci durante a prática geraram mudanças efetivas na execução da atividade pelos(as) estudantes?</i><br>\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"<b>Avaliação e aprendizagem</b><br>\",\"conteudo\":\"Refletir sobre as estratégias de avaliação ajuda a identificar quais escolhas favoreceram o desenvolvimento do raciocínio técnico-administrativo e quais devem ser repensadas.<br>\",\"porqueTexto\":\"<i>De que maneira o processo avaliativo contribuiu para consolidar a aprendizagem técnica?</i><br>\",\"porqueTitulo\":\"Reflita: \"},{\"imagem\":\"\",\"titulo\":\"<b>O que ajustar na próxima prática</b><br>\",\"conteudo\":\"Utilizar essa análise para planejar mudanças concretas nas novas aulas favorece a melhoria contínua da mediação pedagógica.\",\"porqueTexto\":\"<i>O que posso modificar na minha condução para tornar a próxima prática mais eficaz?</i><br>\",\"porqueTitulo\":\"Reflita:\"}]"
-    },
-    "novo": false
-   }
-  ],
-  "conclusao": {
-   "titulo": "Transforme a reflexão em aprimoramento ",
-   "texto": "Analisar a própria mediação envolve olhar para diferentes momentos da prática: os critérios utilizados, as evidências de aprendizagem, as devolutivas oferecidas e os efeitos das intervenções realizadas.<br><br>Ao relacionar esses aspectos, você consegue compreender como suas escolhas influenciaram a aprendizagem e transformar essa análise em ajustes concretos para o planejamento e a condução de novas experiências.<br>[DICA1]",
-   "blocos": [
-    {
-     "tipo": "dica",
-     "texto": "Ao final de cada prática de gestão, registre rapidamente no diário de bordo três pontos fortes da aula e dois gargalos observados. Isso facilitará o planejamento das próximas aulas.<br>",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=32521"
- }
+ "dados": {}
 }
