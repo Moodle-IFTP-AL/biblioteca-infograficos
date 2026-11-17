@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Residência Pedagógica/Tarefa Residência Pedagógica",
- "quando": "2026-11-17T11:40:10.312Z",
+ "quando": "2026-11-17T11:40:37.038Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -57,6 +57,16 @@
     "infograficoTipo": "tabela_completa",
     "infograficoData": {
      "tabela": "{\"titulo\":\"\",\"subtitulo\":\"\",\"colunas\":[\"<b>Evidência ou registro observado&nbsp;</b>\",\"<b>Critério de aprendizagem relacionado</b><br>\",\"<b>O que essa informação revela sobre a aprendizagem?</b>\"],\"linhas\":[[\"<i>Ex.: Produções apresentadas pelos(as) estudantes.&nbsp;</i>\",\"<i>Identificar riscos e justificar medidas de prevenção.</i><br>\",\"<i>A maioria identificou os riscos, mas parte da turma apresentou dificuldades para justificar medidas preventivas.</i><br>\"]]}"
+    },
+    "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "lista_interativa",
+    "infograficoData": {
+     "titulo": "Para orientar sua análise, reflita:<br>",
+     "linhas": "[\"Quais objetivos de aprendizagem foram alcançados? Quais foram alcançados parcialmente ou não foram alcançados?&nbsp;<br>\",\"Que padrões e diferenças aparecem nos resultados dos(as) estudantes?\",\"As estratégias utilizadas foram coerentes com os objetivos e as necessidades da turma?&nbsp;<br>\",\"Que relações podem ser identificadas entre as estratégias pedagógicas e os resultados observados?&nbsp;<br>\",\"Quais evidências sustentam sua interpretação? Há aspectos que ainda precisam ser investigados?&nbsp;<br>\"]"
     },
     "novo": false
    }
