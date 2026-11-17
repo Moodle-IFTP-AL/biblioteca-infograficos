@@ -1,7 +1,52 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Gestão Imobiliária",
- "quando": "2026-11-17T14:46:07.063Z",
+ "quando": "2026-11-17T14:49:14.579Z",
  "autor": "Eduarda",
- "dados": {}
+ "dados": {
+  "campos": {
+   "objetivo": "Analisar uma prática técnica realizada, considerando as evidências observadas e as intervenções realizadas, e identificar possibilidades de aprimoramento da própria atuação docente.<br>",
+   "titulo": "<b>Da Evidência à Melhoria da Prática Docente&nbsp;</b><br>",
+   "conteudo": "Escolha uma prática técnica recente que tenha desenvolvido com seus(suas) estudantes. Pode ser uma simulação de atendimento condominial, a organização de procedimentos administrativos, a análise de contratos, a avaliação de imóveis ou a simulação de negociação imobiliária.<br>Descreva brevemente o objetivo da atividade e os critérios utilizados para acompanhar a aprendizagem.<br><br><h3><b>1. Analise sua mediação</b></h3><p><b></b></p>A partir da experiência escolhida, reflita sobre os seguintes aspectos:<br><ul><li><b>Evidências:</b> quais resultados, ações ou produções dos(as) estudantes revelaram avanços ou dificuldades na aprendizagem? Apresente um exemplo concreto.<br></li><li><b>Devolutiva:</b> que orientação ou intervenção você realizou diante do que observou?<br></li><li><b>Efeitos:</b> houve melhoria no desempenho após a intervenção? Quais dificuldades persistiram?<br></li><li><b>Aprimoramento:</b> o que você faria diferente em uma próxima experiência? Justifique sua escolha.<br></li></ul><h3><b>2. Compartilhe e interaja</b></h3><p><b></b></p>Publique sua reflexão no fórum. Depois, comente a contribuição de um(a) colega, relacionando uma das estratégias apresentadas à sua própria experiência docente e explicando como poderia incorporá-la ou adaptá-la.<br>[CAIXADESTAQUE1]",
+   "instrucoesTitulo": "Sua participação deve conter:",
+   "orientacoesTitulo": "Orientações para o formato:"
+  },
+  "blocos": [
+   {
+    "tipo": "caixadestaque",
+    "texto": "<b>Atenção:</b> fundamente sua análise em evidências concretas da prática, evitando respostas baseadas apenas em impressões gerais.",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#fdf0f3",
+    "caixaCorBorda": "#f04770",
+    "novo": false,
+    "caixaCorTexto": "#0a3442"
+   },
+   {
+    "tipo": "revisar",
+    "texto": "Revisite as aulas abaixo para retomar aspectos da demonstração, da orientação e da gestão da prática técnica e aprofundar a análise da sua atuação.<br>",
+    "idRevisar": "mwkta02bmpdofy",
+    "itensRevisar": [
+     {
+      "id": "mwkta48ah056gi",
+      "texto": "Módulo 1 – Unidade 7: Demonstração técnica aplicada ao projeto ABP.&nbsp;<br>",
+      "link": ""
+     },
+     {
+      "id": "mwkta4hchqviy7",
+      "texto": "Módulo 1 – Unidade 8: Preparação de demonstrações técnicas.&nbsp;<br>",
+      "link": ""
+     },
+     {
+      "id": "mwkta4qumbglq9",
+      "texto": "",
+      "link": ""
+     }
+    ],
+    "linkBotao": "",
+    "textoBotao": "",
+    "novo": true
+   }
+  ]
+ }
 }
