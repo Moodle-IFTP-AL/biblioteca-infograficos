@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-11-17T11:14:54.126Z",
+ "quando": "2026-11-17T11:17:59.067Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>2 -</b> Avaliar a aprendizagem por competências, a partir de evidências das práticas pedagógicas e técnicas desenvolvidas pelos(as) estudantes, considerando a mobilização de conhecimentos gerais no contexto da Educação Profissional e Tecnológica, para orientar o planejamento e o replanejamento das aulas e o desenvolvimento dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>2.3</b> - Utilizar os resultados da avaliação para replanejar aulas, ajustar estratégias e orientar o desenvolvimento dos(as) estudantes.<br><b>Objeto do Conhecimento:</b><br>Mediação docente no desenvolvimento de projetos técnicos.<br><b>Conteúdos:</b><br><ul><li>Acompanhamento do percurso dos(as) estudantes.<br></li><li>Intervenção pedagógica durante o projeto.<br></li><li>Ajustes de rota com base nas evidências observadas.<br></li><li>Apoio à autonomia, à colaboração e à tomada de decisão dos(as) estudantes.<br></li></ul><b>Objetivo:&nbsp;</b><br>Definir estratégias de mediação docente com base nas evidências de aprendizagem, considerando as necessidades dos(as) estudantes e os ajustes necessários ao desenvolvimento de projetos técnicos integrados.<br>",
    "objetivo": "Analisar evidências de aprendizagem para identificar necessidades dos(as) estudantes e definir estratégias de mediação e ajustes no desenvolvimento de projetos técnicos integrados.<br>",
    "titulo": "<b>Como Mediar o Desenvolvimento do Projeto?</b><br>",
-   "conteudo": "Na aula anterior, discutimos como organizar etapas, entregas e responsabilidades do projeto.<br><br>Durante a elaboração do croqui da oficina, um grupo propõe mudar os materiais de lugar, mas não consegue explicar como isso melhora a circulação.<br>[PERGUNTA1]<br>Nesta aula, você vai analisar evidências e decidir como intervir para apoiar os(as) estudantes na construção de respostas fundamentadas.<br><br><h3><b><font color=\"#f04770\">Quando e como Intervir&nbsp;</font></b></h3><br>Acompanhar o projeto exige observar o que os(as) estudantes fazem, produzem e explicam durante as etapas. Essas evidências ajudam a identificar avanços, dificuldades e conhecimentos que ainda precisam ser mobilizados. Na oficina, observe como utilizam medidas e conhecimentos técnicos para analisar a circulação.<br><br>",
+   "conteudo": "Na aula anterior, discutimos como organizar etapas, entregas e responsabilidades do projeto.<br><br>Durante a elaboração do croqui da oficina, um grupo propõe mudar os materiais de lugar, mas não consegue explicar como isso melhora a circulação.<br>[PERGUNTA1]<br>Nesta aula, você vai analisar evidências e decidir como intervir para apoiar os(as) estudantes na construção de respostas fundamentadas.<br><br><h3><b><font color=\"#f04770\">Quando e como Intervir&nbsp;</font></b></h3><br>Acompanhar o projeto exige observar o que os(as) estudantes fazem, produzem e explicam durante as etapas. Essas evidências ajudam a identificar avanços, dificuldades e conhecimentos que ainda precisam ser mobilizados. Na oficina, observe como utilizam medidas e conhecimentos técnicos para analisar a circulação.<br>[INFOGRAFICO1]<br><h3><b><font color=\"#f04770\">Escolhendo o Apoio Necessário&nbsp;&nbsp;<br><br></font></b></h3>As evidências ajudam a decidir quais apoios oferecer e o que ajustar no planejamento. Se um grupo propõe mudanças na oficina sem justificá-las, investigue como utilizou os registros antes de definir a intervenção.<br>[INFOGRAFICO2]<br>[CAIXADESTAQUE1]",
    "conectando": ""
   },
   "blocos": [
@@ -23,6 +23,43 @@
      "iframeH5P": ""
     },
     "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "cards_icones_setas",
+    "infograficoData": {
+     "titulo": "",
+     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/documentos.png\",\"titulo\":\"<b>Evidências</b>\",\"texto\":\"Verifique se as produções, as explicações e as decisões relacionam medidas, obstáculos e melhorias propostas.&nbsp;<br>\",\"corFundo\":\"#beeffc\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2012.png\",\"titulo\":\"<b>Acompanhamento</b>\",\"texto\":\"Converse com os(as) estudantes para compreender como chegaram às escolhas. Observe se diferentes integrantes conseguem explicar e justificar as decisões do grupo.&nbsp;<br>\",\"corFundo\":\"#f0fdf4\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Arquivo%20preparado.png\",\"titulo\":\"<b>Registro</b>\",\"texto\":\"Anote a etapa, os(as) estudantes envolvidos(as) e o que demonstraram ou ainda precisam desenvolver. Essas informações ajudam a orientar as intervenções e acompanhar os avanços.&nbsp;<br>\",\"corFundo\":\"#fefce8\"}]"
+    },
+    "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "blocos_coloridos",
+    "infograficoData": {
+     "introducao": "",
+     "blocos": "[{\"titulo\":\"<b>Intervenção docente</b>\",\"texto\":\"Peça aos(às) integrantes que comparem o croqui com as medidas e expliquem os efeitos das mudanças na circulação.&nbsp;<br>\"},{\"titulo\":\"Ajustes\",\"texto\":\"Reserve tempo para retomar registros ou realizar novas medições, conforme a dificuldade identificada.&nbsp;<br>\"},{\"titulo\":\"Tomada de decisão\",\"texto\":\"Se faltam dados, oriente sua coleta; se há dificuldade de análise, apoie a comparação entre alternativas.&nbsp;<br>\"},{\"titulo\":\"Autonomia\",\"texto\":\"Proponha perguntas que ajudem os(as) estudantes a discutir possibilidades e justificar suas escolhas, sem antecipar a solução.\"}]"
+    },
+    "novo": false
+   },
+   {
+    "tipo": "caixadestaque",
+    "texto": "<b>Depois da intervenção, observe as novas produções e explicações. Verifique se os(as) estudantes conseguem relacionar os dados às melhorias propostas e decida se o apoio oferecido foi suficiente ou precisa ser revisto.</b><br>",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#fdf0f3",
+    "caixaCorBorda": "#f04770",
+    "novo": false,
+    "caixaCorTexto": "#0a3442"
+   },
+   {
+    "tipo": "video",
+    "texto": "Acompanhe como um(a) professor(a) identifica uma dificuldade durante o projeto, interpreta as evidências e escolhe uma intervenção que favorece a análise e as decisões dos(as) estudantes.<br>",
+    "titulo": "Vamos Ver na Prática? ",
+    "url": "",
+    "novo": true
    }
   ]
  }
