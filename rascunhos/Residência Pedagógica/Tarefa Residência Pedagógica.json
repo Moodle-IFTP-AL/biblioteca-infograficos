@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Residência Pedagógica/Tarefa Residência Pedagógica",
- "quando": "2026-11-17T11:50:05.776Z",
+ "quando": "2026-11-17T11:54:10.786Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -169,6 +169,12 @@
     "textoBotao": "",
     "novo": false
    }
-  ]
+  ],
+  "rubricaUrl": "https://drive.google.com/open?id=1XRRFLsgblAt4WlIODiTcKXZkdo2vul2H&usp=drive_copy",
+  "conclusao": {
+   "titulo": "Para Finalizar",
+   "texto": "Esta última evidência <b>marca o encerramento da Residência Pedagógica</b> e a consolidação das aprendizagens construídas ao longo da formação.<br><br>Ao analisar os resultados dos(as) estudantes, avaliar as escolhas pedagógicas e reconhecer os aprendizados do percurso, você fortalece a capacidade de refletir criticamente sobre sua atuação e fundamentar novas decisões de ensino.<br><br><b>Os aprendizados da Residência Pedagógica permanecem como referências para o aprimoramento contínuo da prática docente.</b><br>",
+   "blocos": []
+  }
  }
 }
