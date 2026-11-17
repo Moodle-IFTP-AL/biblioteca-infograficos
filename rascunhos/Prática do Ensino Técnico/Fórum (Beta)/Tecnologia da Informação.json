@@ -1,13 +1,13 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Tecnologia da Informação",
- "quando": "2026-11-17T15:03:23.771Z",
+ "quando": "2026-11-17T15:07:56.778Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "objetivo": "Analisar uma prática técnica a partir das evidências de aprendizagem e dos efeitos das intervenções pedagógicas, identificando possibilidades de aprimoramento da própria atuação docente.<br>",
    "titulo": "<b>Análise da mediação: refletindo sobre a prática</b><br>",
-   "conteudo": "Escolha uma prática técnica recente realizada com seus(suas) estudantes nos cursos do eixo de Tecnologia da Informação. Pode ser uma atividade de laboratório, a utilização de softwares, a manutenção de equipamentos, a configuração de redes ou a resolução de problemas técnicos.<br>Apresente brevemente a proposta e os objetivos de aprendizagem.<br><br><h3><b><font color=\"#f04770\">1. Analise sua mediação<br><br></font></b></h3>A partir da experiência escolhida, reflita sobre os seguintes aspectos:<br><ul><li><b>Evidências:</b> o que você observou nas ações, falas ou produções dos(as) estudantes? Quais avanços ou dificuldades foram identificados?<br></li><li><b>Intervenções:</b> que estratégias, orientações ou devolutivas você utilizou durante a atividade?<br></li><li><b>Efeitos:</b> como suas intervenções influenciaram a aprendizagem? O que funcionou e quais dificuldades permaneceram?<br></li><li><b>Aprimoramento:</b> o que você manteria e o que faria diferente em uma próxima prática?<br><br></li></ul><h3><b><font color=\"#f04770\">3. Compartilhe e dialogue</font><br><br></b></h3>Publique sua reflexão no fórum. Depois, leia a contribuição de pelo menos um(a) colega do eixo e comente, destacando uma estratégia que considere relevante ou propondo uma possibilidade de aprimoramento relacionada à sua própria atuação pedagógica nas turmas de Alagoas.<br>[CAIXADESTAQUE1]",
+   "conteudo": "Escolha uma prática técnica recente realizada com seus(suas) estudantes nos cursos do eixo de Tecnologia da Informação. Pode ser uma atividade de laboratório, a utilização de softwares, a manutenção de equipamentos, a configuração de redes ou a resolução de problemas técnicos.<br>Apresente brevemente a proposta e os objetivos de aprendizagem.<br><br><h3><b><font color=\"#f04770\">1. Analise sua mediação<br><br></font></b></h3>A partir da experiência escolhida, reflita sobre os seguintes aspectos:<br><ul><li><b>Evidências:</b> o que você observou nas ações, falas ou produções dos(as) estudantes? Quais avanços ou dificuldades foram identificados?<br></li><li><b>Intervenções:</b> que estratégias, orientações ou devolutivas você utilizou durante a atividade?<br></li><li><b>Efeitos:</b> como suas intervenções influenciaram a aprendizagem? O que funcionou e quais dificuldades permaneceram?<br></li><li><b>Aprimoramento:</b> o que você manteria e o que faria diferente em uma próxima prática?<br><br></li></ul><h3><b><font color=\"#f04770\">3. Compartilhe e dialogue</font><br><br></b></h3>Publique sua reflexão no fórum. Depois, leia a contribuição de pelo menos um(a) colega do eixo e comente, destacando uma estratégia que considere relevante ou propondo uma possibilidade de aprimoramento relacionada à sua própria atuação pedagógica nas turmas de Alagoas.<br>[CAIXADESTAQUE1]<br>[REVISAR1]",
    "instrucoesTitulo": "Sua participação deve conter:",
    "orientacoesTitulo": "Orientações para o formato:"
   },
@@ -45,7 +45,7 @@
     ],
     "linkBotao": "",
     "textoBotao": "",
-    "novo": true
+    "novo": false
    }
   ]
  }
