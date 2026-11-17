@@ -1,15 +1,15 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão Imobiliária",
- "quando": "2026-11-17T14:43:17.766Z",
+ "quando": "2026-11-17T14:44:29.974Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do conhecimento: </b>avaliação e devolutiva na prática técnica.<br><b>Conteúdos:</b><br><ul><li>critérios utilizados para acompanhar e avaliar a aprendizagem;<br></li><li>evidências consideradas na avaliação;<br></li><li>devolutivas realizadas durante ou após a prática;<br></li><li>relação entre devolutivas e avanços observados;<br></li><li>aspectos da avaliação que contribuíram para a aprendizagem;<br></li><li>aspectos a serem ajustados em novas experiências.<br></li></ul><b>Objetivo da aula:</b> analisar a eficácia de avaliações e devolutivas aplicadas em práticas técnicas, relacionando as evidências observadas aos avanços e às necessidades de aprimoramento da aprendizagem.<br>",
    "objetivo": "Avaliar a própria mediação pedagógica após uma prática técnica, identificando ajustes para o aprimoramento de ações futuras.<br>",
    "titulo": "<b>Avaliar a Prática para Aprimorar a Mediação&nbsp;</b><br>",
-   "conteudo": "Concluir uma atividade técnica não significa encerrar o processo de aprendizagem.<br><br>Após a prática, é importante:<br><ul><li>retomar suas decisões pedagógicas;<br></li><li>examinar as evidências produzidas pelos(as) estudantes;<br></li><li>avaliar as orientações oferecidas.</li></ul>No eixo de Gestão Imobiliária, essa reflexão permite analisar como os(as) estudantes aplicaram procedimentos como a elaboração de contratos de locação, a gestão de conflitos condominiais e a condução de negociações imobiliárias, identificando dificuldades e ajustes para futuras experiências.<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">Analisar suas escolhas</font></b></h3><br>Vamos imaginar uma atividade em que estudantes analisaram os procedimentos de controle de acesso de prestadores(as) de serviço em um condomínio de uso misto, em Maceió.<br><br>Alguns(mas) identificaram inconsistências nos registros, enquanto outros(as) apresentaram soluções sem justificar suas escolhas.<br><br>Ao revisitar essa experiência, você pode analisar como o planejamento, os recursos, a organização da atividade, as estratégias de acompanhamento e as intervenções influenciaram a aprendizagem.<br><br>Essa reflexão ajuda a reconhecer escolhas eficazes, identificar dificuldades e planejar ajustes para práticas futuras, inclusive em atividades de negociação e de gestão de contratos imobiliários.<br><br><h3><font color=\"#f04770\"><b>O que analisar?<br></b><br></font></h3>Após a realização de uma atividade técnica, analisar a própria mediação docente exige examinar os critérios adotados, as evidências de aprendizagem produzidas e os efeitos das intervenções realizadas. Considere a simulação de uma atividade em que os(as) estudantes organizaram os procedimentos de cadastro e autorização de prestadores de serviço em um condomínio de uso misto. Essa experiência permite refletir sobre seis aspectos fundamentais.<br>[INFOGRAFICO1]",
-   "conectando": ""
+   "conteudo": "Concluir uma atividade técnica não significa encerrar o processo de aprendizagem.<br><br>Após a prática, é importante:<br><ul><li>retomar suas decisões pedagógicas;<br></li><li>examinar as evidências produzidas pelos(as) estudantes;<br></li><li>avaliar as orientações oferecidas.</li></ul>No eixo de Gestão Imobiliária, essa reflexão permite analisar como os(as) estudantes aplicaram procedimentos como a elaboração de contratos de locação, a gestão de conflitos condominiais e a condução de negociações imobiliárias, identificando dificuldades e ajustes para futuras experiências.<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">Analisar suas escolhas</font></b></h3><br>Vamos imaginar uma atividade em que estudantes analisaram os procedimentos de controle de acesso de prestadores(as) de serviço em um condomínio de uso misto, em Maceió.[GLOSSARIO1]<br><br>Alguns(mas) identificaram inconsistências nos registros, enquanto outros(as) apresentaram soluções sem justificar suas escolhas.<br><br>Ao revisitar essa experiência, você pode analisar como o planejamento, os recursos, a organização da atividade, as estratégias de acompanhamento e as intervenções influenciaram a aprendizagem.<br><br>Essa reflexão ajuda a reconhecer escolhas eficazes, identificar dificuldades e planejar ajustes para práticas futuras, inclusive em atividades de negociação e de gestão de contratos imobiliários.<br><br><h3><font color=\"#f04770\"><b>O que analisar?<br></b><br></font></h3>Após a realização de uma atividade técnica, analisar a própria mediação docente exige examinar os critérios adotados, as evidências de aprendizagem produzidas e os efeitos das intervenções realizadas. Considere a simulação de uma atividade em que os(as) estudantes organizaram os procedimentos de cadastro e autorização de prestadores de serviço em um condomínio de uso misto. Essa experiência permite refletir sobre seis aspectos fundamentais.<br>[INFOGRAFICO1]<br><br>",
+   "conectando": "Agora, compartilhe uma experiência e descubra como as evidências da prática podem orientar novas decisões pedagógicas.<br>"
   },
   "blocos": [
    {
@@ -34,12 +34,38 @@
      "gavetas": "[{\"imagem\":\"\",\"titulo\":\"1. Critérios de avaliação\",\"conteudo\":\"Revisitar os critérios de avaliação permite verificar se contemplam as competências pretendidas. No exemplo, não basta conferir o preenchimento de um cadastro; é necessário verificar se o(a) estudante compreendeu a finalidade dos registros, os procedimentos de autorização e os cuidados necessários à proteção das informações pessoais.<br>\",\"porqueTexto\":\"Os critérios adotados permitiram avaliar o raciocínio técnico dos(as) estudantes ou se limitaram a verificar o cumprimento das etapas?&nbsp;<br>\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"2. Evidências de aprendizagem&nbsp;<br>\",\"conteudo\":\"As evidências revelam como os(as) estudantes mobilizaram conhecimentos ao longo da atividade. Registros preenchidos, justificativas apresentadas e decisões tomadas permitem identificar avanços e dificuldades. Ao analisá-las, você pode compreender quais aprendizagens foram desenvolvidas e quais dificuldades persistem.&nbsp;<br>\",\"porqueTexto\":\"Quais registros ou produções evidenciaram a aprendizagem pretendida para a atividade?&nbsp;<br>\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"3. Devolutivas aos(às) estudantes&nbsp;<br>\",\"conteudo\":\"Uma devolutiva construtiva orienta o aprimoramento, levando o(a) estudante a identificar as informações indispensáveis e a justificar sua relevância no procedimento.\",\"porqueTexto\":\"Minhas devolutivas esclareceram o que precisava ser aprimorado e por quê?&nbsp;<br>\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"4. Efeitos das intervenções\",\"conteudo\":\"Analisar uma intervenção docente significa verificar seus efeitos sobre a aprendizagem. Se, após a orientação, o(a) estudante revisou o procedimento, corrigiu inconsistências e passou  a fundamentar melhor suas decisões, há evidências de avanço. Caso as dificuldades persistam, é necessário considerar outras estratégias de intervenção.&nbsp;<br>\",\"porqueTexto\":\"O desempenho dos(as) estudantes apresentou mudanças observáveis após minha intervenção?\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"5. Avaliação e aprendizagem&nbsp;<br>\",\"conteudo\":\"A avaliação contribui para a aprendizagem quando permite compreender os resultados alcançados e orientar novas ações pedagógicas. Comparar produções iniciais e revisadas ajuda a identificar quais estratégias favoreceram o desenvolvimento da aprendizagem técnica.&nbsp;<br>\",\"porqueTexto\":\"A avaliação permitiu compreender o processo de aprendizagem dos(as) estudantes ou limitou-se à atribuição de resultados?&nbsp;<br>\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"6. O que ajustar na próxima prática\",\"conteudo\":\"A análise deve se traduzir em decisões pedagógicas concretas que apoiem a melhoria contínua da prática pedagógica.&nbsp;<br>\",\"porqueTexto\":\"Que mudança concreta realizarei na próxima prática para tornar minha mediação mais eficaz?&nbsp;<br>\",\"porqueTitulo\":\"Reflita:\"}]"
     },
     "novo": false
+   },
+   {
+    "tipo": "glossario",
+    "texto": "",
+    "termos": [
+     {
+      "termo": "Condomínio de uso misto",
+      "definicao": "Empreendimento que reúne unidades residenciais e comerciais, o que exige procedimentos específicos de gestão e de convivência.&nbsp;<br>"
+     },
+     {
+      "termo": "Rastreabilidade dos registros",
+      "definicao": "Possibilidade de acompanhar e verificar as informações registradas, identificando os procedimentos executados e eventuais inconsistências."
+     }
+    ],
+    "novo": false
    }
   ],
   "conclusao": {
    "titulo": "Da reflexão à ação ",
-   "texto": "",
-   "blocos": []
+   "texto": "Analisar a própria mediação docente  permite compreender como os critérios de avaliação, as evidências e as devolutivas influenciaram a aprendizagem dos(as) estudantes. \n<br>\n<br>Ao identificar avanços, dificuldades persistentes e efeitos das intervenções, é possível transformar informações da prática em decisões pedagógicas fundamentadas. \n<br>\n<br>Essa reflexão contribui para aprimorar os procedimentos de acompanhamento, fortalecer a autonomia dos(as) estudantes e planejar experiências de aprendizagem mais alinhadas aos objetivos de formação profissional.&nbsp;<br>[TOMENOTA1]<br>[DICA1]",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "Ao analisar uma prática técnica, considere não apenas o resultado final, mas também as decisões tomadas, os procedimentos realizados, as dificuldades enfrentadas e as justificativas dos(as) estudantes. Essas evidências ajudam a identificar avanços na aprendizagem e aspectos a serem aprimorados.<br>",
+     "novo": false
+    },
+    {
+     "tipo": "dica",
+     "texto": "Ao final de uma prática, peça aos(às) estudantes que registrem uma decisão técnica tomada, uma dificuldade enfrentada e como resolveriam a situação caso a enfrentassem novamente. Utilize essas respostas para identificar necessidades de aprendizagem e planejar novas intervenções.<br>",
+     "novo": false
+    }
+   ]
   }
  }
 }
