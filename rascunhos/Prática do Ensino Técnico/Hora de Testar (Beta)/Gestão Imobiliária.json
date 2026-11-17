@@ -1,52 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão Imobiliária",
- "quando": "2026-11-13T16:16:18.073Z",
+ "quando": "2026-11-17T14:46:02.807Z",
  "autor": "Eduarda",
- "dados": {
-  "campos": {
-   "objetivo": "Analisar evidências de aprendizagem em uma prática técnica para propor encaminhamentos pedagógicos.<br>",
-   "titulo": "<b>Das Evidências às Decisões Pedagógicas</b><br>",
-   "conteudo": "",
-   "reflexao": ""
-  },
-  "atividades": [
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32216\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"GIM-M4-U04-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   }
-  ],
-  "conclusao": {
-   "titulo": "Planejando Novos Caminhos ",
-   "texto": "As evidências de aprendizagem ganham significado quando são interpretadas à luz dos objetivos propostos.<br><br>Ao observar avanços e dificuldades, você poderá tomar decisões pedagógicas mais fundamentadas.<br><br>Nas próximas práticas, valorize os registros, as explicações e as ações dos(as) estudantes como oportunidades de compreender e aprimorar a aprendizagem.<br>[REVISAR1]",
-   "blocos": [
-    {
-     "tipo": "revisar",
-     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:<br>",
-     "idRevisar": "mwdl3g6e0oib57",
-     "itensRevisar": [
-      {
-       "id": "mwdl3kk6y4mbta",
-       "texto": "Unidade 1: Acompanhamento da Aprendizagem.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28609"
-      },
-      {
-       "id": "mwdl3ku0k6k1si",
-       "texto": "Unidade 2: Evidências de Aprendizagem.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28629"
-      },
-      {
-       "id": "mwdl3l0037piez",
-       "texto": "Unidade 3: Registro Pedagógico sem Burocratização.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28650"
-      }
-     ],
-     "linkBotao": "",
-     "textoBotao": "",
-     "novo": false
-    }
-   ]
-  },
-  "tipoBotao": "voltar",
-  "link": "https://ead.educacao.al.gov.br/course/view.php?id=285#section-82"
- }
+ "dados": {}
 }
