@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Gestão e Operações",
- "quando": "2026-11-17T13:39:51.561Z",
+ "quando": "2026-11-17T13:40:23.192Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -20,7 +20,8 @@
     "caixaCorFundo": "#fefce8",
     "caixaCorBorda": "#fec43e",
     "novo": false,
-    "caixaCorTexto": "#0a3442"
+    "caixaCorTexto": "#0a3442",
+    "minimizado": true
    },
    {
     "tipo": "infografico",
@@ -31,6 +32,31 @@
      "linhas": "[\"<b>Evidências:</b> que aprendizagem ou dificuldade você observou?&nbsp;<br>\",\"<b>Intervenção:</b> que orientação ou devolutiva realizou?&nbsp;<br>\",\"<b>Efeitos:</b> como os(as) estudantes reagiram após esse apoio? Houve avanços ou dificuldades que permaneceram?&nbsp;<br>\",\"<b>Aprimoramento:</b> o que funcionou e o que poderia ser melhorado em uma nova experiência?\"]"
     },
     "novo": false
+   },
+   {
+    "tipo": "revisar",
+    "texto": "Revisite as aulas abaixo para retomar aspectos da demonstração, da orientação e da gestão da prática técnica e aprofundar a análise da sua atuação.<br>",
+    "idRevisar": "mwkqtbd0n32ntk",
+    "itensRevisar": [
+     {
+      "id": "mwkqtiok4medso",
+      "texto": "Módulo 1 – Unidade 7: Demonstração técnica aplicada ao projeto ABP.&nbsp;<br>",
+      "link": ""
+     },
+     {
+      "id": "mwkqtivxnsm9xu",
+      "texto": "Módulo 1 – Unidade 8: Preparação de demonstrações técnicas.",
+      "link": ""
+     },
+     {
+      "id": "mwkqtj4qe0qzem",
+      "texto": "Módulo 3 – Unidade 2: Gestão da prática técnica.",
+      "link": ""
+     }
+    ],
+    "linkBotao": "",
+    "textoBotao": "",
+    "novo": true
    }
   ]
  }
