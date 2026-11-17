@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-11-17T13:07:20.376Z",
+ "quando": "2026-11-17T13:08:37.732Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -68,8 +68,8 @@
     "texto": "A socialização, portanto, não se limita à apresentação dos resultados: é também uma oportunidade de observar, analisar e registrar aprendizagens para orientar os próximos passos.<br>",
     "caixaImgUrl": "",
     "caixaImgSize": 40,
-    "caixaCorFundo": "#fefce8",
-    "caixaCorBorda": "#fec43e",
+    "caixaCorFundo": "#f0fdf4",
+    "caixaCorBorda": "#06d7a0",
     "novo": false,
     "caixaCorTexto": "#0a3442"
    }
