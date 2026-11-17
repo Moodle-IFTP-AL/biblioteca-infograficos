@@ -1,52 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Tecnologia da Informação",
- "quando": "2026-11-13T16:15:25.094Z",
+ "quando": "2026-11-17T15:02:12.609Z",
  "autor": "Eduarda",
- "dados": {
-  "campos": {
-   "objetivo": "Analisar evidências de aprendizagem em uma prática técnica para propor encaminhamentos pedagógicos.<br>",
-   "titulo": "<b>Análise de Evidências na Prática de TI</b><br>",
-   "conteudo": "",
-   "reflexao": ""
-  },
-  "atividades": [
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32217\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"TI-M4-U04-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   }
-  ],
-  "conclusao": {
-   "titulo": "Planejando Novos Caminhos ",
-   "texto": "Analisar as evidências permite reconhecer não apenas se os(as) estudantes concluíram uma atividade, mas também se compreenderam os procedimentos e critérios envolvidos.<br><br>Leve esse olhar para suas próximas práticas e utilize o que observar para planejar novas intervenções.<br>[REVISAR1]",
-   "blocos": [
-    {
-     "tipo": "revisar",
-     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:<br>",
-     "idRevisar": "mwdljv60gxk7vu",
-     "itensRevisar": [
-      {
-       "id": "mwdljyyuwmfzyw",
-       "texto": "Unidade 1: Acompanhamento da Aprendizagem.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28789"
-      },
-      {
-       "id": "mwdljzmbrmx9wo",
-       "texto": "Unidade 2: Evidências de Aprendizagem.",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28809"
-      },
-      {
-       "id": "mwdlk00644xvr5",
-       "texto": "Unidade 3: Registro Pedagógico sem Burocratização.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28830"
-      }
-     ],
-     "linkBotao": "",
-     "textoBotao": "",
-     "novo": false
-    }
-   ]
-  },
-  "tipoBotao": "bibliografia",
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30451"
- }
+ "dados": {}
 }
