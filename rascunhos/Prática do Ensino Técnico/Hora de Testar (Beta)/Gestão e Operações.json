@@ -1,52 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão e Operações",
- "quando": "2026-11-13T16:17:09.616Z",
+ "quando": "2026-11-17T13:37:57.908Z",
  "autor": "Eduarda",
- "dados": {
-  "campos": {
-   "objetivo": "Analisar evidências de aprendizagem em uma prática técnica para propor encaminhamentos pedagógicos.<br>",
-   "titulo": "<b>Das Evidências às Próximas Decisões&nbsp;</b><br>",
-   "conteudo": "",
-   "reflexao": ""
-  },
-  "atividades": [
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32215\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"GOP-M4-U04-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   }
-  ],
-  "conclusao": {
-   "titulo": "Planejando Novos Caminhos ",
-   "texto": "As evidências ajudam a compreender tanto as aprendizagens consolidadas quanto os aspectos que ainda precisam ser desenvolvidos.<br><br>Leve esse olhar para suas próximas práticas: observe ações, falas, produções e registros antes de definir intervenções ou novas oportunidades de aprendizagem.<br>[REVISAR1]",
-   "blocos": [
-    {
-     "tipo": "revisar",
-     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:",
-     "idRevisar": "mwdjz1ol3d9vpv",
-     "itensRevisar": [
-      {
-       "id": "mwdjz6s1hz95zr",
-       "texto": "Unidade 1: Acompanhamento da Aprendizagem.",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28429"
-      },
-      {
-       "id": "mwdjz6zb5v6lvm",
-       "texto": "Unidade 2: Evidências de Aprendizagem.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28451"
-      },
-      {
-       "id": "mwdjz8nezfm30m",
-       "texto": "Unidade 3: Registro Pedagógico sem Burocratização.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28472"
-      }
-     ],
-     "linkBotao": "",
-     "textoBotao": "",
-     "novo": false
-    }
-   ]
-  },
-  "tipoBotao": "voltar",
-  "link": "https://ead.educacao.al.gov.br/course/view.php?id=284#section-82"
- }
+ "dados": {}
 }
