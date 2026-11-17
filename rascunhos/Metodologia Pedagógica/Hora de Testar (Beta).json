@@ -1,28 +1,24 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-11-16T19:19:46.126Z",
+ "quando": "2026-11-17T11:31:04.040Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Analisar decisões de planejamento de um projeto técnico integrado e definir ajustes para organizar as etapas do próprio projeto.<br>",
-   "titulo": "<b>Organizando o Percurso do Projeto Integrado</b><br>",
+   "objetivo": "Elaborar uma proposta de intervenção em um projeto técnico integrado, justificando sua relação com as evidências e as necessidades de aprendizagem e definindo como acompanhar os resultados, preservando a participação dos(as) estudantes.<br>",
+   "titulo": "<b>Da Evidência à Decisão de Mediação</b>",
    "conteudo": "",
    "reflexao": ""
   },
   "atividades": [
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32522\" width=\"1237\" height=\"663\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U04-APLI-MULTI (copiado)\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   },
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32523\" width=\"1237\" height=\"507\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U05-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32613\" width=\"1237\" height=\"892\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U06-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    }
   ],
   "conclusao": {
-   "titulo": "Do Planejamento à Prática Docente ",
-   "texto": "Planejar um projeto técnico integrado exige conectar as aprendizagens às etapas e às entregas parciais e final, considerando tempos, recursos e responsabilidades.<br><br>A decisão que você registrou é um ponto de partida para aprimorar esse percurso. Leve-a ao planejamento com os(as) demais professores(as) e preveja momentos de acompanhamento, devolutiva e revisão, para que os(as) estudantes participem das decisões e avancem na construção da resposta ao problema.<br>",
+   "titulo": "Da Mediação à Prática Docente ",
+   "texto": "Nesta aula, você relacionou evidências às necessidades de aprendizagem e elaborou uma proposta de intervenção com acompanhamento dos resultados.<br><br>Leve esse olhar aos seus projetos: observe como os(as) estudantes investigam, explicam e decidem.<br><br>Utilize essas informações para ajustar os apoios, mantendo os objetivos de aprendizagem e favorecendo a colaboração e a autonomia.<br>",
    "blocos": []
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29236"
+  }
  }
 }
