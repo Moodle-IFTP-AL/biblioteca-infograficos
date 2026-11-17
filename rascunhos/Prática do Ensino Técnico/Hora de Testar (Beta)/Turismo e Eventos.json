@@ -1,52 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Turismo e Eventos",
- "quando": "2026-11-13T16:14:29.195Z",
+ "quando": "2026-11-17T15:19:47.096Z",
  "autor": "Eduarda",
- "dados": {
-  "campos": {
-   "objetivo": "Analisar evidências de aprendizagem em uma prática técnica para propor encaminhamentos pedagógicos.<br>",
-   "titulo": "<b>Da Evidência à Decisão Pedagógica</b><br>",
-   "conteudo": "",
-   "reflexao": ""
-  },
-  "atividades": [
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32218\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"TEV-M4-U04-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   }
-  ],
-  "conclusao": {
-   "titulo": "Planejando Novos Caminhos",
-   "texto": "Analisar as evidências produzidas pelos(as) estudantes ajuda você a reconhecer aprendizagens, identificar dificuldades e planejar intervenções mais adequadas.<br><br>Ao levar esse olhar para suas próximas práticas técnicas, transforme o que observa em oportunidades para ajustar estratégias e favorecer o desenvolvimento dos(as) estudantes.<br>[REVISAR1]",
-   "blocos": [
-    {
-     "tipo": "revisar",
-     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:<br>",
-     "idRevisar": "mwdnbvaxc1s83e",
-     "itensRevisar": [
-      {
-       "id": "mwdnbxdux9esef",
-       "texto": "Unidade 1: Acompanhamento da Aprendizagem.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28962"
-      },
-      {
-       "id": "mwdnbxqgi184ls",
-       "texto": "Unidade 2: Evidências de Aprendizagem.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28982"
-      },
-      {
-       "id": "mwdnbxyt0dllaj",
-       "texto": "Unidade 3: Registro Pedagógico sem Burocratização.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29003"
-      }
-     ],
-     "linkBotao": "",
-     "textoBotao": "",
-     "novo": false
-    }
-   ]
-  },
-  "tipoBotao": "voltar",
-  "link": "https://ead.educacao.al.gov.br/course/view.php?id=287#section-82"
- }
+ "dados": {}
 }
