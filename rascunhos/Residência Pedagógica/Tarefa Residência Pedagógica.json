@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Residência Pedagógica/Tarefa Residência Pedagógica",
- "quando": "2026-11-17T11:59:13.819Z",
+ "quando": "2026-11-17T12:01:10.716Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -68,7 +68,8 @@
     "infograficoData": {
      "titulo": "<font color=\"#ffffff\">Para orientar sua análise, reflita:</font><br>",
      "linhas": "[\"Quais objetivos de aprendizagem foram alcançados? Quais foram alcançados parcialmente ou não foram alcançados?&nbsp;<br>\",\"Que padrões e diferenças aparecem nos resultados dos(as) estudantes?\",\"As estratégias utilizadas foram coerentes com os objetivos e as necessidades da turma?&nbsp;<br>\",\"Que relações podem ser identificadas entre as estratégias pedagógicas e os resultados observados?&nbsp;<br>\",\"Quais evidências sustentam sua interpretação? Há aspectos que ainda precisam ser investigados?&nbsp;<br>\"]",
-     "corHeader": "#f04770"
+     "corHeader": "#f04770",
+     "corLinhas": "#fdf0f3"
     },
     "novo": false
    },
@@ -139,7 +140,8 @@
      "titulo": "<font color=\"#ffffff\">Retome as análises anteriores e considere:</font><br>",
      "linhas": "[\"Quais aprendizagens foram consolidadas e quais dificuldades permaneceram?&nbsp;<br>\",\"O que as evidências revelaram sobre as estratégias, intervenções, devolutivas e ajustes realizados?&nbsp;<br>\",\"Quais decisões pedagógicas contribuíram para os resultados observados? Quais precisam ser revistas?&nbsp;<br>\",\"O que você aprendeu sobre sua atuação docente ao longo desse percurso?\"]",
      "corHeader": "#0a3442",
-     "corTextoHeader": "#ffffff"
+     "corTextoHeader": "#ffffff",
+     "corLinhas": "#fefce8"
     },
     "novo": false
    },
