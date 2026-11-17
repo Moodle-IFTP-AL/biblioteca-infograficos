@@ -1,0 +1,37 @@
+{
+ "versao": 1,
+ "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Gestão e Operações",
+ "quando": "2026-11-17T13:39:51.561Z",
+ "autor": "Eduarda",
+ "dados": {
+  "campos": {
+   "objetivo": "Analisar uma prática técnica com base nas evidências de aprendizagem e nos efeitos das intervenções pedagógicas, identificando possibilidades de aprimoramento da própria atuação docente.",
+   "titulo": "<b>Minha mediação em análise</b>",
+   "conteudo": "Escolha uma prática técnica recente desenvolvida com os(as) estudantes do curso de Gestão e Operações. Apresente brevemente o objetivo da atividade e relate uma situação em que foi necessário orientar, questionar, demonstrar novamente um procedimento ou oferecer uma devolutiva.<br><br><h3><b><font color=\"#f04770\">1. Analise sua mediação<br></font></b>[INFOGRAFICO1]<b><font color=\"#f04770\"></font></b></h3>Fundamente sua análise em situações concretas, evitando generalizações.<br><br><h3><b><font color=\"#f04770\">2. Compartilhe e interaja<br><br></font></b></h3>Publique sua análise no fórum. Em seguida, comente a contribuição de um(a) colega, destacando uma estratégia de mediação que poderia incorporar à sua prática ou sugerindo um aprimoramento coerente com a situação apresentada.<br>[CAIXADESTAQUE1]",
+   "instrucoesTitulo": "Sua participação deve conter:",
+   "orientacoesTitulo": "Orientações para o formato:"
+  },
+  "blocos": [
+   {
+    "tipo": "caixadestaque",
+    "texto": "<b>Atenção:</b> priorize a análise dos efeitos das intervenções e de como elas podem orientar futuras práticas técnicas.",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#fefce8",
+    "caixaCorBorda": "#fec43e",
+    "novo": false,
+    "caixaCorTexto": "#0a3442"
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "lista_interativa",
+    "infograficoData": {
+     "titulo": "Em sua postagem, responda:",
+     "linhas": "[\"<b>Evidências:</b> que aprendizagem ou dificuldade você observou?&nbsp;<br>\",\"<b>Intervenção:</b> que orientação ou devolutiva realizou?&nbsp;<br>\",\"<b>Efeitos:</b> como os(as) estudantes reagiram após esse apoio? Houve avanços ou dificuldades que permaneceram?&nbsp;<br>\",\"<b>Aprimoramento:</b> o que funcionou e o que poderia ser melhorado em uma nova experiência?\"]"
+    },
+    "novo": false
+   }
+  ]
+ }
+}
