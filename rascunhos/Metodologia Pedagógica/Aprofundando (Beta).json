@@ -1,84 +1,29 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-11-16T19:03:41.725Z",
+ "quando": "2026-11-17T11:14:54.126Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>1 - </b>Planejar e estruturar práticas de aprendizagem participativas e contextualizadas, mobilizando conhecimentos da Formação Geral Básica no contexto da Educação Profissional e Tecnológica, por meio da seleção de metodologias, conteúdos e estratégias pedagógicas alinhadas ao perfil da turma, às competências técnicas e às demandas do mundo do trabalho.<br><b>Habilidade:&nbsp;</b><br><b>1.1 </b>-Planejar atividades de aprendizagem que promovam protagonismo, colaboração e tomada de decisão dos(as) estudantes.<br><b>Objeto do Conhecimento:</b><br>Planejamento das etapas do projeto técnico integrador.<br><b>Conteúdos:</b><br><ul><li>Organização das etapas do projeto.<br></li><li>Entregas parciais e entrega final.<br></li><li>Distribuição de tempos, recursos e responsabilidades.<br></li><li>Participação dos(as) estudantes no percurso do projeto.<br></li></ul><b>Objetivo:&nbsp;</b><br>Planejar etapas de projetos técnicos integrados, definindo entregas parciais, tempos, recursos e responsabilidades, de modo a favorecer a participação, a colaboração e a tomada de decisão dos(as) estudantes.<br>",
-   "objetivo": "Identificar como organizar as etapas de um projeto técnico integrado, relacionando aprendizagens, entregas parciais e final, tempos, recursos e responsabilidades à participação e à autonomia progressiva dos(as) estudantes.<br>",
-   "titulo": "<b>Das Aprendizagens às Etapas do Projeto</b><br>",
-   "conteudo": "<h3><b><font color=\"#f04770\">Quando a Entrega Final Não É Suficiente&nbsp;</font></b></h3><br>Um(a) professor(a) planejou um projeto sobre a circulação na oficina, articulando conhecimentos da Formação Geral Básica e da Formação Técnica. Combinou com a turma a entrega de um croqui com melhorias e justificativa. Porém, perto do prazo, percebeu que alguns grupos ainda não haviam registrado as medidas, enquanto outros já desenhavam propostas sem analisar os obstáculos. Como organizar esse percurso? Nesta aula, você vai planejar etapas conectadas, definir entregas parciais e distribuir tempos, recursos e responsabilidades para que os(as) estudantes avancem na investigação e construam a resposta gradualmente.<br><br><div><h3><b><font color=\"#f04770\">Como Organizar o Percurso do Projeto&nbsp;&nbsp;</font></b></h3><br>Parta da situação-problema e das aprendizagens selecionadas na unidade anterior.<br><br>Organize o percurso em etapas conectadas, definindo:<br><ul><li>o que os(as) estudantes farão;<br></li><li>o que precisarão aprender;<br></li><li>como cada momento contribuirá para construir a resposta.</li></ul>Preveja entregas parciais que permitam acompanhar o desenvolvimento do projeto, oferecer devolutivas e orientar revisões. Defina também tempos, espaços, recursos e responsabilidades compatíveis com as condições da escola.<br><br><h3><b><font color=\"#f04770\">Elementos do Planejamento<br><br></font></b></h3>Para organizar as etapas do projeto, considere quatro elementos:<br>[INFOGRAFICO1]<br>[VIDEO1]<br>[GLOSSARIO1]<br><h3><b><font color=\"#f04770\">Das Etapas à Entrega Final</font></b></h3><br>Retome as etapas apresentadas no vídeo e observe como cada produção contribui para o avanço do projeto. Identifique também quais aprendizagens e evidências podem orientar o acompanhamento e as intervenções.<br>[INFOGRAFICO2]<br><h3><b><font color=\"#f04770\">Como Promover a Participação dos(as) Estudantes&nbsp;&nbsp;</font></b></h3><br>A participação deve ser planejada em todas as etapas. Compartilhe o percurso, distribua responsabilidades e estabeleça critérios para acompanhar as produções. A autonomia se desenvolve progressivamente: comece orientando as ações e oferecendo devolutivas; amplie as possibilidades de escolha conforme os(as) estudantes desenvolvem os conhecimentos e procedimentos necessários.<br><br>Considere quatro aspectos para planejar a participação dos(as) estudantes ao longo do projeto:<br>[INFOGRAFICO3]</div>",
-   "conectando": "Agora que você compreendeu como organizar as etapas do projeto, é hora de aplicar esses critérios. Na próxima etapa, você vai analisar decisões de planejamento e definir ajustes para seu próprio projeto.<br>"
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>2 -</b> Avaliar a aprendizagem por competências, a partir de evidências das práticas pedagógicas e técnicas desenvolvidas pelos(as) estudantes, considerando a mobilização de conhecimentos gerais no contexto da Educação Profissional e Tecnológica, para orientar o planejamento e o replanejamento das aulas e o desenvolvimento dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>2.3</b> - Utilizar os resultados da avaliação para replanejar aulas, ajustar estratégias e orientar o desenvolvimento dos(as) estudantes.<br><b>Objeto do Conhecimento:</b><br>Mediação docente no desenvolvimento de projetos técnicos.<br><b>Conteúdos:</b><br><ul><li>Acompanhamento do percurso dos(as) estudantes.<br></li><li>Intervenção pedagógica durante o projeto.<br></li><li>Ajustes de rota com base nas evidências observadas.<br></li><li>Apoio à autonomia, à colaboração e à tomada de decisão dos(as) estudantes.<br></li></ul><b>Objetivo:&nbsp;</b><br>Definir estratégias de mediação docente com base nas evidências de aprendizagem, considerando as necessidades dos(as) estudantes e os ajustes necessários ao desenvolvimento de projetos técnicos integrados.<br>",
+   "objetivo": "Analisar evidências de aprendizagem para identificar necessidades dos(as) estudantes e definir estratégias de mediação e ajustes no desenvolvimento de projetos técnicos integrados.<br>",
+   "titulo": "<b>Como Mediar o Desenvolvimento do Projeto?</b><br>",
+   "conteudo": "Na aula anterior, discutimos como organizar etapas, entregas e responsabilidades do projeto.<br><br>Durante a elaboração do croqui da oficina, um grupo propõe mudar os materiais de lugar, mas não consegue explicar como isso melhora a circulação.<br>[PERGUNTA1]<br>Nesta aula, você vai analisar evidências e decidir como intervir para apoiar os(as) estudantes na construção de respostas fundamentadas.<br><br><h3><b><font color=\"#f04770\">Quando e como Intervir&nbsp;</font></b></h3><br>Acompanhar o projeto exige observar o que os(as) estudantes fazem, produzem e explicam durante as etapas. Essas evidências ajudam a identificar avanços, dificuldades e conhecimentos que ainda precisam ser mobilizados. Na oficina, observe como utilizam medidas e conhecimentos técnicos para analisar a circulação.<br><br>",
+   "conectando": ""
   },
   "blocos": [
    {
-    "tipo": "infografico",
+    "tipo": "pergunta",
     "texto": "",
-    "infograficoTipo": "timeline",
-    "infograficoData": {
-     "etapas": "[{\"topico\":\"Etapas:\",\"texto\":\"definem as ações e a contribuição de cada momento para investigar o problema e construir uma resposta.&nbsp;<br>\"},{\"topico\":\"Entregas e evidências:\",\"texto\":\"indicam as produções e ações que permitem acompanhar as aprendizagens.&nbsp;<br>\"},{\"topico\":\"Devolutivas e revisões:\",\"texto\":\"orientam ajustes nas produções e decisões sobre os próximos passos.&nbsp;<br>\"},{\"topico\":\"Entrega final:&nbsp;\",\"texto\":\"reúne e apresenta os resultados desenvolvidos ao longo do percurso.&nbsp;<br>\"}]"
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "Reflita:",
+     "texto": "O que essa dificuldade revela sobre a aprendizagem?",
+     "videoUrl": "",
+     "iframeH5P": ""
     },
-    "novo": false
-   },
-   {
-    "tipo": "video",
-    "texto": "Veja como organizar as etapas de um projeto técnico integrador, articulando entregas, prazos, recursos e a atuação dos(as) profissionais para construir a resposta ao desafio.<br>",
-    "titulo": "Planejando o Percurso do Projeto ",
-    "url": "https://youtu.be/Ihf7k_nSkD8",
-    "novo": false
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "tabela_completa",
-    "infograficoData": {
-     "tabela": "{\"titulo\":\"\",\"subtitulo\":\"\",\"colunas\":[\"<b style=\\\"\\\">Etapa</b>\",\"<b style=\\\"\\\">Produção&nbsp;</b>\",\"<b style=\\\"\\\">Aprendizagens a observar<font color=\\\"#ffffff\\\">&nbsp;</font></b><br>\",\"<b style=\\\"\\\">Função no projeto<font color=\\\"#ffffff\\\">&nbsp;</font></b><br>\"],\"linhas\":[[\"<b>1. Investigar</b>\",\"Levantamento de medidas, registros de obstáculos e deslocamentos e croqui inicial.\",\"Identifica obstáculos e pontos de circulação; realiza e registra medidas; representa o espaço no croqui.<br>\",\"Identificar as condições de circulação, reunir informações e verificar se os dados são suficientes para iniciar a análise.\"],[\"<b>2. Analisar alternativas</b>\",\"Quadro de alternativas com vantagens e limites.<br>\",\"Relaciona medidas, fluxos de trabalho e riscos; compara possibilidades e explica vantagens e limites de cada alternativa.<br>\",\"Comparar possibilidades e identificar quais informações precisam ser verificadas antes de elaborar a proposta.<br>\"],[\"<b>3. Elaborar a proposta</b>\",\"Croqui preliminar e justificativa.<br>\",\"Utiliza os dados levantados para fundamentar a proposta; relaciona as mudanças sugeridas às melhorias na circulação; justifica suas escolhas.<br>\",\"Construir uma proposta de melhoria fundamentada, retomando registros ou realizando novas medições quando necessário. <br>\"],[\"<b>4. Revisar e apresentar</b><br>\",\"Croqui revisado e justificativa final.<br>\",\"Analisa as devolutivas, justifica os ajustes realizados e explica como a versão revisada responde ao desafio e aos critérios de avaliação.<br>\",\"Aprimorar a proposta com base nas devolutivas e nos critérios compartilhados, comunicar as escolhas e apresentar a resposta ao desafio.<br>\"]],\"corTextoHeader\":\"#0a3442\",\"corHeader\":\"#79d3f2\"}"
-    },
-    "novo": false
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "cards_icones_setas",
-    "infograficoData": {
-     "titulo": "",
-     "cards": "[{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2013.png\",\"titulo\":\"1. Compreender o percurso\",\"texto\":\"Apresente o desafio, as etapas e as entregas. Peça aos(às) estudantes que expliquem como cada registro contribui para a proposta.&nbsp;&nbsp;<br>\",\"corFundo\":\"#beeffc\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/ALVO.png\",\"titulo\":\"2. Assumir responsabilidade\",\"texto\":\"Distribua e alterne tarefas de medição, registro e análise. Garanta a participação de todos(as) nas decisões.&nbsp;&nbsp;<br>\",\"corFundo\":\"#f0fdf4\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2012.png\",\"titulo\":\"3. Acompanhar a qualidade\",\"texto\":\"Compartilhe critérios, como precisão das medidas e relação entre obstáculos e melhorias. Reserve tempo para conferir e revisar as produções.&nbsp;&nbsp;<br>\",\"corFundo\":\"#fdf0f3\"},{\"imagem\":\"https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2079.png\",\"titulo\":\"<font color=\\\"#0a3442\\\">4. Ampliar a autonomia</font>\",\"texto\":\"Demonstre os procedimentos e acompanhe as primeiras ações. Conforme a turma avança, amplie as possibilidades de organização e escolha, mantendo a atenção à segurança.&nbsp;&nbsp;<br>\",\"corFundo\":\"#fefce8\",\"corTitulo\":\"#0a3442\"}]"
-    },
-    "novo": false
-   },
-   {
-    "tipo": "glossario",
-    "texto": "",
-    "termos": [
-     {
-      "termo": "Entrega parcial",
-      "definicao": "Produção intermediária que permite acompanhar aprendizagens e orientar os próximos passos do projeto.<br>"
-     },
-     {
-      "termo": "Critério de qualidade",
-      "definicao": "Característica esperada que orienta a elaboração, a análise e a revisão das produções.<br>"
-     }
-    ],
     "novo": false
    }
-  ],
-  "conclusao": {
-   "titulo": "O que Considerar no Planejamento ",
-   "texto": "Planejar um projeto técnico integrador significa organizar um percurso de aprendizagem, considerando:<br><ul><li>Etapas conectadas às aprendizagens e à entrega final.<br></li><li>Entregas parciais que permitam acompanhar e revisar o trabalho.<br></li><li>Tempos, espaços, recursos e responsabilidades compatíveis com a realidade da escola.<br></li><li>Atuação articulada dos(as) profissionais envolvidos(as).<br></li><li>Participação e autonomia progressiva dos(as) estudantes.<br>[TOMENOTA1]<br>[DICA1]</li></ul>",
-   "blocos": [
-    {
-     "tipo": "tomenota",
-     "texto": "Distribuir tarefas não significa dividir as aprendizagens. Todos(as) os(as) estudantes precisam participar das decisões e compreender como suas contribuições se articulam para construir a entrega final.<br>",
-     "novo": false
-    },
-    {
-     "tipo": "dica",
-     "texto": "Peça à turma que organize as etapas em cartões, indicando o que fará, o que produzirá e de quais recursos precisará. Depois, revise com os grupos as conexões, os prazos e as responsabilidades.<br>",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29234"
+  ]
  }
 }
