@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-11-17T11:25:36.928Z",
+ "quando": "2026-11-17T11:25:55.501Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -106,6 +106,7 @@
      "novo": false
     }
    ]
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29255"
  }
 }
