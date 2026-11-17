@@ -1,7 +1,48 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-11-17T13:10:21.175Z",
+ "quando": "2026-11-17T13:12:20.526Z",
  "autor": "Eduarda",
- "dados": {}
+ "dados": {
+  "campos": {
+   "objetivo": "Analisar evidências de aprendizagem para formular devolutivas e refletir sobre a própria prática docente.<br>",
+   "titulo": "<b>Analisar para Aprimorar</b><br>",
+   "conteudo": "Nesta etapa, você vai analisar situações de socialização de produções técnicas e relacionar o que foi observado às devolutivas que podem orientar a aprendizagem dos(as) estudantes.<br><br>As atividades também convidam você a retomar sua própria prática: como observa a participação, identifica dificuldades, registra evidências e utiliza essas informações para orientar intervenções?<br><br>Ao realizar os desafios, considere que uma devolutiva efetiva não se limita a apontar acertos ou dificuldades. Ela precisa indicar caminhos concretos para que os(as) estudantes avancem e para que você aprimore suas estratégias de mediação.<br>",
+   "reflexao": ""
+  },
+  "atividades": [
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32614\" width=\"1237\" height=\"1198\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M4-U06-APLI-DRAGW\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   },
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32615\" width=\"1237\" height=\"339\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M4-U06-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   }
+  ],
+  "conclusao": {
+   "titulo": "Consolidando as Aprendizagens",
+   "texto": "Relacionar evidências a devolutivas exige observar além do resultado apresentado.<br>É importante identificar como os(as) estudantes: analisam problemas, mobilizam conhecimentos técnicos, aplicam procedimentos e justificam suas decisões.<br><br>Uma boa devolutiva reconhece o que foi demonstrado e indica, de forma objetiva, o que precisa ser desenvolvido e quais caminhos podem favorecer esse avanço.<br><br>Esse processo também oferece informações sobre sua própria prática:<br><ul><li>As estratégias utilizadas foram adequadas?<br></li><li>Os critérios de observação estavam claros?<br></li><li>Que ajustes podem melhorar o acompanhamento da aprendizagem?</li></ul>Assim, observar, registrar e oferecer devolutivas contribui tanto para o desenvolvimento dos(as) estudantes quanto para o aprimoramento da sua mediação.<br>",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:",
+     "idRevisar": "mwkpt0l8chotyf",
+     "itensRevisar": [
+      {
+       "id": "mwkpt3ta0dts6v",
+       "texto": "Módulo 3 – Aula 6: Devolutivas Formativas e Feedforward;<br><br>",
+       "link": ""
+      },
+      {
+       "id": "mwkpt51lie18im",
+       "texto": "",
+       "link": ""
+      }
+     ],
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": true
+    }
+   ]
+  }
+ }
 }
