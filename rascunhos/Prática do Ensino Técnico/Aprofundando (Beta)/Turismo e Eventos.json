@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Turismo e Eventos",
- "quando": "2026-11-17T15:15:35.843Z",
+ "quando": "2026-11-17T15:18:37.123Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -46,6 +46,7 @@
      "novo": false
     }
    ]
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=30648"
  }
 }
