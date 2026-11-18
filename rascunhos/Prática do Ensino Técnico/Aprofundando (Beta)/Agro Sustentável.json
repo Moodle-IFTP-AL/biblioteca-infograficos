@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Agro Sustentável",
- "quando": "2026-11-18T15:14:50.928Z",
+ "quando": "2026-11-18T15:20:16.947Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -74,6 +74,10 @@
      {
       "termo": "Evidência de aprendizagem",
       "definicao": "Manifestação observável que permite analisar a aprendizagem em relação aos objetivos definidos.<br>"
+     },
+     {
+      "termo": "Rubrica de avaliação",
+      "definicao": "Instrumento que descreve critérios e níveis esperados de desempenho em uma atividade.<br>"
      }
     ],
     "novo": false
