@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão e Operações",
- "quando": "2026-11-18T16:41:26.901Z",
+ "quando": "2026-11-18T16:41:38.236Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -20,7 +20,7 @@
   ],
   "conclusao": {
    "titulo": "Consolidando as Aprendizagens",
-   "texto": "A socialização não se encerra com a apresentação da produção. As perguntas, sugestões e observações recebidas oferecem oportunidades para que os(as) estudantes analisem o próprio trabalho e identifiquem possibilidades de aprimoramento.<br><br>Uma devolutiva formativa ajuda nesse processo ao reconhecer os aspectos bem desenvolvidos, apontar o que precisa ser revisto e indicar caminhos para avançar.<br><br>Incentive os(as) estudantes a avaliar a pertinência das contribuições, justificar suas decisões e registrar os ajustes realizados.<br><br>Reflita também sobre como a organização da atividade e suas intervenções favoreceram essa análise. Assim, a socialização contribui para qualificar tanto a produção técnica quanto as experiências de aprendizagem futuras.<br><br>",
+   "texto": "A socialização não se encerra com a apresentação da produção. As perguntas, sugestões e observações recebidas oferecem oportunidades para que os(as) estudantes analisem o próprio trabalho e identifiquem possibilidades de aprimoramento.<br><br>Uma devolutiva formativa ajuda nesse processo ao reconhecer os aspectos bem desenvolvidos, apontar o que precisa ser revisto e indicar caminhos para avançar.<br><br>Incentive os(as) estudantes a avaliar a pertinência das contribuições, justificar suas decisões e registrar os ajustes realizados.<br><br>Reflita também sobre como a organização da atividade e suas intervenções favoreceram essa análise. Assim, a socialização contribui para qualificar tanto a produção técnica quanto as experiências de aprendizagem futuras.<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -34,13 +34,13 @@
       },
       {
        "id": "mwmcpwd0vcksh6",
-       "texto": "Unidade 8 : Registro Técnico e Melhoria da Prática.&nbsp;<br>",
-       "link": ""
+       "texto": "Unidade 8: Registro Técnico e Melhoria da Prática.&nbsp;<br>",
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31716"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
   }
