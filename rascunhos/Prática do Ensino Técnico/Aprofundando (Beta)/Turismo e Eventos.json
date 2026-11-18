@@ -1,7 +1,29 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Turismo e Eventos",
- "quando": "2026-11-18T17:17:53.562Z",
+ "quando": "2026-11-18T17:27:26.224Z",
  "autor": "Eduarda",
- "dados": {}
+ "dados": {
+  "campos": {
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Socialização e reflexão sobre a produção técnica.<br><b>Conteúdos:</b><br><ul><li>Formas de socialização utilizadas.<br></li><li>Apresentação dos processos e resultados.<br></li><li>Participação dos(as) estudantes.<br></li><li>Feedback e devolutivas recebidos.<br></li><li>Aprendizagens evidenciadas na socialização.<br></li><li>Aspectos da produção e do processo que poderiam ser qualificados.<br></li></ul><b>Objetivo da Aula:</b><br>Analisar como a socialização e as devolutivas contribuíram para a aprendizagem e para a qualificação da produção técnica, identificando ajustes para experiências futuras.<br>",
+   "objetivo": "Analisar evidências de aprendizagem identificadas durante a socialização das produções técnicas, relacionando-as aos objetivos de aprendizagem para formular devolutivas e registrar os avanços e aspectos a desenvolver.<br>",
+   "titulo": "<b>Socializar para Evidenciar Aprendizagens</b><br>",
+   "conteudo": "[PERGUNTA1]<br><font color=\"#f04770\" style=\"\">Compartilhar para Aprender</font><br>A socialização permite que os(as) estudantes compartilhem suas produções e demonstrem o que aprenderam. No eixo de Turismo e Eventos, diferentes formatos podem tornar essas aprendizagens visíveis:<br><br>",
+   "conectando": ""
+  },
+  "blocos": [
+   {
+    "tipo": "pergunta",
+    "texto": "",
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "O que a Socialização Revela? ",
+     "texto": "Ao apresentar uma produção técnica, os(as) estudantes revelam conhecimentos, procedimentos e decisões que nem sempre podem ser identificados apenas pelo resultado final. Durante a socialização, também surgem dúvidas e dificuldades importantes para o acompanhamento da aprendizagem. Como você identifica essas evidências e as utiliza para orientar suas devolutivas?<br>",
+     "videoUrl": "",
+     "iframeH5P": ""
+    },
+    "novo": false
+   }
+  ]
+ }
 }
