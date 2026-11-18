@@ -1,57 +1,14 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Agro Sustentável",
- "quando": "2026-11-14T23:37:20.227Z",
- "autor": "Teste",
+ "quando": "2026-11-18T15:23:49.908Z",
+ "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Analisar evidências de aprendizagem em uma prática técnica para propor encaminhamentos pedagógicos.",
-   "titulo": "<b>Analise as Evidências da Prática&nbsp;</b><br><br>",
-   "conteudo": "<h3>[H5P1]</h3>",
+   "objetivo": "Analisar evidências de aprendizagem para formular devolutivas e refletir sobre a própria prática docente.<br>",
+   "titulo": "",
+   "conteudo": "",
    "reflexao": ""
-  },
-  "blocos": [
-   {
-    "tipo": "h5p",
-    "texto": "",
-    "titulo": "Atividade",
-    "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32211\" width=\"949\" height=\"723\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"AGR-M4-U04-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
-    "novo": false,
-    "minimizado": true
-   }
-  ],
-  "conclusao": {
-   "titulo": "Planejando Novos Caminhos ",
-   "texto": "Analisar ações, falas, produções e registros permite compreender como os(as) estudantes avançam em relação aos objetivos de aprendizagem e identificar aspectos que precisam ser desenvolvidos.<br>Leve esse olhar para suas próximas práticas e utilize as evidências para fundamentar intervenções, retomadas e novos desafios.<br><div>[REVISAR1]</div>",
-   "blocos": [
-    {
-     "tipo": "revisar",
-     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:",
-     "idRevisar": "mwfi10l3bgj0cq",
-     "itensRevisar": [
-      {
-       "id": "mwfi11vbkb7nhc",
-       "texto": "Unidade 1: Acompanhamento da Aprendizagem.",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31133"
-      },
-      {
-       "id": "mwfi1281zvuigr",
-       "texto": "Unidade 2: Evidências de Aprendizagem.",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31138"
-      },
-      {
-       "id": "mwfi12i17dd7qo",
-       "texto": "Unidade 3: Registro Pedagógico sem Burocratização.",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31276"
-      }
-     ],
-     "linkBotao": "",
-     "textoBotao": "",
-     "novo": false,
-     "minimizado": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29399&forceview=1"
+  }
  }
 }
