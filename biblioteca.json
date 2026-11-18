@@ -224,6 +224,20 @@
    "criadoEm": "2026-11-18T15:42:01.513Z",
    "atualizadoEm": "2026-11-18T15:38:38.597Z",
    "autor": "Eduarda"
+  },
+  {
+   "id": "17e363a9-7c8d-472d-9e59-66adeff52f3f",
+   "nome": "Timeline com Gavetas",
+   "pasta": "M4U06",
+   "tipo": "timeline_gavetas",
+   "data": {
+    "titulo": "",
+    "subtitulo": "",
+    "gavetas": "[{\"imagem\":\"\",\"titulo\":\"Apresentação de propostas comerciais\",\"conteudo\":\"\",\"porqueTexto\":\"Apresentação de uma estratégia de vendas para uma loja local.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Apresentação de planos de marketing\",\"conteudo\":\"\",\"porqueTexto\":\"Exposição de uma estratégia de divulgação para um pequeno negócio.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Mostra de peças publicitárias\",\"conteudo\":\"\",\"porqueTexto\":\"Exposição de anúncios e materiais para uma campanha de produto regional.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"}]"
+   },
+   "criadoEm": "2026-11-18T15:42:24.629Z",
+   "atualizadoEm": "2026-11-18T15:39:01.986Z",
+   "autor": "Eduarda"
   }
  ]
 }
