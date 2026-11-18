@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão Imobiliária",
- "quando": "2026-11-18T16:54:18.755Z",
+ "quando": "2026-11-18T16:54:32.920Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -20,7 +20,7 @@
   ],
   "conclusao": {
    "titulo": "Consolidando as Aprendizagens",
-   "texto": "Cada devolutiva deve estar relacionada a uma evidência concreta da aprendizagem.<br><br>No projeto de coleta seletiva, a ausência de justificativa para a localização dos pontos de descarte exige uma orientação diferente daquela relacionada à comunicação com os(as) moradores(as) ou ao acompanhamento dos resultados.<br><br>Uma devolutiva construtiva:<br><ul><li>reconhece os avanços;<br></li><li>identifica aspectos que precisam ser aprimorados;<br></li><li>indica caminhos possíveis para a revisão da produção.</li></ul>Incentive os(as) estudantes a analisar as contribuições recebidas, avaliar sua pertinência e justificar os ajustes realizados. Utilize também essas observações para refletir sobre suas estratégias de mediação e planejar novas experiências de aprendizagem.<br>",
+   "texto": "Cada devolutiva deve estar relacionada a uma evidência concreta da aprendizagem.<br><br>No projeto de coleta seletiva, a ausência de justificativa para a localização dos pontos de descarte exige uma orientação diferente daquela relacionada à comunicação com os(as) moradores(as) ou ao acompanhamento dos resultados.<br><br>Uma devolutiva construtiva:<br><ul><li>reconhece os avanços;<br></li><li>identifica aspectos que precisam ser aprimorados;<br></li><li>indica caminhos possíveis para a revisão da produção.</li></ul>Incentive os(as) estudantes a analisar as contribuições recebidas, avaliar sua pertinência e justificar os ajustes realizados. Utilize também essas observações para refletir sobre suas estratégias de mediação e planejar novas experiências de aprendizagem.<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -35,14 +35,15 @@
       {
        "id": "mwmd6hi0b0hk1n",
        "texto": "Unidade 8: Registro Técnico e Melhoria da Prática.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31722"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
-  }
+  },
+  "tipoBotao": "voltar"
  }
 }
