@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Turismo e Eventos",
- "quando": "2026-11-18T17:36:34.037Z",
+ "quando": "2026-11-18T17:36:45.513Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -20,7 +20,7 @@
   ],
   "conclusao": {
    "titulo": "Consolidando as Aprendizagens",
-   "texto": "Ao realizar as atividades, você analisou como as evidências observadas durante a socialização ajudam a compreender as aprendizagens dos(as) estudantes e a formular devolutivas mais específicas.<br><br>Uma boa devolutiva reconhece os conhecimentos demonstrados, identifica dificuldades e indica próximos passos para o desenvolvimento técnico. Esse processo também oferece informações importantes para sua prática docente.<br><br>Ao refletir sobre o que observou, registrou e comunicou, você pode identificar conteúdos que precisam ser retomados e estratégias de mediação que podem ser aprimoradas.<br><br>Assim, a socialização se torna uma oportunidade de aprendizagem para os(as) estudantes e de reflexão sobre o próprio trabalho pedagógico.<br><br>",
+   "texto": "Ao realizar as atividades, você analisou como as evidências observadas durante a socialização ajudam a compreender as aprendizagens dos(as) estudantes e a formular devolutivas mais específicas.<br><br>Uma boa devolutiva reconhece os conhecimentos demonstrados, identifica dificuldades e indica próximos passos para o desenvolvimento técnico. Esse processo também oferece informações importantes para sua prática docente.<br><br>Ao refletir sobre o que observou, registrou e comunicou, você pode identificar conteúdos que precisam ser retomados e estratégias de mediação que podem ser aprimoradas.<br><br>Assim, a socialização se torna uma oportunidade de aprendizagem para os(as) estudantes e de reflexão sobre o próprio trabalho pedagógico.<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -35,14 +35,15 @@
       {
        "id": "mwmeoutm2b032t",
        "texto": "Unidade 8: Registro Técnico e Melhoria da Prática.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31734"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
-  }
+  },
+  "tipoBotao": "voltar"
  }
 }
