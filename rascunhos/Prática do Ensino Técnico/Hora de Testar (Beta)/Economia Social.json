@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Economia Social",
- "quando": "2026-11-18T16:22:43.500Z",
+ "quando": "2026-11-18T16:23:00.554Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -20,7 +20,7 @@
   ],
   "conclusao": {
    "titulo": "Consolidando as Aprendizagens",
-   "texto": "Uma devolutiva consistente relaciona o objetivo de aprendizagem à evidência observada e apresenta uma orientação para avançar.<br><br>Durante a socialização, as explicações, os registros, as decisões e a participação dos(as) estudantes revelam conhecimentos desenvolvidos e aspectos que ainda precisam ser aprimorados.<br><br>Em atividades de Contabilidade e Cooperativismo, essas observações ajudam a identificar dificuldades nos procedimentos, nas justificativas e na organização coletiva.<br><br>Ao registrar as evidências e analisar os resultados das suas intervenções, você também pode rever suas estratégias de mediação e ajustar o planejamento das próximas experiências de aprendizagem.<br><br>",
+   "texto": "Uma devolutiva consistente relaciona o objetivo de aprendizagem à evidência observada e apresenta uma orientação para avançar.<br><br>Durante a socialização, as explicações, os registros, as decisões e a participação dos(as) estudantes revelam conhecimentos desenvolvidos e aspectos que ainda precisam ser aprimorados.<br><br>Em atividades de Contabilidade e Cooperativismo, essas observações ajudam a identificar dificuldades nos procedimentos, nas justificativas e na organização coletiva.<br><br>Ao registrar as evidências e analisar os resultados das suas intervenções, você também pode rever suas estratégias de mediação e ajustar o planejamento das próximas experiências de aprendizagem.<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -35,14 +35,15 @@
       {
        "id": "mwmc1gy9vtyqe4",
        "texto": "Unidade 8: Registro Técnico e Melhoria da Prática.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31710"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
-  }
+  },
+  "tipoBotao": "voltar"
  }
 }
