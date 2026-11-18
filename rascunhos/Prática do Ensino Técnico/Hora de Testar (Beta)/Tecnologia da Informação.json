@@ -1,7 +1,48 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Tecnologia da Informação",
- "quando": "2026-11-17T15:02:12.609Z",
+ "quando": "2026-11-18T17:10:18.370Z",
  "autor": "Eduarda",
- "dados": {}
+ "dados": {
+  "campos": {
+   "objetivo": "Analisar evidências de aprendizagem para formular devolutivas e refletir sobre a própria prática docente.<br>",
+   "titulo": "<b>Evidências em Ação: Analisando a Aprendizagem</b><br>",
+   "conteudo": "Chegou o momento de aplicar os conceitos trabalhados nesta aula. Nas atividades a seguir, você analisará uma situação de socialização de um projeto, identificando evidências que revelam o que os(as) estudantes aprenderam e quais conhecimentos ainda precisam desenvolver.<br><br>Em seguida, refletirá sobre suas próprias estratégias de observação e registro. O objetivo é compreender como utilizar essas informações para formular devolutivas específicas e orientar tanto a aprendizagem dos(as) estudantes quanto o planejamento de futuras intervenções pedagógicas.<br>",
+   "reflexao": ""
+  },
+  "atividades": [
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32762\" width=\"1124\" height=\"427\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"TI-M4-U06-APLI-DRAGW\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   },
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32761\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"TI-M4-U06-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   }
+  ],
+  "conclusao": {
+   "titulo": "Consolidando as Aprendizagens",
+   "texto": "Ao relacionar evidências e devolutivas, você exercitou uma prática fundamental da avaliação formativa: observar o que os(as) estudantes demonstram saber e identificar o que ainda precisam desenvolver.<br><br>Uma devolutiva consistente reconhece os conhecimentos evidenciados, aponta dificuldades específicas e indica próximos passos para a aprendizagem. Esse processo também oferece informações importantes para o planejamento docente.<br><br>Ao analisar os registros das socializações, você pode identificar conteúdos que precisam ser retomados, procedimentos que exigem novas oportunidades de prática e estratégias de mediação que podem ser aprimoradas nas próximas aulas.<br><br>",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:<br>",
+     "idRevisar": "mwmdr88wlsv4vl",
+     "itensRevisar": [
+      {
+       "id": "mwmdr9wm465yfe",
+       "texto": "Unidade 5: Devolutivas Formativas e Feedforward;&nbsp;&nbsp;<br>",
+       "link": ""
+      },
+      {
+       "id": "mwmdra6qo64br5",
+       "texto": "Unidade 8: Registro Técnico e Melhoria da Prática.&nbsp;<br>",
+       "link": ""
+      }
+     ],
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": true
+    }
+   ]
+  }
+ }
 }
