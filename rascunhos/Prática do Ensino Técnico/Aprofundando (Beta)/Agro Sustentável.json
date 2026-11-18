@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Agro Sustentável",
- "quando": "2026-11-18T15:02:59.365Z",
+ "quando": "2026-11-18T15:05:44.208Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Socialização e reflexão sobre a produção técnica.<br><b>Conteúdos:</b><br><ul><li>Formas de socialização utilizadas.<br></li><li>Apresentação dos processos e resultados.<br></li><li>Participação dos(as) estudantes.<br></li><li>Feedback e devolutivas recebidos.<br></li><li>Aprendizagens evidenciadas na socialização.<br></li><li>Aspectos da produção e do processo que poderiam ser qualificados.<br></li></ul><b>Objetivo da Aula:</b><br>Analisar como a socialização e as devolutivas contribuíram para a aprendizagem e para a qualificação da produção técnica, identificando ajustes para experiências futuras.<br>",
    "objetivo": "Analisar evidências de aprendizagem identificadas durante a socialização das produções técnicas, relacionando-as aos objetivos de aprendizagem para formular devolutivas e registrar os avanços e aspectos a desenvolver.<br>",
    "titulo": "<b>Socializar para Evidenciar Aprendizagens&nbsp;</b><br>",
-   "conteudo": "[PERGUNTA1]<br><h3><b><font color=\"#f04770\">Compartilhar para Aprender<br><br></font></b></h3>Projetos, pesquisas, produtos e práticas podem ser compartilhados com a turma, a comunidade escolar ou produtores(as) locais. Na socialização, os(as) estudantes comunicam processos, decisões e resultados, tornando suas aprendizagens visíveis. Entre as possibilidades estão:<br><br>",
+   "conteudo": "[PERGUNTA1]<br><h3><b><font color=\"#f04770\">Compartilhar para Aprender<br><br></font></b></h3>Projetos, pesquisas, produtos e práticas podem ser compartilhados com a turma, a comunidade escolar ou produtores(as) locais. Na socialização, os(as) estudantes comunicam processos, decisões e resultados, tornando suas aprendizagens visíveis. Entre as possibilidades estão:<br>[INFOGRAFICO1]<br>A forma escolhida deve estar relacionada ao objetivo da atividade e permitir que os(as) estudantes demonstrem o que aprenderam.<br><br><h3><font color=\"#f04770\">Aprendizagens em Evidência \n<br><br></font></h3>Durante a socialização, observe tanto o resultado apresentado quanto as ações e decisões que revelam a aprendizagem. Relacione suas observações aos objetivos e critérios definidos para a atividade.&nbsp;<br><br>",
    "conectando": ""
   },
   "blocos": [
@@ -21,6 +21,17 @@
      "texto": "Lembre-se de uma apresentação em que os(as) estudantes compartilharam um projeto, produto ou procedimento técnico. Durante a socialização, o que você conseguiu observar sobre os conhecimentos mobilizados, as decisões tomadas e os procedimentos realizados? Como essas observações podem orientar suas devolutivas?<br>",
      "videoUrl": "",
      "iframeH5P": ""
+    },
+    "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "timeline_gavetas",
+    "infograficoData": {
+     "titulo": "",
+     "subtitulo": "",
+     "gavetas": "[{\"imagem\":\"\",\"titulo\":\"Apresentação de projetos de cultivo ou produção&nbsp;\",\"conteudo\":\"\",\"porqueTexto\":\"Apresentação de um plano de implantação de uma horta agroecológica.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo:\"},{\"imagem\":\"\",\"titulo\":\"Demonstração de técnicas de processamento de alimentos\",\"conteudo\":\"\",\"porqueTexto\":\"Demonstração do preparo de geleia artesanal, incluindo etapas de processamento e conservação.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Exposição de produtos e protótipos\",\"conteudo\":\"\",\"porqueTexto\":\"Exposição de um biofertilizante produzido a partir de resíduos orgânicos, com explicação de sua composição e aplicação.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Mostra de práticas agroecológicas\",\"conteudo\":\"\",\"porqueTexto\":\"Demonstração de técnicas de cobertura do solo e consorciação de culturas em uma área de cultivo.\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Apresentação de resultados de experimentos ou pesquisa\",\"conteudo\":\"\",\"porqueTexto\":\"Apresentação de resultados de um experimento que compara o desenvolvimento de plantas submetidas a diferentes condições de irrigação.\",\"porqueTitulo\":\"Exemplo\"}]"
     },
     "novo": false
    }
