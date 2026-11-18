@@ -1,15 +1,15 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão e Operações",
- "quando": "2026-11-18T16:37:45.146Z",
+ "quando": "2026-11-18T16:38:19.769Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Socialização e reflexão sobre a produção técnica.<br><b>Conteúdos:</b><br><ul><li>Formas de socialização utilizadas.<br></li><li>Apresentação dos processos e resultados.<br></li><li>Participação dos(as) estudantes.<br></li><li>Feedback e devolutivas recebidos.<br></li><li>Aprendizagens evidenciadas na socialização.<br></li><li>Aspectos da produção e do processo que poderiam ser qualificados.<br></li></ul><b>Objetivo da Aula:</b><br>Analisar como a socialização e as devolutivas contribuíram para a aprendizagem e para a qualificação da produção técnica, identificando ajustes para experiências futuras.<br>",
    "objetivo": "Analisar evidências de aprendizagem identificadas durante a socialização das produções técnicas, relacionando-as aos objetivos de aprendizagem para formular devolutivas e registrar os avanços e aspectos a desenvolver.<br>",
    "titulo": "<b>Socializar, Refletir e Aprimorar</b><br>",
-   "conteudo": "[PERGUNTA1]<br><h3><b><font color=\"#f04770\">Compartilhar para Aprender<br><br></font></b></h3>A socialização permite compartilhar produções, apresentar processos e resultados e receber contribuições de diferentes participantes. Nos cursos de Logística e Recursos Humanos, ela pode ocorrer por meio de:<br>[INFOGRAFICO1]<br><h3><b><font color=\"#f04770\">O que Observar?&nbsp;</font></b></h3><br>Durante a socialização, observe como os(as) estudantes apresentam suas produções, justificam as escolhas realizadas e analisam as contribuições recebidas. Considere os seguintes aspectos:<br>[INFOGRAFICO2]<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Da Evidência à Orientação</font></b></h3><br>As devolutivas recebidas durante a socialização podem ampliar a compreensão dos(as) estudantes sobre a própria produção.<br><br>Elas podem vir do(a) professor(a), dos(as) colegas ou de outros(as) participantes e apresentar questionamentos, sugestões e observações sobre o trabalho realizado.<br><br>Para que contribuam com a aprendizagem, precisam ser analisadas em relação aos objetivos da atividade.<br><br>Nem toda sugestão precisa ser incorporada: os(as) estudantes devem avaliar sua pertinência, justificar as decisões e identificar quais mudanças podem qualificar o resultado.<br><br><h3><b><font color=\"#f04770\">Analisando a Proposta de Integração</font></b></h3><br>Em uma atividade, os(as) estudantes elaboraram e socializaram uma proposta de integração de novos(as) colaboradores(as) para uma empresa simulada.<br><br>Durante a apresentação, organizaram as etapas de acolhimento e apresentação da empresa em uma sequência lógica, distribuíram responsabilidades entre os(as) integrantes e explicaram a finalidade de cada etapa.<br><br>Entretanto, não definiram prazos para as ações nem instrumentos para acompanhar a adaptação dos(as) novos(as) profissionais.<br><br>",
-   "conectando": ""
+   "conteudo": "[PERGUNTA1]<br><h3><b><font color=\"#f04770\">Compartilhar para Aprender<br><br></font></b></h3>A socialização permite compartilhar produções, apresentar processos e resultados e receber contribuições de diferentes participantes. Nos cursos de Logística e Recursos Humanos, ela pode ocorrer por meio de:<br>[INFOGRAFICO1]<br><h3><b><font color=\"#f04770\">O que Observar?&nbsp;</font></b></h3><br>Durante a socialização, observe como os(as) estudantes apresentam suas produções, justificam as escolhas realizadas e analisam as contribuições recebidas. Considere os seguintes aspectos:<br>[INFOGRAFICO2]<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Da Evidência à Orientação</font></b></h3><br>As devolutivas recebidas durante a socialização podem ampliar a compreensão dos(as) estudantes sobre a própria produção.<br><br>Elas podem vir do(a) professor(a), dos(as) colegas ou de outros(as) participantes e apresentar questionamentos, sugestões e observações sobre o trabalho realizado.<br><br>Para que contribuam com a aprendizagem, precisam ser analisadas em relação aos objetivos da atividade.<br><br>Nem toda sugestão precisa ser incorporada: os(as) estudantes devem avaliar sua pertinência, justificar as decisões e identificar quais mudanças podem qualificar o resultado.<br><br><h3><b><font color=\"#f04770\">Analisando a Proposta de Integração</font></b></h3><br>Em uma atividade, os(as) estudantes elaboraram e socializaram uma proposta de integração de novos(as) colaboradores(as) para uma empresa simulada.<br><br>Durante a apresentação, organizaram as etapas de acolhimento e apresentação da empresa em uma sequência lógica, distribuíram responsabilidades entre os(as) integrantes e explicaram a finalidade de cada etapa.<br><br>Entretanto, não definiram prazos para as ações nem instrumentos para acompanhar a adaptação dos(as) novos(as) profissionais.<br>[INFOGRAFICO3]",
+   "conectando": "Na próxima etapa, relacione evidências observadas a devolutivas específicas e reflita sobre sua própria prática.<br>"
   },
   "blocos": [
    {
@@ -63,6 +63,22 @@
     },
     "novo": false
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Registrar para Aprimorar",
+   "texto": "Após a socialização, registre como os(as) estudantes apresentaram suas produções, quais contribuições receberam, como avaliaram essas sugestões e quais ajustes decidiram realizar.<br><br>O registro pode incluir avanços identificados, dificuldades discutidas e mudanças incorporadas à produção.<br><ul><li>Em Recursos Humanos, por exemplo, pode documentar a inclusão de instrumentos de acompanhamento em uma proposta de integração.<br></li><li>Em Logística, pode registrar ajustes em um fluxo operacional após questionamentos sobre prazos ou movimentação de materiais.</li></ul>Essas informações ajudam a acompanhar a aprendizagem e planejar novas experiências.<br>[TOMENOTA1]<br>[DICA1]",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "A socialização torna visíveis não apenas os resultados, mas também os conhecimentos, procedimentos e decisões mobilizados pelos(as) estudantes. As contribuições recebidas ajudam a identificar possibilidades de aprimoramento da produção técnica.",
+     "novo": false
+    },
+    {
+     "tipo": "dica",
+     "texto": "Durante a socialização, incentive os(as) estudantes a registrar as contribuições recebidas, avaliar sua pertinência e indicar quais ajustes pretendem realizar na produção técnica.<br>",
+     "novo": false
+    }
+   ]
+  }
  }
 }
