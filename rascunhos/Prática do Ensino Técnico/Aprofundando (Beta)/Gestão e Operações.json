@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão e Operações",
- "quando": "2026-11-18T16:38:19.769Z",
+ "quando": "2026-11-18T16:39:27.521Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -79,6 +79,7 @@
      "novo": false
     }
    ]
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30142"
  }
 }
