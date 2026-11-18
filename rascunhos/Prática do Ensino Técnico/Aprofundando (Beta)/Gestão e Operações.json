@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão e Operações",
- "quando": "2026-11-18T16:37:26.840Z",
+ "quando": "2026-11-18T16:37:45.146Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -61,7 +61,7 @@
     "infograficoData": {
      "tabela": "{\"titulo\":\"\",\"subtitulo\":\"\",\"colunas\":[\"Aspecto observado\",\"Evidência&nbsp;<br>\",\"Devolutiva<br>\"],\"linhas\":[[\"<b>Domínio dos conhecimentos e procedimentos&nbsp;</b>\",\"O grupo apresentou as etapas de acolhimento e integração, mas não definiu como acompanhar a adaptação dos(as) novos(as) colaboradores(as). <br>\",\"A proposta contempla o acolhimento inicial. Incluam procedimentos de acompanhamento para verificar a adaptação dos(as) novos(as) profissionais. <br>\"],[\"<b>Clareza na apresentação&nbsp;</b>\",\"Os(as) integrantes explicaram a finalidade das etapas e a sequência das ações propostas.<br>\",\"As explicações foram claras e organizadas. Mantenham essa estrutura e detalhem os prazos previstos para cada etapa. <br>\"],[\"<b>Coerência das decisões&nbsp;</b>\",\"As ações contemplam o acolhimento, mas não apresentam instrumentos para avaliar a integração. \",\"Relacionem os instrumentos de acompanhamento aos objetivos da integração e às necessidades dos(as) novos(as) colaboradores(as). \"],[\"<b>Participação e colaboração&nbsp;</b>\",\"Os(as) integrantes compartilharam as responsabilidades e participaram da apresentação das etapas. <br>\",\"A participação foi distribuída. Mantenham o envolvimento de todos(as) também na análise e revisão da proposta. \"],[\"<b>Análise das contribuições</b>\",\"O grupo recebeu questionamentos sobre como avaliaria a adaptação dos(as) novos(as) profissionais. <br>\",\"Considerem os questionamentos recebidos e avaliem quais contribuições podem ajudar a qualificar a proposta. <br>\"],[\"<b>Reconhecimento de melhorias&nbsp;</b>\",\"A proposta não previa reuniões de acompanhamento nem formulário de avaliação da integração. <br>\",\"Incluam reuniões periódicas e um formulário para registrar percepções, identificar dificuldades e acompanhar a adaptação. <br>\"]],\"corHeader\":\"#f04770\",\"corTextoHeader\":\"#ffffff\"}"
     },
-    "novo": true
+    "novo": false
    }
   ]
  }
