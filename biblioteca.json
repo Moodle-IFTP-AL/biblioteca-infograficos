@@ -211,6 +211,18 @@
    "criadoEm": "2026-11-18T15:41:18.242Z",
    "atualizadoEm": "2026-11-18T15:37:55.564Z",
    "autor": "Eduarda"
+  },
+  {
+   "id": "4a2b5b59-45da-4029-8542-572b78012830",
+   "nome": "Aspecto",
+   "pasta": "M4U03",
+   "tipo": "tabela_completa",
+   "data": {
+    "tabela": "{\"titulo\":\"\",\"subtitulo\":\"\",\"colunas\":[\"<b style=\\\"\\\">Aspecto</b>\",\"<b style=\\\"\\\">Como observar</b>\"],\"linhas\":[[\"<b>Domínio dos conhecimentos técnicos&nbsp;</b>\",\"Observe se os(as) estudantes utilizam corretamente conceitos e procedimentos. Em uma simulação de vendas, verifique se aplicam técnicas de abordagem, identificação das necessidades do(a) cliente e apresentação de produtos.<br>\"],[\"<b>Adequação da proposta ao público&nbsp;</b>\",\"Analise se as estratégias consideram as características do público-alvo. Em um plano de marketing, verifique se as ações propostas são coerentes com o perfil e os hábitos de consumo da persona.<br>\"],[\"<b>Justificativa das decisões estratégicas</b><br>\",\"Questione os critérios utilizados nas escolhas. Em uma campanha publicitária, peça que expliquem por que selecionaram determinados canais de divulgação e formatos de anúncio.<br>\"],[\"<b>Autonomia e clareza na apresentação</b><br>\",\"Observe se conseguem explicar a proposta, demonstrar procedimentos e responder a perguntas sem depender continuamente de anotações ou da sua intervenção.<br>\"],[\"<b>Qualidade e coerência da produção</b><br>\",\"Verifique se os materiais atendem aos objetivos e critérios da atividade. Em uma peça publicitária, observe a clareza da mensagem, a adequação visual e o alinhamento à identidade da marca.<br>\"],[\"<b>Participação e colaboração</b><br>\",\"Observe a distribuição das responsabilidades, a contribuição dos(as) integrantes e a capacidade de complementar as explicações durante a apresentação de uma campanha ou proposta comercial.&nbsp;\"]],\"corHeader\":\"#79d3f2\",\"corTextoHeader\":\"#0a3442\"}"
+   },
+   "criadoEm": "2026-11-18T15:42:01.513Z",
+   "atualizadoEm": "2026-11-18T15:38:38.597Z",
+   "autor": "Eduarda"
   }
  ]
 }
