@@ -1,7 +1,28 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Economia Social",
- "quando": "2026-11-18T16:09:33.731Z",
+ "quando": "2026-11-18T16:11:33.135Z",
  "autor": "Eduarda",
- "dados": {}
+ "dados": {
+  "campos": {
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Socialização e reflexão sobre a produção técnica.<br><b>Conteúdos:</b><br><ul><li>Formas de socialização utilizadas.<br></li><li>Apresentação dos processos e resultados.<br></li><li>Participação dos(as) estudantes.<br></li><li>Feedback e devolutivas recebidos.<br></li><li>Aprendizagens evidenciadas na socialização.<br></li><li>Aspectos da produção e do processo que poderiam ser qualificados.<br></li></ul><b>Objetivo da Aula:</b><br>Analisar como a socialização e as devolutivas contribuíram para a aprendizagem e para a qualificação da produção técnica, identificando ajustes para experiências futuras.<br>",
+   "objetivo": "Analisar evidências de aprendizagem identificadas durante a socialização das produções técnicas, relacionando-as aos objetivos de aprendizagem para formular devolutivas e registrar os avanços e aspectos a desenvolver.<br>",
+   "titulo": "<b>Evidências e Devolutivas na Socialização</b><br>",
+   "conteudo": "<h3><b><font color=\"#f04770\">Compartilhar para Aprender</font></b></h3><br>Projetos, procedimentos, documentos e propostas podem ser compartilhados com a turma, a comunidade ou outros públicos. Na socialização, os(as) estudantes comunicam processos, decisões e resultados, tornando suas aprendizagens visíveis. Entre as possibilidades estão:<br>[INFOGRAFICO1]<br><h3><b><font color=\"#f04770\">O que Observar?&nbsp;</font></b></h3><br>Durante a socialização, observe tanto o resultado apresentado quanto os procedimentos, as decisões e as justificativas que revelam a aprendizagem. Relacione suas observações aos objetivos e critérios definidos para a atividade.<br><br><br>",
+   "conectando": ""
+  },
+  "blocos": [
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "timeline_gavetas",
+    "infograficoData": {
+     "titulo": "",
+     "subtitulo": "",
+     "gavetas": "[{\"imagem\":\"\",\"titulo\":\"Apresentação de prestação de contas \",\"conteudo\":\"\",\"porqueTexto\":\"Exposição de receitas, despesas e resultados de uma cooperativa.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Demonstração de procedimentos\",\"conteudo\":\"\",\"porqueTexto\":\"Realização de lançamentos e classificação de documentos contábeis.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Simulação de assembleia \",\"conteudo\":\"\",\"porqueTexto\":\"Apresentação e discussão de propostas entre cooperados(as).&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Apresentação de projeto cooperativo\",\"conteudo\":\"\",\"porqueTexto\":\"Exposição de objetivos, responsabilidades e formas de organização coletiva.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Mostra de documentos e soluções&nbsp;\",\"conteudo\":\"\",\"porqueTexto\":\"Exposição de demonstrativos, relatórios e propostas elaboradas pelos(as) estudantes.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"}]"
+    },
+    "novo": false
+   }
+  ]
+ }
 }
