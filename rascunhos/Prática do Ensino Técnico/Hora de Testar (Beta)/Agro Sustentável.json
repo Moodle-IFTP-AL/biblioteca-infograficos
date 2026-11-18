@@ -1,14 +1,22 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Agro Sustentável",
- "quando": "2026-11-18T15:23:49.908Z",
+ "quando": "2026-11-18T15:24:37.793Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "objetivo": "Analisar evidências de aprendizagem para formular devolutivas e refletir sobre a própria prática docente.<br>",
-   "titulo": "",
-   "conteudo": "",
+   "titulo": "<b>Evidências que Orientam Devolutivas</b><br>",
+   "conteudo": "Agora, você vai relacionar evidências observadas durante a socialização de uma produção técnica às devolutivas que podem orientar os(as) estudantes.<br><br>Nas atividades, analise o que foi apresentado, identifique o que cada evidência revela sobre a aprendizagem e reconheça qual orientação pode contribuir para seu desenvolvimento.<br><br>Em seguida, reflita sobre sua própria forma de observar e registrar as apresentações. Esse exercício permite aprimorar suas devolutivas, tornando-as mais específicas e coerentes com os objetivos de aprendizagem, além de identificar possibilidades de ajuste em suas futuras práticas.<br>",
    "reflexao": ""
-  }
+  },
+  "atividades": [
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32747\" width=\"1124\" height=\"427\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"AGR-M4-U06-APLI-DRAGW\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   },
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32748\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"AGR-M4-U06-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   }
+  ]
  }
 }
