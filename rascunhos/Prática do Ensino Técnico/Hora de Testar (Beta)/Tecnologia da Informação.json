@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Tecnologia da Informação",
- "quando": "2026-11-18T17:10:33.831Z",
+ "quando": "2026-11-18T17:10:44.276Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -20,7 +20,7 @@
   ],
   "conclusao": {
    "titulo": "Consolidando as Aprendizagens",
-   "texto": "Ao relacionar evidências e devolutivas, você exercitou uma prática fundamental da avaliação formativa: observar o que os(as) estudantes demonstram saber e identificar o que ainda precisam desenvolver.<br><br>Uma devolutiva consistente reconhece os conhecimentos evidenciados, aponta dificuldades específicas e indica próximos passos para a aprendizagem. Esse processo também oferece informações importantes para o planejamento docente.<br><br>Ao analisar os registros das socializações, você pode identificar conteúdos que precisam ser retomados, procedimentos que exigem novas oportunidades de prática e estratégias de mediação que podem ser aprimoradas nas próximas aulas.<br><br>",
+   "texto": "Ao relacionar evidências e devolutivas, você exercitou uma prática fundamental da avaliação formativa: observar o que os(as) estudantes demonstram saber e identificar o que ainda precisam desenvolver.<br><br>Uma devolutiva consistente reconhece os conhecimentos evidenciados, aponta dificuldades específicas e indica próximos passos para a aprendizagem. Esse processo também oferece informações importantes para o planejamento docente.<br><br>Ao analisar os registros das socializações, você pode identificar conteúdos que precisam ser retomados, procedimentos que exigem novas oportunidades de prática e estratégias de mediação que podem ser aprimoradas nas próximas aulas.<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -35,12 +35,12 @@
       {
        "id": "mwmdra6qo64br5",
        "texto": "Unidade 8: Registro Técnico e Melhoria da Prática.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31728"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
   }
