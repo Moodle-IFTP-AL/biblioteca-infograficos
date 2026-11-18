@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Economia Social",
- "quando": "2026-11-18T16:15:33.069Z",
+ "quando": "2026-11-18T16:16:00.408Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -9,7 +9,7 @@
    "objetivo": "Analisar evidências de aprendizagem identificadas durante a socialização das produções técnicas, relacionando-as aos objetivos de aprendizagem para formular devolutivas e registrar os avanços e aspectos a desenvolver.<br>",
    "titulo": "<b>Evidências e Devolutivas na Socialização</b><br>",
    "conteudo": "<h3><b><font color=\"#f04770\">Compartilhar para Aprender</font></b></h3><br>Projetos, procedimentos, documentos e propostas podem ser compartilhados com a turma, a comunidade ou outros públicos. Na socialização, os(as) estudantes comunicam processos, decisões e resultados, tornando suas aprendizagens visíveis. Entre as possibilidades estão:<br>[INFOGRAFICO1]<br><h3><b><font color=\"#f04770\">O que Observar?&nbsp;</font></b></h3><br>Durante a socialização, observe tanto o resultado apresentado quanto os procedimentos, as decisões e as justificativas que revelam a aprendizagem. Relacione suas observações aos objetivos e critérios definidos para a atividade.<br>[INFOGRAFICO2]<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Da Evidência à Orientação</font></b></h3><br>A devolutiva deve partir do que foi efetivamente observado durante a socialização. Relacione a evidência aos objetivos de aprendizagem e, quando houver, aos critérios ou descritores da rubrica.<br><br>Evite comentários genéricos, como “foi bem” ou “precisa melhorar”, que não indicam como avançar.<br><br>Descreva o que o(a) estudante demonstrou, identifique o aspecto que precisa ser desenvolvido e indique um próximo passo. Se um grupo classificou corretamente as receitas, mas teve dúvidas sobre uma despesa, oriente a retomada dos critérios de classificação e a revisão de lançamentos semelhantes.<br><br><h3><b><font color=\"#f04770\">Analisando uma Prestação de Contas</font></b></h3><br>Em uma socialização de uma prestação de contas simulada, um grupo apresenta receitas, despesas e saldo final de uma cooperativa.<br><br>Os registros estão organizados e os valores conferem. Três integrantes se alternam na explicação, demonstrando conhecimento sobre os procedimentos realizados. Ao justificar as classificações, porém, o grupo demonstra dúvida sobre uma despesa administrativa. Após uma pergunta sobre a finalidade do gasto, os(as) estudantes reconhecem outros lançamentos semelhantes que precisam ser revisados.<br><br>O objetivo era organizar os registros, justificar os critérios de classificação e apresentar a prestação de contas com participação dos(as) integrantes.<br>[INFOGRAFICO3]",
-   "conectando": ""
+   "conectando": "Agora, você relacionará evidências observadas a devolutivas específicas e refletirá sobre como aplicar esse olhar em sua própria prática.<br>"
   },
   "blocos": [
    {
@@ -51,6 +51,17 @@
     },
     "novo": false
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Registrar para Aprimorar ",
+   "texto": "Após a socialização, registre as aprendizagens evidenciadas, os procedimentos realizados adequadamente, as justificativas apresentadas, as dificuldades identificadas e as devolutivas oferecidas.<br><ul><li>Em Contabilidade, o registro pode indicar quais critérios de classificação foram compreendidos e quais ainda geram dúvidas.<br></li><li>Em Cooperativismo, pode reunir informações sobre participação, argumentação e divisão de responsabilidades.</li></ul>Relacione as anotações aos objetivos da atividade e utilize-as para planejar retomadas, novas oportunidades de prática e ajustes na mediação pedagógica.<br>[TOMENOTA1]",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "Na socialização, registre o que o(a) estudante demonstra ao explicar sua produção. Essas evidências permitem formular devolutivas específicas e identificar conhecimentos, procedimentos ou decisões que ainda precisam ser desenvolvidos.",
+     "novo": false
+    }
+   ]
+  }
  }
 }
