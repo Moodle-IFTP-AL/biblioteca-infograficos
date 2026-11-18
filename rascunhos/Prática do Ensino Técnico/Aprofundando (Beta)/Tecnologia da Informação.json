@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Tecnologia da Informação",
- "quando": "2026-11-18T16:59:44.272Z",
+ "quando": "2026-11-18T17:01:44.257Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Socialização e reflexão sobre a produção técnica.<br><b>Conteúdos:</b><br><ul><li>Formas de socialização utilizadas.<br></li><li>Apresentação dos processos e resultados.<br></li><li>Participação dos(as) estudantes.<br></li><li>Feedback e devolutivas recebidos.<br></li><li>Aprendizagens evidenciadas na socialização.<br></li><li>Aspectos da produção e do processo que poderiam ser qualificados.<br></li></ul><b>Objetivo da Aula:</b><br>Analisar como a socialização e as devolutivas contribuíram para a aprendizagem e para a qualificação da produção técnica, identificando ajustes para experiências futuras.<br>",
    "objetivo": "Analisar evidências de aprendizagem identificadas durante a socialização das produções técnicas, relacionando-as aos objetivos de aprendizagem para formular devolutivas e registrar os avanços e aspectos a desenvolver.<br>",
    "titulo": "<b>Socializar para Aprimorar a Aprendizagem</b><br>",
-   "conteudo": "[PERGUNTA1]<br>A socialização permite que os(as) estudantes comuniquem o que realizaram, expliquem os procedimentos adotados e demonstrem os conhecimentos desenvolvidos. No eixo de Tecnologia da Informação, pode ocorrer por meio de:<br>[INFOGRAFICO1]",
+   "conteudo": "[PERGUNTA1]<br>A socialização permite que os(as) estudantes comuniquem o que realizaram, expliquem os procedimentos adotados e demonstrem os conhecimentos desenvolvidos. No eixo de Tecnologia da Informação, pode ocorrer por meio de:<br>[INFOGRAFICO1]<br>A forma escolhida deve estar relacionada ao objetivo da atividade e às aprendizagens que se espera observar.<br><br><h3><b>O que Observar?&nbsp;</b></h3><br>Durante a socialização, observe como os(as) estudantes demonstram seus conhecimentos, explicam os procedimentos realizados e justificam suas decisões. A apresentação permite identificar aprendizagens consolidadas e aspectos que ainda precisam ser desenvolvidos. Considere os seguintes aspectos:<br>[INFOGRAFICO2]<br>Essas observações devem estar relacionadas aos objetivos de aprendizagem e aos critérios da atividade. A apresentação de um sistema funcional, por exemplo, não comprova, por si só, que os(as) estudantes dominam os procedimentos de programação ou compreendem as decisões técnicas envolvidas.",
    "conectando": ""
   },
   "blocos": [
@@ -32,6 +32,15 @@
      "titulo": "",
      "subtitulo": "",
      "gavetas": "[{\"imagem\":\"\",\"titulo\":\"Apresentação de projetos\",\"conteudo\":\"\",\"porqueTexto\":\"Explicação das funcionalidades de um sistema ou aplicativo.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Demonstração de procedimentos\",\"conteudo\":\"\",\"porqueTexto\":\"Execução de uma montagem ou configuração de rede.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Exposição de produtos\",\"conteudo\":\"\",\"porqueTexto\":\"Apresentação de computadores recuperados ou protótipos.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Mostras tecnológicas&nbsp;\",\"conteudo\":\"\",\"porqueTexto\":\"Compartilhamento de soluções digitais.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Apresentação de resultados\",\"conteudo\":\"\",\"porqueTexto\":\"Comunicação de testes, diagnósticos e desempenho de sistemas.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"}]"
+    },
+    "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "tabela_completa",
+    "infograficoData": {
+     "tabela": "{\"titulo\":\"\",\"subtitulo\":\"\",\"colunas\":[\"<b style=\\\"\\\">Aspecto</b>\",\"<b style=\\\"\\\">Como observar</b>\"],\"linhas\":[[\"<b>Domínio dos conhecimentos e procedimentos&nbsp;</b>\",\"Verifique se demonstram domínio dos conceitos e procedimentos técnicos. Exemplo: explicam as etapas de diagnóstico e substituição de componentes de um computador. <br>\"],[\"<b>Clareza na apresentação&nbsp;</b>\",\"Observe se comunicam os procedimentos realizados, as decisões tomadas e os resultados de forma compreensível. Exemplo: explicam as funcionalidades de um sistema desenvolvido e demonstram como utilizá-lo.<br>\"],[\"<b>Coerência das decisões&nbsp;</b>\",\"Analise se conseguem relacionar as escolhas técnicas ao problema e aos objetivos da atividade. Exemplo: justificam a escolha da topologia de rede considerando o espaço e a quantidade de dispositivos conectados.<br>\"],[\"<b>Participação e colaboração&nbsp;</b>\",\"Observe se os(as) integrantes compartilham responsabilidades e demonstram compreensão das diferentes etapas da produção. Exemplo: cada integrante explica uma etapa da configuração de uma rede local. <br>\"],[\"<b>Análise das contribuições</b>\",\"Verifique se compreendem os questionamentos recebidos, conseguem respondê-los e consideram diferentes pontos de vista. Exemplo: explicam como uma sugestão de melhoria na interface de um aplicativo se relaciona à experiência do(a) usuário(a).<br>\"],[\"<b>Reconhecimento de melhorias&nbsp;</b>\",\"Identifique se reconhecem dificuldades, limites do próprio conhecimento e aspectos que precisam ser aprofundados. Exemplo: identificam que ainda precisam compreender como realizar testes após a substituição de componentes.<br>\"]],\"corHeader\":\"#79d3f2\",\"corTextoHeader\":\"#0a3442\"}"
     },
     "novo": false
    }
