@@ -1,7 +1,48 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão e Operações",
- "quando": "2026-11-17T13:37:57.908Z",
+ "quando": "2026-11-18T16:41:09.773Z",
  "autor": "Eduarda",
- "dados": {}
+ "dados": {
+  "campos": {
+   "objetivo": "Analisar evidências de aprendizagem para formular devolutivas e refletir sobre a própria prática docente.<br>",
+   "titulo": "<b>Da Socialização à Qualificação da Produção</b><br>",
+   "conteudo": "Nesta etapa, você vai analisar situações de socialização de produções técnicas e refletir sobre como as contribuições recebidas podem orientar melhorias.<br><br>Primeiro, relacione as evidências observadas às devolutivas mais adequadas, considerando os aspectos que foram bem desenvolvidos e aqueles que precisam ser aprimorados.<br><br>Em seguida, retome sua própria prática e pense em como pode orientar os(as) estudantes a analisar os comentários recebidos, avaliar sua pertinência e decidir quais ajustes realizar em suas produções.<br>",
+   "reflexao": ""
+  },
+  "atividades": [
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32755\" width=\"1124\" height=\"427\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"GOP-M4-U06-APLI-DRAGW\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   },
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32756\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"GOP-M4-U06-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   }
+  ],
+  "conclusao": {
+   "titulo": "Consolidando as Aprendizagens",
+   "texto": "A socialização não se encerra com a apresentação da produção. As perguntas, sugestões e observações recebidas oferecem oportunidades para que os(as) estudantes analisem o próprio trabalho e identifiquem possibilidades de aprimoramento.<br><br>Uma devolutiva formativa ajuda nesse processo ao reconhecer os aspectos bem desenvolvidos, apontar o que precisa ser revisto e indicar caminhos para avançar.<br><br>Incentive os(as) estudantes a avaliar a pertinência das contribuições, justificar suas decisões e registrar os ajustes realizados.<br><br>Reflita também sobre como a organização da atividade e suas intervenções favoreceram essa análise. Assim, a socialização contribui para qualificar tanto a produção técnica quanto as experiências de aprendizagem futuras.<br><br>",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:<br>",
+     "idRevisar": "mwmcps9fu6dcal",
+     "itensRevisar": [
+      {
+       "id": "mwmcpw7u5t03bm",
+       "texto": "Unidade 5: Devolutivas Formativas e Feedforward;&nbsp;&nbsp;<br>",
+       "link": ""
+      },
+      {
+       "id": "mwmcpwd0vcksh6",
+       "texto": "Unidade 8 : Registro Técnico e Melhoria da Prática.&nbsp;<br>",
+       "link": ""
+      }
+     ],
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": true
+    }
+   ]
+  }
+ }
 }
