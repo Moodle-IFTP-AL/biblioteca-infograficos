@@ -1,15 +1,15 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão e Operações",
- "quando": "2026-11-17T13:36:37.670Z",
+ "quando": "2026-11-18T16:32:17.919Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: Desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do conhecimento: </b>avaliação e devolutiva na prática técnica.<br><b>Conteúdos:</b><br><ul><li>critérios utilizados para acompanhar e avaliar a aprendizagem;<br></li><li>evidências consideradas na avaliação;<br></li><li>devolutivas realizadas durante ou após a prática;<br></li><li>relação entre devolutivas e avanços observados;<br></li><li>aspectos da avaliação que contribuíram para a aprendizagem;<br></li><li>aspectos a serem ajustados em novas experiências.<br></li></ul><br><b>Objetivo da aula:</b> analisar a eficácia de avaliações e devolutivas aplicadas em práticas técnicas, relacionando as evidências observadas aos avanços e às necessidades de aprimoramento da aprendizagem.<br>",
-   "objetivo": "Avaliar a própria mediação pedagógica após uma prática técnica, identificando ajustes para o aprimoramento de ações futuras.<br>",
-   "titulo": "<b>Revisitar a mediação para aprimorar novas práticas</b><br>",
-   "conteudo": "Após uma prática técnica, a análise não deve se limitar ao desempenho dos(as) estudantes.<br><br>É preciso refletir sobre como você:<br><ul><li>orientou a atividade;<br></li><li>observou as evidências;<br></li><li>ofereceu devolutivas;<br></li><li>interveio diante das dificuldades.</li></ul>Esse olhar revela estratégias que favoreceram a aprendizagem, como a organização de fluxos de trabalho, o controle de estoque e a gestão de processos, e de apoios a aprimorar.<br><br>Ao revisar sua mediação, a experiência realizada torna-se referência para conduzir futuras práticas com maior intencionalidade pedagógica.<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">Analisar suas escolhas&nbsp;<br><br></font></b></h3>Avaliar uma prática também significa analisar a própria atuação como professor(a). É essencial compreender como perguntas, demonstrações, orientações e devolutivas influenciaram o desenvolvimento técnico da turma, para além dos acertos e erros dos(as) estudantes.<br><br>Em uma prática sobre a distribuição de medicamentos veterinários no Sertão alagoano, por exemplo, uma intervenção docente pode ajudar os(as) estudantes a articular as prioridades, as rotas e as responsabilidades da equipe.<br><br>Essa análise permite reconhecer estratégias eficazes, identificar necessidades ainda não atendidas e aprimorar as intervenções futuras.<br><br><h3><b><font color=\"#f04770\">O que analisar?</font></b></h3><br>Retomar uma prática já realizada permite compreender a relação entre objetivos, avaliação, mediação e aprendizagem. Considere os seis aspectos seguintes:<br>[INFOGRAFICO1]",
-   "conectando": "No fórum a seguir, uma prática recente será analisada para identificar avanços e possibilidades de aprimoramento da mediação.<br>"
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Socialização e reflexão sobre a produção técnica.<br><b>Conteúdos:</b><br><ul><li>Formas de socialização utilizadas.<br></li><li>Apresentação dos processos e resultados.<br></li><li>Participação dos(as) estudantes.<br></li><li>Feedback e devolutivas recebidos.<br></li><li>Aprendizagens evidenciadas na socialização.<br></li><li>Aspectos da produção e do processo que poderiam ser qualificados.<br></li></ul><b>Objetivo da Aula:</b><br>Analisar como a socialização e as devolutivas contribuíram para a aprendizagem e para a qualificação da produção técnica, identificando ajustes para experiências futuras.<br>",
+   "objetivo": "Analisar evidências de aprendizagem identificadas durante a socialização das produções técnicas, relacionando-as aos objetivos de aprendizagem para formular devolutivas e registrar os avanços e aspectos a desenvolver.<br>",
+   "titulo": "<b>Socializar, Refletir e Aprimorar</b><br>",
+   "conteudo": "[PERGUNTA1]<br><h3><b><font color=\"#f04770\">Compartilhar para Aprender<br><br></font></b></h3>A socialização permite compartilhar produções, apresentar processos e resultados e receber contribuições de diferentes participantes. Nos cursos de Logística e Recursos Humanos, ela pode ocorrer por meio de:<br><br>",
+   "conectando": ""
   },
   "blocos": [
    {
@@ -17,41 +17,13 @@
     "texto": "",
     "pergunta": {
      "tipo": "texto",
-     "titulo": "Vamos refletir?",
-     "texto": "Depois de uma prática técnica, o que você analisa para compreender se suas orientações, intervenções e devolutivas de fato favoreceram a aprendizagem dos(as) estudantes?<br>",
+     "titulo": "O que a Socialização Revela?",
+     "texto": "Relembre uma situação em que seus(suas) estudantes apresentaram uma produção técnica e receberam comentários ou sugestões da turma ou de outros(as) participantes. O que fizeram com essas contribuições? Como a socialização e as devolutivas poderiam orientar melhorias na produção e nas próximas experiências?<br>",
      "videoUrl": "",
      "iframeH5P": ""
     },
     "novo": false
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "timeline_gavetas",
-    "infograficoData": {
-     "titulo": "",
-     "subtitulo": "",
-     "gavetas": "[{\"imagem\":\"\",\"titulo\":\"1. Critérios de avaliação\",\"conteudo\":\"Os critérios de avaliação revelam quais aspectos do desempenho técnico foram valorizados. Verifique se contemplaram procedimentos, registros, tomada de decisão, comunicação e segurança, em coerência com os objetivos da prática.&nbsp;<br>\",\"porqueTexto\":\"Os critérios permitiram identificar, em detalhes, as competências desenvolvidas e as dificuldades apresentadas?<br>\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"Evidências de aprendizagem&nbsp;<br>\",\"conteudo\":\"Ações, falas, produções e registros revelam como os(as) estudantes mobilizaram seus conhecimentos. Analise se as evidências selecionadas foram suficientes para compreender o raciocínio técnico, e não apenas o resultado final.&nbsp;<br>\",\"porqueTexto\":\"As evidências mostraram como os(as) estudantes chegaram às decisões ou apenas indicaram que concluíram a tarefa?&nbsp;<br>\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"Devolutivas aos(às) estudantes&nbsp;<br>\",\"conteudo\":\"A devolutiva deve reconhecer os avanços, indicar aspectos que precisam ser aprimorados e orientar os próximos passos. Avalie se foi específica, fundamentada em evidências e compreensível para os(as) estudantes.&nbsp;<br>\",\"porqueTexto\":\"Minhas devolutivas ajudaram os(as) estudantes a reconhecer o que realizaram adequadamente e o que poderiam fazer para avançar?&nbsp;<br>\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"Efeitos das intervenções&nbsp;<br>\",\"conteudo\":\"Observe os efeitos de uma intervenção. Uma intervenção eficaz favorece a compreensão, a participação e a autonomia, sem substituir as decisões dos(as) estudantes.&nbsp;<br>\",\"porqueTexto\":\"Após minha intervenção, os(as) estudantes retomaram a prática com maior segurança e autonomia ou permaneceram dependentes das minhas orientações?&nbsp;<br>\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"Avaliação e aprendizagem&nbsp;<br>\",\"conteudo\":\"A avaliação deve produzir informações que apoiem a aprendizagem durante e após a prática. Verifique se os instrumentos utilizados permitiram identificar dificuldades, orientar intervenções e acompanhar os avanços.&nbsp;<br>\",\"porqueTexto\":\"A avaliação serviu apenas para verificar resultados ou também contribuiu para reorientar o processo de aprendizagem?&nbsp;<br>\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"O que ajustar na próxima prática&nbsp;<br>\",\"conteudo\":\"A análise deve se traduzir em decisões pedagógicas concretas orientadas à melhoria contínua da prática docente e ao atendimento das necessidades de aprendizagem identificadas.&nbsp;&nbsp;<br>\",\"porqueTexto\":\"Que mudança específica tornaria minha próxima mediação mais adequada às necessidades observadas?&nbsp;<br>\",\"porqueTitulo\":\"Reflita:\"}]"
-    },
-    "novo": false
    }
-  ],
-  "conclusao": {
-   "titulo": "Da reflexão à ação",
-   "texto": "Revisitar a própria atuação permite reconhecer o que favoreceu a aprendizagem, o que teve efeito limitado e quais intervenções precisam ser ajustadas.<br><br>Ao relacionar critérios de avaliação, evidências de aprendizagem, devolutivas e resultados observados, você constrói uma compreensão mais precisa da prática.<br><br>Essa reflexão transforma a experiência vivenciada em referência para novas decisões pedagógicas, fortalecendo uma mediação mais intencional, formativa e orientada ao desenvolvimento da autonomia técnica.<br>[TOMENOTA1]<br>[DICA1]",
-   "blocos": [
-    {
-     "tipo": "tomenota",
-     "texto": "Analisar a mediação não significa procurar erros na atuação docente, mas sim compreender os efeitos das escolhas realizadas e utilizar essa reflexão para aprimorar a prática docente e os resultados de aprendizagem dos(as) estudantes.",
-     "novo": false
-    },
-    {
-     "tipo": "dica",
-     "texto": "Após a prática, escolha uma intervenção e registre:<br><ul><li>dificuldade observada;<br></li><li>apoio oferecido;<br></li><li>reação dos(as) estudantes; e<br></li><li>aspecto que manteria ou ajustaria.</li></ul>",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=30122"
+  ]
  }
 }
