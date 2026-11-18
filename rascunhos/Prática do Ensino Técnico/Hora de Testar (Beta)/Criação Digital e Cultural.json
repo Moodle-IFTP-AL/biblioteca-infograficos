@@ -1,52 +1,48 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Criação Digital e Cultural",
- "quando": "2026-11-12T12:04:22.239Z",
+ "quando": "2026-11-18T16:00:25.280Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Analisar evidências de aprendizagem em uma prática técnica para propor encaminhamentos pedagógicos.",
-   "titulo": "<b>Olhar de Volta para as Evidências</b><br>",
-   "conteudo": "",
+   "objetivo": "Analisar evidências de aprendizagem para formular devolutivas e refletir sobre a própria prática docente.<br>",
+   "titulo": "<b>Uma Socialização em Análise</b><br>",
+   "conteudo": "Chegou o momento de aplicar o que você estudou nesta aula!<br>As atividades a seguir convidam você a analisar situações de socialização de produções técnicas, identificando evidências de aprendizagem e relacionando-as a devolutivas que orientam os(as) estudantes.<br><ul><li>Primeiro, você vai analisar uma apresentação e conectar cada evidência à orientação correspondente.<br></li><li>Depois, será convidado(a) a refletir sobre sua própria prática de observação e registro.<br></li></ul>Aproveite esse exercício para avaliar suas escolhas pedagógicas e identificar possibilidades de aprimoramento para as próximas aulas.<br>",
    "reflexao": ""
   },
   "atividades": [
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32213\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"CDC-M4-U04-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32751\" width=\"1124\" height=\"427\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"CDC-M4-U06-APLI-DRAGW\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   },
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32752\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"CDC-M4-U06-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    }
   ],
   "conclusao": {
-   "titulo": "Planejando Novos Caminhos ",
-   "texto": "Parabéns por concluir esta aula!<br><br>Analisar o que os(as) estudantes fazem, dizem, produzem e registram ajuda a compreender o que aprenderam e a decidir os próximos passos com mais segurança.<br><br>Leve esse olhar atento para as suas próximas práticas.<br>[REVISAR1]",
+   "titulo": "Consolidando as Aprendizagens ",
+   "texto": "Na primeira atividade, cada devolutiva foi construída a partir de uma evidência concreta: a organização das atrações considerando o público, a divulgação ainda sem responsável definido(a) e o orçamento sem fontes que justificassem os valores. Observe que as orientações reconhecem o que foi realizado e indicam um próximo passo para aprimorar a produção.<br><br>Na segunda atividade, não existe uma resposta única. O importante é refletir sobre como suas observações e registros podem orientar os(as) estudantes e também contribuir para analisar suas próprias escolhas pedagógicas.<br><br>Assim, a socialização se transforma em uma oportunidade de aprendizagem e aprimoramento contínuo.<br>",
    "blocos": [
     {
      "tipo": "revisar",
-     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:<br>",
-     "idRevisar": "mwdi56ur0oakd4",
+     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:",
+     "idRevisar": "mwmb9e465bqpbz",
      "itensRevisar": [
       {
-       "id": "mwdi58ogvxxtx7",
-       "texto": "Unidade 1: Acompanhamento da Aprendizagem.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28068"
+       "id": "mwmb9fatvjennl",
+       "texto": "Unidade 5: Devolutivas Formativas e Feedforward;&nbsp;&nbsp;<br>",
+       "link": ""
       },
       {
-       "id": "mwdi5968eqp5tf",
-       "texto": "Unidade 2: Evidências de Aprendizagem.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28090"
-      },
-      {
-       "id": "mwdi59c5e47la5",
-       "texto": "Unidade 3: Registro Pedagógico sem Burocratização.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28111"
+       "id": "mwmb9fwo6p0jae",
+       "texto": "Unidade 8 : Registro Técnico e Melhoria da Prática.",
+       "link": ""
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": false
+     "novo": true
     }
    ]
-  },
-  "tipoBotao": "voltar",
-  "link": "https://ead.educacao.al.gov.br/course/view.php?id=283#section-82"
+  }
  }
 }
