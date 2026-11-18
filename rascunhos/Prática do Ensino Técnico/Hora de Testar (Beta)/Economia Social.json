@@ -1,67 +1,48 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Economia Social",
- "quando": "2026-11-14T23:16:51.497Z",
- "autor": "Teste",
+ "quando": "2026-11-18T16:22:11.580Z",
+ "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Aplicar critérios de análise da mediação docente em uma situação de prática técnica, relacionando a necessidade observada, a intervenção, os efeitos e as possibilidades de aprimoramento.",
-   "titulo": "<b>Analisando a Mediação na Prática</b><br>",
-   "conteudo": "Agora, você analisará uma situação de Contabilidade em uma cooperativa simulada. Observe a dificuldade apresentada pelo(a) estudante, a intervenção realizada e os efeitos produzidos. Avalie o que pode ser mantido ou ajustado na mediação para favorecer a aprendizagem e a autonomia. Ao final, reflita sobre como essa análise pode orientar sua própria prática.<div>[H5P1]</div><div>[H5P2]</div><div>[PERGUNTA1]</div>",
-   "reflexao": "Escolha uma situação recente de aula prática em que um(a) estudante apresentou dificuldade em realizar um procedimento, interpretar uma informação ou tomar uma decisão.<br>Reflita:<br><ul><li>qual necessidade você identificou?<br></li><li>que intervenção realizou e por que a escolheu?<br></li><li>quais efeitos observou após o apoio oferecido?<br></li><li>o(a) estudante conseguiu avançar com mais autonomia?<br></li></ul>Por fim, pense no que você manteria ou ajustaria em uma situação semelhante para favorecer a aprendizagem e a capacidade de tomar decisões fundamentadas.<br>"
+   "objetivo": "Analisar evidências de aprendizagem para formular devolutivas e refletir sobre a própria prática docente.<br>",
+   "titulo": "<b>Da Evidência à Devolutiva</b><br>",
+   "conteudo": "Nesta etapa, você vai analisar situações de socialização para relacionar evidências de aprendizagem a devolutivas coerentes.<br><br>Primeiro, observe o que os(as) estudantes demonstraram ao apresentar uma produção relacionada à Economia Social e associe cada evidência à orientação mais adequada.<br><br>Depois, retome sua própria prática e reflita sobre como observa, registra e oferece devolutivas.<br><br>O objetivo é reconhecer como essas ações podem contribuir tanto para o desenvolvimento técnico dos(as) estudantes quanto para o aprimoramento da sua mediação pedagógica.<br>",
+   "reflexao": ""
   },
-  "blocos": [
+  "atividades": [
    {
-    "tipo": "h5p",
-    "texto": "<h3><b>Classificando despesas na cooperativa</b></h3>Em uma atividade de Contabilidade aplicada a uma cooperativa simulada de artesãs, um(a) estudante demonstra dúvida ao classificar o valor pago pelo transporte dos produtos vendidos. A professora pergunta qual é a finalidade desse gasto e propõe compará-lo à compra de matéria-prima utilizada na produção. Após a conversa, o(a) estudante revisa o lançamento e explica o critério utilizado.<br>",
-    "titulo": "Atividade 1",
-    "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32198\" width=\"949\" height=\"541\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ECS-M4-U03-APLI-MULTI1\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
-    "novo": false,
-    "minimizado": true
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32753\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ECS-M4-U06-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    },
    {
-    "tipo": "h5p",
-    "texto": "",
-    "titulo": "Atividade 2",
-    "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32199\" width=\"949\" height=\"517\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ECS-M4-U03-APLI-MULTI2\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
-    "novo": false,
-    "minimizado": true
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32754\" width=\"1124\" height=\"427\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ECS-M4-U06-APLI-DRAGW\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    }
   ],
-  "atividades": [],
   "conclusao": {
-   "titulo": "Da análise à prática docente ",
-   "texto": "<h3><b>Da análise à prática docente&nbsp;</b></h3>Analisar a mediação docente implica relacionar a necessidade observada, o apoio oferecido e seus efeitos na aprendizagem.<br>Em práticas de Cooperativismo e Contabilidade, essa análise permite reconhecer quando uma orientação, demonstração ou pergunta favorece a compreensão e quando é necessário ajustar a intervenção.<br>Ao considerar evidências da execução e da autonomia dos(as) estudantes, você qualifica suas escolhas pedagógicas sem substituir o raciocínio deles(as).<br>Ao concluir esta unidade, leve essa perspectiva para a análise das suas próximas práticas. Bom trabalho!<br>[REVISAR1]",
+   "titulo": "Consolidando as Aprendizagens",
+   "texto": "Uma devolutiva consistente relaciona o objetivo de aprendizagem à evidência observada e apresenta uma orientação para avançar.<br><br>Durante a socialização, as explicações, os registros, as decisões e a participação dos(as) estudantes revelam conhecimentos desenvolvidos e aspectos que ainda precisam ser aprimorados.<br><br>Em atividades de Contabilidade e Cooperativismo, essas observações ajudam a identificar dificuldades nos procedimentos, nas justificativas e na organização coletiva.<br><br>Ao registrar as evidências e analisar os resultados das suas intervenções, você também pode rever suas estratégias de mediação e ajustar o planejamento das próximas experiências de aprendizagem.<br><br>",
    "blocos": [
     {
      "tipo": "revisar",
-     "texto": "",
-     "idRevisar": "mwfh3tjrzagp9r",
+     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:<br>",
+     "idRevisar": "mwmc1bm7ay0pvn",
      "itensRevisar": [
       {
-       "id": "mwfh3v46w5ixuu",
-       "texto": "Módulo 1 – Unidade 6: Demonstração técnica aplicada ao projeto ABP.",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22614"
+       "id": "mwmc1grlsh1534",
+       "texto": "Unidade 5: Devolutivas Formativas e Feedforward;&nbsp;&nbsp;<br>",
+       "link": ""
       },
       {
-       "id": "mwfh3vicy8z94c",
-       "texto": "Módulo 1 – Unidade 8: Preparação de demonstrações técnicas.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=23177"
-      },
-      {
-       "id": "mwfh3vtec61bti",
-       "texto": "Módulo 3 – Encontro síncrono 1: Gestão da prática técnica.",
-       "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27197"
+       "id": "mwmc1gy9vtyqe4",
+       "texto": "Unidade 8: Registro Técnico e Melhoria da Prática.&nbsp;<br>",
+       "link": ""
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": false,
-     "minimizado": true
+     "novo": true
     }
    ]
-  },
-  "tipoBotao": "voltar",
-  "link": "https://ead.educacao.al.gov.br/course/view.php?id=279#section-80"
+  }
  }
 }
