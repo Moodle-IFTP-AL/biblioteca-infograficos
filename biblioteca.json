@@ -199,6 +199,18 @@
    "criadoEm": "2026-11-11T18:17:53.943Z",
    "atualizadoEm": "2026-11-11T18:14:42.092Z",
    "autor": "Eduarda"
+  },
+  {
+   "id": "dae345f6-728d-4702-b472-589ff72f4e84",
+   "nome": "Tabela CompletaM4U06",
+   "pasta": "",
+   "tipo": "tabela_completa",
+   "data": {
+    "tabela": "{\"titulo\":\"\",\"subtitulo\":\"\",\"colunas\":[\"Aspecto observado\",\"Evidência&nbsp;<br>\",\"Devolutiva<br>\"],\"linhas\":[[\"<b>Domínio dos conhecimentos técnicos&nbsp;</b>\",\"Caracterizaram o público-alvo e apresentaram uma persona com perfil e hábitos de consumo.&nbsp;&nbsp;<br>\",\"A persona está bem caracterizada. Utilizem essas informações para fundamentar as demais decisões da campanha.<br>\"],[\"<b>Adequação da proposta ao público</b>\",\"Elaboraram peças para redes sociais, mas não explicaram a relação entre os formatos e os hábitos da persona.<br>\",\"Relacionem os formatos escolhidos aos hábitos de consumo e aos canais utilizados pelo público definido.<br>\"],[\"<b>Justificativa das decisões estratégicas&nbsp;</b>\",\"Não justificaram a escolha dos canais digitais nem sua adequação aos objetivos da campanha.&nbsp;\",\"Expliquem por que os canais selecionados são adequados ao público e aos objetivos de divulgação.&nbsp;\"],[\"<b>Autonomia e clareza na apresentação</b>\",\"Dois(duas) integrantes conduziram as explicações; os(as) demais tiveram dificuldade para responder às perguntas.<br>\",\"Distribuam as responsabilidades e preparem todos(as) os(as) integrantes para explicar as decisões e etapas da campanha.&nbsp;\"],[\"<b>Qualidade e coerência da produção</b>&nbsp;\",\"As peças apresentavam mensagens claras, mas utilizavam cores diferentes das previstas na identidade visual.<br>\",\"Revisem a paleta de cores para manter a coerência visual das peças com a identidade da marca.<br>\"],[\"<b>Participação e colaboração&nbsp;</b>\",\"Apenas dois(duas) integrantes explicaram as decisões da campanha durante a socialização.<br>\",\"Organizem a apresentação para que todos(as) contribuam e demonstrem compreensão das decisões tomadas pelo grupo.<br>\"]],\"corHeader\":\"#f04770\",\"corTextoHeader\":\"#ffffff\"}"
+   },
+   "criadoEm": "2026-11-18T15:41:18.242Z",
+   "atualizadoEm": "2026-11-18T15:37:55.564Z",
+   "autor": "Eduarda"
   }
  ]
 }
