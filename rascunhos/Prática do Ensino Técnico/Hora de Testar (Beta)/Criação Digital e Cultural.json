@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Criação Digital e Cultural",
- "quando": "2026-11-18T16:00:36.972Z",
+ "quando": "2026-11-18T16:00:51.727Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -20,7 +20,7 @@
   ],
   "conclusao": {
    "titulo": "Consolidando as Aprendizagens ",
-   "texto": "Na primeira atividade, cada devolutiva foi construída a partir de uma evidência concreta: a organização das atrações considerando o público, a divulgação ainda sem responsável definido(a) e o orçamento sem fontes que justificassem os valores. Observe que as orientações reconhecem o que foi realizado e indicam um próximo passo para aprimorar a produção.<br><br>Na segunda atividade, não existe uma resposta única. O importante é refletir sobre como suas observações e registros podem orientar os(as) estudantes e também contribuir para analisar suas próprias escolhas pedagógicas.<br><br>Assim, a socialização se transforma em uma oportunidade de aprendizagem e aprimoramento contínuo.<br>",
+   "texto": "Na primeira atividade, cada devolutiva foi construída a partir de uma evidência concreta: a organização das atrações considerando o público, a divulgação ainda sem responsável definido(a) e o orçamento sem fontes que justificassem os valores. Observe que as orientações reconhecem o que foi realizado e indicam um próximo passo para aprimorar a produção.<br><br>Na segunda atividade, não existe uma resposta única. O importante é refletir sobre como suas observações e registros podem orientar os(as) estudantes e também contribuir para analisar suas próprias escolhas pedagógicas.<br><br>Assim, a socialização se transforma em uma oportunidade de aprendizagem e aprimoramento contínuo.<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -35,14 +35,15 @@
       {
        "id": "mwmb9fwo6p0jae",
        "texto": "Unidade 8 : Registro Técnico e Melhoria da Prática.",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31702"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
-  }
+  },
+  "tipoBotao": "voltar"
  }
 }
