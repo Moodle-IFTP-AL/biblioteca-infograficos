@@ -1,7 +1,48 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Turismo e Eventos",
- "quando": "2026-11-17T15:19:47.096Z",
+ "quando": "2026-11-18T17:36:22.510Z",
  "autor": "Eduarda",
- "dados": {}
+ "dados": {
+  "campos": {
+   "objetivo": "Analisar evidências de aprendizagem para formular devolutivas e refletir sobre a própria prática docente.<br>",
+   "titulo": "<b>Da Socialização às Devolutivas</b>",
+   "conteudo": "Agora é o momento de aplicar os conceitos trabalhados nesta aula.<br><br>Nas atividades a seguir, você analisará uma situação de socialização de uma produção técnica do eixo de Turismo e Eventos, identificando evidências que revelam o que os(as) estudantes aprenderam e quais conhecimentos ainda precisam desenvolver.<br><br>Em seguida, refletirá sobre suas próprias estratégias de observação e registro. O objetivo é compreender como utilizar essas informações para formular devolutivas específicas, orientar a aprendizagem dos(as) estudantes e identificar possibilidades de aprimoramento da sua prática docente.<br>",
+   "reflexao": ""
+  },
+  "atividades": [
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32760\" width=\"1124\" height=\"427\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"TEV-M4-U06-APLI-DRAGW\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   },
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32759\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"TEV-M4-U06-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   }
+  ],
+  "conclusao": {
+   "titulo": "Consolidando as Aprendizagens",
+   "texto": "Ao realizar as atividades, você analisou como as evidências observadas durante a socialização ajudam a compreender as aprendizagens dos(as) estudantes e a formular devolutivas mais específicas.<br><br>Uma boa devolutiva reconhece os conhecimentos demonstrados, identifica dificuldades e indica próximos passos para o desenvolvimento técnico. Esse processo também oferece informações importantes para sua prática docente.<br><br>Ao refletir sobre o que observou, registrou e comunicou, você pode identificar conteúdos que precisam ser retomados e estratégias de mediação que podem ser aprimoradas.<br><br>Assim, a socialização se torna uma oportunidade de aprendizagem para os(as) estudantes e de reflexão sobre o próprio trabalho pedagógico.<br><br>",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:<br>",
+     "idRevisar": "mwmeoscx64ys70",
+     "itensRevisar": [
+      {
+       "id": "mwmeouou815vns",
+       "texto": "Unidade 5: Devolutivas Formativas e Feedforward;&nbsp;&nbsp;<br>",
+       "link": ""
+      },
+      {
+       "id": "mwmeoutm2b032t",
+       "texto": "Unidade 8: Registro Técnico e Melhoria da Prática.&nbsp;<br>",
+       "link": ""
+      }
+     ],
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": true
+    }
+   ]
+  }
+ }
 }
