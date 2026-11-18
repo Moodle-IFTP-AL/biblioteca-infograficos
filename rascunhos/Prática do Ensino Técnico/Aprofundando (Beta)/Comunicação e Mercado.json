@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Comunicação e Mercado",
- "quando": "2026-11-18T15:41:45.540Z",
+ "quando": "2026-11-18T15:41:52.070Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -66,17 +66,17 @@
   ],
   "conclusao": {
    "titulo": "Registrar para Aprimorar ",
-   "texto": "Após a socialização, registre:<br><ul><li>as aprendizagens evidenciadas;<br></li><li>os aspectos bem desenvolvidos da produção e do processo;<br></li><li>as dificuldades identificadas;<br></li><li>as devolutivas oferecidas.</li></ul>No exemplo da campanha, podem ser registrados o domínio na caracterização da persona, a necessidade de fundamentar a escolha dos canais e os ajustes necessários à identidade visual.<br><br>Relacione cada anotação aos objetivos de aprendizagem. Esses registros permitem acompanhar os avanços, planejar novas intervenções e ajustar futuras atividades.<br><br>Assim, a socialização se torna uma oportunidade de observar, analisar e registrar evidências que orientam a aprendizagem e a prática docente.<br>",
+   "texto": "Após a socialização, registre:<br><ul><li>as aprendizagens evidenciadas;<br></li><li>os aspectos bem desenvolvidos da produção e do processo;<br></li><li>as dificuldades identificadas;<br></li><li>as devolutivas oferecidas.</li></ul>No exemplo da campanha, podem ser registrados o domínio na caracterização da persona, a necessidade de fundamentar a escolha dos canais e os ajustes necessários à identidade visual.<br><br>Relacione cada anotação aos objetivos de aprendizagem. Esses registros permitem acompanhar os avanços, planejar novas intervenções e ajustar futuras atividades.<br><br>Assim, a socialização se torna uma oportunidade de observar, analisar e registrar evidências que orientam a aprendizagem e a prática docente.<br>[TOMENOTA1]<br>[DICA1]",
    "blocos": [
     {
      "tipo": "tomenota",
      "texto": "A socialização torna visíveis as aprendizagens desenvolvidas, permitindo identificar o domínio técnico, a coerência das decisões e as dificuldades dos(as) estudantes. Utilize evidências concretas para fundamentar devolutivas e orientar novos avanços.<br>",
-     "novo": true
+     "novo": false
     },
     {
      "tipo": "dica",
      "texto": "Utilize uma pauta simples durante as apresentações, com critérios como domínio técnico, adequação ao público e justificativa das escolhas. Registre evidências para formular devolutivas específicas e orientar melhorias.<br>",
-     "novo": true
+     "novo": false
     }
    ]
   }
