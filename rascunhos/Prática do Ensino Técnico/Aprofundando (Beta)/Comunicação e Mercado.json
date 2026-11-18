@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Comunicação e Mercado",
- "quando": "2026-11-18T15:37:45.000Z",
+ "quando": "2026-11-18T15:41:45.540Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -9,7 +9,7 @@
    "objetivo": "Analisar evidências de aprendizagem identificadas durante a socialização das produções técnicas, relacionando-as aos objetivos de aprendizagem para formular devolutivas e registrar os avanços e aspectos a desenvolver.<br>",
    "titulo": "<b>Socializar para Qualificar Resultados</b>",
    "conteudo": "[PERGUNTA1]<br><h3><b><font color=\"#f04770\">Compartilhar para Aprender<br><br></font></b></h3>Projetos, campanhas, estratégias comerciais e materiais de comunicação podem ser compartilhados com a turma, clientes simulados ou outros públicos. Na socialização, os(as) estudantes comunicam processos, decisões e resultados, tornando suas aprendizagens visíveis. Entre as possibilidades estão:<br>[INFOGRAFICO1]<br>A forma escolhida deve estar relacionada ao objetivo da atividade e permitir que os(as) estudantes demonstrem o que aprenderam.<br><h3><font color=\"#f04770\"><br><b>O que Observar?<br><br></b></font></h3>Durante a socialização, observe tanto o resultado apresentado quanto as decisões e os conhecimentos mobilizados pelos(as) estudantes. Relacione suas observações aos objetivos e critérios definidos para a atividade, considerando:<br>[INFOGRAFICO2]<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Da Evidência à Orientação</font></b></h3><br>Com as evidências identificadas, formule devolutivas relacionadas aos objetivos de aprendizagem e, quando houver, aos critérios de avaliação estabelecidos.<br><br>Evite julgamentos genéricos, como “a campanha ficou boa” ou “a proposta precisa melhorar”, pois eles não esclarecem o que foi aprendido nem orientam os próximos passos.<br><br>Descreva o que observou, relacione a evidência ao resultado esperado e indique um ajuste realizável. Em vez de dizer “o planejamento está incompleto”, identifique qual decisão estratégica não foi justificada e oriente o(a) estudante sobre como fundamentá-la.<br><br><h3><b><font color=\"#f04770\">Analisando uma Campanha<br><br></font></b></h3>Em uma aula, um grupo apresentou uma campanha para divulgar uma marca local de alimentos. Os(as) estudantes caracterizaram o público-alvo, elaboraram peças para redes sociais e propuseram uma distribuição de investimento entre os canais digitais.<br><br>Durante a apresentação, demonstraram domínio na definição da persona, mas não conseguiram justificar a escolha dos canais nem relacionar o orçamento ao alcance esperado.<br><br>As peças apresentavam mensagens claras, mas utilizavam cores diferentes das previstas na identidade visual da marca. Além disso, apenas dois(duas) integrantes explicaram as decisões da campanha, enquanto os(as) demais tiveram dificuldade para responder às perguntas.<br>[INFOGRAFICO3]",
-   "conectando": ""
+   "conectando": "A seguir, vamos aprofundar a aplicação prática conectando evidências de socialização a devolutivas assertivas para sua atuação docente.<br>"
   },
   "blocos": [
    {
@@ -63,6 +63,22 @@
     },
     "novo": false
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Registrar para Aprimorar ",
+   "texto": "Após a socialização, registre:<br><ul><li>as aprendizagens evidenciadas;<br></li><li>os aspectos bem desenvolvidos da produção e do processo;<br></li><li>as dificuldades identificadas;<br></li><li>as devolutivas oferecidas.</li></ul>No exemplo da campanha, podem ser registrados o domínio na caracterização da persona, a necessidade de fundamentar a escolha dos canais e os ajustes necessários à identidade visual.<br><br>Relacione cada anotação aos objetivos de aprendizagem. Esses registros permitem acompanhar os avanços, planejar novas intervenções e ajustar futuras atividades.<br><br>Assim, a socialização se torna uma oportunidade de observar, analisar e registrar evidências que orientam a aprendizagem e a prática docente.<br>",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "A socialização torna visíveis as aprendizagens desenvolvidas, permitindo identificar o domínio técnico, a coerência das decisões e as dificuldades dos(as) estudantes. Utilize evidências concretas para fundamentar devolutivas e orientar novos avanços.<br>",
+     "novo": true
+    },
+    {
+     "tipo": "dica",
+     "texto": "Utilize uma pauta simples durante as apresentações, com critérios como domínio técnico, adequação ao público e justificativa das escolhas. Registre evidências para formular devolutivas específicas e orientar melhorias.<br>",
+     "novo": true
+    }
+   ]
+  }
  }
 }
