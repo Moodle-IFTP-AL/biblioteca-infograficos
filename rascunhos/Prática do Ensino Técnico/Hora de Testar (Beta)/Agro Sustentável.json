@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Agro Sustentável",
- "quando": "2026-11-18T15:25:54.150Z",
+ "quando": "2026-11-18T15:26:31.444Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -20,7 +20,7 @@
   ],
   "conclusao": {
    "titulo": "Consolidando os Aprendizados ",
-   "texto": "Ao relacionar cada devolutiva à evidência correspondente, você pôde perceber que orientar a aprendizagem exige mais do que elogiar ou apontar dificuldades.<br><br>Uma devolutiva efetiva descreve o que foi observado, relaciona a evidência ao objetivo de aprendizagem e indica um próximo passo possível.<br><br>Na sua prática, registre ações, explicações, produções e dificuldades que revelem como os(as) estudantes estão aprendendo. Essas informações ajudam a acompanhar seus avanços, planejar novas intervenções e analisar suas próprias escolhas pedagógicas.<br><br>Assim, a socialização se torna uma oportunidade de aprendizagem para os(as) estudantes e de aprimoramento contínuo da prática docente.<br>",
+   "texto": "Ao relacionar cada devolutiva à evidência correspondente, você pôde perceber que orientar a aprendizagem exige mais do que elogiar ou apontar dificuldades.<br><br>Uma devolutiva efetiva descreve o que foi observado, relaciona a evidência ao objetivo de aprendizagem e indica um próximo passo possível.<br><br>Na sua prática, registre ações, explicações, produções e dificuldades que revelem como os(as) estudantes estão aprendendo. Essas informações ajudam a acompanhar seus avanços, planejar novas intervenções e analisar suas próprias escolhas pedagógicas.<br><br>Assim, a socialização se torna uma oportunidade de aprendizagem para os(as) estudantes e de aprimoramento contínuo da prática docente.<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -35,12 +35,12 @@
       {
        "id": "mwma0ag45jlhlq",
        "texto": "&nbsp;Unidade 8: Registro Técnico e Melhoria da Prática.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31690"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
   }
