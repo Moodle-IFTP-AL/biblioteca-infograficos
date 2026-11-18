@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Economia Social",
- "quando": "2026-11-18T16:16:00.408Z",
+ "quando": "2026-11-18T16:16:47.073Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -62,6 +62,7 @@
      "novo": false
     }
    ]
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29967"
  }
 }
