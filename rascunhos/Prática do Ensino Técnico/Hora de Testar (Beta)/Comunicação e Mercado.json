@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Comunicação e Mercado",
- "quando": "2026-11-18T15:44:41.884Z",
+ "quando": "2026-11-18T15:45:00.837Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -34,7 +34,7 @@
       },
       {
        "id": "mwmaolasmhstdn",
-       "texto": "Unidade 8 : Registro Técnico e Melhoria da Prática.&nbsp;<br>",
+       "texto": "Unidade 8: Registro Técnico e Melhoria da Prática.&nbsp;<br>",
        "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31696"
       }
      ],
@@ -44,6 +44,7 @@
     }
    ]
   },
-  "tipoBotao": "voltar"
+  "tipoBotao": "voltar",
+  "link": "https://ead.educacao.al.gov.br/course/view.php?id=282#section-86"
  }
 }
