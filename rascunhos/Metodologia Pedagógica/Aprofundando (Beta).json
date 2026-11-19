@@ -1,7 +1,15 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-11-19T13:52:21.381Z",
+ "quando": "2026-11-19T13:53:47.614Z",
  "autor": "Eduarda",
- "dados": {}
+ "dados": {
+  "campos": {
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>2 -</b> Avaliar a aprendizagem por competências, a partir de evidências das práticas pedagógicas e técnicas desenvolvidas pelos(as) estudantes, considerando a mobilização de conhecimentos gerais no contexto da Educação Profissional e Tecnológica, para orientar o planejamento e o replanejamento das aulas e o desenvolvimento dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>2.3 - </b>Utilizar os resultados da avaliação para replanejar aulas, ajustar estratégias e orientar o desenvolvimento dos(as) estudantes.<br><b>Objeto do Conhecimento:</b><br>Socialização, devolutivas e qualificação das produções.<br><b>Conteúdos:</b><br><ul><li>Socialização dos resultados do projeto.<br></li><li>Devolutivas formativas durante e após a apresentação.<br></li><li>Qualificação das produções a partir do feedback<i>.</i><br></li><li>Reflexão dos(as) estudantes sobre o percurso realizado.<br></li></ul><b>Objetivo: </b><br>Organizar estratégias de socialização e devolutiva formativa, utilizando critérios de avaliação para orientar a revisão e a qualificação das produções dos(as) estudantes em projetos técnicos integrados.<br>",
+   "objetivo": "",
+   "titulo": "",
+   "conteudo": "",
+   "conectando": ""
+  }
+ }
 }
