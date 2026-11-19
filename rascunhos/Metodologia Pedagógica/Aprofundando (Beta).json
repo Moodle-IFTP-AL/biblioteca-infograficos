@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-11-19T13:54:38.467Z",
+ "quando": "2026-11-19T13:57:55.436Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>2 -</b> Avaliar a aprendizagem por competências, a partir de evidências das práticas pedagógicas e técnicas desenvolvidas pelos(as) estudantes, considerando a mobilização de conhecimentos gerais no contexto da Educação Profissional e Tecnológica, para orientar o planejamento e o replanejamento das aulas e o desenvolvimento dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>2.3 - </b>Utilizar os resultados da avaliação para replanejar aulas, ajustar estratégias e orientar o desenvolvimento dos(as) estudantes.<br><b>Objeto do Conhecimento:</b><br>Socialização, devolutivas e qualificação das produções.<br><b>Conteúdos:</b><br><ul><li>Socialização dos resultados do projeto.<br></li><li>Devolutivas formativas durante e após a apresentação.<br></li><li>Qualificação das produções a partir do feedback<i>.</i><br></li><li>Reflexão dos(as) estudantes sobre o percurso realizado.<br></li></ul><b>Objetivo: </b><br>Organizar estratégias de socialização e devolutiva formativa, utilizando critérios de avaliação para orientar a revisão e a qualificação das produções dos(as) estudantes em projetos técnicos integrados.<br>",
    "objetivo": "Analisar uma situação de socialização de resultados, avaliar a relação das devolutivas com os critérios de avaliação e propor encaminhamentos para que os(as) estudantes revisem suas produções e justifiquem as alterações.<br>",
    "titulo": "<b>Socialização e Qualificação das Produções</b><br>",
-   "conteudo": "<b>Quando os Comentários Não Geram Melhorias?&nbsp;</b><br><br>Na socialização do projeto sobre circulação na oficina, os grupos apresentam seus croquis e justificativas. Os(as) colegas fazem perguntas, mas também surgem comentários como “está bom” ou “precisa melhorar”.<br><br>Os(as) autores(as) dos projetos registram essas falas, porém não sabem quais mudanças realizar nem como elas ajudariam a atender ao critério de relacionar medidas, trajetos e melhorias.<br><br>O(a) professor(a) percebe que precisa orientar as contribuições e reservar tempo para analisá-las e revisar as propostas.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Como Preparar esse Momento<br><br></font></b></h3>Planeje a socialização como parte do percurso de aprendizagem, considerando os seguintes aspectos:<br><br>",
+   "conteudo": "<b>Quando os Comentários Não Geram Melhorias?&nbsp;</b><br><br>Na socialização do projeto sobre circulação na oficina, os grupos apresentam seus croquis e justificativas. Os(as) colegas fazem perguntas, mas também surgem comentários como “está bom” ou “precisa melhorar”.<br><br>Os(as) autores(as) dos projetos registram essas falas, porém não sabem quais mudanças realizar nem como elas ajudariam a atender ao critério de relacionar medidas, trajetos e melhorias.<br><br>O(a) professor(a) percebe que precisa orientar as contribuições e reservar tempo para analisá-las e revisar as propostas.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Como Preparar esse Momento<br><br></font></b></h3>Planeje a socialização como parte do percurso de aprendizagem, considerando os seguintes aspectos:<br>[INFOGRAFICO1]<br><br>",
    "conectando": ""
   },
   "blocos": [
@@ -21,6 +21,24 @@
     "caixaCorBorda": "#f04770",
     "novo": false,
     "caixaCorTexto": "#0a3442"
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "timeline_gavetas",
+    "infograficoData": {
+     "titulo": "",
+     "subtitulo": "",
+     "gavetas": "[{\"imagem\":\"\",\"titulo\":\"Finalidade e público:\",\"conteudo\":\"Defina o objetivo da socialização e quem participará, considerando o que os(as) estudantes precisam apresentar, discutir ou validar.&nbsp;\",\"porqueTexto\":\"Apresente os croquis aos(às) colegas e usuários(as) da oficina para discutir se as propostas respondem aos obstáculos identificados.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Formato e tempo\",\"conteudo\":\"Escolha o formato adequado e distribua o tempo entre apresentações, perguntas e registro das contribuições.&nbsp;\",\"porqueTexto\":\"Organize uma exposição dos croquis, com explicações breves e tempo para perguntas.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Critérios e participação\",\"conteudo\":\"Compartilhe os critérios de avaliação e garanta a participação de todos(as).\",\"porqueTexto\":\"Retome o critério de relacionar medidas, trajetos e melhorias. Oriente cada integrante a explicar uma escolha.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Contribuições e continuidade\",\"conteudo\":\"Oriente comentários relacionados aos critérios e reserve tempo para analisar as contribuições e planejar ajustes.\",\"porqueTexto\":\"Solicite comentários e perguntas sobre as propostas. Depois, oriente os grupos a selecionar os ajustes pertinentes e revisar os croquis.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"}]"
+    },
+    "novo": false
+   },
+   {
+    "tipo": "video",
+    "texto": "Acompanhe como orientar contribuições baseadas em critérios e ajudar os(as) estudantes a analisá-las, justificar ajustes e aprimorar as produções após a socialização.&nbsp;",
+    "titulo": "Vamos Ver na Prática? ",
+    "url": "",
+    "novo": true
    }
   ]
  }
