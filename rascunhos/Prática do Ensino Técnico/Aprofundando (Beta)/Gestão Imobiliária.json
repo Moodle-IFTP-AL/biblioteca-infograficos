@@ -1,17 +1,29 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão Imobiliária",
- "quando": "2026-11-18T16:52:31.851Z",
+ "quando": "2026-11-20T15:16:07.016Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Socialização e reflexão sobre a produção técnica.<br><b>Conteúdos:</b><br><ul><li>Formas de socialização utilizadas.<br></li><li>Apresentação dos processos e resultados.<br></li><li>Participação dos(as) estudantes.<br></li><li>Feedback e devolutivas recebidos.<br></li><li>Aprendizagens evidenciadas na socialização.<br></li><li>Aspectos da produção e do processo que poderiam ser qualificados.<br></li></ul><b>Objetivo da Aula:</b><br>Analisar como a socialização e as devolutivas contribuíram para a aprendizagem e para a qualificação da produção técnica, identificando ajustes para experiências futuras.<br>",
-   "objetivo": "Analisar evidências de aprendizagem identificadas durante a socialização das produções técnicas, relacionando-as aos objetivos de aprendizagem para formular devolutivas e registrar os avanços e aspectos a desenvolver.<br>",
-   "titulo": "<b>Socializar para Aprimorar Produções</b><br>",
-   "conteudo": "<h3><b><font color=\"#f04770\">O que a Socialização Revela?</font></b></h3><br>Imagine que seus(suas) estudantes apresentaram uma proposta de melhoria para a gestão de um condomínio ou uma análise de um imóvel para comercialização. Durante a socialização, receberam questionamentos e sugestões. Como podem avaliar essas contribuições e utilizá-las para qualificar a produção técnica?<br><br><h3><b><font color=\"#f04770\">Compartilhar para Aprender<br><br></font></b></h3>A socialização permite compartilhar produções, apresentar procedimentos e resultados e receber contribuições de diferentes participantes. Nos cursos de Gestão Imobiliária, ela pode ocorrer por meio de:<br>[INFOGRAFICO1]<br>A forma escolhida deve favorecer a comunicação, a análise e a troca de conhecimentos.<br><br><h3><b><font color=\"#f04770\">O que Observar?</font></b></h3><br>Durante a socialização, observe como os(as) estudantes apresentam suas produções, demonstram conhecimentos técnicos, justificam escolhas e analisam as contribuições recebidas. Considere os seguintes aspectos:<br>[INFOGRAFICO2]<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Da Evidência à Orientação</font></b></h3><br>As contribuições recebidas durante a socialização podem ajudar os(as) estudantes a reconhecer avanços e identificar aspectos que precisam ser aprimorados.<br><br>Para isso, é importante analisar os comentários e questionamentos em relação aos objetivos da atividade, evitando incorporar sugestões sem avaliar sua pertinência.<br><br>A devolutiva deve reconhecer o que foi bem desenvolvido, apontar lacunas e indicar possibilidades de revisão.<br><br>Se os(as) estudantes apresentaram uma avaliação imobiliária com dados organizados, mas não justificaram o valor sugerido, por exemplo, a orientação pode indicar a necessidade de comparar imóveis semelhantes e explicitar os critérios utilizados.<br><br><h3><b><font color=\"#f04770\">Analisando uma Proposta de Venda</font></b></h3><br>Em uma atividade, os(as) estudantes elaboraram e socializaram uma proposta de anúncio para a venda de um imóvel residencial.<br><br>Apresentaram fotos, descrição das características e informações sobre localização e conservação. Também compararam preços de imóveis semelhantes na região, mas não conseguiram justificar o valor de venda sugerido nem demonstrar quais documentos deveriam ser verificados antes da negociação.<br>[INFOGRAFICO3]<br>Durante a apresentação, receberam questionamentos sobre esses aspectos, mas tiveram dificuldade para responder. Além disso, apenas parte do grupo participou das explicações.<br><br>",
-   "conectando": "Agora, analise situações de socialização e descubra como transformar evidências observadas em devolutivas que aprimoram a aprendizagem técnica.<br>"
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do conhecimento: </b>avaliação e devolutiva na prática técnica.<br><b>Conteúdos:</b><br><ul><li>critérios utilizados para acompanhar e avaliar a aprendizagem;<br></li><li>evidências consideradas na avaliação;<br></li><li>devolutivas realizadas durante ou após a prática;<br></li><li>relação entre devolutivas e avanços observados;<br></li><li>aspectos da avaliação que contribuíram para a aprendizagem;<br></li><li>aspectos a serem ajustados em novas experiências.<br></li></ul><b>Objetivo da aula:</b> analisar a eficácia de avaliações e devolutivas aplicadas em práticas técnicas, relacionando as evidências observadas aos avanços e às necessidades de aprimoramento da aprendizagem.<br>",
+   "objetivo": "Avaliar a própria mediação pedagógica após uma prática técnica, identificando ajustes para o aprimoramento de ações futuras.<br>",
+   "titulo": "<b>Avaliar a Prática para Aprimorar a Mediação&nbsp;</b><br>",
+   "conteudo": "Concluir uma atividade técnica não significa encerrar o processo de aprendizagem.<br><br>Após a prática, é importante:<br><ul><li>retomar suas decisões pedagógicas;<br></li><li>examinar as evidências produzidas pelos(as) estudantes;<br></li><li>avaliar as orientações oferecidas.</li></ul>No eixo de Gestão Imobiliária, essa reflexão permite analisar como os(as) estudantes aplicaram procedimentos como a elaboração de contratos de locação, a gestão de conflitos condominiais e a condução de negociações imobiliárias, identificando dificuldades e ajustes para futuras experiências.<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">Analisar suas escolhas</font></b></h3><br>Vamos imaginar uma atividade em que estudantes analisaram os procedimentos de controle de acesso de prestadores(as) de serviço em um condomínio de uso misto, em Maceió.[GLOSSARIO1]<br><br>Alguns(mas) identificaram inconsistências nos registros, enquanto outros(as) apresentaram soluções sem justificar suas escolhas.<br><br>Ao revisitar essa experiência, você pode analisar como o planejamento, os recursos, a organização da atividade, as estratégias de acompanhamento e as intervenções influenciaram a aprendizagem.<br><br>Essa reflexão ajuda a reconhecer escolhas eficazes, identificar dificuldades e planejar ajustes para práticas futuras, inclusive em atividades de negociação e de gestão de contratos imobiliários.<br><br><h3><font color=\"#f04770\"><b>O que analisar?<br></b><br></font></h3>Após a realização de uma atividade técnica, analisar a própria mediação docente exige examinar os critérios adotados, as evidências de aprendizagem produzidas e os efeitos das intervenções realizadas. Considere a simulação de uma atividade em que os(as) estudantes organizaram os procedimentos de cadastro e autorização de prestadores de serviço em um condomínio de uso misto. Essa experiência permite refletir sobre seis aspectos fundamentais.<br>[INFOGRAFICO1]<br><br>",
+   "conectando": "Agora, compartilhe uma experiência e descubra como as evidências da prática podem orientar novas decisões pedagógicas.<br>"
   },
   "blocos": [
+   {
+    "tipo": "pergunta",
+    "texto": "",
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "Vamos refletir?",
+     "texto": "Após uma atividade técnica, como você identifica se suas devolutivas ajudaram os estudantes a compreender os procedimentos e a aperfeiçoar suas decisões profissionais?",
+     "videoUrl": "",
+     "iframeH5P": ""
+    },
+    "novo": false
+   },
    {
     "tipo": "infografico",
     "texto": "",
@@ -19,50 +31,42 @@
     "infograficoData": {
      "titulo": "",
      "subtitulo": "",
-     "gavetas": "[{\"imagem\":\"\",\"titulo\":\"Apresentação de projetos\",\"conteudo\":\"\",\"porqueTexto\":\"Propostas de melhorias para a gestão condominial.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Demonstração de procedimentos\",\"conteudo\":\"\",\"porqueTexto\":\"Simulação de atendimento a proprietários(as) e a interessados(as) em imóveis.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Exposição de produtos\",\"conteudo\":\"\",\"porqueTexto\":\"Anúncios e fichas técnicas de imóveis.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Mostras técnicas\",\"conteudo\":\"\",\"porqueTexto\":\"Soluções para acessibilidade e conservação de condomínios.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Apresentação de resultados\",\"conteudo\":\"\",\"porqueTexto\":\"Análises comparativas de imóveis e avaliações de mercado.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"}]"
+     "gavetas": "[{\"imagem\":\"\",\"titulo\":\"1. Critérios de avaliação\",\"conteudo\":\"Revisitar os critérios de avaliação permite verificar se contemplam as competências pretendidas. No exemplo, não basta conferir o preenchimento de um cadastro; é necessário verificar se o(a) estudante compreendeu a finalidade dos registros, os procedimentos de autorização e os cuidados necessários à proteção das informações pessoais.<br>\",\"porqueTexto\":\"Os critérios adotados permitiram avaliar o raciocínio técnico dos(as) estudantes ou se limitaram a verificar o cumprimento das etapas?&nbsp;<br>\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"2. Evidências de aprendizagem&nbsp;<br>\",\"conteudo\":\"As evidências revelam como os(as) estudantes mobilizaram conhecimentos ao longo da atividade. Registros preenchidos, justificativas apresentadas e decisões tomadas permitem identificar avanços e dificuldades. Ao analisá-las, você pode compreender quais aprendizagens foram desenvolvidas e quais dificuldades persistem.&nbsp;<br>\",\"porqueTexto\":\"Quais registros ou produções evidenciaram a aprendizagem pretendida para a atividade?&nbsp;<br>\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"3. Devolutivas aos(às) estudantes&nbsp;<br>\",\"conteudo\":\"Uma devolutiva construtiva orienta o aprimoramento, levando o(a) estudante a identificar as informações indispensáveis e a justificar sua relevância no procedimento.\",\"porqueTexto\":\"Minhas devolutivas esclareceram o que precisava ser aprimorado e por quê?&nbsp;<br>\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"4. Efeitos das intervenções\",\"conteudo\":\"Analisar uma intervenção docente significa verificar seus efeitos sobre a aprendizagem. Se, após a orientação, o(a) estudante revisou o procedimento, corrigiu inconsistências e passou  a fundamentar melhor suas decisões, há evidências de avanço. Caso as dificuldades persistam, é necessário considerar outras estratégias de intervenção.&nbsp;<br>\",\"porqueTexto\":\"O desempenho dos(as) estudantes apresentou mudanças observáveis após minha intervenção?\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"5. Avaliação e aprendizagem&nbsp;<br>\",\"conteudo\":\"A avaliação contribui para a aprendizagem quando permite compreender os resultados alcançados e orientar novas ações pedagógicas. Comparar produções iniciais e revisadas ajuda a identificar quais estratégias favoreceram o desenvolvimento da aprendizagem técnica.&nbsp;<br>\",\"porqueTexto\":\"A avaliação permitiu compreender o processo de aprendizagem dos(as) estudantes ou limitou-se à atribuição de resultados?&nbsp;<br>\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"6. O que ajustar na próxima prática\",\"conteudo\":\"A análise deve se traduzir em decisões pedagógicas concretas que apoiem a melhoria contínua da prática pedagógica.&nbsp;<br>\",\"porqueTexto\":\"Que mudança concreta realizarei na próxima prática para tornar minha mediação mais eficaz?&nbsp;<br>\",\"porqueTitulo\":\"Reflita:\"}]"
     },
     "novo": false
    },
    {
-    "tipo": "infografico",
+    "tipo": "glossario",
     "texto": "",
-    "infograficoTipo": "tabela_completa",
-    "infograficoData": {
-     "tabela": "{\"titulo\":\"\",\"subtitulo\":\"\",\"colunas\":[\"<b style=\\\"\\\">Aspecto</b>\",\"<b style=\\\"\\\">Como observar</b>\"],\"linhas\":[[\"<b>Domínio dos conhecimentos e procedimentos&nbsp;</b>\",\"Verifique se demonstram domínio dos conceitos e procedimentos técnicos. Exemplo: explicam os critérios utilizados para avaliar as condições de conservação de um imóvel.<br>\"],[\"<b>Clareza na apresentação</b>\",\"Observe se comunicam os procedimentos realizados, as decisões tomadas e os resultados de forma compreensível. Exemplo: apresentam as etapas de uma proposta de manutenção preventiva. <br>\"],[\"<b>Coerência das decisões&nbsp;</b>\",\"Analise se as escolhas realizadas estão relacionadas ao problema e aos objetivos da atividade. Exemplo: justificam o valor anunciado para um imóvel com base em suas características e nos preços praticados na região. <br>\"],[\"<b>Participação e colaboração&nbsp;</b>\",\"Observe se os(as) integrantes compartilham responsabilidades e contribuem para a apresentação e discussão da produção. Exemplo: cada integrante explica uma ação prevista em um plano de melhoria da convivência condominial. <br>\"],[\"<b>Análise das contribuições</b>\",\"Verifique se consideram os questionamentos e as sugestões recebidas e avaliam sua pertinência. Exemplo: analisam uma sugestão de alteração na descrição de um imóvel anunciado. <br>\"],[\"<b>Reconhecimento de melhorias&nbsp;</b>\",\"Identifique se reconhecem limites da produção e apontam possibilidades de aprimoramento. Exemplo: identificam a necessidade de incluir critérios de priorização das manutenções no planejamento do condomínio.\"]],\"corHeader\":\"#79d3f2\",\"corTextoHeader\":\"#0a3442\"}"
-    },
-    "novo": false
-   },
-   {
-    "tipo": "caixadestaque",
-    "texto": "<b>Atenção:</b> registre situações concretas, como uma classificação justificada, um procedimento demonstrado ou uma dificuldade identificada. Essas evidências darão consistência às devolutivas e aos registros de aprendizagem.<br>",
-    "caixaImgUrl": "",
-    "caixaImgSize": 40,
-    "caixaCorFundo": "#fdf0f3",
-    "caixaCorBorda": "#f04770",
-    "novo": false,
-    "caixaCorTexto": "#0a3442"
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "tabela_completa",
-    "infograficoData": {
-     "tabela": "{\"titulo\":\"\",\"subtitulo\":\"\",\"colunas\":[\"Aspecto observado\",\"Evidência&nbsp;<br>\",\"Devolutiva<br>\"],\"linhas\":[[\"<b>Domínio dos conhecimentos e procedimentos&nbsp;</b>\",\"O grupo apresentou características do imóvel, mas não explicou quais documentos deveriam ser verificados na negociação. <br>\",\"Retomem os procedimentos de análise documental e identifiquem os documentos necessários para verificar a situação do imóvel. <br>\"],[\"<b>Clareza na apresentação</b>\",\"As fotos e a descrição do imóvel foram organizadas e facilitaram a compreensão da proposta.<br>\",\"A apresentação está organizada. Mantenham essa estrutura e acrescentem informações relevantes para orientar os(as) interessados(as).<br>\"],[\"<b>Coerência das decisões&nbsp;</b>\",\"O valor sugerido foi apresentado sem justificativa, baseada na comparação com imóveis semelhantes.<br>\",\"Expliquem os critérios utilizados na definição do preço e relacionem as características do imóvel aos valores praticados na região. \"],[\"<b>Participação e colaboração&nbsp;</b>\",\"Apenas parte dos(as) integrantes explicou as características e as decisões relacionadas ao anúncio. <br>\",\"Distribuam as explicações entre os(as) integrantes, garantindo que todos(as) compreendam e consigam justificar as escolhas realizadas.\"],[\"<b>Análise das contribuições</b>\",\"O grupo recebeu questionamentos sobre documentação e preço, mas teve dificuldade para avaliar e responder às observações.<br>\",\"Retomem os questionamentos recebidos e verifiquem quais informações precisam ser complementadas na proposta.<br>\"],[\"<b>Reconhecimento de melhorias&nbsp;</b>\",\"O grupo não identificou previamente a ausência de informações sobre documentação e justificativa do preço. <br>\",\"Revisem o anúncio e a análise do imóvel, identificando quais informações precisam ser incluídas para tornar a proposta mais consistente. <br>\"]],\"corHeader\":\"#f04770\",\"corTextoHeader\":\"#ffffff\"}"
-    },
+    "termos": [
+     {
+      "termo": "Condomínio de uso misto",
+      "definicao": "Empreendimento que reúne unidades residenciais e comerciais, o que exige procedimentos específicos de gestão e de convivência.&nbsp;<br>"
+     },
+     {
+      "termo": "Rastreabilidade dos registros",
+      "definicao": "Possibilidade de acompanhar e verificar as informações registradas, identificando os procedimentos executados e eventuais inconsistências."
+     }
+    ],
     "novo": false
    }
   ],
   "conclusao": {
-   "titulo": "Registrar para Aprimorar ",
-   "texto": "Após a socialização, registre os conhecimentos demonstrados, os procedimentos apresentados, as contribuições recebidas e os ajustes identificados pelos(as) estudantes.<br><ul><li>Em Transações Imobiliárias, o registro pode indicar se compreenderam os critérios de avaliação e os cuidados com a documentação.<br></li><li>Em Condomínios, pode reunir informações sobre planejamento de melhorias, manutenção e gestão de recursos.</li></ul>Registre também as dificuldades e as decisões de revisão da produção. Essas informações permitem acompanhar o desenvolvimento técnico da turma e planejar novas experiências, considerando os avanços e as necessidades identificadas.<br>[TOMENOTA1]",
+   "titulo": "Da reflexão à ação ",
+   "texto": "Analisar a própria mediação docente  permite compreender como os critérios de avaliação, as evidências e as devolutivas influenciaram a aprendizagem dos(as) estudantes. \n<br>\n<br>Ao identificar avanços, dificuldades persistentes e efeitos das intervenções, é possível transformar informações da prática em decisões pedagógicas fundamentadas. \n<br>\n<br>Essa reflexão contribui para aprimorar os procedimentos de acompanhamento, fortalecer a autonomia dos(as) estudantes e planejar experiências de aprendizagem mais alinhadas aos objetivos de formação profissional.&nbsp;<br>[TOMENOTA1]<br>[DICA1]",
    "blocos": [
     {
      "tipo": "tomenota",
-     "texto": "Apresentar uma solução não é suficiente para analisar a aprendizagem. Observe se os(as) estudantes fundamentam suas propostas, comunicam os impactos das decisões e demonstram como os resultados podem ser acompanhados.<br>",
+     "texto": "Ao analisar uma prática técnica, considere não apenas o resultado final, mas também as decisões tomadas, os procedimentos realizados, as dificuldades enfrentadas e as justificativas dos(as) estudantes. Essas evidências ajudam a identificar avanços na aprendizagem e aspectos a serem aprimorados.<br>",
+     "novo": false
+    },
+    {
+     "tipo": "dica",
+     "texto": "Ao final de uma prática, peça aos(às) estudantes que registrem uma decisão técnica tomada, uma dificuldade enfrentada e como resolveriam a situação caso a enfrentassem novamente. Utilize essas respostas para identificar necessidades de aprendizagem e planejar novas intervenções.<br>",
      "novo": false
     }
    ]
   },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30317"
+  "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=30297"
  }
 }
