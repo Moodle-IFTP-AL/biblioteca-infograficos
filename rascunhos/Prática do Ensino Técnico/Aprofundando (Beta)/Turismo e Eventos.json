@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Turismo e Eventos",
- "quando": "2026-11-23T21:05:43.758Z",
+ "quando": "2026-11-23T21:06:29.688Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Síntese e qualificação da prática técnica.<br><b>Conteúdos:</b><br><ul><li>Retomada do percurso formativo e das práticas realizadas no ano.<br></li><li>Relação entre objetivos, procedimentos, participação e resultados.<br></li><li>Critérios de qualidade e desempenho já trabalhados.<br></li><li>Pontos fortes e pontos de atenção.<br></li><li>Condições que favoreceram ou limitaram a prática.<br></li><li>Prioridades para aprimoramento.<br></li></ul><b>Objetivo da Aula: </b>Sistematizar uma análise reflexiva de uma prática técnica já realizada, articulando planejamento, execução, mediação e avaliação e definindo ajustes para sua qualificação.<br>",
    "objetivo": "Analisar o conjunto de práticas, registros e evidências produzidos ao longo da formação, relacionando-os às aprendizagens construídas para identificar possibilidades de qualificação da própria atuação docente.<br>",
    "titulo": "<b>Retomar, Integrar e Aprimorar a Prática Docente</b><br>",
-   "conteudo": "Ao chegar ao final desta formação, revisite as aulas, atividades e experiências vividas com seus(suas) estudantes ao longo do ano.<br>Retomar registros, produções e evidências ajuda a recuperar situações importantes e perceber mudanças na maneira de planejar, conduzir, acompanhar e avaliar as práticas, sem depender apenas da memória.<br>Esse percurso também permite:<br><ul><li>reconhecer aprendizagens construídas;<br></li><li>escolhas que fizeram diferença;<br></li><li>aspectos que ainda podem ser aprimorados.<br></li></ul>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">Analisando a Prática Docente<br><br></font></b></h3>Ao analisar registros, produções e evidências das práticas realizadas ao longo do ano, você pode perceber relações que nem sempre ficam claras durante uma aula ou atividade isolada. Essa retomada ajuda a reconhecer padrões, avanços, dificuldades e aspectos que merecem atenção.<br><br>Observe as dimensões que se articulam na prática docente:<br>[INFOGRAFICO1]",
+   "conteudo": "Ao chegar ao final desta formação, revisite as aulas, atividades e experiências vividas com seus(suas) estudantes ao longo do ano.<br>Retomar registros, produções e evidências ajuda a recuperar situações importantes e perceber mudanças na maneira de planejar, conduzir, acompanhar e avaliar as práticas, sem depender apenas da memória.<br>Esse percurso também permite:<br><ul><li>reconhecer aprendizagens construídas;<br></li><li>escolhas que fizeram diferença;<br></li><li>aspectos que ainda podem ser aprimorados.<br></li></ul>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">Analisando a Prática Docente<br><br></font></b></h3>Ao analisar registros, produções e evidências das práticas realizadas ao longo do ano, você pode perceber relações que nem sempre ficam claras durante uma aula ou atividade isolada. Essa retomada ajuda a reconhecer padrões, avanços, dificuldades e aspectos que merecem atenção.<br><br>Observe as dimensões que se articulam na prática docente:<br>[INFOGRAFICO1]<br>[ACCORDION1]<br><h3><b><font color=\"#f04770\">Da Experiência às Aprendizagens Profissionais<br><br></font></b></h3>Ao retomar as experiências do ano, você pode reconhecer aprendizagens que passaram a integrar seu repertório e definir prioridades para as próximas práticas. Considere os quatro movimentos:<br><ul><li><b>Manter:</b> estratégias que favoreceram a participação, como a elaboração colaborativa de roteiros turísticos sobre a cultura de Alagoas.<br></li><li><b>Aprofundar:</b> conhecimentos técnicos relacionados à organização de eventos, hospitalidade, atendimento e valorização cultural.<br></li><li><b>Aperfeiçoar:</b> critérios de avaliação e devolutivas que orientem os(as) estudantes durante a execução das atividades.<br></li><li><b>Transformar:</b> atividades centradas apenas no produto final em propostas que também acompanhem o planejamento, os procedimentos e as decisões dos(as) estudantes.<br></li></ul>Essas escolhas podem ser adaptadas às diferentes turmas, cursos e situações profissionais do eixo.<br><br>",
    "conectando": ""
   },
   "blocos": [
@@ -39,12 +39,23 @@
     "texto": "",
     "topicos": [
      {
-      "titulo": "",
-      "texto": ""
+      "titulo": "Exemplo Prático — Identificando padrões nas práticas ",
+      "texto": "Ao revisitar as aulas e os registros produzidos durante o curso, um(a) professor(a) que trabalhou com roteiros de turismo cultural em Alagoas percebeu que a pesquisa em grupo favoreceu a participação e a integração de conhecimentos técnicos com a cultura local. Entretanto, observa que as devolutivas nem sempre ajudaram os(as) estudantes a justificar a relevância das atrações escolhidas. Ao comparar diferentes atividades, identifica padrões nas metodologias, nas mediações e nas avaliações utilizadas, reconhecendo tanto os avanços quanto os aspectos a aperfeiçoar. Essa análise transforma a experiência em aprendizagem profissional: permite decidir o que manter, aprofundar, aperfeiçoar ou transformar nas próximas práticas, considerando os objetivos de aprendizagem e as características do território alagoano.<br>"
      }
     ],
-    "novo": true
+    "novo": false
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Aprendizagens para o Futuro ",
+   "texto": "Ao concluir este percurso formativo, reconheça as aprendizagens que passaram a fazer parte do seu repertório docente, as estratégias que deseja fortalecer e os aspectos que pretende observar com mais atenção nas próximas experiências de ensino.<br><br>Cada registro retomado e cada reflexão realizada podem apoiar novas escolhas, alinhadas aos objetivos de aprendizagem e às necessidades dos(as) estudantes.<br><br>O desenvolvimento profissional continua em cada prática e possibilidade de aprimoramento construída no cotidiano escolar.<br>[TOMENOTA1]",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "Analisar as práticas, os registros e as produções dos(as) estudantes ajuda a reconhecer o que favoreceu a aprendizagem, identificar dificuldades recorrentes e definir o que manter, aprofundar, aperfeiçoar ou transformar nas próximas experiências de ensino.<br>",
+     "novo": false
+    }
+   ]
+  }
  }
 }
