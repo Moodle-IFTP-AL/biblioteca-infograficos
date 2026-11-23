@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-11-23T13:06:33.766Z",
+ "quando": "2026-11-23T13:07:01.147Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -17,7 +17,7 @@
   ],
   "conclusao": {
    "titulo": "Preparando a próxima prática ",
-   "texto": "",
+   "texto": "O replanejamento nasce da observação cuidadosa da prática e das evidências que ela produz.<br><br>Não existe um único ajuste possível: a decisão deve responder às necessidades identificadas e aos objetivos de aprendizagem.<br><br>Na próxima realização, observe e registre os efeitos da mudança.<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -32,12 +32,12 @@
       {
        "id": "mwta8vfe0u62eg",
        "texto": "Unidade 8: Registro técnico e melhoria da prática.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27434"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
   }
