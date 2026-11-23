@@ -1,52 +1,9 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Turismo e Eventos",
- "quando": "2026-11-17T15:22:20.289Z",
+ "quando": "2026-11-23T21:08:54.304Z",
  "autor": "Eduarda",
  "dados": {
-  "campos": {
-   "objetivo": "Analisar uma prática técnica a partir das evidências de aprendizagem e dos efeitos das intervenções pedagógicas, identificando possibilidades de aprimoramento da atuação docente.<br>",
-   "titulo": "<b>Analisar para aprimorar a prática</b><br>",
-   "conteudo": "Selecione uma prática técnica recente que você realizou com seus(suas) estudantes. Retome brevemente o objetivo da atividade e as principais ações desenvolvidas.<br><br><h3><b><font color=\"#f04770\">1. Reflita sobre sua atuação</font><br><br></b></h3>Com base nessa experiência, analise três aspectos:<br><ul><li><b>Evidências de aprendizagem:</b> o que você observou nas ações, falas ou produções dos(as) estudantes?<br></li><li><b>Intervenções pedagógicas:</b> como utilizou essas evidências para oferecer devolutivas ou ajustar suas estratégias durante a atividade?<br></li><li><b>Aprimoramento:</b> o que você manteria e o que poderia melhorar na sua atuação em uma próxima experiência?<br><br></li></ul><h3><b><font color=\"#f04770\">2. Compartilhe e interaja<br><br></font></b></h3>Publique sua análise no fórum, apresentando uma situação concreta e uma possibilidade de melhoria em sua prática.<br>Em seguida, leia a contribuição de pelo menos um(a) colega e comente uma ideia que considere relevante, explicando como ela poderia ser adaptada à sua própria prática técnica.<br>[CAIXADESTAQUE1]<br>[REVISAR1]",
-   "instrucoesTitulo": "Sua participação deve conter:",
-   "orientacoesTitulo": "Orientações para o formato:"
-  },
-  "blocos": [
-   {
-    "tipo": "caixadestaque",
-    "texto": "<b>Atenção:</b> fundamente sua reflexão no que foi observado e realizado. A troca de experiências deve contribuir para identificar novas possibilidades de mediação e para aprimorar as práticas docentes.",
-    "caixaImgUrl": "",
-    "caixaImgSize": 40,
-    "caixaCorFundo": "#fdf0f3",
-    "caixaCorBorda": "#f04770",
-    "novo": false,
-    "caixaCorTexto": "#0a3442"
-   },
-   {
-    "tipo": "revisar",
-    "texto": "Revisite as aulas abaixo para retomar aspectos da demonstração, da orientação e da gestão da prática técnica e aprofundar a análise da sua atuação.<br>",
-    "idRevisar": "mwkuekxyaj9rqy",
-    "itensRevisar": [
-     {
-      "id": "mwkuen5nl5wwto",
-      "texto": "Módulo 1 – Unidade 7: Demonstração técnica aplicada ao projeto ABP.",
-      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22962"
-     },
-     {
-      "id": "mwkuendp0wki0j",
-      "texto": "Módulo 1 – Unidade 8: Preparação de demonstrações técnicas.&nbsp;<br>",
-      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=23173"
-     },
-     {
-      "id": "mwkuenkzvglrna",
-      "texto": "Módulo 3 – Unidade 2: Gestão da prática técnica.&nbsp;<br>",
-      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28982"
-     }
-    ],
-    "linkBotao": "",
-    "textoBotao": "",
-    "novo": false
-   }
-  ]
+  "linhaComBibliografia": false
  }
 }
