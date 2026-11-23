@@ -1,13 +1,13 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-23T12:48:29.589Z",
+ "quando": "2026-11-23T18:46:52.488Z",
  "autor": "Eduarda",
  "dados": {
   "agoraSuaVez": {
    "ativo": true,
-   "titulo": "Planejar para integrar",
-   "chamada": "Agora é sua vez de planejar!",
+   "titulo": "Agora é sua vez de planejar!",
+   "chamada": "No HTPC, reúna-se com os(as) colegas para compartilhar as reflexões e construir um registro coletivo das aprendizagens. Siga as três etapas:",
    "cards": [
     {
      "titulo": "Compartilhe as aprendizagens",
@@ -47,6 +47,24 @@
     "novo": false
    }
   ],
-  "link": "https://ead.educacao.al.gov.br/mod/feedback/view.php?id=32766"
+  "link": "https://ead.educacao.al.gov.br/mod/feedback/view.php?id=32766",
+  "ajusteEixo": {
+   "eixo": "ADM",
+   "feitoEm": "2026-11-23T18:45:32.574Z",
+   "linhas": [
+    {
+     "tipo": "Link",
+     "nome": "(fora da tabela)",
+     "de": 32766,
+     "para": null,
+     "situacao": "posterior",
+     "mod": "feedback",
+     "rotulo": "link"
+    }
+   ],
+   "manuais": {
+    "32766": 32766
+   }
+  }
  }
 }
