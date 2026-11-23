@@ -1,7 +1,9 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Administração",
- "quando": "2026-11-23T19:32:38.650Z",
+ "quando": "2026-11-23T19:33:42.122Z",
  "autor": "Teste",
- "dados": {}
+ "dados": {
+  "tutorialPasso3": false
+ }
 }
