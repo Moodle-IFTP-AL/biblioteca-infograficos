@@ -1,7 +1,14 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-11-23T14:40:10.952Z",
+ "quando": "2026-11-23T14:40:44.135Z",
  "autor": "Eduarda",
- "dados": {}
+ "dados": {
+  "campos": {
+   "objetivo": "Sistematizar uma proposta de Projeto Técnico Integrado a partir dos registros anteriores, articulando problema, aprendizagens, integração curricular, etapas, entregas, mediação e avaliação, com critérios e evidências de aprendizagem, considerando as condições de realização.<br>",
+   "titulo": "<b>Sistematize sua Proposta de Projeto&nbsp;</b><br>",
+   "conteudo": "",
+   "reflexao": ""
+  }
+ }
 }
