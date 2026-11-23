@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Agro Sustentável",
- "quando": "2026-11-23T19:39:14.026Z",
+ "quando": "2026-11-23T19:39:22.612Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -31,6 +31,17 @@
      "blocos": "[{\"titulo\":\"Planejamento\",\"texto\":\"Os objetivos, as estratégias e as atividades estavam relacionados?&nbsp;<br>\"},{\"titulo\":\"Metodologias\",\"texto\":\"Quais propostas favoreceram a participação e a relação entre teoria e prática?&nbsp;<br>\"},{\"titulo\":\"Avaliação e evidências\",\"texto\":\"Quais registros ajudaram a acompanhar a aprendizagem?&nbsp;<br>\"},{\"titulo\":\"Mediação\",\"texto\":\"Como você orientou os(as) estudantes diante das dificuldades?\"},{\"titulo\":\"Adaptação\",\"texto\":\"Quais mudanças foram necessárias durante as práticas?\"},{\"titulo\":\"Integração curricular\",\"texto\":\"Como os conhecimentos técnicos foram relacionados a outros saberes e à realidade do trabalho?&nbsp;<br>\"}]"
     },
     "novo": false
+   },
+   {
+    "tipo": "accordion",
+    "texto": "",
+    "topicos": [
+     {
+      "titulo": "Exemplo Prático ",
+      "texto": ""
+     }
+    ],
+    "novo": true
    }
   ]
  }
