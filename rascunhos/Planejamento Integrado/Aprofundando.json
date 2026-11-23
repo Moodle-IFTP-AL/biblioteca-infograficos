@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-23T12:34:12.284Z",
+ "quando": "2026-11-23T12:35:40.880Z",
  "autor": "Eduarda",
  "dados": {
   "agoraSuaVez": {
@@ -77,6 +77,6 @@
    "blocos": []
   },
   "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29294",
-  "tipoBotao": "avancar"
+  "tipoBotao": "bibliografia"
  }
 }
