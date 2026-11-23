@@ -1,28 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-11-23T13:53:57.041Z",
+ "quando": "2026-11-23T14:40:10.952Z",
  "autor": "Eduarda",
- "dados": {
-  "campos": {
-   "objetivo": "Produzir um registro de planejamento da socialização de um projeto técnico integrado, elaborando devolutivas baseadas em critérios de avaliação e definindo estratégias para revisar e verificar as melhorias nas produções dos(as) estudantes.<br>",
-   "titulo": "<b>Planejar a Socialização e a Revisão</b><br>",
-   "conteudo": "",
-   "reflexao": ""
-  },
-  "atividades": [
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32764\" width=\"1237\" height=\"683\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U07-APLI-MULTI\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   },
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32765\" width=\"1237\" height=\"828\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U07-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   }
-  ],
-  "conclusao": {
-   "titulo": "Da Avaliação ao Replanejamento",
-   "texto": "Nesta aula, você analisou devolutivas e planejou a socialização e a revisão de uma produção.<br><br>Devolutivas baseadas em critérios ajudam os(as) estudantes a justificar escolhas e aprimorar seus trabalhos. Acompanhar as revisões e verificar as melhorias também permitem:<br><ul><li>identificar necessidades de aprendizagem;<br></li><li>ajustar estratégias didáticas;<br></li><li>replanejar atividades.</li></ul>Na Unidade 8, você integrará esse planejamento à proposta de projeto técnico integrado, articulando os elementos desenvolvidos ao longo do módulo.<br>",
-   "blocos": []
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29280"
- }
+ "dados": {}
 }
