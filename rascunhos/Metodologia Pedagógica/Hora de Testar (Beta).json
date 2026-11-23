@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-11-23T14:54:01.612Z",
+ "quando": "2026-11-23T14:54:10.260Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -44,6 +44,7 @@
    "titulo": "Encerrando o Percurso Formativo ",
    "texto": "A proposta sistematizada e a reflexão final registram aprendizagens e decisões que você poderá retomar em sua prática docente.<br><br>Compartilhe suas escolhas com os(as) colegas e ajuste o planejamento conforme as condições da escola e as necessidades dos(as) estudantes.<br><br>Agradecemos sua participação na formação. Que os conhecimentos construídos contribuam para qualificar suas práticas pedagógicas na Educação Profissional e Tecnológica.<br>",
    "blocos": []
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29302"
  }
 }
