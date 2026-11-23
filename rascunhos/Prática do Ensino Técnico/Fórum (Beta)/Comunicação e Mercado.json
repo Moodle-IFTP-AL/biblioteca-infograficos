@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Comunicação e Mercado",
- "quando": "2026-11-23T20:02:19.819Z",
+ "quando": "2026-11-23T20:02:32.777Z",
  "autor": "Eduarda",
  "dados": {
   "linhaComBibliografia": false,
@@ -24,6 +24,31 @@
      "iframeH5P": ""
     },
     "novo": false
+   },
+   {
+    "tipo": "revisar",
+    "texto": "Estamos chegando ao final deste percurso! Para consolidar as aprendizagens, <b>retome algumas aulas e atividades que contribuíram para sua prática docente:</b><br>",
+    "idRevisar": "mwtp4bbsi9ozdy",
+    "itensRevisar": [
+     {
+      "id": "mwtp4fpa5ulkqx",
+      "texto": "",
+      "link": ""
+     },
+     {
+      "id": "mwtp4fvnqtu5lk",
+      "texto": "",
+      "link": ""
+     },
+     {
+      "id": "mwtp4g0s1av0e4",
+      "texto": "",
+      "link": ""
+     }
+    ],
+    "linkBotao": "",
+    "textoBotao": "",
+    "novo": true
    }
   ]
  }
