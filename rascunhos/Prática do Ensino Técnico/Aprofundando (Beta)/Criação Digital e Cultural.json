@@ -1,7 +1,27 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Criação Digital e Cultural",
- "quando": "2026-11-23T20:07:11.175Z",
+ "quando": "2026-11-23T20:09:10.284Z",
  "autor": "Eduarda",
- "dados": {}
+ "dados": {
+  "campos": {
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Síntese e qualificação da prática técnica.<br><b>Conteúdos:</b><br><ul><li>Retomada do percurso formativo e das práticas realizadas no ano.<br></li><li>Relação entre objetivos, procedimentos, participação e resultados.<br></li><li>Critérios de qualidade e desempenho já trabalhados.<br></li><li>Pontos fortes e pontos de atenção.<br></li><li>Condições que favoreceram ou limitaram a prática.<br></li><li>Prioridades para aprimoramento.<br></li></ul><b>Objetivo da Aula: </b>Sistematizar uma análise reflexiva de uma prática técnica já realizada, articulando planejamento, execução, mediação e avaliação e definindo ajustes para sua qualificação.<br>",
+   "objetivo": "Analisar o conjunto de práticas, registros e evidências produzidos ao longo da formação, relacionando-os às aprendizagens construídas para identificar possibilidades de qualificação da própria atuação docente.<br>",
+   "titulo": "<b>Retomar, Sintetizar e Aprender com sua Prática Técnica</b><br>",
+   "conteudo": "Chegamos à última aula da formação, um momento de síntese e fechamento.<br>Revisite o ano inteiro:<br><ul><li>as aulas que você planejou;<br></li><li>as práticas técnicas que conduziu;<br></li><li>as experiências vividas com os(as) estudantes.<br></li></ul>Os planos, os registros e as produções da turma ajudam a recuperar essas situações e a perceber mudanças, sem depender só da memória. Essa retomada é uma oportunidade de reconhecer as aprendizagens e as escolhas que marcaram sua prática docente.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Analisando a Prática Docente&nbsp;</font></b></h3><br>Reunidos, os registros e as evidências do ano mostram relações que uma aula isolada nem sempre deixa ver. Eles ajudam a identificar padrões, avanços, dificuldades e aspectos que merecem atenção. Observe as dimensões que se articulam nessa análise:<br><br>",
+   "conectando": ""
+  },
+  "blocos": [
+   {
+    "tipo": "caixadestaque",
+    "texto": "<b>O que as experiências deste ano revelam sobre como você planeja, conduz, acompanha e avalia suas práticas?&nbsp;</b>",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#fdf0f3",
+    "caixaCorBorda": "#f04770",
+    "novo": false,
+    "caixaCorTexto": "#0a3442"
+   }
+  ]
+ }
 }
