@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-23T12:33:45.902Z",
+ "quando": "2026-11-23T12:34:12.284Z",
  "autor": "Eduarda",
  "dados": {
   "agoraSuaVez": {
@@ -76,6 +76,7 @@
    "texto": "Analisar as experiências de planejamento integrado permite reconhecer conquistas, compreender desafios e identificar aprendizagens que podem orientar futuras práticas. Preservar os registros também facilita a retomada dessas experiências em novos planejamentos.&nbsp;<br>",
    "blocos": []
   },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29294"
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29294",
+  "tipoBotao": "avancar"
  }
 }
