@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Gestão e Operações",
- "quando": "2026-11-23T20:43:28.150Z",
+ "quando": "2026-11-23T20:43:52.466Z",
  "autor": "Eduarda",
  "dados": {
   "linhaComBibliografia": false,
@@ -24,6 +24,31 @@
      "iframeH5P": ""
     },
     "novo": false
+   },
+   {
+    "tipo": "revisar",
+    "texto": "Estamos chegando ao final deste percurso! Para consolidar as aprendizagens, <b>retome algumas aulas e atividades que contribuíram para sua prática docente:<br><br></b>Essa retomada ajudará você a reconhecer aprendizagens importantes para a reflexão final.<br><br>",
+    "idRevisar": "mwtql860ssp9ad",
+    "itensRevisar": [
+     {
+      "id": "mwtql9j287yijy",
+      "texto": "Módulo 1 – Fundamentos e Planejamento.&nbsp;<br>",
+      "link": ""
+     },
+     {
+      "id": "mwtql9otztd3mv",
+      "texto": "Módulo 2 – Desenvolvimento das Práticas.&nbsp;<br>",
+      "link": ""
+     },
+     {
+      "id": "mwtql9tj1mb1q6",
+      "texto": "Módulo 3 – Acompanhamento e Avaliação.&nbsp;<br>",
+      "link": ""
+     }
+    ],
+    "linkBotao": "",
+    "textoBotao": "",
+    "novo": true
    }
   ]
  }
