@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-11-23T13:53:52.413Z",
+ "quando": "2026-11-23T13:53:57.041Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -22,6 +22,7 @@
    "titulo": "Da Avaliação ao Replanejamento",
    "texto": "Nesta aula, você analisou devolutivas e planejou a socialização e a revisão de uma produção.<br><br>Devolutivas baseadas em critérios ajudam os(as) estudantes a justificar escolhas e aprimorar seus trabalhos. Acompanhar as revisões e verificar as melhorias também permitem:<br><ul><li>identificar necessidades de aprendizagem;<br></li><li>ajustar estratégias didáticas;<br></li><li>replanejar atividades.</li></ul>Na Unidade 8, você integrará esse planejamento à proposta de projeto técnico integrado, articulando os elementos desenvolvidos ao longo do módulo.<br>",
    "blocos": []
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29280"
  }
 }
