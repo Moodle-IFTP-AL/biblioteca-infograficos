@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-11-23T13:45:39.499Z",
+ "quando": "2026-11-23T13:46:44.482Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -71,6 +71,25 @@
      "blocos": "[{\"titulo\":\"Selecionar o ajuste\",\"texto\":\"Peça aos(às) estudantes que escolham uma contribuição recebida e expliquem como ela pode ajudar a atender ao critério.&nbsp;<br>\"},{\"titulo\":\"Combinar a revisão\",\"texto\":\"Registre com o grupo o que será modificado, quem participará, quais recursos serão necessários e quando a nova versão será apresentada.&nbsp;<br>\"},{\"titulo\":\"Verificar a melhoria\",\"texto\":\"Compare as versões pelo mesmo critério e solicite que cada integrante explique uma alteração e os conhecimentos utilizados.&nbsp;<br>\"},{\"titulo\":\"Definir a continuidade\",\"texto\":\"Diante de dificuldades, combine o apoio necessário. Quando a produção não puder ser alterada, planeje outra oportunidade para aplicar e verificar o ajuste.&nbsp;<br>\"}]"
     },
     "novo": false
+   },
+   {
+    "tipo": "glossario",
+    "texto": "",
+    "termos": [
+     {
+      "termo": "Qualificação das produções",
+      "definicao": "Aprimoramento dos trabalhos com base em critérios e devolutivas, verificando as melhorias realizadas.<br>"
+     },
+     {
+      "termo": "Revisão justificada",
+      "definicao": "Alteração de uma produção acompanhada da explicação das escolhas, considerando critérios e contribuições recebidas.<br>"
+     },
+     {
+      "termo": "",
+      "definicao": ""
+     }
+    ],
+    "novo": true
    }
   ],
   "conclusao": {
