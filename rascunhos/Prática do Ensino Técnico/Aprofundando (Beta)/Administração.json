@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-11-23T13:02:31.936Z",
+ "quando": "2026-11-23T13:02:53.204Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -43,8 +43,12 @@
       "definicao": "Revisão intencional da prática baseada em evidências, resultados e objetivos de aprendizagem.<br>"
      },
      {
-      "termo": "",
-      "definicao": ""
+      "termo": "Evidência pedagógica",
+      "definicao": "Informação observável usada para compreender a aprendizagem e fundamentar decisões docentes.&nbsp;<br>"
+     },
+     {
+      "termo": "Ajuste fundamentado",
+      "definicao": "Mudança justificada por evidências e relacionada ao objetivo de aprendizagem.<br>"
      }
     ],
     "novo": true
