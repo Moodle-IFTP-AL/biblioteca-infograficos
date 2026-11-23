@@ -1,15 +1,15 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão e Operações",
- "quando": "2026-11-23T20:37:03.443Z",
+ "quando": "2026-11-23T20:37:45.519Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Síntese e qualificação da prática técnica.<br><b>Conteúdos:</b><br><ul><li>Retomada do percurso formativo e das práticas realizadas no ano.<br></li><li>Relação entre objetivos, procedimentos, participação e resultados.<br></li><li>Critérios de qualidade e desempenho já trabalhados.<br></li><li>Pontos fortes e pontos de atenção.<br></li><li>Condições que favoreceram ou limitaram a prática.<br></li><li>Prioridades para aprimoramento.<br></li></ul><b>Objetivo da Aula: </b>Sistematizar uma análise reflexiva de uma prática técnica já realizada, articulando planejamento, execução, mediação e avaliação e definindo ajustes para sua qualificação.<br>",
    "objetivo": "Analisar o conjunto de práticas, registros e evidências produzidos ao longo da formação, relacionando-os às aprendizagens construídas para identificar possibilidades de qualificação da própria atuação docente.<br>",
    "titulo": "<b>Aprendizagens que Transformam a Prática Docente</b><br>",
-   "conteudo": "Ao longo deste percurso, você planejou atividades, conduziu práticas, observou os(as) estudantes, registrou evidências e analisou suas intervenções.<br><br>O encerramento da formação convida a olhar não apenas para uma aula, mas para o conjunto das experiências vividas. Planos, registros, produções e devolutivas ajudam a recuperar situações que a memória, sozinha, não consegue preservar.<br><br>Ao revisitar esses materiais, é possível perceber escolhas que se consolidaram e mudanças na forma de ensinar.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Analisando a Prática Docente</font></b></h3><br>Analisar diferentes práticas em conjunto permite identificar relações que podem passar despercebidas quando cada aula é considerada isoladamente. Para essa retomada, observe dimensões que se articulam nas experiências de Logística e Recursos Humanos:<br>[INFOGRAFICO1]<br>Esse olhar evidencia avanços, situações recorrentes e aspectos que ainda exigem atenção.<br><br>",
-   "conectando": ""
+   "conteudo": "Ao longo deste percurso, você planejou atividades, conduziu práticas, observou os(as) estudantes, registrou evidências e analisou suas intervenções.<br><br>O encerramento da formação convida a olhar não apenas para uma aula, mas para o conjunto das experiências vividas. Planos, registros, produções e devolutivas ajudam a recuperar situações que a memória, sozinha, não consegue preservar.<br><br>Ao revisitar esses materiais, é possível perceber escolhas que se consolidaram e mudanças na forma de ensinar.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Analisando a Prática Docente</font></b></h3><br>Analisar diferentes práticas em conjunto permite identificar relações que podem passar despercebidas quando cada aula é considerada isoladamente. Para essa retomada, observe dimensões que se articulam nas experiências de Logística e Recursos Humanos:<br>[INFOGRAFICO1]<br>Esse olhar evidencia avanços, situações recorrentes e aspectos que ainda exigem atenção.<br>[ACCORDION1]<br><h3><b><font color=\"#f04770\">Da Experiência às Aprendizagens Profissionais</font></b></h3><br>A análise do percurso ajuda a reconhecer o que passou a integrar seu repertório profissional e o que ainda pode ser fortalecido. A partir das experiências em Logística e Recursos Humanos, reflita sobre quatro movimentos:<br><ul><li><b>Manter:</b> situações profissionais contextualizadas e critérios de avaliação claros.<br></li><li><b>Aprofundar:</b> estratégias que articulem conhecimentos técnicos e realidade alagoana.<br></li><li><b>Aperfeiçoar:</b> registros, devolutivas e perguntas que tornem o raciocínio técnico dos(as) estudantes mais visível.<br></li><li><b>Transformar:</b> atividades centradas apenas na execução, incorporando oportunidades de decisão, justificativa e reflexão.<br></li></ul>Essas escolhas oferecem referências para novas práticas, turmas e contextos.<br><br>",
+   "conectando": "No fórum final, compartilhe as aprendizagens que pretende manter, aprofundar, aperfeiçoar ou transformar em suas próximas práticas.<br>"
   },
   "blocos": [
    {
@@ -37,12 +37,23 @@
     "texto": "",
     "topicos": [
      {
-      "titulo": "Exemplo Prático ",
-      "texto": ""
+      "titulo": "Exemplo Prático — Identificando padrões nas práticas ",
+      "texto": "Ao revisar práticas realizadas ao longo do ano, uma professora percebeu que os(as) estudantes participavam mais quando os problemas estavam relacionados a situações reconhecíveis do território alagoano. Atividades envolvendo comércio, turismo, serviços públicos e pequenas organizações facilitaram a relação entre conceitos e decisões profissionais. Os registros também mostraram que as turmas executavam formulários e procedimentos adequadamente, mas tinham dificuldade para justificar escolhas ou reorganizar processos diante de imprevistos. Em resposta, a professora passou a utilizar perguntas orientadoras, funções rotativas e momentos de socialização, mantendo a contextualização e ampliando as oportunidades de argumentação e tomada de decisão.<br>"
      }
     ],
-    "novo": true
+    "novo": false
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Aprendizagens para o Futuro ",
+   "texto": "Concluir esta formação não significa encerrar seu desenvolvimento profissional. As experiências analisadas deixam conhecimentos, critérios e estratégias que poderão orientar novas escolhas.<br><br>Reconheça o que passou a fazer parte de sua atuação, o que deseja fortalecer e quais aspectos pretende observar com maior atenção.<br><br>Cada turma e cada prática apresentarão novos desafios, mas você poderá mobilizar esse repertório para planejar, mediar, avaliar e replanejar atividades técnicas com intencionalidade.<br><br>",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "Revisar o percurso permite transformar experiências em aprendizagem profissional, reconhecendo padrões, avanços e prioridades que podem orientar as próximas práticas.<br>",
+     "novo": false
+    }
+   ]
+  }
  }
 }
