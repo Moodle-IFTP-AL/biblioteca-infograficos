@@ -1,50 +1,53 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-11-23T14:55:53.874Z",
- "autor": "Eduarda",
+ "quando": "2026-11-23T17:04:32.695Z",
+ "autor": "Teste",
  "dados": {
   "campos": {
-   "objetivo": "Sistematizar uma proposta de Projeto Técnico Integrado a partir dos registros anteriores, articulando problema, aprendizagens, integração curricular, etapas, entregas, mediação e avaliação, com critérios e evidências de aprendizagem, considerando as condições de realização.<br>",
-   "titulo": "<b>Sistematize sua Proposta de Projeto&nbsp;</b><br>",
-   "conteudo": "<h3><b><font color=\"#f04770\">Organize sua Proposta de Projeto Integrado</font></b></h3><br>Retome os registros das aulas anteriores e organize uma proposta de Projeto Técnico Integrado. Utilize seu projeto ou o exemplo da oficina. Se trabalhou com situações diferentes, adapte os registros à proposta escolhida. Preencha o quadro com respostas objetivas, aproveitando as decisões já registradas e completando o que faltar. Ao finalizar, confira se as etapas favorecem as aprendizagens previstas e se os critérios e as evidências permitem avaliá-las. Verifique também as condições de realização e registre um ajuste necessário, justificando sua escolha.<br><br><h3><b><font color=\"#f04770\">Como os elementos do projeto se conectam?</font><br><br></b></h3>Observe o esquema para identificar os elementos que precisam estar articulados em sua proposta. Utilize-o como referência durante o preenchimento do quadro e, ao finalizar, confira se suas escolhas de planejamento, mediação e avaliação são coerentes entre si.<br>[IMAGEM1]<br>[DICA1]<br>[H5P1]<br>[H5P2]",
+   "objetivo": "Elaborar uma proposta de intervenção em um projeto técnico integrado, justificando sua relação com as evidências e as necessidades de aprendizagem e definindo como acompanhar os resultados, preservando a participação dos(as) estudantes.<br>",
+   "titulo": "<b>Da Evidência à Decisão de Mediação</b>",
+   "conteudo": "",
    "reflexao": ""
   },
-  "blocos": [
+  "atividades": [
    {
-    "tipo": "imagem",
-    "texto": "",
-    "imagemUrl": "https://drive.google.com/file/d/1zEu-Vv8jaz0uXSzxseeUzYsCt5_MdvK7/view?usp=sharing",
-    "legenda": "",
-    "credito": "",
-    "larguraImagem": 85,
-    "novo": false
-   },
-   {
-    "tipo": "dica",
-    "texto": "Ao finalizar o preenchimento do quadro, retome o esquema para conferir as conexões e ajustar o que for necessário.<br>",
-    "novo": false
-   },
-   {
-    "tipo": "h5p",
-    "texto": "",
-    "titulo": "Atividade 1",
-    "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32774\" width=\"1237\" height=\"1186\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U08-APLI-STRIP2\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
-    "novo": false
-   },
-   {
-    "tipo": "h5p",
-    "texto": "",
-    "titulo": "Atividade 2",
-    "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32775\" width=\"1237\" height=\"387\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U08-APLI-STRIP3\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
-    "novo": false
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32702\" width=\"875\" height=\"1041\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"MET-M4-U06-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    }
   ],
   "conclusao": {
-   "titulo": "Encerrando o Percurso Formativo ",
-   "texto": "A proposta sistematizada e a reflexão final registram aprendizagens e decisões que você poderá retomar em sua prática docente.<br><br>Compartilhe suas escolhas com os(as) colegas e ajuste o planejamento conforme as condições da escola e as necessidades dos(as) estudantes.<br><br>Agradecemos sua participação na formação. Que os conhecimentos construídos contribuam para qualificar suas práticas pedagógicas na Educação Profissional e Tecnológica.<br>",
+   "titulo": "Da Mediação à Prática Docente ",
+   "texto": "Nesta aula, você relacionou evidências às necessidades de aprendizagem e elaborou uma proposta de intervenção com acompanhamento dos resultados.<br><br>Leve esse olhar aos seus projetos: observe como os(as) estudantes investigam, explicam e decidem.<br><br>Utilize essas informações para ajustar os apoios, mantendo os objetivos de aprendizagem e favorecendo a colaboração e a autonomia.<br>",
    "blocos": []
   },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29302"
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29962",
+  "ajusteEixo": {
+   "eixo": "ECS",
+   "feitoEm": "2026-11-23T16:58:33.648Z",
+   "linhas": [
+    {
+     "tipo": "Iframe H5P",
+     "nome": "MET-M4-U06-APLI-STRIP",
+     "de": 32613,
+     "para": null,
+     "situacao": "posterior",
+     "mod": "hvp",
+     "rotulo": "iframe"
+    },
+    {
+     "tipo": "Link Página",
+     "nome": "(MET)REFERENCIAS-M4U06",
+     "de": 29257,
+     "para": 29962,
+     "situacao": "trocado",
+     "eixoOrigem": "ADM",
+     "mod": "page",
+     "rotulo": "link"
+    }
+   ],
+   "manuais": {
+    "32702": 29962
+   }
+  }
  }
 }
