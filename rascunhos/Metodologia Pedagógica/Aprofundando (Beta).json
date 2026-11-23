@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-11-23T13:42:03.879Z",
+ "quando": "2026-11-23T13:43:20.522Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>2 -</b> Avaliar a aprendizagem por competências, a partir de evidências das práticas pedagógicas e técnicas desenvolvidas pelos(as) estudantes, considerando a mobilização de conhecimentos gerais no contexto da Educação Profissional e Tecnológica, para orientar o planejamento e o replanejamento das aulas e o desenvolvimento dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>2.3 - </b>Utilizar os resultados da avaliação para replanejar aulas, ajustar estratégias e orientar o desenvolvimento dos(as) estudantes.<br><b>Objeto do Conhecimento:</b><br>Socialização, devolutivas e qualificação das produções.<br><b>Conteúdos:</b><br><ul><li>Socialização dos resultados do projeto.<br></li><li>Devolutivas formativas durante e após a apresentação.<br></li><li>Qualificação das produções a partir do feedback<i>.</i><br></li><li>Reflexão dos(as) estudantes sobre o percurso realizado.<br></li></ul><b>Objetivo: </b><br>Organizar estratégias de socialização e devolutiva formativa, utilizando critérios de avaliação para orientar a revisão e a qualificação das produções dos(as) estudantes em projetos técnicos integrados.<br>",
    "objetivo": "Analisar uma situação de socialização de resultados, avaliar a relação das devolutivas com os critérios de avaliação e propor encaminhamentos para que os(as) estudantes revisem suas produções e justifiquem as alterações.<br>",
    "titulo": "<b>Socialização e Qualificação das Produções</b><br>",
-   "conteudo": "<h3><b><font color=\"#f04770\">Quando os Comentários Não Geram Melhorias?&nbsp;</font></b></h3><br>Na socialização do projeto sobre circulação na oficina, os grupos apresentam seus croquis e justificativas. Os(as) colegas fazem perguntas, mas também surgem comentários como “está bom” ou “precisa melhorar”.<br><br>Os(as) autores(as) dos projetos registram essas falas, porém não sabem quais mudanças realizar nem como elas ajudariam a atender ao critério de relacionar medidas, trajetos e melhorias.<br><br>O(a) professor(a) percebe que precisa orientar as contribuições e reservar tempo para analisá-las e revisar as propostas.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Como Preparar esse Momento<br><br></font></b></h3>Planeje a socialização como parte do percurso de aprendizagem, considerando os seguintes aspectos:<br>[INFOGRAFICO1]",
+   "conteudo": "<h3><b><font color=\"#f04770\">Quando os Comentários Não Geram Melhorias?&nbsp;</font></b></h3><br>Na socialização do projeto sobre circulação na oficina, os grupos apresentam seus croquis e justificativas. Os(as) colegas fazem perguntas, mas também surgem comentários como “está bom” ou “precisa melhorar”.<br><br>Os(as) autores(as) dos projetos registram essas falas, porém não sabem quais mudanças realizar nem como elas ajudariam a atender ao critério de relacionar medidas, trajetos e melhorias.<br><br>O(a) professor(a) percebe que precisa orientar as contribuições e reservar tempo para analisá-las e revisar as propostas.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Como Preparar esse Momento<br><br></font></b></h3>Planeje a socialização como parte do percurso de aprendizagem, considerando os seguintes aspectos:<br>[INFOGRAFICO1]<br>[VIDEO1]",
    "conectando": ""
   },
   "blocos": [
@@ -38,7 +38,7 @@
     "texto": "Acompanhe como orientar contribuições baseadas em critérios e ajudar os(as) estudantes a analisá-las, justificar ajustes e aprimorar as produções após a socialização.<br>",
     "titulo": "Vamos Ver na Prática? ",
     "url": "",
-    "novo": true
+    "novo": false
    }
   ]
  }
