@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão e Operações",
- "quando": "2026-11-23T20:38:43.092Z",
+ "quando": "2026-11-23T20:39:02.856Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -54,6 +54,7 @@
      "novo": false
     }
    ]
-  }
+  },
+  "linhaComBibliografia": false
  }
 }
