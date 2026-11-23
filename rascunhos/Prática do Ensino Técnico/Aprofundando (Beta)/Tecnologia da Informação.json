@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Tecnologia da Informação",
- "quando": "2026-11-23T20:57:34.635Z",
+ "quando": "2026-11-23T20:57:38.579Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -37,7 +37,7 @@
     "texto": "",
     "topicos": [
      {
-      "titulo": "",
+      "titulo": "Exemplo Prático",
       "texto": ""
      }
     ],
