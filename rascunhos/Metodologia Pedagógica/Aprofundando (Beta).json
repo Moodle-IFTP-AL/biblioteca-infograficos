@@ -1,15 +1,15 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-11-23T14:35:43.788Z",
+ "quando": "2026-11-23T14:37:12.128Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>1 -</b> Planejar e estruturar práticas de aprendizagem participativas e contextualizadas, mobilizando conhecimentos da Formação Geral Básica no contexto da Educação Profissional e Tecnológica, por meio da seleção de metodologias, conteúdos e estratégias pedagógicas alinhadas ao perfil da turma, às competências técnicas e às demandas do mundo do trabalho.<br><br><b>2 -</b> Avaliar a aprendizagem por competências, a partir de evidências das práticas pedagógicas e técnicas desenvolvidas pelos(as) estudantes, considerando a mobilização de conhecimentos gerais no contexto da Educação Profissional e Tecnológica, para orientar o planejamento e o replanejamento das aulas e o desenvolvimento dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>1.2 - </b>Selecionar e estruturar metodologias participativas (MRP, ABP, situações-problema), articulando conhecimentos da Formação Geral Básica e da área técnica, de acordo com os objetivos de aprendizagem.<br><br><b>2.3</b> - Utilizar os resultados da avaliação para replanejar aulas, ajustar estratégias e orientar o desenvolvimento dos(as) estudantes.<br><b>Objeto do Conhecimento:</b><br>Proposta de Projeto Técnico Integrador.<br><b>Conteúdos:</b><br><ul><li>Sistematização da proposta de projeto.<br></li><li>Problema, situação-problema, etapas e entregas.<br></li><li>Evidências, mediação e avaliação por competências.<br></li><li>Síntese do percurso formativo do módulo.<br></li></ul><b>Objetivo:&nbsp;</b><br>Sistematizar uma proposta de Projeto Técnico Integrador, articulando problema real, integração curricular, etapas de desenvolvimento, evidências de aprendizagem, mediação docente e avaliação por competências.<br>",
    "objetivo": "Analisar a articulação entre problema, aprendizagens previstas, integração curricular, etapas, entregas, mediação e avaliação em uma proposta de Projeto Técnico Integrado, identificando ajustes necessários à sua sistematização.<br>",
    "titulo": "<b>Conectando as Escolhas do Projeto Integrado</b><br>",
-   "conteudo": "<b>Conectando as Aprendizagens da Formação<br></b><br>Ao longo da formação, você estudou como planejar, acompanhar e avaliar aprendizagens relacionadas à realidade dos(as) estudantes.<br><br>Agora, é hora de reunir essas contribuições em uma proposta de Projeto Técnico Integrado.<br>[CAIXADESTAQUE1]<br>Nesta aula, você analisará essas relações no exemplo da oficina e identificará ajustes necessários.<br><br>Depois, retomará seus registros para sistematizar uma proposta vinculada à escola, ao território ou ao mundo do trabalho, considerando as aprendizagens pretendidas e as condições de realização.<br><br><h3><b><font color=\"#f04770\">O que Compõe um Projeto Integrado?</font></b></h3><br>Uma proposta de Projeto Técnico Integrado precisa conectar seus elementos às aprendizagens pretendidas e ao problema que orienta o trabalho.<br>[INFOGRAFICO1]<br>No exemplo da oficina, medidas e análise dos trajetos fundamentam o croqui e sua justificativa.<br>[VIDEO1]<br>[H5P1]<br><h3><font color=\"#f04770\">O que Garante a Coerência do Projeto?&nbsp;&nbsp;</font></h3>[INFOGRAFICO2]<br>[INFOGRAFICO3]<br><br><br>",
-   "conectando": ""
+   "conteudo": "<h3><b><font color=\"#f04770\">Conectando as Aprendizagens da Formação</font></b></h3><br>Ao longo da formação, você estudou como planejar, acompanhar e avaliar aprendizagens relacionadas à realidade dos(as) estudantes.[GLOSSARIO1]<br><br>Agora, é hora de reunir essas contribuições em uma proposta de Projeto Técnico Integrado.<br>[CAIXADESTAQUE1]<br>Nesta aula, você analisará essas relações no exemplo da oficina e identificará ajustes necessários.<br><br>Depois, retomará seus registros para sistematizar uma proposta vinculada à escola, ao território ou ao mundo do trabalho, considerando as aprendizagens pretendidas e as condições de realização.<br><br><h3><b><font color=\"#f04770\">O que Compõe um Projeto Integrado?</font></b></h3><br>Uma proposta de Projeto Técnico Integrado precisa conectar seus elementos às aprendizagens pretendidas e ao problema que orienta o trabalho.<br>[INFOGRAFICO1]<br>No exemplo da oficina, medidas e análise dos trajetos fundamentam o croqui e sua justificativa.<br>[VIDEO1]<br>[H5P1]<br><h3><font color=\"#f04770\">O que Garante a Coerência do Projeto?&nbsp;&nbsp;</font></h3>[INFOGRAFICO2]<br>[INFOGRAFICO3]<br>",
+   "conectando": "Agora, reúna os registros das aulas anteriores para sistematizar sua proposta. Você contará com campos orientadores para completar as escolhas e revisar suas conexões.<br>"
   },
   "blocos": [
    {
@@ -66,7 +66,42 @@
      "linhas": "[\"Tempos e organização do percurso.\",\"Espaços, recursos e materiais.\",\"Responsabilidades e participação dos(as) estudantes.\"]"
     },
     "novo": false
+   },
+   {
+    "tipo": "glossario",
+    "texto": "",
+    "termos": [
+     {
+      "termo": "Sistematização",
+      "definicao": "Organização articulada dos registros e das decisões que compõem a proposta de projeto."
+     },
+     {
+      "termo": "Coerência pedagógica ",
+      "definicao": "Relação entre aprendizagens pretendidas, atividades, mediação e avaliação ao longo do projeto.<br>"
+     },
+     {
+      "termo": "Condições de realização",
+      "definicao": "Tempos, espaços, recursos e apoios necessários para desenvolver o projeto com a turma.<br>"
+     }
+    ],
+    "novo": false
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Conferindo as Escolhas do Projeto",
+   "texto": "Uma proposta de Projeto Técnico Integrado ganha coerência quando problema, aprendizagens, integração curricular, etapas, entregas e avaliação se sustentam entre si.<br><br>No exemplo da oficina, observar como os(as) estudantes relacionam medidas, trajetos e melhorias permite avaliar a justificativa das escolhas. A mediação e as devolutivas ajudam a enfrentar dificuldades e revisar produções.<br><br>Ao reunir seus registros, confira essas conexões, complete o que faltar e ajuste as decisões às condições da turma e da escola.<br>[TOMENOTA1]<br>[DICA1]",
+   "blocos": [
+    {
+     "tipo": "dica",
+     "texto": "Apresente o percurso à turma e peça aos grupos que expliquem como cada entrega contribui para a etapa seguinte. Se tiverem dificuldade, retome a finalidade das etapas e verifique se o planejamento precisa de ajustes.<br>",
+     "novo": false
+    },
+    {
+     "tipo": "tomenota",
+     "texto": "As evidências esperadas são previstas no planejamento, mas precisam ser observadas durante o projeto. Registre o que cada estudante faz, produz ou explica e relacione essas informações aos critérios para identificar aprendizagens e definir os apoios necessários.<br>",
+     "novo": false
+    }
+   ]
+  }
  }
 }
