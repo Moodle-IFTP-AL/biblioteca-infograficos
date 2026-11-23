@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Planejamento Integrado/Aprofundando",
- "quando": "2026-11-23T12:48:10.099Z",
+ "quando": "2026-11-23T12:48:29.589Z",
  "autor": "Eduarda",
  "dados": {
   "agoraSuaVez": {
@@ -43,9 +43,10 @@
    },
    {
     "tipo": "dica",
-    "texto": "<h3><b><font color=\"#f04770\">Preserve os Registros do Percurso</font><br><br></b></h3>Organize seus planejamentos, projetos, avaliações e outros materiais produzidos ao longo do ano. Esses registros facilitam a consulta e podem servir de referência para novas práticas pedagógicas.<br>",
+    "texto": "<h3><b><font color=\"#f04770\">Preserve os Registros do Percurso</font><br></b></h3>Organize seus planejamentos, projetos, avaliações e outros materiais produzidos ao longo do ano. Esses registros facilitam a consulta e podem servir de referência para novas práticas pedagógicas.<br>",
     "novo": false
    }
-  ]
+  ],
+  "link": "https://ead.educacao.al.gov.br/mod/feedback/view.php?id=32766"
  }
 }
