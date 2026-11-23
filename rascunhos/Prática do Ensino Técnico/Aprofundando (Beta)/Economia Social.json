@@ -1,15 +1,15 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Economia Social",
- "quando": "2026-11-23T20:24:08.797Z",
+ "quando": "2026-11-23T20:25:30.316Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Síntese e qualificação da prática técnica.<br><b>Conteúdos:</b><br><ul><li>Retomada do percurso formativo e das práticas realizadas no ano.<br></li><li>Relação entre objetivos, procedimentos, participação e resultados.<br></li><li>Critérios de qualidade e desempenho já trabalhados.<br></li><li>Pontos fortes e pontos de atenção.<br></li><li>Condições que favoreceram ou limitaram a prática.<br></li><li>Prioridades para aprimoramento.<br></li></ul><b>Objetivo da Aula: </b>Sistematizar uma análise reflexiva de uma prática técnica já realizada, articulando planejamento, execução, mediação e avaliação e definindo ajustes para sua qualificação.<br>",
    "objetivo": "Analisar o conjunto de práticas, registros e evidências produzidos ao longo da formação, relacionando-os às aprendizagens construídas para identificar possibilidades de qualificação da própria atuação docente.<br>",
    "titulo": "<b>Aprendizagem que Permanece na Prática</b><br>",
-   "conteudo": "Ao longo do ano, diferentes práticas nas aulas de Cooperativismo e Contabilidade exigiram decisões sobre planejamento, mediação, participação, avaliação e uso de evidências.<br><br>Retomar os registros dessas experiências permite reconhecer mudanças no modo de organizar atividades, acompanhar os(as) estudantes e ajustar intervenções. Também ajuda a identificar escolhas que se mostraram consistentes em diferentes situações.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Analisando a Prática Docente</font></b></h3><br>Ao reunir registros de diferentes aulas, você pode perceber relações que nem sempre ficam evidentes durante a realização das atividades. Observe como as dimensões da prática se articularam nas experiências de Cooperativismo e Contabilidade:<br>[INFOGRAFICO1]",
-   "conectando": ""
+   "conteudo": "Ao longo do ano, diferentes práticas nas aulas de Cooperativismo e Contabilidade exigiram decisões sobre planejamento, mediação, participação, avaliação e uso de evidências.<br><br>Retomar os registros dessas experiências permite reconhecer mudanças no modo de organizar atividades, acompanhar os(as) estudantes e ajustar intervenções. Também ajuda a identificar escolhas que se mostraram consistentes em diferentes situações.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Analisando a Prática Docente</font></b></h3><br>Ao reunir registros de diferentes aulas, você pode perceber relações que nem sempre ficam evidentes durante a realização das atividades. Observe como as dimensões da prática se articularam nas experiências de Cooperativismo e Contabilidade:<br>[INFOGRAFICO1]<br>[ACCORDION1]<br><h3><b><font color=\"#f04770\">Da Experiência às Aprendizagens Profissionais<br><br></font></b></h3>A análise do percurso ajuda a reconhecer aprendizagens que já fazem parte da sua prática e aspectos que merecem continuidade ou revisão. Organize essa síntese a partir de quatro movimentos:<br><ul><li><b>Manter:</b> estratégias que favoreceram a participação, a clareza dos procedimentos e o registro das decisões.<br></li><li><b>Aprofundar:</b> conhecimentos sobre critérios contábeis, princípios cooperativos e integração entre teoria e prática.<br></li><li><b>Aperfeiçoar:</b> formas de distribuir responsabilidades, acompanhar evidências e formular devolutivas.<br></li><li><b>Transformar:</b> procedimentos que concentraram decisões, limitaram a participação ou dificultaram a compreensão.<br></li></ul>Essas escolhas ajudam a definir prioridades para práticas futuras em diferentes turmas e contextos.<br><br>",
+   "conectando": "No fórum de encerramento, compartilhe com os(as) colegas as aprendizagens que pretende levar para suas próximas práticas.<br>"
   },
   "blocos": [
    {
@@ -41,8 +41,19 @@
       "texto": "Ao revisar diferentes práticas, uma professora percebeu que as atividades de prestação de contas e tomada de decisão coletiva produziam justificativas mais consistentes quando as responsabilidades eram distribuídas e os critérios eram apresentados antes da execução. Em situações inspiradas em cooperativas de agricultura familiar do Agreste alagoano, o rateio dos custos de transporte entre comunidades produtoras e pontos de comercialização tornou a análise de despesas mais concreta. Os registros mostraram, porém, que a participação diminuía quando poucos(as) integrantes concentravam os cálculos e as justificativas. A partir dessa análise, a professora decidiu manter a contextualização, mas reorganizar as funções nos grupos para ampliar a participação.<br>"
      }
     ],
-    "novo": true
+    "novo": false
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Aprendizagens para o Futuro ",
+   "texto": "Ao concluir este percurso, reconheça quais aprendizagens passaram a orientar suas escolhas docentes.<br><br>O planejamento mais intencional, a observação de evidências, a mediação diante das dificuldades e a análise dos resultados podem integrar seu repertório profissional.<br><br>Identifique também o que ainda deseja fortalecer, especialmente nas práticas de Cooperativismo e Contabilidade.<br><br>Esse balanço oferece referências para acompanhar seu desenvolvimento e estabelecer prioridades para as próximas experiências de ensino.<br>[TOMENOTA1]",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "A análise do percurso permite reconhecer aspectos que se repetem em diferentes práticas, como dificuldades recorrentes, estratégias eficazes e formas de participação. Use essas evidências para definir prioridades de desenvolvimento profissional.<br>",
+     "novo": false
+    }
+   ]
+  }
  }
 }
