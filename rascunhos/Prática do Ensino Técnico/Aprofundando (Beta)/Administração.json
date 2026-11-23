@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-11-23T13:18:55.926Z",
+ "quando": "2026-11-23T13:19:18.427Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -37,8 +37,8 @@
     "texto": "",
     "topicos": [
      {
-      "titulo": "Exemplo Prático ",
-      "texto": ""
+      "titulo": "Exemplo Prático — O que os registros revelaram em Administração? ",
+      "texto": "Ao revisar os registros das aulas de uma turma do Curso Técnico em Administração, uma professora identificou que as simulações de situações reais de empresas, como controle de estoque e organização financeira, aumentaram a participação dos(as) estudantes. Nas atividades, eles(as) conseguiram aplicar conceitos administrativos para resolver problemas, mas muitos tiveram dificuldade para justificar suas decisões com base nos dados analisados.<br><br>Ao comparar diferentes atividades, a professora percebeu que essa dificuldade se repetia. A análise mostrou que as simulações aproximavam os conteúdos da realidade profissional, mas era preciso incluir mais momentos de interpretação de dados e discussão das decisões. Com isso, ela identificou estratégias a manter e aspectos a aperfeiçoar nas próximas aulas.<br>"
      }
     ],
     "novo": true
