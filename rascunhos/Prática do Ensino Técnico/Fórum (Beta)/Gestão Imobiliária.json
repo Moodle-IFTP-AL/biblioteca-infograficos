@@ -1,52 +1,16 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Gestão Imobiliária",
- "quando": "2026-11-17T14:50:03.551Z",
+ "quando": "2026-11-23T20:51:59.895Z",
  "autor": "Eduarda",
  "dados": {
+  "linhaComBibliografia": false,
   "campos": {
-   "objetivo": "Analisar uma prática técnica realizada, considerando as evidências observadas e as intervenções realizadas, e identificar possibilidades de aprimoramento da própria atuação docente.<br>",
-   "titulo": "<b>Da Evidência à Melhoria da Prática Docente&nbsp;</b><br>",
-   "conteudo": "Escolha uma prática técnica recente que tenha desenvolvido com seus(suas) estudantes. Pode ser uma simulação de atendimento condominial, a organização de procedimentos administrativos, a análise de contratos, a avaliação de imóveis ou a simulação de negociação imobiliária.<br>Descreva brevemente o objetivo da atividade e os critérios utilizados para acompanhar a aprendizagem.<br><br><h3><b>1. Analise sua mediação</b></h3><p><b></b></p>A partir da experiência escolhida, reflita sobre os seguintes aspectos:<br><ul><li><b>Evidências:</b> quais resultados, ações ou produções dos(as) estudantes revelaram avanços ou dificuldades na aprendizagem? Apresente um exemplo concreto.<br></li><li><b>Devolutiva:</b> que orientação ou intervenção você realizou diante do que observou?<br></li><li><b>Efeitos:</b> houve melhoria no desempenho após a intervenção? Quais dificuldades persistiram?<br></li><li><b>Aprimoramento:</b> o que você faria diferente em uma próxima experiência? Justifique sua escolha.<br></li></ul><h3><b>2. Compartilhe e interaja</b></h3><p><b></b></p>Publique sua reflexão no fórum. Depois, comente a contribuição de um(a) colega, relacionando uma das estratégias apresentadas à sua própria experiência docente e explicando como poderia incorporá-la ou adaptá-la.<br>[CAIXADESTAQUE1]<br>[REVISAR1]",
+   "objetivo": "Analisar a própria trajetória docente ao longo da formação, identificando aprendizagens, avanços e aspectos a serem mantidos, aperfeiçoados ou transformados em práticas futuras.<br>",
+   "titulo": "<b>Aprendizagens que Orientam Novos Caminhos&nbsp;</b><br>",
+   "conteudo": "<h3><b><font color=\"#f04770\">Fórum: Meu Percurso, Minhas Aprendizagens</font></b></h3>Chegamos ao final da formação! Este é o momento de olhar para as experiências vividas ao longo do ano e reconhecer o que elas revelam sobre sua prática docente nos cursos de Condomínios e Transações Imobiliárias.<br>Para participar do fórum, retome suas aulas, atividades e registros e compartilhe:<br><ul><li><b>Uma aprendizagem ou avanço</b> que percebeu em sua atuação.<br></li><li><b>Uma estratégia ou escolha</b> que pretende manter ou aperfeiçoar.<br></li><li><b>Um aspecto da prática docente</b> que deseja transformar nas próximas experiências.<br></li></ul>Para concluir, responda: <b>o que você leva desta formação para suas próximas experiências de ensino?</b><br>Leia também as contribuições dos(as) colegas e comente uma delas.<br><br>",
    "instrucoesTitulo": "Sua participação deve conter:",
    "orientacoesTitulo": "Orientações para o formato:"
-  },
-  "blocos": [
-   {
-    "tipo": "caixadestaque",
-    "texto": "<b>Atenção:</b> fundamente sua análise em evidências concretas da prática, evitando respostas baseadas apenas em impressões gerais.",
-    "caixaImgUrl": "",
-    "caixaImgSize": 40,
-    "caixaCorFundo": "#fdf0f3",
-    "caixaCorBorda": "#f04770",
-    "novo": false,
-    "caixaCorTexto": "#0a3442"
-   },
-   {
-    "tipo": "revisar",
-    "texto": "Revisite as aulas abaixo para retomar aspectos da demonstração, da orientação e da gestão da prática técnica e aprofundar a análise da sua atuação.<br>",
-    "idRevisar": "mwkta02bmpdofy",
-    "itensRevisar": [
-     {
-      "id": "mwkta48ah056gi",
-      "texto": "Módulo 1 – Unidade 7: Demonstração técnica aplicada ao projeto ABP.&nbsp;<br>",
-      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22952"
-     },
-     {
-      "id": "mwkta4hchqviy7",
-      "texto": "Módulo 1 – Unidade 8: Preparação de demonstrações técnicas.&nbsp;<br>",
-      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=23175"
-     },
-     {
-      "id": "mwkta4qumbglq9",
-      "texto": "Módulo 3 – Unidade 2: Gestão da prática técnica.&nbsp;<br>",
-      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28629"
-     }
-    ],
-    "linkBotao": "",
-    "textoBotao": "",
-    "novo": false
-   }
-  ]
+  }
  }
 }
