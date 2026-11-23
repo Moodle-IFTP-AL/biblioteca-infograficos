@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Tecnologia da Informação",
- "quando": "2026-11-23T20:58:29.688Z",
+ "quando": "2026-11-23T20:58:39.916Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -59,6 +59,7 @@
      "novo": false
     }
    ]
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=30538"
  }
 }
