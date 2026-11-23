@@ -1,0 +1,29 @@
+{
+ "versao": 1,
+ "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Agro Sustentável",
+ "quando": "2026-11-23T19:45:06.432Z",
+ "autor": "Eduarda",
+ "dados": {
+  "campos": {
+   "objetivo": "Analisar a própria trajetória docente ao longo da formação, identificando aprendizagens, avanços e aspectos a serem mantidos, aperfeiçoados ou transformados em práticas futuras.<br>",
+   "titulo": "<b>Aprendizagens que Seguem Conosco</b><br>",
+   "conteudo": "<b>Fórum: Meu Percurso e Minhas Aprendizagens</b><br>Chegamos ao final da formação! Agora, é hora de compartilhar o que você aprendeu e como essas experiências contribuíram para sua prática docente nos cursos de Agricultura, Alimentos ou Agroecologia.<br>Para participar do fórum, retome suas aulas, atividades e registros e compartilhe:<br><ul><li>Uma mudança ou avanço que percebeu em sua atuação.<br></li><li>Uma estratégia que pretende manter ou aperfeiçoar.<br></li><li>Um aspecto que deseja transformar nas próximas práticas.<br></li></ul><b>Para concluir, responda:</b> o que você leva desta formação para suas próximas experiências de ensino?<br><br>Leia também as contribuições dos(as) colegas e comente uma delas.<br>",
+   "instrucoesTitulo": "Sua participação deve conter:",
+   "orientacoesTitulo": "Orientações para o formato:"
+  },
+  "blocos": [
+   {
+    "tipo": "pergunta",
+    "texto": "",
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "Para concluir, responda:",
+     "texto": "O que você leva desta formação para suas próximas experiências de ensino?",
+     "videoUrl": "",
+     "iframeH5P": ""
+    },
+    "novo": false
+   }
+  ]
+ }
+}
