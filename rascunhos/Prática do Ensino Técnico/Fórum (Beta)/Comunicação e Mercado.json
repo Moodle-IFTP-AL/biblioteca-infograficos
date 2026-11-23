@@ -1,14 +1,14 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Comunicação e Mercado",
- "quando": "2026-11-23T20:03:34.992Z",
+ "quando": "2026-11-23T20:03:49.613Z",
  "autor": "Eduarda",
  "dados": {
   "linhaComBibliografia": false,
   "campos": {
    "objetivo": "Analisar a própria trajetória docente ao longo da formação, identificando aprendizagens, avanços e aspectos a serem mantidos, aperfeiçoados ou transformados em práticas futuras.<br>",
    "titulo": "<b>Meu Percurso e Próximos Passos&nbsp;</b>",
-   "conteudo": "<h3><b><font color=\"#f04770\">Fórum: Meu Percurso, Minhas Aprendizagens</font><br><br></b></h3>Chegamos ao final da formação! Este é o momento de olhar para as experiências vividas ao longo do ano e reconhecer o que elas revelam sobre sua prática docente nos cursos de Comunicação e Mercado.<br>Para participar do fórum, retome suas aulas, atividades e registros e compartilhe:<br><ul><li><b>Uma aprendizagem ou avanço</b> que percebeu em sua atuação.<br></li><li><b>Uma estratégia ou escolha</b> que pretende manter ou aperfeiçoar.<br></li><li><b>Um aspecto da prática docente</b> que deseja transformar nas próximas experiências.<br></li></ul>[PERGUNTA1]<br>Leia também as contribuições dos(as) colegas e comente uma delas.<br><br>",
+   "conteudo": "<h3><b><font color=\"#f04770\">Fórum: Meu Percurso, Minhas Aprendizagens</font><br><br></b></h3>Chegamos ao final da formação! Este é o momento de olhar para as experiências vividas ao longo do ano e reconhecer o que elas revelam sobre sua prática docente nos cursos de Comunicação e Mercado.<br>Para participar do fórum, retome suas aulas, atividades e registros e compartilhe:<br><ul><li><b>Uma aprendizagem ou avanço</b> que percebeu em sua atuação.<br></li><li><b>Uma estratégia ou escolha</b> que pretende manter ou aperfeiçoar.<br></li><li><b>Um aspecto da prática docente</b> que deseja transformar nas próximas experiências.<br></li></ul>[PERGUNTA1]<br>Leia também as contribuições dos(as) colegas e comente uma delas.<br>[REVISAR1]",
    "instrucoesTitulo": "Sua participação deve conter:",
    "orientacoesTitulo": "Orientações para o formato:"
   },
@@ -43,12 +43,12 @@
      {
       "id": "mwtp4g0s1av0e4",
       "texto": "Módulo 3 – Acompanhamento e Avaliação.&nbsp;<br>",
-      "link": ""
+      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27999"
      }
     ],
     "linkBotao": "",
     "textoBotao": "",
-    "novo": true
+    "novo": false
    }
   ]
  }
