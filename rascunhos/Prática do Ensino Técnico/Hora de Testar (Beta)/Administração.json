@@ -1,50 +1,45 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-11-18T10:54:39.376Z",
+ "quando": "2026-11-23T13:06:14.162Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Analisar evidências de aprendizagem para formular devolutivas e refletir sobre a própria prática docente.<br>",
-   "titulo": "<b>Analisar para Aprimorar</b><br>",
-   "conteudo": "Nesta etapa, você vai analisar situações de socialização de produções técnicas e relacionar o que foi observado às devolutivas que podem orientar a aprendizagem dos(as) estudantes.<br><br>As atividades também convidam você a retomar sua própria prática: como observa a participação, identifica dificuldades, registra evidências e utiliza essas informações para orientar intervenções?<br><br>Ao realizar os desafios, considere que uma devolutiva efetiva não se limita a apontar acertos ou dificuldades. Ela precisa indicar caminhos concretos para que os(as) estudantes avancem e para que você aprimore suas estratégias de mediação.<br>",
-   "reflexao": ""
+   "objetivo": "Aplicar a análise de evidências de uma prática técnica para propor um ajuste fundamentado em uma próxima realização.<br>",
+   "titulo": "<b>Da evidência ao ajuste da prática</b><br>",
+   "conteudo": "",
+   "reflexao": "O replanejamento nasce da observação cuidadosa da prática e das evidências que ela produz.<br><br>Não existe um único ajuste possível: a decisão deve responder às necessidades identificadas e aos objetivos de aprendizagem.<br><br>Na próxima realização, observe e registre os efeitos da mudança.<br>"
   },
   "atividades": [
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32614\" width=\"1237\" height=\"1198\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M4-U06-APLI-DRAGW\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   },
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32615\" width=\"1237\" height=\"339\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M4-U06-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32770\" width=\"1237\" height=\"646\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M4-U07-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    }
   ],
   "conclusao": {
-   "titulo": "Consolidando as Aprendizagens",
-   "texto": "Relacionar evidências a devolutivas exige observar além do resultado apresentado.<br>É importante identificar como os(as) estudantes: analisam problemas, mobilizam conhecimentos técnicos, aplicam procedimentos e justificam suas decisões.<br><br>Uma boa devolutiva reconhece o que foi demonstrado e indica, de forma objetiva, o que precisa ser desenvolvido e quais caminhos podem favorecer esse avanço.<br><br>Esse processo também oferece informações sobre sua própria prática:<br><ul><li>As estratégias utilizadas foram adequadas?<br></li><li>Os critérios de observação estavam claros?<br></li><li>Que ajustes podem melhorar o acompanhamento da aprendizagem?</li></ul>Assim, observar, registrar e oferecer devolutivas contribui tanto para o desenvolvimento dos(as) estudantes quanto para o aprimoramento da sua mediação.<br>[REVISAR1]",
+   "titulo": "Preparando a próxima prática ",
+   "texto": "",
    "blocos": [
     {
      "tipo": "revisar",
-     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:",
-     "idRevisar": "mwkpt0l8chotyf",
+     "texto": "Retorne às aulas do Módulo 3 para aprofundar como registros e evidências da prática podem orientar decisões de replanejamento e contribuir para a melhoria das próximas realizações.&nbsp;<br>",
+     "idRevisar": "mwta8thenfwa44",
      "itensRevisar": [
       {
-       "id": "mwkpt3ta0dts6v",
-       "texto": "Módulo 3 – Aula 6: Devolutivas Formativas e Feedforward;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27357"
+       "id": "mwta8v06kz9pnx",
+       "texto": "Unidade 7: Replanejamento a partir de registros e evidências.&nbsp;&nbsp;<br>",
+       "link": ""
       },
       {
-       "id": "mwkpt51lie18im",
-       "texto": "Unidade 8 : Registro Técnico e Melhoria da Prática.<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27427"
+       "id": "mwta8vfe0u62eg",
+       "texto": "Unidade 8: Registro técnico e melhoria da prática.&nbsp;<br>",
+       "link": ""
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": false
+     "novo": true
     }
    ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29264",
-  "tipoBotao": "bibliografia"
+  }
  }
 }
