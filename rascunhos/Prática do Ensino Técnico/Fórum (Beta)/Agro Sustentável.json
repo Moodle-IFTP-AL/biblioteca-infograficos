@@ -1,13 +1,13 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Agro Sustentável",
- "quando": "2026-11-23T19:46:27.798Z",
+ "quando": "2026-11-23T19:47:13.243Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "objetivo": "Analisar a própria trajetória docente ao longo da formação, identificando aprendizagens, avanços e aspectos a serem mantidos, aperfeiçoados ou transformados em práticas futuras.<br>",
    "titulo": "<b>Aprendizagens que Seguem Conosco</b><br>",
-   "conteudo": "<b>Fórum: Meu Percurso e Minhas Aprendizagens</b><br>Chegamos ao final da formação! Agora, é hora de compartilhar o que você aprendeu e como essas experiências contribuíram para sua prática docente nos cursos de Agricultura, Alimentos ou Agroecologia.<br>Para participar do fórum, retome suas aulas, atividades e registros e compartilhe:<br><ul><li>Uma mudança ou avanço que percebeu em sua atuação.<br></li><li>Uma estratégia que pretende manter ou aperfeiçoar.<br></li><li>Um aspecto que deseja transformar nas próximas práticas.<br></li></ul>[PERGUNTA1]<br>Leia também as contribuições dos(as) colegas e comente uma delas.<br>",
+   "conteudo": "<b>Fórum: Meu Percurso e Minhas Aprendizagens</b><br>Chegamos ao final da formação! Agora, é hora de compartilhar o que você aprendeu e como essas experiências contribuíram para sua prática docente nos cursos de Agricultura, Alimentos ou Agroecologia.<br>Para participar do fórum, retome suas aulas, atividades e registros e compartilhe:<br><ul><li>Uma mudança ou avanço que percebeu em sua atuação.<br></li><li>Uma estratégia que pretende manter ou aperfeiçoar.<br></li><li>Um aspecto que deseja transformar nas próximas práticas.<br></li></ul>[PERGUNTA1]<br>Leia também as contribuições dos(as) colegas e comente uma delas.<br>[REVISAR1]",
    "instrucoesTitulo": "Sua participação deve conter:",
    "orientacoesTitulo": "Orientações para o formato:"
   },
@@ -26,7 +26,7 @@
    },
    {
     "tipo": "revisar",
-    "texto": "Estamos chegando ao final deste percurso! Para consolidar as aprendizagens, <b>retome algumas aulas e atividades que contribuíram para sua prática docente:</b><br>",
+    "texto": "Estamos chegando ao final deste percurso! Para consolidar as aprendizagens, <b>retome algumas aulas e atividades que contribuíram para sua prática docente:<br></b><br>Essa retomada ajudará você a reconhecer aprendizagens importantes para a reflexão final.",
     "idRevisar": "mwtoiw5mjoilcq",
     "itensRevisar": [
      {
@@ -42,12 +42,12 @@
      {
       "id": "mwtoiyv46hs8rj",
       "texto": "Módulo 3 – Acompanhamento e Avaliação.&nbsp;<br>",
-      "link": ""
+      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27587"
      }
     ],
     "linkBotao": "",
     "textoBotao": "",
-    "novo": true
+    "novo": false
    }
   ],
   "tutorialPasso3": false
