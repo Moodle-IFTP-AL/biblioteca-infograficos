@@ -1,46 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-11-23T13:07:06.995Z",
+ "quando": "2026-11-23T13:25:07.406Z",
  "autor": "Eduarda",
- "dados": {
-  "campos": {
-   "objetivo": "Aplicar a análise de evidências de uma prática técnica para propor um ajuste fundamentado em uma próxima realização.<br>",
-   "titulo": "<b>Da evidência ao ajuste da prática</b><br>",
-   "conteudo": "",
-   "reflexao": "O replanejamento nasce da observação cuidadosa da prática e das evidências que ela produz.<br><br>Não existe um único ajuste possível: a decisão deve responder às necessidades identificadas e aos objetivos de aprendizagem.<br><br>Na próxima realização, observe e registre os efeitos da mudança.<br>"
-  },
-  "atividades": [
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32770\" width=\"1237\" height=\"646\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"ADM-M4-U07-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   }
-  ],
-  "conclusao": {
-   "titulo": "Preparando a próxima prática ",
-   "texto": "O replanejamento nasce da observação cuidadosa da prática e das evidências que ela produz.<br><br>Não existe um único ajuste possível: a decisão deve responder às necessidades identificadas e aos objetivos de aprendizagem.<br><br>Na próxima realização, observe e registre os efeitos da mudança.<br>[REVISAR1]",
-   "blocos": [
-    {
-     "tipo": "revisar",
-     "texto": "Retorne às aulas do Módulo 3 para aprofundar como registros e evidências da prática podem orientar decisões de replanejamento e contribuir para a melhoria das próximas realizações.&nbsp;<br>",
-     "idRevisar": "mwta8thenfwa44",
-     "itensRevisar": [
-      {
-       "id": "mwta8v06kz9pnx",
-       "texto": "Unidade 7: Replanejamento a partir de registros e evidências.&nbsp;&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27410"
-      },
-      {
-       "id": "mwta8vfe0u62eg",
-       "texto": "Unidade 8: Registro técnico e melhoria da prática.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27434"
-      }
-     ],
-     "linkBotao": "",
-     "textoBotao": "",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29287"
- }
+ "dados": {}
 }
