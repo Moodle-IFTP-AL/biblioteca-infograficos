@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-11-23T13:15:55.958Z",
+ "quando": "2026-11-23T13:18:55.926Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -31,6 +31,17 @@
      "blocos": "[{\"titulo\":\"Planejamento\",\"texto\":\"Os objetivos e as atividades estavam relacionados?\"},{\"titulo\":\"Metodologias\",\"texto\":\"Quais estratégias favoreceram a participação e a relação entre teoria e prática?&nbsp;<br>\"},{\"titulo\":\"Avaliação\",\"texto\":\"Quais registros ajudaram a acompanhar a aprendizagem?&nbsp;<br>\"},{\"titulo\":\"Mediação\",\"texto\":\"Como você orientou os(as) estudantes diante das dificuldades?&nbsp;<br>\"},{\"titulo\":\"Adaptação\",\"texto\":\"Quais mudanças foram necessárias durante as atividades?\"},{\"titulo\":\"Integração curricular\",\"texto\":\"Como os conhecimentos técnicos foram relacionados a outros saberes e ao mundo do trabalho?&nbsp;<br>\"}]"
     },
     "novo": false
+   },
+   {
+    "tipo": "accordion",
+    "texto": "",
+    "topicos": [
+     {
+      "titulo": "Exemplo Prático ",
+      "texto": ""
+     }
+    ],
+    "novo": true
    }
   ]
  }
