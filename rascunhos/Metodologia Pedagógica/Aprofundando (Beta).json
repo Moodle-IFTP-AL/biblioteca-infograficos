@@ -1,15 +1,15 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Aprofundando (Beta)",
- "quando": "2026-11-23T13:44:44.568Z",
+ "quando": "2026-11-23T13:45:39.499Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>2 -</b> Avaliar a aprendizagem por competências, a partir de evidências das práticas pedagógicas e técnicas desenvolvidas pelos(as) estudantes, considerando a mobilização de conhecimentos gerais no contexto da Educação Profissional e Tecnológica, para orientar o planejamento e o replanejamento das aulas e o desenvolvimento dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>2.3 - </b>Utilizar os resultados da avaliação para replanejar aulas, ajustar estratégias e orientar o desenvolvimento dos(as) estudantes.<br><b>Objeto do Conhecimento:</b><br>Socialização, devolutivas e qualificação das produções.<br><b>Conteúdos:</b><br><ul><li>Socialização dos resultados do projeto.<br></li><li>Devolutivas formativas durante e após a apresentação.<br></li><li>Qualificação das produções a partir do feedback<i>.</i><br></li><li>Reflexão dos(as) estudantes sobre o percurso realizado.<br></li></ul><b>Objetivo: </b><br>Organizar estratégias de socialização e devolutiva formativa, utilizando critérios de avaliação para orientar a revisão e a qualificação das produções dos(as) estudantes em projetos técnicos integrados.<br>",
    "objetivo": "Analisar uma situação de socialização de resultados, avaliar a relação das devolutivas com os critérios de avaliação e propor encaminhamentos para que os(as) estudantes revisem suas produções e justifiquem as alterações.<br>",
    "titulo": "<b>Socialização e Qualificação das Produções</b><br>",
-   "conteudo": "<h3><b><font color=\"#f04770\">Quando os Comentários Não Geram Melhorias?&nbsp;</font></b></h3><br>Na socialização do projeto sobre circulação na oficina, os grupos apresentam seus croquis e justificativas. Os(as) colegas fazem perguntas, mas também surgem comentários como “está bom” ou “precisa melhorar”.<br><br>Os(as) autores(as) dos projetos registram essas falas, porém não sabem quais mudanças realizar nem como elas ajudariam a atender ao critério de relacionar medidas, trajetos e melhorias.<br><br>O(a) professor(a) percebe que precisa orientar as contribuições e reservar tempo para analisá-las e revisar as propostas.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Como Preparar esse Momento<br><br></font></b></h3>Planeje a socialização como parte do percurso de aprendizagem, considerando os seguintes aspectos:<br>[INFOGRAFICO1]<br>[VIDEO1]<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">Da Devolutiva ao Aprimoramento</font></b></h3><br>Utilize este roteiro para encaminhar a revisão após a socialização:<br><br>",
-   "conectando": ""
+   "conteudo": "<h3><b><font color=\"#f04770\">Quando os Comentários Não Geram Melhorias?&nbsp;</font></b></h3><br>Na socialização do projeto sobre circulação na oficina, os grupos apresentam seus croquis e justificativas. Os(as) colegas fazem perguntas, mas também surgem comentários como “está bom” ou “precisa melhorar”.<br><br>Os(as) autores(as) dos projetos registram essas falas, porém não sabem quais mudanças realizar nem como elas ajudariam a atender ao critério de relacionar medidas, trajetos e melhorias.<br><br>O(a) professor(a) percebe que precisa orientar as contribuições e reservar tempo para analisá-las e revisar as propostas.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Como Preparar esse Momento<br><br></font></b></h3>Planeje a socialização como parte do percurso de aprendizagem, considerando os seguintes aspectos:<br>[INFOGRAFICO1]<br>[VIDEO1]<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">Da Devolutiva ao Aprimoramento</font></b></h3><br>Utilize este roteiro para encaminhar a revisão após a socialização:<br>[INFOGRAFICO3]",
+   "conectando": "Agora, você analisará uma devolutiva e planejará como organizar a socialização e o uso das contribuições para aprimorar uma produção dos(as) estudantes.<br>"
   },
   "blocos": [
    {
@@ -61,7 +61,33 @@
      "blocos": "[{\"titulo\":\"\",\"texto\":\"\"},{\"titulo\":\"\",\"texto\":\"\"},{\"titulo\":\"\",\"texto\":\"\"}]"
     },
     "novo": true
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "blocos_coloridos",
+    "infograficoData": {
+     "introducao": "",
+     "blocos": "[{\"titulo\":\"Selecionar o ajuste\",\"texto\":\"Peça aos(às) estudantes que escolham uma contribuição recebida e expliquem como ela pode ajudar a atender ao critério.&nbsp;<br>\"},{\"titulo\":\"Combinar a revisão\",\"texto\":\"Registre com o grupo o que será modificado, quem participará, quais recursos serão necessários e quando a nova versão será apresentada.&nbsp;<br>\"},{\"titulo\":\"Verificar a melhoria\",\"texto\":\"Compare as versões pelo mesmo critério e solicite que cada integrante explique uma alteração e os conhecimentos utilizados.&nbsp;<br>\"},{\"titulo\":\"Definir a continuidade\",\"texto\":\"Diante de dificuldades, combine o apoio necessário. Quando a produção não puder ser alterada, planeje outra oportunidade para aplicar e verificar o ajuste.&nbsp;<br>\"}]"
+    },
+    "novo": false
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "O que Considerar na Socialização",
+   "texto": "A socialização permite aos(às) estudantes:<br><ul><li>apresentar resultado;<br></li><li>explicar escolhas;<br></li><li>receber contribuições relacionadas às aprendizagens do projeto.</li></ul>Para qualificar as produções, as devolutivas precisam se apoiar em critérios e ser analisadas pelos(as) autores(as).<br><br>Cabe a você prever tempo, recursos e apoios para a revisão e acompanhar seus resultados.<br><br>Comparar versões e explicar as alterações ajudam os(as) estudantes a refletir sobre o percurso e demonstrar o que aprenderam.<br>[DICA1]<br>[TOMENOTA1]",
+   "blocos": [
+    {
+     "tipo": "dica",
+     "texto": "Após a revisão, peça a cada estudante que complete: “A contribuição recebida foi...; modificamos...; essa mudança atende melhor ao critério porque...; aprendi...”. Utilize as respostas para acompanhar a participação e as aprendizagens individuais.<br>",
+     "novo": false
+    },
+    {
+     "tipo": "tomenota",
+     "texto": "Os(as) estudantes devem analisar as sugestões recebidas e decidir quais incorporar ou adaptar. Ao justificar suas escolhas com base nos critérios de avaliação, exercitam a autonomia e assumem responsabilidade pela qualidade da produção.<br>",
+     "novo": false
+    }
+   ]
+  }
  }
 }
