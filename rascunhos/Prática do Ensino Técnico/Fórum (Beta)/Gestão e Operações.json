@@ -1,62 +1,29 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Gestão e Operações",
- "quando": "2026-11-17T13:41:20.523Z",
+ "quando": "2026-11-23T20:43:21.689Z",
  "autor": "Eduarda",
  "dados": {
+  "linhaComBibliografia": false,
   "campos": {
-   "objetivo": "Analisar uma prática técnica com base nas evidências de aprendizagem e nos efeitos das intervenções pedagógicas, identificando possibilidades de aprimoramento da própria atuação docente.",
-   "titulo": "<b>Minha mediação em análise</b>",
-   "conteudo": "Escolha uma prática técnica recente desenvolvida com os(as) estudantes do curso de Gestão e Operações. Apresente brevemente o objetivo da atividade e relate uma situação em que foi necessário orientar, questionar, demonstrar novamente um procedimento ou oferecer uma devolutiva.<br><br><h3><b><font color=\"#f04770\">1. Analise sua mediação<br></font></b>[INFOGRAFICO1]<b><font color=\"#f04770\"></font></b></h3>Fundamente sua análise em situações concretas, evitando generalizações.<br><br><h3><b><font color=\"#f04770\">2. Compartilhe e interaja<br><br></font></b></h3>Publique sua análise no fórum. Em seguida, comente a contribuição de um(a) colega, destacando uma estratégia de mediação que poderia incorporar à sua prática ou sugerindo um aprimoramento coerente com a situação apresentada.<br>[CAIXADESTAQUE1]<br>[REVISAR1]",
+   "objetivo": "Analisar a própria trajetória docente ao longo da formação, identificando aprendizagens, avanços e aspectos a serem mantidos, aperfeiçoados ou transformados em práticas futuras.<br>",
+   "titulo": "<b>Aprendizagens do Percurso e Próximos Passos</b><br>",
+   "conteudo": "<h3><b><font color=\"#f04770\">Fórum: Meu Percurso, Minhas Aprendizagens<br><br></font></b></h3>Chegamos ao final da formação! Este é o momento de olhar para as experiências vividas ao longo do ano e reconhecer o que elas revelam sobre sua prática docente nos cursos de Logística e Recursos Humanos.<br>Para participar do fórum, retome seus planejamentos, atividades e registros e compartilhe:<br><ul><li><b>Um avanço</b> que percebeu em sua atuação.<br></li><li><b>Uma estratégia ou escolha</b> que pretende manter.<br></li><li><b>Um aspecto da prática docente</b> que deseja aperfeiçoar ou transformar.<br></li></ul>Para concluir, responda: <b>o que você leva desta formação para suas próximas experiências de ensino?<br></b><br>Leia também as contribuições dos(as) colegas e comente uma delas.<br><br>",
    "instrucoesTitulo": "Sua participação deve conter:",
    "orientacoesTitulo": "Orientações para o formato:"
   },
   "blocos": [
    {
-    "tipo": "caixadestaque",
-    "texto": "<b>Atenção:</b> priorize a análise dos efeitos das intervenções e de como elas podem orientar futuras práticas técnicas.",
-    "caixaImgUrl": "",
-    "caixaImgSize": 40,
-    "caixaCorFundo": "#fefce8",
-    "caixaCorBorda": "#fec43e",
-    "novo": false,
-    "caixaCorTexto": "#0a3442",
-    "minimizado": true
-   },
-   {
-    "tipo": "infografico",
+    "tipo": "pergunta",
     "texto": "",
-    "infograficoTipo": "lista_interativa",
-    "infograficoData": {
-     "titulo": "Em sua postagem, responda:",
-     "linhas": "[\"<b>Evidências:</b> que aprendizagem ou dificuldade você observou?&nbsp;<br>\",\"<b>Intervenção:</b> que orientação ou devolutiva realizou?&nbsp;<br>\",\"<b>Efeitos:</b> como os(as) estudantes reagiram após esse apoio? Houve avanços ou dificuldades que permaneceram?&nbsp;<br>\",\"<b>Aprimoramento:</b> o que funcionou e o que poderia ser melhorado em uma nova experiência?\"]"
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "Para concluir, responda:",
+     "texto": "O que você leva desta formação para suas próximas experiências de ensino?&nbsp;<br>",
+     "videoUrl": "",
+     "iframeH5P": ""
     },
-    "novo": false
-   },
-   {
-    "tipo": "revisar",
-    "texto": "Revisite as aulas abaixo para retomar aspectos da demonstração, da orientação e da gestão da prática técnica e aprofundar a análise da sua atuação.<br>",
-    "idRevisar": "mwkqtbd0n32ntk",
-    "itensRevisar": [
-     {
-      "id": "mwkqtiok4medso",
-      "texto": "Módulo 1 – Unidade 7: Demonstração técnica aplicada ao projeto ABP.&nbsp;<br>",
-      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22948"
-     },
-     {
-      "id": "mwkqtivxnsm9xu",
-      "texto": "Módulo 1 – Unidade 8: Preparação de demonstrações técnicas.",
-      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=23176"
-     },
-     {
-      "id": "mwkqtj4qe0qzem",
-      "texto": "Módulo 3 – Unidade 2: Gestão da prática técnica.",
-      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28451"
-     }
-    ],
-    "linkBotao": "",
-    "textoBotao": "",
-    "novo": false
+    "novo": true
    }
   ]
  }
