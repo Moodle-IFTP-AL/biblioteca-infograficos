@@ -1,13 +1,13 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Administração",
- "quando": "2026-11-23T13:28:12.892Z",
+ "quando": "2026-11-23T13:28:28.382Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "objetivo": "Analisar a própria trajetória docente ao longo da formação, identificando aprendizagens, avanços e aspectos a serem mantidos, aperfeiçoados ou transformados em práticas futuras.<br>",
    "titulo": "<b>O que Você Leva desta Formação?</b><br>",
-   "conteudo": "<b>Fórum: Meu Percurso, Minhas Aprendizagens</b><br>Chegamos ao final da formação! Este é o momento de olhar para as experiências vividas ao longo do ano e reconhecer o que mudou na sua prática docente.<br>Para participar do fórum, retome seus planejamentos, atividades e registros e compartilhe:<br><ul><li>Uma aprendizagem que incorporou à sua prática;<br></li><li>Uma estratégia que pretende manter ou aperfeiçoar;<br></li><li>Um aspecto que deseja transformar nas próximas aulas.<br></li></ul>[PERGUNTA1]<br>Leia também as contribuições dos(as) colegas e conheça outras experiências da rede.<br>",
+   "conteudo": "<b>Fórum: Meu Percurso, Minhas Aprendizagens</b><br>Chegamos ao final da formação! Este é o momento de olhar para as experiências vividas ao longo do ano e reconhecer o que mudou na sua prática docente.<br>Para participar do fórum, retome seus planejamentos, atividades e registros e compartilhe:<br><ul><li>Uma aprendizagem que incorporou à sua prática;<br></li><li>Uma estratégia que pretende manter ou aperfeiçoar;<br></li><li>Um aspecto que deseja transformar nas próximas aulas.<br></li></ul>[PERGUNTA1]<br>Leia também as contribuições dos(as) colegas e conheça outras experiências da rede.<br>[REVISAR1]",
    "instrucoesTitulo": "Sua participação deve conter:",
    "orientacoesTitulo": "Orientações para o formato:"
   },
@@ -47,7 +47,7 @@
     ],
     "linkBotao": "",
     "textoBotao": "",
-    "novo": true
+    "novo": false
    }
   ]
  }
