@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-11-23T13:20:53.559Z",
+ "quando": "2026-11-23T13:21:01.986Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -56,12 +56,12 @@
   ],
   "conclusao": {
    "titulo": "",
-   "texto": "",
+   "texto": "[DICA1]",
    "blocos": [
     {
      "tipo": "dica",
-     "texto": "Ao final do ano, reúna planejamentos, atividades, registros e materiais que contribuíram para a aprendizagem dos(as) estudantes. Organize esse acervo para consultar, adaptar e aproveitar nas próximas turmas.<br><br>",
-     "novo": true
+     "texto": "Ao final do ano, reúna planejamentos, atividades, registros e materiais que contribuíram para a aprendizagem dos(as) estudantes. Organize esse acervo para consultar, adaptar e aproveitar nas próximas turmas.<br>",
+     "novo": false
     }
    ]
   }
