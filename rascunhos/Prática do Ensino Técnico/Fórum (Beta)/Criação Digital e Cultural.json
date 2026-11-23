@@ -1,13 +1,13 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Criação Digital e Cultural",
- "quando": "2026-11-23T20:18:08.095Z",
+ "quando": "2026-11-23T20:18:32.017Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "objetivo": "Analisar a própria trajetória docente ao longo da formação, identificando aprendizagens, avanços e aspectos a serem mantidos, aperfeiçoados ou transformados em práticas futuras.<br>",
    "titulo": "Do Percurso Vivido aos Próximos Passos<br>",
-   "conteudo": "<h3><b><font color=\"#f04770\">Fórum: Meu Percurso, Minhas Aprendizagens<br><br></font></b></h3>Chegamos ao final da formação! Este é o momento de olhar para as experiências vividas ao longo do ano e reconhecer o que elas revelam sobre sua prática docente nos cursos de Design Gráfico, Multimídia ou Produção Cultural.<br>Para participar do fórum, retome suas aulas, atividades, registros e produções e compartilhe:<br><ul><li>Uma aprendizagem ou avanço que percebeu em sua atuação.<br></li><li>Uma estratégia ou escolha que pretende manter ou aperfeiçoar.<br></li><li>Um aspecto da prática docente que deseja transformar nas próximas experiências.<br></li></ul>[PERGUNTA1]<br>Leia também as contribuições dos(as) colegas e comente uma delas.<br><br>",
+   "conteudo": "<h3><b><font color=\"#f04770\">Fórum: Meu Percurso, Minhas Aprendizagens<br><br></font></b></h3>Chegamos ao final da formação! Este é o momento de olhar para as experiências vividas ao longo do ano e reconhecer o que elas revelam sobre sua prática docente nos cursos de Design Gráfico, Multimídia ou Produção Cultural.<br>Para participar do fórum, retome suas aulas, atividades, registros e produções e compartilhe:<br><ul><li>Uma aprendizagem ou avanço que percebeu em sua atuação.<br></li><li>Uma estratégia ou escolha que pretende manter ou aperfeiçoar.<br></li><li>Um aspecto da prática docente que deseja transformar nas próximas experiências.<br></li></ul>[PERGUNTA1]<br>Leia também as contribuições dos(as) colegas e comente uma delas.<br>[REVISAR1]",
    "instrucoesTitulo": "Sua participação deve conter:",
    "orientacoesTitulo": "Orientações para o formato:"
   },
@@ -27,7 +27,7 @@
    },
    {
     "tipo": "revisar",
-    "texto": "Estamos chegando ao final deste percurso! Para consolidar as aprendizagens, <b>retome algumas aulas e atividades que contribuíram para sua prática docente:</b>",
+    "texto": "Estamos chegando ao final deste percurso! Para consolidar as aprendizagens, <b>retome algumas aulas e atividades que contribuíram para sua prática docente:<br><br></b>Essa retomada ajudará você a reconhecer aprendizagens importantes para a reflexão final.<b></b>",
     "idRevisar": "mwtpmfwsdo6oq5",
     "itensRevisar": [
      {
@@ -43,13 +43,14 @@
      {
       "id": "mwtpmhiuqmh60g",
       "texto": "Módulo 3 – Acompanhamento e Avaliação.&nbsp;<br>",
-      "link": ""
+      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28068"
      }
     ],
     "linkBotao": "",
     "textoBotao": "",
-    "novo": true
+    "novo": false
    }
-  ]
+  ],
+  "tutorialPasso3": false
  }
 }
