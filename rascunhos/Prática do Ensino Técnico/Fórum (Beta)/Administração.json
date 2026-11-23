@@ -1,51 +1,53 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Administração",
- "quando": "2026-11-16T14:29:19.110Z",
+ "quando": "2026-11-23T13:27:07.642Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Analisar uma prática técnica com base nas evidências de aprendizagem e nos efeitos das intervenções pedagógicas, identificando possibilidades de aprimoramento da própria atuação docente.<br>",
-   "titulo": "<b>Avaliando uma Prática Administrativa&nbsp;</b><br>",
-   "conteudo": "Pense em uma atividade recente que você realizou com sua turma. Pode ser uma simulação de controle de estoque, de abertura de microempresa ou de uma atividade relacionada às rotinas do Departamento de Gestão de Pessoas (DGP).<br><br><b>1. Analise sua experiência</b><br>Com base na prática escolhida, reflita sobre as seguintes questões:<br><ul><li>O que você observou no desempenho dos(as) estudantes? Quais evidências indicaram avanços ou dificuldades?<br></li><li>Que devolutivas ou intervenções você realizou diante do que observou? Como os(as) estudantes reagiram?<br></li><li>O que você faria de maneira diferente em uma próxima experiência para favorecer a aprendizagem técnica?<br></li></ul><b>2. Compartilhe e interaja</b><br>Publique sua reflexão no fórum, apresentando a prática e suas análises. Depois, leia a contribuição de pelo menos um(a) colega e comente, relacionando uma das ideias apresentadas à sua própria realidade de ensino.<br>[CAIXADESTAQUE1]<br>[REVISAR1]",
+   "objetivo": "Analisar a própria trajetória docente ao longo da formação, identificando aprendizagens, avanços e aspectos a serem mantidos, aperfeiçoados ou transformados em práticas futuras.<br>",
+   "titulo": "<b>O que Você Leva desta Formação?</b><br>",
+   "conteudo": "<b>Fórum: Meu Percurso, Minhas Aprendizagens</b><br>Chegamos ao final da formação! Este é o momento de olhar para as experiências vividas ao longo do ano e reconhecer o que mudou na sua prática docente.<br>Para participar do fórum, retome seus planejamentos, atividades e registros e compartilhe:<br><ul><li>Uma aprendizagem que incorporou à sua prática;<br></li><li>Uma estratégia que pretende manter ou aperfeiçoar;<br></li><li>Um aspecto que deseja transformar nas próximas aulas.<br></li></ul>[PERGUNTA1]<br>Leia também as contribuições dos(as) colegas e conheça outras experiências da rede.<br>",
    "instrucoesTitulo": "Sua participação deve conter:",
    "orientacoesTitulo": "Orientações para o formato:"
   },
   "blocos": [
    {
-    "tipo": "caixadestaque",
-    "texto": "<b>Atenção: </b>evite respostas genéricas. Procure apresentar situações concretas da sua prática e explicar como suas decisões pedagógicas podem contribuir para o desenvolvimento técnico dos(as) estudantes.",
-    "caixaImgUrl": "",
-    "caixaImgSize": 40,
-    "caixaCorFundo": "#fdf0f3",
-    "caixaCorBorda": "#f04770",
-    "novo": false,
-    "caixaCorTexto": "#0a3442"
+    "tipo": "pergunta",
+    "texto": "",
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "Para concluir, reflita:",
+     "texto": "O que você leva desta formação para suas próximas experiências de ensino?",
+     "videoUrl": "",
+     "iframeH5P": ""
+    },
+    "novo": false
    },
    {
     "tipo": "revisar",
-    "texto": "Revisite as aulas abaixo para retomar aspectos da demonstração, da orientação e da gestão da prática técnica e aprofundar a análise da sua atuação.<br>",
-    "idRevisar": "mwjd3e6vp7ja3x",
+    "texto": "Estamos chegando ao final deste percurso! Para consolidar as aprendizagens, <b>retome algumas aulas e atividades que contribuíram para sua prática docente:<br><br></b>Essa retomada ajudará você a reconhecer aprendizagens importantes para a reflexão final.<br>",
+    "idRevisar": "mwtazc5y69mh2s",
     "itensRevisar": [
      {
-      "id": "mwjd3k2exzaih3",
-      "texto": "Módulo 1 – Unidade 7: Demonstração técnica aplicada ao projeto ABP.&nbsp;<br>",
-      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=22980"
+      "id": "mwtazkbpnzsgon",
+      "texto": "Módulo 1 – Fundamentos e Planejamento.&nbsp;<br>",
+      "link": ""
      },
      {
-      "id": "mwjd3kaffxpum1",
-      "texto": "Módulo 1 – Unidade 8: Preparação de demonstrações técnicas.&nbsp;<br>",
-      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=23158"
+      "id": "mwtazkimwvqdg0",
+      "texto": "Módulo 2 – Desenvolvimento das Práticas.&nbsp;<br>",
+      "link": ""
      },
      {
-      "id": "mwjd3kippuzfss",
-      "texto": "Módulo 3 – Unidade 2: Gestão da prática técnica.&nbsp;<br>",
-      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27289"
+      "id": "mwtazknipd2na4",
+      "texto": "Módulo 3 – Acompanhamento e Avaliação.&nbsp;<br>",
+      "link": ""
      }
     ],
     "linkBotao": "",
     "textoBotao": "",
-    "novo": false
+    "novo": true
    }
   ]
  }
