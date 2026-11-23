@@ -1,14 +1,25 @@
 {
  "versao": 1,
  "espaco": "Metodologia Pedagógica/Hora de Testar (Beta)",
- "quando": "2026-11-23T14:40:44.135Z",
+ "quando": "2026-11-23T14:48:04.728Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
    "objetivo": "Sistematizar uma proposta de Projeto Técnico Integrado a partir dos registros anteriores, articulando problema, aprendizagens, integração curricular, etapas, entregas, mediação e avaliação, com critérios e evidências de aprendizagem, considerando as condições de realização.<br>",
    "titulo": "<b>Sistematize sua Proposta de Projeto&nbsp;</b><br>",
-   "conteudo": "",
+   "conteudo": "<h3><b><font color=\"#f04770\">Organize sua Proposta de Projeto Integrado</font></b></h3><br>Retome os registros das aulas anteriores e organize uma proposta de Projeto Técnico Integrado. Utilize seu projeto ou o exemplo da oficina. Se trabalhou com situações diferentes, adapte os registros à proposta escolhida. Preencha o quadro com respostas objetivas, aproveitando as decisões já registradas e completando o que faltar. Ao finalizar, confira se as etapas favorecem as aprendizagens previstas e se os critérios e as evidências permitem avaliá-las. Verifique também as condições de realização e registre um ajuste necessário, justificando sua escolha.<br><br><h3><b><font color=\"#f04770\">Como os elementos do projeto se conectam?</font><br><br></b></h3>Observe o esquema para identificar os elementos que precisam estar articulados em sua proposta. Utilize-o como referência durante o preenchimento do quadro e, ao finalizar, confira se suas escolhas de planejamento, mediação e avaliação são coerentes entre si.<br><br>",
    "reflexao": ""
-  }
+  },
+  "blocos": [
+   {
+    "tipo": "imagem",
+    "texto": "",
+    "imagemUrl": "",
+    "legenda": "",
+    "credito": "",
+    "larguraImagem": 85,
+    "novo": true
+   }
+  ]
  }
 }
