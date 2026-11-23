@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Criação Digital e Cultural",
- "quando": "2026-11-23T20:12:00.793Z",
+ "quando": "2026-11-23T20:13:55.156Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -74,6 +74,7 @@
      "novo": false
     }
    ]
-  }
+  },
+  "linhaComBibliografia": false
  }
 }
