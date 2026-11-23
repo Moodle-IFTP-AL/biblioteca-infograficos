@@ -1,9 +1,55 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Administração",
- "quando": "2026-11-23T19:33:42.122Z",
+ "quando": "2026-11-23T19:53:23.015Z",
  "autor": "Teste",
  "dados": {
+  "campos": {
+   "objetivo": "Analisar a própria trajetória docente ao longo da formação, identificando aprendizagens, avanços e aspectos a serem mantidos, aperfeiçoados ou transformados em práticas futuras.<br>",
+   "titulo": "<b>O que Você Leva desta Formação?</b><br>",
+   "conteudo": "<b>Fórum: Meu Percurso, Minhas Aprendizagens</b><br>Chegamos ao final da formação! Este é o momento de olhar para as experiências vividas ao longo do ano e reconhecer o que mudou na sua prática docente.<br>Para participar do fórum, retome seus planejamentos, atividades e registros e compartilhe:<br><ul><li>Uma aprendizagem que incorporou à sua prática;<br></li><li>Uma estratégia que pretende manter ou aperfeiçoar;<br></li><li>Um aspecto que deseja transformar nas próximas aulas.<br></li></ul>[PERGUNTA1]<br>Leia também as contribuições dos(as) colegas e conheça outras experiências da rede.<br>[REVISAR1]",
+   "instrucoesTitulo": "Sua participação deve conter:",
+   "orientacoesTitulo": "Orientações para o formato:"
+  },
+  "blocos": [
+   {
+    "tipo": "pergunta",
+    "texto": "",
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "Para concluir, reflita:",
+     "texto": "O que você leva desta formação para suas próximas experiências de ensino?",
+     "videoUrl": "",
+     "iframeH5P": ""
+    },
+    "novo": false
+   },
+   {
+    "tipo": "revisar",
+    "texto": "Estamos chegando ao final deste percurso! Para consolidar as aprendizagens, <b>retome algumas aulas e atividades que contribuíram para sua prática docente:<br><br></b>Essa retomada ajudará você a reconhecer aprendizagens importantes para a reflexão final.<br>",
+    "idRevisar": "mwtazc5y69mh2s",
+    "itensRevisar": [
+     {
+      "id": "mwtazkbpnzsgon",
+      "texto": "Módulo 1 – Fundamentos e Planejamento.&nbsp;<br>",
+      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=19573"
+     },
+     {
+      "id": "mwtazkimwvqdg0",
+      "texto": "Módulo 2 – Desenvolvimento das Práticas.&nbsp;<br>",
+      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=23432"
+     },
+     {
+      "id": "mwtazknipd2na4",
+      "texto": "Módulo 3 – Acompanhamento e Avaliação.&nbsp;<br>",
+      "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27248"
+     }
+    ],
+    "linkBotao": "",
+    "textoBotao": "",
+    "novo": false
+   }
+  ],
   "tutorialPasso3": false
  }
 }
