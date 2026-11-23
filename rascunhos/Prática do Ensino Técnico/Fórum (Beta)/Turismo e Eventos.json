@@ -1,9 +1,55 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Turismo e Eventos",
- "quando": "2026-11-23T21:08:54.304Z",
+ "quando": "2026-11-23T21:09:47.066Z",
  "autor": "Eduarda",
  "dados": {
-  "linhaComBibliografia": false
+  "linhaComBibliografia": false,
+  "campos": {
+   "objetivo": "Analisar a própria trajetória docente ao longo da formação, identificando aprendizagens, avanços e aspectos a serem mantidos, aperfeiçoados ou transformados em práticas futuras.<br>",
+   "titulo": "<b>Minha Trajetória Docente: Aprender e Transformar</b><br>",
+   "conteudo": "<h3><b><font color=\"#f04770\">Fórum: Meu Percurso, Minhas Aprendizagens<br><br></font></b></h3>Chegamos ao final da formação! Este é o momento de olhar para as experiências vividas ao longo do ano e reconhecer o que elas revelam sobre sua prática docente nos cursos de Artesanato, Eventos, Guia de Turismo, Hospedagem, Lazer ou Serviços de Bar e Restaurante.<br>Para participar do fórum, retome suas aulas, atividades e registros e compartilhe:<br><ul><li><b>Uma aprendizagem ou avanço</b> que percebeu em sua atuação.<br></li><li><b>Uma estratégia ou escolha</b> que pretende manter ou aperfeiçoar.<br></li><li><b>Um aspecto da prática docente</b> que deseja transformar nas próximas experiências.<br></li></ul>[PERGUNTA1]<br>Leia também as contribuições dos(as) colegas e comente uma delas.<br><br>",
+   "instrucoesTitulo": "Sua participação deve conter:",
+   "orientacoesTitulo": "Orientações para o formato:"
+  },
+  "blocos": [
+   {
+    "tipo": "pergunta",
+    "texto": "",
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "Para concluir, responda:",
+     "texto": "O que você leva desta formação para suas próximas experiências de ensino?",
+     "videoUrl": "",
+     "iframeH5P": ""
+    },
+    "novo": false
+   },
+   {
+    "tipo": "revisar",
+    "texto": "Estamos chegando ao final deste percurso! Para consolidar as aprendizagens, <b>retome algumas aulas e atividades que contribuíram para sua prática docente:</b><br>",
+    "idRevisar": "mwtrioa8tyewii",
+    "itensRevisar": [
+     {
+      "id": "mwtriqo5xtn957",
+      "texto": "Módulo 1 – Fundamentos e Planejamento.&nbsp;<br>",
+      "link": ""
+     },
+     {
+      "id": "mwtriqtgedg0tq",
+      "texto": "Módulo 2 – Desenvolvimento das Práticas.&nbsp;<br>",
+      "link": ""
+     },
+     {
+      "id": "mwtriqxtsh3u40",
+      "texto": "Módulo 3 – Acompanhamento e Avaliação.&nbsp;<br>",
+      "link": ""
+     }
+    ],
+    "linkBotao": "",
+    "textoBotao": "",
+    "novo": true
+   }
+  ]
  }
 }
