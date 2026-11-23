@@ -1,57 +1,48 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Tecnologia da Informação",
- "quando": "2026-11-20T15:22:57.039Z",
+ "quando": "2026-11-23T20:57:34.635Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do conhecimento: </b>avaliação e devolutiva na prática técnica.<br><b>Conteúdos:</b><br><ul><li>critérios utilizados para acompanhar e avaliar a aprendizagem;<br></li><li>evidências consideradas na avaliação;<br></li><li>devolutivas realizadas durante ou após a prática;<br></li><li>relação entre devolutivas e avanços observados;<br></li><li>aspectos da avaliação que contribuíram para a aprendizagem;<br></li><li>aspectos a serem ajustados em novas experiências.</li></ul><b>Objetivo da aula:</b> analisar a eficácia de avaliações e devolutivas aplicadas em práticas técnicas, relacionando as evidências observadas aos avanços e às necessidades de aprimoramento da aprendizagem.<br>",
-   "objetivo": "Avaliar a própria mediação pedagógica após uma prática técnica, identificando ajustes para o aprimoramento de ações futuras.<br>",
-   "titulo": "<b>Da prática à reflexão pedagógica</b><br>",
-   "conteudo": "Após a realização de uma prática técnica, o trabalho docente não se encerra com a entrega do produto final pelos(as) estudantes. É fundamental que você reflita sobre como conduziu e mediou esse processo.<br><br>Essa análise permite:<br><ul><li>reconhecer estratégias que favoreceram a aprendizagem;<br></li><li>identificar as principais dificuldades enfrentadas pelos(as) estudantes durante a execução da atividade;<br></li><li>avaliar quais intervenções pedagógicas precisam ser ajustadas para qualificar a mediação e potencializar o aprendizado em experiências futuras.<br></li></ul>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">Analisar suas escolhas&nbsp;<br><br></font></b></h3>Avaliar uma prática técnica exige olhar criticamente para a própria atuação docente.<br><br>Além de verificar erros e acertos dos(as) estudantes na execução de procedimentos, na resolução de problemas ou na configuração de equipamentos e redes, é importante compreender como o planejamento, os recursos, as estratégias de acompanhamento e as intervenções contribuíram para a aprendizagem.<br><br>Nos cursos de Informática, Manutenção e Suporte em Informática e Redes de Computadores, essa reflexão permite reconhecer estratégias eficazes, identificar dificuldades persistentes e planejar ajustes para novas experiências.<br><br><h3><b><font color=\"#f04770\">O que analisar?</font>&nbsp;</b></h3><br>Conheça seis aspectos que ajudam você a analisar sua mediação pedagógica, identificar o que favoreceu a aprendizagem e reconhecer possibilidades de aprimoramento para suas próximas práticas técnicas.<br>[INFOGRAFICO1]",
-   "conectando": "Agora, coloque suas reflexões em prática! Organize sua análise com base nos critérios apresentados e compartilhe sua experiência docente no fórum de discussão!<br>"
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Síntese e qualificação da prática técnica.<br><b>Conteúdos:</b><br><ul><li>Retomada do percurso formativo e das práticas realizadas no ano.<br></li><li>Relação entre objetivos, procedimentos, participação e resultados.<br></li><li>Critérios de qualidade e desempenho já trabalhados.<br></li><li>Pontos fortes e pontos de atenção.<br></li><li>Condições que favoreceram ou limitaram a prática.<br></li><li>Prioridades para aprimoramento.<br></li></ul><b>Objetivo da Aula: </b>Sistematizar uma análise reflexiva de uma prática técnica já realizada, articulando planejamento, execução, mediação e avaliação e definindo ajustes para sua qualificação.<br>",
+   "objetivo": "Analisar o conjunto de práticas, registros e evidências produzidos ao longo da formação, relacionando-os às aprendizagens construídas para identificar possibilidades de qualificação da própria atuação docente.<br>",
+   "titulo": "<b>Síntese e Qualificação da Prática Docente</b><br>",
+   "conteudo": "Chegamos à última aula desta formação. Ao longo do ano, você:<br><ul><li>planejou aulas;<br></li><li>conduziu práticas;<br></li><li>mediou a resolução de problemas;<br></li><li>acompanhou o desenvolvimento dos(as) estudantes.</li></ul>Retomar planejamentos, registros, relatórios de atividades e produções das turmas ajuda a recuperar essas experiências e perceber mudanças na sua atuação, sem depender apenas da memória. Este é o momento de reconhecer escolhas que contribuíram para a aprendizagem.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Analisando a Prática Docente<br><br></font></b></h3>Analisar o conjunto de evidências acumuladas durante o ano permite perceber relações que nem sempre ficam claras durante uma aula isolada. Essa visão ajuda a reconhecer avanços, dificuldades e aspectos que merecem atenção.<br><br>Observe as dimensões que se articulam na sua prática:<br>[INFOGRAFICO1]<br><br>",
+   "conectando": ""
   },
   "blocos": [
    {
-    "tipo": "pergunta",
-    "texto": "",
-    "pergunta": {
-     "tipo": "texto",
-     "titulo": "Vamos refletir?",
-     "texto": "Depois de uma prática técnica, o que você analisa para compreender como suas decisões pedagógicas favoreceram ou limitaram a aprendizagem dos(as) estudantes e o que pode ser aprimorado?<br>",
-     "videoUrl": "",
-     "iframeH5P": ""
-    },
-    "novo": false
+    "tipo": "caixadestaque",
+    "texto": "<b>O que as experiências deste ano revelam sobre como você planeja, conduz, acompanha e avalia suas práticas?&nbsp;&nbsp;</b><br>",
+    "caixaImgUrl": "",
+    "caixaImgSize": 40,
+    "caixaCorFundo": "#fdf0f3",
+    "caixaCorBorda": "#f04770",
+    "novo": false,
+    "caixaCorTexto": "#0a3442"
    },
    {
     "tipo": "infografico",
     "texto": "",
-    "infograficoTipo": "timeline_gavetas",
+    "infograficoTipo": "blocos_coloridos",
     "infograficoData": {
-     "titulo": "",
-     "subtitulo": "",
-     "gavetas": "[{\"imagem\":\"\",\"titulo\":\"Critérios de avaliação&nbsp;<br>\",\"conteudo\":\"Retome os critérios utilizados para verificar se estavam alinhados aos objetivos de aprendizagem. Em Informática, por exemplo, avaliar a elaboração de uma planilha exige considerar não apenas o resultado, mas também o uso adequado das fórmulas. Em Manutenção e Suporte, a execução de um diagnóstico pode exigir que o(a) estudante justifique os procedimentos adotados.&nbsp;<br>\",\"porqueTexto\":\"Os critérios utilizados permitiram avaliar as competências técnicas previstas nos objetivos da atividade?\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"Evidências de aprendizagem&nbsp;<br>\",\"conteudo\":\"Revisite as ações, falas, produções e registros dos(as) estudantes. Uma configuração de rede concluída, por exemplo, não demonstra necessariamente que o(a) estudante compreendeu os parâmetros utilizados. Observe quais evidências revelaram avanços, dificuldades ou necessidades de aprendizagem.\",\"porqueTexto\":\"Quais evidências me ajudaram a compreender o que os(as) estudantes aprenderam e quais dificuldades persistiram?&nbsp;<br>\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"Devolutivas aos estudantes&nbsp;<br>\",\"conteudo\":\"Analise se os retornos oferecidos foram claros e se estavam relacionados às necessidades identificadas. Ao observar um erro na configuração de um equipamento ou no uso de um software, considere se sua devolutiva ajudou o(a) estudante a compreender o problema e a buscar alternativas.&nbsp;<br>\",\"porqueTexto\":\"Minhas devolutivas contribuíram para que os(as) estudantes compreendessem seus erros e avançassem com autonomia?&nbsp;<br>\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"Efeitos das intervenções&nbsp;<br>\",\"conteudo\":\"Observe o que aconteceu após suas intervenções, como perguntas, demonstrações, mudanças na organização da atividade ou retomadas de conceitos. Verifique se essas ações favoreceram a compreensão, a superação de dificuldades e a participação dos(as) estudantes.&nbsp;<br>\",\"porqueTexto\":\"Que mudanças na aprendizagem foram percebidas após minhas intervenções?&nbsp;<br>\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"Avaliação e aprendizagem&nbsp;<br>\",\"conteudo\":\"Considere se as estratégias de acompanhamento e avaliação favoreceram a aprendizagem ao longo de toda a prática ou se se limitaram à verificação do resultado final. Acompanhar as etapas de execução permite identificar dificuldades e oferecer apoio no momento necessário.&nbsp;<br>\",\"porqueTexto\":\"Minhas estratégias de avaliação contribuíram para a aprendizagem ao longo da atividade?&nbsp;<br>\",\"porqueTitulo\":\"Reflita:\"},{\"imagem\":\"\",\"titulo\":\"O que ajustar na próxima prática&nbsp;<br>\",\"conteudo\":\"Transforme suas observações em decisões concretas. Pode ser necessário reorganizar as etapas da atividade, diversificar os recursos, retomar um conceito, rever os critérios de avaliação ou reservar mais tempo para acompanhamento individual e coletivo.\",\"porqueTexto\":\"Que mudanças posso implementar na próxima prática para atender melhor às necessidades de aprendizagem da turma?&nbsp;<br>\",\"porqueTitulo\":\"Reflita:\"}]"
+     "introducao": "",
+     "blocos": "[{\"titulo\":\"Planejamento\",\"texto\":\"Alinhamento entre os objetivos e as atividades realizadas.&nbsp;<br>\"},{\"titulo\":\"Metodologias e estratégias didáticas\",\"texto\":\"Escolhas de projetos, demonstrações e desafios que aproximaram teoria e prática.&nbsp;<br>\"},{\"titulo\":\"Avaliação e evidências\",\"texto\":\"Registros e produções que mostram o desenvolvimento dos(as) estudantes.&nbsp;<br>\"},{\"titulo\":\"Mediação e intervenção\",\"texto\":\"Orientações oferecidas durante a execução das atividades e a resolução de problemas.&nbsp;<br>\"},{\"titulo\":\"Adaptação e replanejamento\",\"texto\":\"Ajustes diante de limitações de infraestrutura, equipamentos e conectividade.&nbsp;<br>\"},{\"titulo\":\"Integração curricular\",\"texto\":\"Articulação entre conhecimentos técnicos e situações do mundo do trabalho.&nbsp;<br>\"}]"
     },
     "novo": false
+   },
+   {
+    "tipo": "accordion",
+    "texto": "",
+    "topicos": [
+     {
+      "titulo": "",
+      "texto": ""
+     }
+    ],
+    "novo": true
    }
-  ],
-  "conclusao": {
-   "titulo": "Da reflexão à ação",
-   "texto": "Revisitar criticamente sua atuação permite reconhecer estratégias de mediação que favoreceram a aprendizagem e identificar aspectos que necessitam de aprimoramento. \n<br>\n<br>Essa postura reflexiva transforma evidências observadas durante a prática em subsídios para reorientar o planejamento e aperfeiçoar as devolutivas, promovendo a construção de um ambiente de aprendizagem progressivamente mais autônomo e alinhado às demandas da formação técnica.&nbsp;<br>[TOMENOTA1]<br>[DICA1]",
-   "blocos": [
-    {
-     "tipo": "tomenota",
-     "texto": "A autoavaliação da mediação docente não busca culpabilizar o(a) professor por eventuais dificuldades, mas sim transformar evidências concretas em oportunidade de aperfeiçoamento pedagógico e de fortalecimento da autonomia técnica dos(as) estudantes.<br>",
-     "novo": false
-    },
-    {
-     "tipo": "dica",
-     "texto": "Reserve cinco minutos após a aula para registrar, em seu diário de bordo, as estratégias que funcionaram e as dificuldades enfrentadas pelos(as) estudantes. Isso facilitará ajustes nos próximos roteiros de laboratório.<br>",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=30473"
+  ]
  }
 }
