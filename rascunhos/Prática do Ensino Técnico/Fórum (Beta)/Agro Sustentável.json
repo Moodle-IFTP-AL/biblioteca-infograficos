@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Fórum (Beta)/Agro Sustentável",
- "quando": "2026-11-23T19:45:18.694Z",
+ "quando": "2026-11-23T19:46:02.049Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -23,7 +23,33 @@
      "iframeH5P": ""
     },
     "novo": false
+   },
+   {
+    "tipo": "revisar",
+    "texto": "Estamos chegando ao final deste percurso! Para consolidar as aprendizagens, <b>retome algumas aulas e atividades que contribuíram para sua prática docente:</b><br>",
+    "idRevisar": "mwtoiw5mjoilcq",
+    "itensRevisar": [
+     {
+      "id": "mwtoiybdfk5aqt",
+      "texto": "Módulo 1 – Fundamentos e Planejamento.",
+      "link": ""
+     },
+     {
+      "id": "mwtoiyoyspkc46",
+      "texto": "Módulo 2 – Desenvolvimento das Práticas.",
+      "link": ""
+     },
+     {
+      "id": "mwtoiyv46hs8rj",
+      "texto": "Módulo 3 – Acompanhamento e Avaliação.&nbsp;<br>",
+      "link": ""
+     }
+    ],
+    "linkBotao": "",
+    "textoBotao": "",
+    "novo": true
    }
-  ]
+  ],
+  "tutorialPasso3": false
  }
 }
