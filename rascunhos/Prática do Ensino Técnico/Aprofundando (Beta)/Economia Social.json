@@ -1,40 +1,20 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Economia Social",
- "quando": "2026-11-18T16:16:47.073Z",
+ "quando": "2026-11-23T20:23:56.654Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Socialização e reflexão sobre a produção técnica.<br><b>Conteúdos:</b><br><ul><li>Formas de socialização utilizadas.<br></li><li>Apresentação dos processos e resultados.<br></li><li>Participação dos(as) estudantes.<br></li><li>Feedback e devolutivas recebidos.<br></li><li>Aprendizagens evidenciadas na socialização.<br></li><li>Aspectos da produção e do processo que poderiam ser qualificados.<br></li></ul><b>Objetivo da Aula:</b><br>Analisar como a socialização e as devolutivas contribuíram para a aprendizagem e para a qualificação da produção técnica, identificando ajustes para experiências futuras.<br>",
-   "objetivo": "Analisar evidências de aprendizagem identificadas durante a socialização das produções técnicas, relacionando-as aos objetivos de aprendizagem para formular devolutivas e registrar os avanços e aspectos a desenvolver.<br>",
-   "titulo": "<b>Evidências e Devolutivas na Socialização</b><br>",
-   "conteudo": "<h3><b><font color=\"#f04770\">Compartilhar para Aprender</font></b></h3><br>Projetos, procedimentos, documentos e propostas podem ser compartilhados com a turma, a comunidade ou outros públicos. Na socialização, os(as) estudantes comunicam processos, decisões e resultados, tornando suas aprendizagens visíveis. Entre as possibilidades estão:<br>[INFOGRAFICO1]<br><h3><b><font color=\"#f04770\">O que Observar?&nbsp;</font></b></h3><br>Durante a socialização, observe tanto o resultado apresentado quanto os procedimentos, as decisões e as justificativas que revelam a aprendizagem. Relacione suas observações aos objetivos e critérios definidos para a atividade.<br>[INFOGRAFICO2]<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Da Evidência à Orientação</font></b></h3><br>A devolutiva deve partir do que foi efetivamente observado durante a socialização. Relacione a evidência aos objetivos de aprendizagem e, quando houver, aos critérios ou descritores da rubrica.<br><br>Evite comentários genéricos, como “foi bem” ou “precisa melhorar”, que não indicam como avançar.<br><br>Descreva o que o(a) estudante demonstrou, identifique o aspecto que precisa ser desenvolvido e indique um próximo passo. Se um grupo classificou corretamente as receitas, mas teve dúvidas sobre uma despesa, oriente a retomada dos critérios de classificação e a revisão de lançamentos semelhantes.<br><br><h3><b><font color=\"#f04770\">Analisando uma Prestação de Contas</font></b></h3><br>Em uma socialização de uma prestação de contas simulada, um grupo apresenta receitas, despesas e saldo final de uma cooperativa.<br><br>Os registros estão organizados e os valores conferem. Três integrantes se alternam na explicação, demonstrando conhecimento sobre os procedimentos realizados. Ao justificar as classificações, porém, o grupo demonstra dúvida sobre uma despesa administrativa. Após uma pergunta sobre a finalidade do gasto, os(as) estudantes reconhecem outros lançamentos semelhantes que precisam ser revisados.<br><br>O objetivo era organizar os registros, justificar os critérios de classificação e apresentar a prestação de contas com participação dos(as) integrantes.<br>[INFOGRAFICO3]",
-   "conectando": "Agora, você relacionará evidências observadas a devolutivas específicas e refletirá sobre como aplicar esse olhar em sua própria prática.<br>"
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Síntese e qualificação da prática técnica.<br><b>Conteúdos:</b><br><ul><li>Retomada do percurso formativo e das práticas realizadas no ano.<br></li><li>Relação entre objetivos, procedimentos, participação e resultados.<br></li><li>Critérios de qualidade e desempenho já trabalhados.<br></li><li>Pontos fortes e pontos de atenção.<br></li><li>Condições que favoreceram ou limitaram a prática.<br></li><li>Prioridades para aprimoramento.<br></li></ul><b>Objetivo da Aula: </b>Sistematizar uma análise reflexiva de uma prática técnica já realizada, articulando planejamento, execução, mediação e avaliação e definindo ajustes para sua qualificação.<br>",
+   "objetivo": "Analisar o conjunto de práticas, registros e evidências produzidos ao longo da formação, relacionando-os às aprendizagens construídas para identificar possibilidades de qualificação da própria atuação docente.<br>",
+   "titulo": "<b>Aprendizagem que Permanece na Prática</b><br>",
+   "conteudo": "Ao longo do ano, diferentes práticas nas aulas de Cooperativismo e Contabilidade exigiram decisões sobre planejamento, mediação, participação, avaliação e uso de evidências.<br><br>Retomar os registros dessas experiências permite reconhecer mudanças no modo de organizar atividades, acompanhar os(as) estudantes e ajustar intervenções. Também ajuda a identificar escolhas que se mostraram consistentes em diferentes situações.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Analisando a Prática Docente</font></b></h3><br>Ao reunir registros de diferentes aulas, você pode perceber relações que nem sempre ficam evidentes durante a realização das atividades. Observe como as dimensões da prática se articularam nas experiências de Cooperativismo e Contabilidade:<br>[INFOGRAFICO1]",
+   "conectando": ""
   },
   "blocos": [
    {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "timeline_gavetas",
-    "infograficoData": {
-     "titulo": "",
-     "subtitulo": "",
-     "gavetas": "[{\"imagem\":\"\",\"titulo\":\"Apresentação de prestação de contas \",\"conteudo\":\"\",\"porqueTexto\":\"Exposição de receitas, despesas e resultados de uma cooperativa.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Demonstração de procedimentos\",\"conteudo\":\"\",\"porqueTexto\":\"Realização de lançamentos e classificação de documentos contábeis.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Simulação de assembleia \",\"conteudo\":\"\",\"porqueTexto\":\"Apresentação e discussão de propostas entre cooperados(as).&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Apresentação de projeto cooperativo\",\"conteudo\":\"\",\"porqueTexto\":\"Exposição de objetivos, responsabilidades e formas de organização coletiva.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"},{\"imagem\":\"\",\"titulo\":\"Mostra de documentos e soluções&nbsp;\",\"conteudo\":\"\",\"porqueTexto\":\"Exposição de demonstrativos, relatórios e propostas elaboradas pelos(as) estudantes.&nbsp;<br>\",\"porqueTitulo\":\"Exemplo\"}]"
-    },
-    "novo": false
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "tabela_completa",
-    "infograficoData": {
-     "tabela": "{\"titulo\":\"\",\"subtitulo\":\"\",\"colunas\":[\"<b style=\\\"\\\">Aspecto</b>\",\"<b style=\\\"\\\">Como observar</b>\"],\"linhas\":[[\"<b>Domínio dos conhecimentos e procedimentos técnicos&nbsp;</b>\",\"Observe se os(as) estudantes executam e explicam corretamente os procedimentos. Em uma atividade de Contabilidade, verifique se realizam lançamentos e classificam receitas e despesas conforme os critérios estudados. <br>\"],[\"<b>Adequação das decisões ao contexto</b>\",\"Analise se as soluções propostas consideram as necessidades da organização. Em um projeto cooperativo, verifique se a distribuição de responsabilidades e recursos é coerente com os objetivos coletivos. <br>\"],[\"<b>Capacidade de justificar decisões</b>\",\"Pergunte quais critérios fundamentaram as escolhas. Na classificação de uma despesa, peça que expliquem como sua finalidade determina a categoria utilizada. <br>\"],[\"<b>Autonomia na demonstração dos procedimentos&nbsp;</b>\",\"Observe se conseguem explicar etapas e responder a questionamentos sem depender continuamente da orientação docente. Em uma prestação de contas, verifique se localizam informações e esclarecem dúvidas sobre os registros. <br>\"],[\"<b>Qualidade e consistência dos resultados</b>\",\"Confira se os documentos e resultados apresentados atendem aos critérios da atividade. Em um demonstrativo contábil, observe se os valores estão conferidos e se as informações estão organizadas de maneira compreensível. <br>\"],[\"<b>Participação e colaboração&nbsp;</b>\",\"Observe a distribuição das responsabilidades e a contribuição dos(as) integrantes. Em uma assembleia simulada, verifique se diferentes participantes apresentam propostas, argumentam e consideram as contribuições do grupo.<br>\"]],\"corHeader\":\"#79d3f2\",\"corTextoHeader\":\"#0a3442\"}"
-    },
-    "novo": false
-   },
-   {
     "tipo": "caixadestaque",
-    "texto": "<b>Atenção:</b> registre situações concretas, como uma classificação justificada, um procedimento demonstrado ou uma dificuldade identificada. Essas evidências darão consistência às devolutivas e aos registros de aprendizagem.",
+    "texto": "<b>Ao observar esse percurso, pergunte-se: o que as experiências deste ano revelam sobre a forma como você planeja, conduz, acompanha e avalia suas práticas?</b><br>",
     "caixaImgUrl": "",
     "caixaImgSize": 40,
     "caixaCorFundo": "#fdf0f3",
@@ -45,24 +25,24 @@
    {
     "tipo": "infografico",
     "texto": "",
-    "infograficoTipo": "tabela_completa",
+    "infograficoTipo": "blocos_coloridos",
     "infograficoData": {
-     "tabela": "{\"titulo\":\"\",\"subtitulo\":\"\",\"colunas\":[\"Aspecto observado\",\"Evidência&nbsp;<br>\",\"Devolutiva<br>\"],\"linhas\":[[\"<b>Organização dos registros&nbsp;</b>\",\"Receitas, despesas e saldo foram apresentados de forma clara e ordenada.<br>\",\"Mantenham essa estrutura, pois ela facilita a conferência e a compreensão da prestação de contas. <br>\"],[\"<b>Domínio dos procedimentos contábeis&nbsp;</b>\",\"Os valores apresentados conferem com os registros utilizados pelo grupo.<br>\",\"A conferência está consistente. Mantenham esse procedimento antes de finalizar os demonstrativos. <br>\"],[\"<b>Justificativa dos critérios</b>\",\"O grupo demonstrou dúvida sobre a classificação de uma despesa administrativa. \",\"Retomem a finalidade do gasto e expliquem por que ela corresponde à categoria escolhida. \"],[\"<b>Autonomia na apresentação&nbsp;</b>\",\"Os(as) estudantes precisaram de uma pergunta para explicar a classificação da despesa. <br>\",\"Preparem-se para explicar os critérios utilizados e responder a questionamentos sobre os lançamentos. \"],[\"<b>Revisão dos procedimentos&nbsp;</b>\",\"O grupo reconheceu outros lançamentos semelhantes que exigem revisão. <br>\",\"Apliquem o critério retomado aos demais lançamentos e verifiquem se as classificações permanecem coerentes. <br>\"],[\"<b>Participação e colaboração&nbsp;</b>\",\"Três integrantes se alternaram durante a explicação da prestação de contas. <br>\",\"Preservem a distribuição das falas e garantam que todos(as) consigam explicar as decisões do grupo. <br>\"]],\"corHeader\":\"#f04770\",\"corTextoHeader\":\"#ffffff\"}"
+     "introducao": "",
+     "blocos": "[{\"titulo\":\"Planejamento\",\"texto\":\"Relação entre objetivos, estratégias e execução.&nbsp;<br>\"},{\"titulo\":\"Metodologias\",\"texto\":\"Escolhas que favoreceram a participação, a divisão de responsabilidades e a relação entre teoria e prática.&nbsp;<br>\"},{\"titulo\":\"Avaliação e evidências\",\"texto\":\"Registros contábeis, justificativas e decisões coletivas que mostram o desenvolvimento dos(as) estudantes.&nbsp;<br>\"},{\"titulo\":\"Mediação\",\"texto\":\"Intervenções diante de dúvidas técnicas ou dificuldades de participação.&nbsp;<br>\"},{\"titulo\":\"Adaptação\",\"texto\":\"Ajustes de tempo, recursos e organização dos grupos.&nbsp;<br>\"},{\"titulo\":\"Integração curricular\",\"texto\":\"Articulação entre conhecimentos contábeis, princípios cooperativos e mundo do trabalho.&nbsp;<br>\"}]"
     },
     "novo": false
+   },
+   {
+    "tipo": "accordion",
+    "texto": "",
+    "topicos": [
+     {
+      "titulo": "Exemplo Prático",
+      "texto": ""
+     }
+    ],
+    "novo": true
    }
-  ],
-  "conclusao": {
-   "titulo": "Registrar para Aprimorar ",
-   "texto": "Após a socialização, registre as aprendizagens evidenciadas, os procedimentos realizados adequadamente, as justificativas apresentadas, as dificuldades identificadas e as devolutivas oferecidas.<br><ul><li>Em Contabilidade, o registro pode indicar quais critérios de classificação foram compreendidos e quais ainda geram dúvidas.<br></li><li>Em Cooperativismo, pode reunir informações sobre participação, argumentação e divisão de responsabilidades.</li></ul>Relacione as anotações aos objetivos da atividade e utilize-as para planejar retomadas, novas oportunidades de prática e ajustes na mediação pedagógica.<br>[TOMENOTA1]",
-   "blocos": [
-    {
-     "tipo": "tomenota",
-     "texto": "Na socialização, registre o que o(a) estudante demonstra ao explicar sua produção. Essas evidências permitem formular devolutivas específicas e identificar conhecimentos, procedimentos ou decisões que ainda precisam ser desenvolvidos.",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29967"
+  ]
  }
 }
