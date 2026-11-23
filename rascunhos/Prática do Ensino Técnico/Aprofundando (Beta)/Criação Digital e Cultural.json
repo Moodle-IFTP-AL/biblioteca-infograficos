@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Criação Digital e Cultural",
- "quando": "2026-11-23T20:10:32.518Z",
+ "quando": "2026-11-23T20:11:10.184Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -9,7 +9,7 @@
    "objetivo": "Analisar o conjunto de práticas, registros e evidências produzidos ao longo da formação, relacionando-os às aprendizagens construídas para identificar possibilidades de qualificação da própria atuação docente.<br>",
    "titulo": "<b>Retomar, Sintetizar e Aprender com sua Prática Técnica</b><br>",
    "conteudo": "Chegamos à última aula da formação, um momento de síntese e fechamento.<br>Revisite o ano inteiro:<br><ul><li>as aulas que você planejou;<br></li><li>as práticas técnicas que conduziu;<br></li><li>as experiências vividas com os(as) estudantes.<br></li></ul>Os planos, os registros e as produções da turma ajudam a recuperar essas situações e a perceber mudanças, sem depender só da memória. Essa retomada é uma oportunidade de reconhecer as aprendizagens e as escolhas que marcaram sua prática docente.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Analisando a Prática Docente&nbsp;</font></b></h3><br>Reunidos, os registros e as evidências do ano mostram relações que uma aula isolada nem sempre deixa ver. Eles ajudam a identificar padrões, avanços, dificuldades e aspectos que merecem atenção. Observe as dimensões que se articulam nessa análise:<br>[INFOGRAFICO1]<br>[ACCORDION1]<br><b>Da Experiência às Aprendizagens Profissionais&nbsp;</b><br>A análise do ano funciona como uma devolutiva para você mesmo(a). Reconheça os conhecimentos, as estratégias e os critérios que passaram a fazer parte do seu repertório. A partir das experiências dos cursos de Design Gráfico, Multimídia e Produção Cultural, reflita sobre o que pretende:<br><ul><li><b>Manter:</b> práticas que ganharam intencionalidade, como conferir com a turma o boneco de um livreto, em Design Gráfico.<br></li><li><b>Aprofundar:</b> conhecimentos e formas de observar a aprendizagem, como analisar as contribuições dos(as) estudantes durante uma socialização.<br></li><li><b>Aperfeiçoar:</b> estratégias que funcionam, mas podem ser ajustadas, como apresentar os critérios de avaliação antes do início de uma produção.<br></li><li><b>Transformar:</b> práticas cuja lógica pode mudar, como passar de assistir a uma apresentação de reisado para envolver os(as) estudantes na produção de uma apresentação cultural.<br></li></ul>Muitas dessas aprendizagens podem ser aproveitadas em outras práticas, turmas e contextos.<br><br>",
-   "conectando": ""
+   "conectando": "No fórum de encerramento, compartilhe com os(as) colegas o que você leva deste percurso para suas próximas práticas.<br>"
   },
   "blocos": [
    {
@@ -43,6 +43,17 @@
     ],
     "novo": false
    }
-  ]
+  ],
+  "conclusao": {
+   "titulo": "Aprendizagens para o Futuro",
+   "texto": "Ao encerrar esta formação, retome as análises que você fez ao longo das aulas e reconheça o que passou a fazer parte do seu repertório.<br><br>Defina também o que deseja fortalecer e quais aspectos pretende observar com mais atenção nas próximas experiências de ensino.<br><br>Esse movimento continua depois da formação: cada nova prática técnica, com seus registros e evidências, alimenta seu desenvolvimento profissional.<br><br>",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "Manter fortalece o que já funciona. Aprofundar amplia conhecimentos e formas de observar a aprendizagem. Aperfeiçoar ajusta estratégias. Transformar modifica a lógica de uma prática. Cada decisão deve considerar os registros e as evidências do ano.<br>",
+     "novo": true
+    }
+   ]
+  }
  }
 }
