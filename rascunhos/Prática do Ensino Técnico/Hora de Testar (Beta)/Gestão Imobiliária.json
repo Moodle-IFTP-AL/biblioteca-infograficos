@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão Imobiliária",
- "quando": "2026-11-24T12:24:00.217Z",
+ "quando": "2026-11-24T12:24:08.543Z",
  "autor": "Eduarda",
  "dados": {
   "linhaComBibliografia": false,
@@ -18,7 +18,7 @@
   ],
   "conclusao": {
    "titulo": "Preparando a próxima prática ",
-   "texto": "Replanejar exige analisar evidências, reconhecer estratégias eficazes e identificar necessidades de aprimoramento. Não existe um único ajuste possível: cada decisão deve responder às dificuldades observadas e aos objetivos de aprendizagem.<br><br>Na próxima prática, registre os efeitos das mudanças realizadas e verifique se contribuíram para o desenvolvimento técnico dos(as) estudantes.<br>",
+   "texto": "Replanejar exige analisar evidências, reconhecer estratégias eficazes e identificar necessidades de aprimoramento. Não existe um único ajuste possível: cada decisão deve responder às dificuldades observadas e aos objetivos de aprendizagem.<br><br>Na próxima prática, registre os efeitos das mudanças realizadas e verifique se contribuíram para o desenvolvimento técnico dos(as) estudantes.<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -33,12 +33,12 @@
       {
        "id": "mwuo62iazjf784",
        "texto": "Unidade 8: Registro técnico e melhoria da prática.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28759"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
   }
