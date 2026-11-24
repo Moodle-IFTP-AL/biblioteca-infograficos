@@ -1,13 +1,13 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-11-24T13:23:52.135Z",
+ "quando": "2026-11-24T13:25:52.323Z",
  "autor": "Teste",
  "dados": {
   "popup": {
    "titulo": "📢 Roda de Boas Práticas do IFTP",
-   "fundo": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/popup/Popup12.png",
-   "proporcao": 0.7498500299940012,
+   "fundo": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/popup/Popup7.png",
+   "proporcao": 0.7033639143730887,
    "larguraMaxima": 460,
    "corVeu": "#0a3442",
    "opacidadeVeu": 0.88,
@@ -17,12 +17,12 @@
      "id": "l27dxuj",
      "tipo": "texto",
      "caixa": {
-      "x": 5,
-      "y": 8.5,
-      "largura": 90,
-      "altura": 18
+      "x": 11.5,
+      "y": 10,
+      "largura": 84,
+      "altura": 14.5
      },
-     "html": "📢 Roda de Boas Práticas do IFTP",
+     "html": "&nbsp;Roda de Boas Práticas do IFTP",
      "tamanho": 31,
      "cor": "#f04770",
      "peso": 800,
@@ -35,12 +35,12 @@
      "tipo": "texto",
      "caixa": {
       "x": 3.5,
-      "y": 22.5,
+      "y": 23.5,
       "largura": 93,
       "altura": 15.5
      },
      "html": "Participe e prestigie as experiências desenvolvidas pelos(as) professores(as) nos cursos técnicos da nossa rede!",
-     "tamanho": 14,
+     "tamanho": 20,
      "cor": "#0a3442",
      "peso": 800,
      "alinhamento": "center",
@@ -52,7 +52,7 @@
      "tipo": "imagem",
      "caixa": {
       "x": 8,
-      "y": 39.5,
+      "y": 41.5,
       "largura": 12.5,
       "altura": 9.5
      },
@@ -63,13 +63,25 @@
      "id": "hbsm8wh",
      "tipo": "imagem",
      "caixa": {
-      "x": 5.5,
-      "y": 50,
+      "x": 4.5,
+      "y": 51.5,
       "largura": 18,
       "altura": 10.5
      },
      "url": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2036.png",
      "alt": "Icone 36"
+    },
+    {
+     "id": "1ebz3yf",
+     "tipo": "imagem",
+     "caixa": {
+      "x": 10,
+      "y": 9.5,
+      "largura": 20,
+      "altura": 14
+     },
+     "url": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/M%C3%A3o%20Megafone.png",
+     "alt": "Mão Megafone"
     }
    ]
   }
