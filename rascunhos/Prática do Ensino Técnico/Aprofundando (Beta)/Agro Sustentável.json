@@ -1,65 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Agro Sustentável",
- "quando": "2026-11-23T19:43:37.793Z",
+ "quando": "2026-11-24T11:43:35.239Z",
  "autor": "Eduarda",
- "dados": {
-  "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Síntese e qualificação da prática técnica.<br><b>Conteúdos:</b><br><ul><li>Retomada do percurso formativo e das práticas realizadas no ano.<br></li><li>Relação entre objetivos, procedimentos, participação e resultados.<br></li><li>Critérios de qualidade e desempenho já trabalhados.<br></li><li>Pontos fortes e pontos de atenção.<br></li><li>Condições que favoreceram ou limitaram a prática.<br></li><li>Prioridades para aprimoramento.<br></li></ul><b>Objetivo da Aula: </b>Sistematizar uma análise reflexiva de uma prática técnica já realizada, articulando planejamento, execução, mediação e avaliação e definindo ajustes para sua qualificação.<br>",
-   "objetivo": "Analisar o conjunto de práticas, registros e evidências produzidos ao longo da formação, relacionando-os às aprendizagens construídas para identificar possibilidades de qualificação da própria atuação docente.<br>",
-   "titulo": "<b>Síntese da Prática e Novos Caminhos</b>",
-   "conteudo": "Chegamos à última aula deste percurso. É hora de revisitar não apenas uma experiência, mas o conjunto de aulas, atividades e práticas desenvolvidas com os(as) estudantes ao longo do ano.<br><br>Planejamentos, anotações, produções e outras evidências ajudam a recuperar situações concretas e perceber mudanças que talvez tenham passado despercebidas no dia a dia.<br><br>Essa retomada permite reconhecer aprendizagens e escolhas que marcaram sua atuação.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Analisando a Prática Docente</font></b></h3><br>Ao reunir os registros e as evidências das práticas realizadas durante o ano, você consegue perceber aspectos que nem sempre ficam claros durante uma aula. Observe como diferentes escolhas se relacionaram com a aprendizagem dos(as) estudantes:<br>[INFOGRAFICO1]<br>[ACCORDION1]<br><h3><b><font color=\"#f04770\">Da Experiência às Aprendizagens Profissionais&nbsp;</font><br><br></b></h3>Ao olhar para o percurso realizado, identifique o que passou a fazer parte da sua prática e quais aspectos ainda deseja desenvolver. Considere suas experiências nos cursos de Agricultura, Alimentos e Agroecologia e organize suas prioridades:<br><ul><li><b>Manter:</b> atividades contextualizadas, colaboração e procedimentos seguros.<br></li><li><b>Aprofundar:</b> relações entre conhecimentos técnicos, sustentabilidade e realidade produtiva local.<br></li><li><b>Aperfeiçoar:</b> formas de observar, registrar e avaliar a aprendizagem, além da gestão do tempo.<br></li><li><b>Transformar:</b> avaliações centradas apenas no produto final em acompanhamento do processo, das decisões e da autonomia dos(as) estudantes.<br></li></ul>Essas escolhas devem considerar o que você observou durante o ano e podem orientar novas práticas, turmas e contextos.<br><br><h3><b><font color=\"#f04770\">Aprendizagens para o Futuro<br><br></font></b></h3>Ao encerrar esta formação, reconheça o que passou a fazer parte da sua prática: novas formas de planejar, conduzir atividades, observar evidências, avaliar e replanejar práticas técnicas.<br><br>Identifique também o que deseja fortalecer e quais aspectos pretende acompanhar com mais atenção nas próximas experiências.<br>A formação termina, mas sua aprendizagem continua. Cada nova turma e cada prática oferecem oportunidades para testar escolhas e desenvolver ainda mais sua atuação docente.<br>",
-   "conectando": "No fórum de encerramento, compartilhe suas aprendizagens e os próximos passos que pretende dar em sua trajetória docente.<br>"
-  },
-  "blocos": [
-   {
-    "tipo": "caixadestaque",
-    "texto": "<b>O que as experiências deste ano revelam sobre como você planeja, conduz, acompanha e avalia suas práticas?&nbsp;</b><br>",
-    "caixaImgUrl": "",
-    "caixaImgSize": 40,
-    "caixaCorFundo": "#fdf0f3",
-    "caixaCorBorda": "#f04770",
-    "novo": false,
-    "caixaCorTexto": "#0a3442"
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "blocos_coloridos",
-    "infograficoData": {
-     "introducao": "",
-     "blocos": "[{\"titulo\":\"Planejamento\",\"texto\":\"Os objetivos, as estratégias e as atividades estavam relacionados?&nbsp;<br>\"},{\"titulo\":\"Metodologias\",\"texto\":\"Quais propostas favoreceram a participação e a relação entre teoria e prática?&nbsp;<br>\"},{\"titulo\":\"Avaliação e evidências\",\"texto\":\"Quais registros ajudaram a acompanhar a aprendizagem?&nbsp;<br>\"},{\"titulo\":\"Mediação\",\"texto\":\"Como você orientou os(as) estudantes diante das dificuldades?\"},{\"titulo\":\"Adaptação\",\"texto\":\"Quais mudanças foram necessárias durante as práticas?\"},{\"titulo\":\"Integração curricular\",\"texto\":\"Como os conhecimentos técnicos foram relacionados a outros saberes e à realidade do trabalho?&nbsp;<br>\"}]"
-    },
-    "novo": false
-   },
-   {
-    "tipo": "accordion",
-    "texto": "",
-    "topicos": [
-     {
-      "titulo": "Exemplo Prático — Identificando padrões nas práticas",
-      "texto": "Ao revisar aulas de análise do solo, produção de mudas e manejo da irrigação, um(a) professor(a) de uma escola de Alagoas identificou alguns padrões. As atividades relacionadas a problemas das propriedades rurais da região e o trabalho em grupo favoreceram a participação dos(as) estudantes. As demonstrações seguidas de prática orientada também ajudaram a reduzir erros nos procedimentos. Por outro lado, os registros mostraram que as etapas finais frequentemente ficavam sem tempo suficiente, alguns(umas) estudantes concentravam as tarefas e a avaliação considerava mais o produto final do que o processo.<br><br>Com essa análise, o(a) professor(a) identificou o que deveria manter, aprofundar, aperfeiçoar e transformar nas próximas aulas.<br>"
-     }
-    ],
-    "novo": false
-   }
-  ],
-  "conclusao": {
-   "titulo": "",
-   "texto": "[TOMENOTA1]<br>[DICA1]",
-   "blocos": [
-    {
-     "tipo": "tomenota",
-     "texto": "Analisar o percurso completo permite reconhecer avanços e dificuldades que nem sempre aparecem em uma aula isolada. Use as evidências para decidir o que manter, aprofundar, aperfeiçoar ou transformar.<br>",
-     "novo": false
-    },
-    {
-     "tipo": "dica",
-     "texto": "Reúna três registros de práticas realizadas em diferentes momentos do ano. Compare-os e identifique o que favoreceu a aprendizagem, quais dificuldades se repetiram e o que você pretende ajustar nas próximas aulas.<br>",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=29486"
- }
+ "dados": {}
 }
