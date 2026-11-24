@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-11-24T13:33:52.996Z",
+ "quando": "2026-11-24T13:35:52.295Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -95,7 +95,7 @@
      "html": "25/11 (quarta-feira)<br>--------------<br><span style=\"font-family: &quot;Open Sans&quot;, sans-serif;\">15h às 17h</span>",
      "tamanho": 22,
      "cor": "#0a3442",
-     "peso": 700,
+     "peso": 400,
      "alinhamento": "left",
      "alturaLinha": 1.2,
      "maiusculas": false
