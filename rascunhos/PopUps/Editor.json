@@ -1,13 +1,13 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-11-24T13:21:52.116Z",
+ "quando": "2026-11-24T13:23:52.135Z",
  "autor": "Teste",
  "dados": {
   "popup": {
    "titulo": "📢 Roda de Boas Práticas do IFTP",
-   "fundo": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/popup/Popup4.png",
-   "proporcao": 0.795,
+   "fundo": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/popup/Popup12.png",
+   "proporcao": 0.7498500299940012,
    "larguraMaxima": 460,
    "corVeu": "#0a3442",
    "opacidadeVeu": 0.88,
@@ -24,7 +24,7 @@
      },
      "html": "📢 Roda de Boas Práticas do IFTP",
      "tamanho": 31,
-     "cor": "#ffffff",
+     "cor": "#f04770",
      "peso": 800,
      "alinhamento": "center",
      "alturaLinha": 1.2,
@@ -41,11 +41,35 @@
      },
      "html": "Participe e prestigie as experiências desenvolvidas pelos(as) professores(as) nos cursos técnicos da nossa rede!",
      "tamanho": 14,
-     "cor": "#ffffff",
+     "cor": "#0a3442",
      "peso": 800,
      "alinhamento": "center",
-     "alturaLinha": 1.2,
+     "alturaLinha": 1.3,
      "maiusculas": false
+    },
+    {
+     "id": "fdq5ztr",
+     "tipo": "imagem",
+     "caixa": {
+      "x": 8,
+      "y": 39.5,
+      "largura": 12.5,
+      "altura": 9.5
+     },
+     "url": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%207.png",
+     "alt": "Icone 7"
+    },
+    {
+     "id": "hbsm8wh",
+     "tipo": "imagem",
+     "caixa": {
+      "x": 5.5,
+      "y": 50,
+      "largura": 18,
+      "altura": 10.5
+     },
+     "url": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2036.png",
+     "alt": "Icone 36"
     }
    ]
   }
