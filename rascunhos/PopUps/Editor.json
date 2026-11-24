@@ -1,13 +1,13 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-11-24T13:35:52.295Z",
+ "quando": "2026-11-24T13:43:30.354Z",
  "autor": "Teste",
  "dados": {
   "popup": {
    "titulo": "📢 Roda de Boas Práticas do IFTP",
-   "fundo": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/popup/Popup4.png",
-   "proporcao": 0.795,
+   "fundo": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/popup/Popup18.png",
+   "proporcao": 1.3336,
    "larguraMaxima": 480,
    "corVeu": "#0a3442",
    "opacidadeVeu": 0.7,
