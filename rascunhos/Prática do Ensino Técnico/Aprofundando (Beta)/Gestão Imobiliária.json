@@ -1,61 +1,16 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão Imobiliária",
- "quando": "2026-11-23T20:51:25.624Z",
+ "quando": "2026-11-24T12:14:38.620Z",
  "autor": "Eduarda",
  "dados": {
+  "linhaComBibliografia": false,
   "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Síntese e qualificação da prática técnica.<br><b>Conteúdos:</b><br><ul><li>Retomada do percurso formativo e das práticas realizadas no ano.<br></li><li>Relação entre objetivos, procedimentos, participação e resultados.<br></li><li>Critérios de qualidade e desempenho já trabalhados.<br></li><li>Pontos fortes e pontos de atenção.<br></li><li>Condições que favoreceram ou limitaram a prática.<br></li><li>Prioridades para aprimoramento.<br></li></ul><b>Objetivo da Aula: </b>Sistematizar uma análise reflexiva de uma prática técnica já realizada, articulando planejamento, execução, mediação e avaliação e definindo ajustes para sua qualificação.<br>",
-   "objetivo": "Analisar o conjunto de práticas, registros e evidências produzidos ao longo da formação, relacionando-os às aprendizagens construídas para identificar possibilidades de qualificação da própria atuação docente.<br>",
-   "titulo": "<b>Da Experiência à Qualificação da Prática Docente&nbsp;</b>",
-   "conteudo": "Ao longo do ano, diferentes atividades de Gestão Imobiliária aproximaram os(as) estudantes de situações profissionais relacionadas à administração de condomínios, compra, venda e locação de imóveis.<br><br>O encerramento da formação é um momento para revisitar essas experiências e reconhecer o que elas revelam sobre sua prática docente. Planos, registros e produções ajudam a identificar avanços, dificuldades recorrentes e escolhas que contribuíram para a aprendizagem.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Analisando a Prática Docente<br><br></font></b></h3>Reunir registros de diferentes aulas permite perceber relações que nem sempre ficam evidentes durante a realização das atividades. Nas experiências dos cursos de Condomínios e Transações Imobiliárias, observe:<br>[INFOGRAFICO1]<br>Esse olhar ajuda a reconhecer avanços, dificuldades recorrentes e aspectos que merecem atenção.<br>[ACCORDION1]<br><h3><b><font color=\"#f04770\">Da Experiência às Aprendizagens Profissionais<br><br></font></b></h3>A análise do percurso ajuda a reconhecer conhecimentos, estratégias e critérios que passaram a integrar seu repertório profissional. A partir das experiências dos cursos de Condomínios e Transações Imobiliárias, organize suas decisões em quatro movimentos:<br><ul><li><b>Manter:</b> simulações de atendimento, negociação imobiliária e situações de gestão condominial que favoreceram a participação.<br></li><li><b>Aprofundar:</b> análise documental, avaliação de imóveis e procedimentos relacionados à administração de condomínios.<br></li><li><b>Aperfeiçoar:</b> orientações durante as atividades práticas, critérios de avaliação e devolutivas aos(às) estudantes.<br></li><li><b>Transformar:</b> exercícios exclusivamente teóricos em situações-problema contextualizadas, que envolvam análise, tomada de decisão e justificativa técnica.<br></li></ul>Essas escolhas podem orientar novas práticas, turmas e contextos.<br>",
-   "conectando": "No fórum de encerramento, compartilhe suas aprendizagens e os próximos passos que pretende dar em sua prática docente.<br>"
-  },
-  "blocos": [
-   {
-    "tipo": "caixadestaque",
-    "texto": "<b>Ao observar esse percurso, pergunte-se: o que as experiências deste ano revelam sobre como você planeja, conduz, acompanha e avalia suas práticas?&nbsp;</b><br>",
-    "caixaImgUrl": "",
-    "caixaImgSize": 40,
-    "caixaCorFundo": "#fdf0f3",
-    "caixaCorBorda": "#f04770",
-    "novo": false,
-    "caixaCorTexto": "#0a3442"
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "blocos_coloridos",
-    "infograficoData": {
-     "introducao": "",
-     "blocos": "[{\"titulo\":\"Planejamento\",\"texto\":\"Relação entre os objetivos, as atividades e o que foi realizado.&nbsp;<br>\"},{\"titulo\":\"Metodologias\",\"texto\":\"Estratégias que aproximaram os conteúdos de situações profissionais, como estudos de caso e simulações.&nbsp;<br>\"},{\"titulo\":\"Avaliação e evidências\",\"texto\":\"Produções, fichas de imóveis, checklists documentais e registros de atendimento que mostram a aprendizagem.&nbsp;<br>\"},{\"titulo\":\"Mediação\",\"texto\":\"Orientações e intervenções diante das dúvidas e dificuldades dos(as) estudantes.&nbsp;<br>\"},{\"titulo\":\"Adaptação\",\"texto\":\"Ajustes nos materiais, no tempo e nos procedimentos das atividades.&nbsp;<br>\"},{\"titulo\":\"Integração curricular\",\"texto\":\"Articulação entre conhecimentos imobiliários, documentação, matemática financeira, comunicação e legislação aplicada.\"}]"
-    },
-    "novo": false
-   },
-   {
-    "tipo": "accordion",
-    "texto": "",
-    "topicos": [
-     {
-      "titulo": "Exemplo Prático — Identificando padrões nas práticas ",
-      "texto": "Considere um(a) professor(a) de Gestão Imobiliária que, ao longo do ano, desenvolveu atividades de pesquisa de imóveis, simulação de atendimento e análise documental em Maceió. Ao revisar as produções, percebeu avanços na descrição das características dos imóveis e na comunicação com possíveis compradores. Entretanto, dificuldades para distinguir matrícula imobiliária, escritura pública e contrato particular apareceram em diferentes atividades. Os registros também mostraram maior participação quando foram utilizados casos próximos à realidade do mercado alagoano. Com essa análise, o(a) professor(a) decide manter as simulações contextualizadas e ampliar as atividades de conferência e interpretação de documentos.<br>"
-     }
-    ],
-    "novo": false
-   }
-  ],
-  "conclusao": {
-   "titulo": "Aprendizagens para o Futuro",
-   "texto": "Ao encerrar esta formação, reconheça como as experiências vividas contribuíram para seu desenvolvimento profissional.<br><br>Identifique os conhecimentos e as estratégias que passaram a fazer parte de sua atuação, o que deseja fortalecer e quais aspectos pretende observar com mais atenção.<br><br>Nas próximas práticas, você poderá retomar essas aprendizagens para planejar atividades, acompanhar os(as) estudantes e ajustar suas intervenções conforme os objetivos e as necessidades de cada turma.<br>[DICA1]",
-   "blocos": [
-    {
-     "tipo": "dica",
-     "texto": "Ao final do ano, reúna planejamentos, atividades, registros e materiais que contribuíram para a aprendizagem dos(as) estudantes. Organize esse acervo para consultar, adaptar e aproveitar nas próximas turmas.<br>",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=30362",
-  "linhaComBibliografia": false
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do conhecimento: </b>replanejamento da prática técnica a partir da experiência.<br><b>Conteúdos:</b><br><ul><li>retomada do planejamento e da execução;<br></li><li>evidências e registros produzidos;<br></li><li>dificuldades e resultados observados;<br></li><li>aspectos a manter e a modificar;<br></li><li>ajustes em procedimentos, mediações, tempos e recursos;<br></li><li>justificativa das alterações propostas.<br></li></ul><b>Objetivo da aula:</b> replanejar uma prática técnica já realizada, utilizando evidências, registros e resultados observados para definir ajustes fundamentados.<br>",
+   "objetivo": "Identificar como o planejamento, a execução e as evidências de uma prática técnica podem orientar decisões de replanejamento.<br>",
+   "titulo": "",
+   "conteudo": "",
+   "conectando": ""
+  }
  }
 }
