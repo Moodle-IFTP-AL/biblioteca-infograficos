@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Comunicação e Mercado",
- "quando": "2026-11-24T12:09:50.472Z",
+ "quando": "2026-11-24T12:10:09.171Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -17,7 +17,7 @@
   ],
   "conclusao": {
    "titulo": "Preparando a próxima prática ",
-   "texto": "O replanejamento eficaz nasce da escuta e observação cuidadosa da sala de aula. Não existe um ajuste único: a mudança deve responder diretamente às evidências coletadas e aos objetivos de aprendizagem.<br><br>Agora, aplique esse novo plano de ação e acompanhe os avanços na aprendizagem dos(as) seus(suas) estudantes!<br>",
+   "texto": "O replanejamento eficaz nasce da escuta e observação cuidadosa da sala de aula. Não existe um ajuste único: a mudança deve responder diretamente às evidências coletadas e aos objetivos de aprendizagem.<br><br>Agora, aplique esse novo plano de ação e acompanhe os avanços na aprendizagem dos(as) seus(suas) estudantes!<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -32,14 +32,16 @@
       {
        "id": "mwunnznqza6dj1",
        "texto": "Unidade 8: Registro técnico e melhoria da prática.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27970"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
-  }
+  },
+  "linhaComBibliografia": false,
+  "tipoBotao": "voltar"
  }
 }
