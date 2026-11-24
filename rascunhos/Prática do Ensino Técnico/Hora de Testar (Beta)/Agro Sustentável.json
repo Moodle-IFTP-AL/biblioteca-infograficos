@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Agro Sustentável",
- "quando": "2026-11-24T11:54:54.737Z",
+ "quando": "2026-11-24T11:55:04.570Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -17,7 +17,7 @@
   ],
   "conclusao": {
    "titulo": "Preparando a próxima prática ",
-   "texto": "Replanejar exige observar a prática, interpretar evidências e relacionar cada decisão ao objetivo de aprendizagem.<br><br>Diferentes ajustes podem ser adequados, desde que respondam às necessidades identificadas.<br><br>Ao realizar novamente a atividade, observe e registre os efeitos da mudança para verificar se ela favoreceu a aprendizagem.<br>",
+   "texto": "Replanejar exige observar a prática, interpretar evidências e relacionar cada decisão ao objetivo de aprendizagem.<br><br>Diferentes ajustes podem ser adequados, desde que respondam às necessidades identificadas.<br><br>Ao realizar novamente a atividade, observe e registre os efeitos da mudança para verificar se ela favoreceu a aprendizagem.<br>[REVISAR1]",
    "blocos": [
     {
      "tipo": "revisar",
@@ -32,12 +32,12 @@
       {
        "id": "mwun4tal9dqwph",
        "texto": "Unidade 8: Registro técnico e melhoria da prática.&nbsp;<br>",
-       "link": ""
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=27739"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": true
+     "novo": false
     }
    ]
   }
