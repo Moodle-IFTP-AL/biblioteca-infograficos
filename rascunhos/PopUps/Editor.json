@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-11-24T13:25:52.323Z",
+ "quando": "2026-11-24T13:27:53.179Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -51,10 +51,10 @@
      "id": "fdq5ztr",
      "tipo": "imagem",
      "caixa": {
-      "x": 8,
-      "y": 41.5,
-      "largura": 12.5,
-      "altura": 9.5
+      "x": 7,
+      "y": 43.5,
+      "largura": 13.5,
+      "altura": 10.5
      },
      "url": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%207.png",
      "alt": "Icone 7"
@@ -63,10 +63,10 @@
      "id": "hbsm8wh",
      "tipo": "imagem",
      "caixa": {
-      "x": 4.5,
-      "y": 51.5,
-      "largura": 18,
-      "altura": 10.5
+      "x": 6,
+      "y": 56.5,
+      "largura": 14.5,
+      "altura": 9
      },
      "url": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2036.png",
      "alt": "Icone 36"
@@ -82,6 +82,64 @@
      },
      "url": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/%C3%8Dcones/M%C3%A3o%20Megafone.png",
      "alt": "Mão Megafone"
+    },
+    {
+     "id": "h6pb7qf",
+     "tipo": "imagem",
+     "caixa": {
+      "x": 6,
+      "y": 68,
+      "largura": 14.5,
+      "altura": 10
+     },
+     "url": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/ALVO.png",
+     "alt": "Alvo (linha)"
+    },
+    {
+     "id": "vidwips",
+     "tipo": "imagem",
+     "caixa": {
+      "x": 8,
+      "y": 81,
+      "largura": 10,
+      "altura": 7
+     },
+     "url": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/click.png",
+     "alt": "Click"
+    },
+    {
+     "id": "g9vg6gx",
+     "tipo": "texto",
+     "caixa": {
+      "x": 16,
+      "y": 43,
+      "largura": 76,
+      "altura": 14
+     },
+     "html": "25/11 (quarta-feira)",
+     "tamanho": 22,
+     "cor": "#0a3442",
+     "peso": 800,
+     "alinhamento": "center",
+     "alturaLinha": 1.2,
+     "maiusculas": false
+    },
+    {
+     "id": "v1f3b4z",
+     "tipo": "texto",
+     "caixa": {
+      "x": 13.5,
+      "y": 59.5,
+      "largura": 76,
+      "altura": 14
+     },
+     "html": "Novo texto",
+     "tamanho": 22,
+     "cor": "#0a3442",
+     "peso": 800,
+     "alinhamento": "center",
+     "alturaLinha": 1.2,
+     "maiusculas": false
     }
    ]
   }
