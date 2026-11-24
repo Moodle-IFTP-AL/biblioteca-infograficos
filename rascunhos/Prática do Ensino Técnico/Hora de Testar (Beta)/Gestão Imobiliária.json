@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão Imobiliária",
- "quando": "2026-11-24T12:24:24.703Z",
+ "quando": "2026-11-24T12:24:34.697Z",
  "autor": "Eduarda",
  "dados": {
   "linhaComBibliografia": false,
@@ -42,6 +42,7 @@
     }
    ]
   },
-  "tipoBotao": "voltar"
+  "tipoBotao": "voltar",
+  "link": "https://ead.educacao.al.gov.br/course/view.php?id=285#section-88"
  }
 }
