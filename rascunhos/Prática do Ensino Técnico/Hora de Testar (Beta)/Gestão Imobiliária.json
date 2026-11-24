@@ -1,50 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão Imobiliária",
- "quando": "2026-11-18T16:54:42.624Z",
+ "quando": "2026-11-24T12:22:28.355Z",
  "autor": "Eduarda",
- "dados": {
-  "campos": {
-   "objetivo": "Analisar evidências de aprendizagem para formular devolutivas e refletir sobre a própria prática docente.<br>",
-   "titulo": "<b>Das Evidências às Devolutivas</b><br>",
-   "conteudo": "Chegou o momento de aplicar os conhecimentos desta unidade.<br><br>Nas atividades a seguir, você analisará uma situação de gestão condominial, relacionando evidências a devolutivas específicas.<br><br>Em seguida, refletirá sobre sua própria prática e identificará possibilidades de qualificar a observação, o registro e as orientações oferecidas aos(às) estudantes.<br>",
-   "reflexao": ""
-  },
-  "atividades": [
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32757\" width=\"1124\" height=\"427\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"GIM-M4-U06-APLI-DRAGW\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   },
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32758\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"GIM-M4-U06-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   }
-  ],
-  "conclusao": {
-   "titulo": "Consolidando as Aprendizagens",
-   "texto": "Cada devolutiva deve estar relacionada a uma evidência concreta da aprendizagem.<br><br>No projeto de coleta seletiva, a ausência de justificativa para a localização dos pontos de descarte exige uma orientação diferente daquela relacionada à comunicação com os(as) moradores(as) ou ao acompanhamento dos resultados.<br><br>Uma devolutiva construtiva:<br><ul><li>reconhece os avanços;<br></li><li>identifica aspectos que precisam ser aprimorados;<br></li><li>indica caminhos possíveis para a revisão da produção.</li></ul>Incentive os(as) estudantes a analisar as contribuições recebidas, avaliar sua pertinência e justificar os ajustes realizados. Utilize também essas observações para refletir sobre suas estratégias de mediação e planejar novas experiências de aprendizagem.<br>[REVISAR1]",
-   "blocos": [
-    {
-     "tipo": "revisar",
-     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:<br>",
-     "idRevisar": "mwmd6es7dm6cgz",
-     "itensRevisar": [
-      {
-       "id": "mwmd6haxhhketn",
-       "texto": "Unidade 5: Devolutivas Formativas e Feedforward;&nbsp;",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31558"
-      },
-      {
-       "id": "mwmd6hi0b0hk1n",
-       "texto": "Unidade 8: Registro Técnico e Melhoria da Prática.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31722"
-      }
-     ],
-     "linkBotao": "",
-     "textoBotao": "",
-     "novo": false
-    }
-   ]
-  },
-  "tipoBotao": "voltar",
-  "link": "https://ead.educacao.al.gov.br/course/view.php?id=285#section-86"
- }
+ "dados": {}
 }
