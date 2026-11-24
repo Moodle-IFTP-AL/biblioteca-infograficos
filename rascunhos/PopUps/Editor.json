@@ -1,16 +1,16 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-11-24T13:29:52.285Z",
+ "quando": "2026-11-24T13:31:52.070Z",
  "autor": "Teste",
  "dados": {
   "popup": {
    "titulo": "📢 Roda de Boas Práticas do IFTP",
-   "fundo": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/popup/Popup7.png",
-   "proporcao": 0.7033639143730887,
-   "larguraMaxima": 460,
+   "fundo": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/popup/Popup4.png",
+   "proporcao": 0.795,
+   "larguraMaxima": 480,
    "corVeu": "#0a3442",
-   "opacidadeVeu": 0.88,
+   "opacidadeVeu": 0.7,
    "raioCartao": 15,
    "elementos": [
     {
@@ -63,9 +63,9 @@
      "id": "hbsm8wh",
      "tipo": "imagem",
      "caixa": {
-      "x": 2.5,
-      "y": 57.5,
-      "largura": 16,
+      "x": 3.5,
+      "y": 59,
+      "largura": 15,
       "altura": 10.5
      },
      "url": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2036.png",
@@ -75,8 +75,8 @@
      "id": "1ebz3yf",
      "tipo": "imagem",
      "caixa": {
-      "x": 10,
-      "y": 9.5,
+      "x": 0,
+      "y": 8.5,
       "largura": 20,
       "altura": 14
      },
@@ -87,10 +87,10 @@
      "id": "vidwips",
      "tipo": "imagem",
      "caixa": {
-      "x": 8,
-      "y": 81,
-      "largura": 10,
-      "altura": 7
+      "x": 6.5,
+      "y": 80.5,
+      "largura": 13,
+      "altura": 9.5
      },
      "url": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/click.png",
      "alt": "Click"
@@ -117,13 +117,30 @@
      "tipo": "texto",
      "caixa": {
       "x": 24,
-      "y": 64,
+      "y": 58.5,
       "largura": 76,
       "altura": 14
      },
      "html": "On-line",
      "tamanho": 22,
      "cor": "#0a3442",
+     "peso": 700,
+     "alinhamento": "left",
+     "alturaLinha": 1.2,
+     "maiusculas": false
+    },
+    {
+     "id": "7kbafa7",
+     "tipo": "texto",
+     "caixa": {
+      "x": 24,
+      "y": 78,
+      "largura": 76,
+      "altura": 14
+     },
+     "html": "Acesse pelo Google Meet: https://meet.google.com/wke-sqpo-prf",
+     "tamanho": 17,
+     "cor": "#ffffff",
      "peso": 700,
      "alinhamento": "left",
      "alturaLinha": 1.2,
