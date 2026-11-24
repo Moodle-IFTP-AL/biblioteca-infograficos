@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Comunicação e Mercado",
- "quando": "2026-11-24T12:05:56.120Z",
+ "quando": "2026-11-24T12:07:39.012Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -44,8 +44,19 @@
   ],
   "conclusao": {
    "titulo": "Replanejar com intencionalidade",
-   "texto": "Replanejar uma prática técnica não significa descartar o planejamento original ou alterar conteúdos de forma aleatória, mas tomar decisões pedagógicas intencionais fundamentadas em evidências reais e nos objetivos da aula.<br><br>Ao justificar formalmente cada alteração, você compreende a real necessidade da mudança e consegue acompanhar com atenção seus efeitos no desenvolvimento das competências dos(as) estudantes em realizações futuras no ensino técnico.<br>",
-   "blocos": []
+   "texto": "Replanejar uma prática técnica não significa descartar o planejamento original ou alterar conteúdos de forma aleatória, mas tomar decisões pedagógicas intencionais fundamentadas em evidências reais e nos objetivos da aula.<br><br>Ao justificar formalmente cada alteração, você compreende a real necessidade da mudança e consegue acompanhar com atenção seus efeitos no desenvolvimento das competências dos(as) estudantes em realizações futuras no ensino técnico.<br>[TOMENOTA1]<br>[DICA1]",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "Replanejar é um exercício de reflexão contínua: utilizar evidências e registros concretos da aula permite ajustar tempos, mediações e estratégias, garantindo que as próximas práticas atinjam os objetivos de aprendizagem.<br>",
+     "novo": false
+    },
+    {
+     "tipo": "dica",
+     "texto": "Ao notar inconsistências em produções técnicas dos(as) estudantes, anote o ponto exato do procedimento que gerou dúvidas; esse registro direto será a base para reformular sua explicação inicial no próximo ciclo da prática.<br>",
+     "novo": false
+    }
+   ]
   }
  }
 }
