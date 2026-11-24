@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Agro Sustentável",
- "quando": "2026-11-24T11:55:04.570Z",
+ "quando": "2026-11-24T11:55:10.830Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -40,6 +40,7 @@
      "novo": false
     }
    ]
-  }
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29466"
  }
 }
