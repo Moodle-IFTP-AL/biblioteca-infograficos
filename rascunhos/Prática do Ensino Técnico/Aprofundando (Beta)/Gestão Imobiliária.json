@@ -1,16 +1,30 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão Imobiliária",
- "quando": "2026-11-24T12:14:38.620Z",
+ "quando": "2026-11-24T12:17:54.629Z",
  "autor": "Eduarda",
  "dados": {
   "linhaComBibliografia": false,
   "campos": {
    "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do conhecimento: </b>replanejamento da prática técnica a partir da experiência.<br><b>Conteúdos:</b><br><ul><li>retomada do planejamento e da execução;<br></li><li>evidências e registros produzidos;<br></li><li>dificuldades e resultados observados;<br></li><li>aspectos a manter e a modificar;<br></li><li>ajustes em procedimentos, mediações, tempos e recursos;<br></li><li>justificativa das alterações propostas.<br></li></ul><b>Objetivo da aula:</b> replanejar uma prática técnica já realizada, utilizando evidências, registros e resultados observados para definir ajustes fundamentados.<br>",
    "objetivo": "Identificar como o planejamento, a execução e as evidências de uma prática técnica podem orientar decisões de replanejamento.<br>",
-   "titulo": "",
-   "conteudo": "",
+   "titulo": "<b>Replanejar para aprimorar a prática</b><br>",
+   "conteudo": "<b>A realidade do planejado</b><br><br>Em uma atividade, os(as) estudantes simularam a locação de uma sala comercial em Ponta Verde. O planejamento previa a análise das condições do imóvel, dos documentos e das responsabilidades contratuais.<br><br>Entretanto, durante a execução, parte da turma apresentou dificuldades para diferenciar despesas ordinárias e extraordinárias de condomínio. Você precisou ampliar as explicações, o que comprometeu o tempo destinado à conclusão da atividade.<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">Do planejamento à prática</font></b></h3><br>Replanejar uma prática técnica exige comparar o que foi previsto com aquilo que efetivamente aconteceu. Na simulação de locação comercial, você pode retomar os elementos do planejamento para compreender por que determinadas etapas não alcançaram os resultados esperados.<br><br>",
    "conectando": ""
-  }
+  },
+  "blocos": [
+   {
+    "tipo": "pergunta",
+    "texto": "",
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "Diante dessa experiência",
+     "texto": "Quais evidências devem orientar as mudanças no próximo planejamento?",
+     "videoUrl": "",
+     "iframeH5P": ""
+    },
+    "novo": false
+   }
+  ]
  }
 }
