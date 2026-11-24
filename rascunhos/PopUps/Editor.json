@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-11-24T13:27:53.179Z",
+ "quando": "2026-11-24T13:29:52.285Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -42,7 +42,7 @@
      "html": "Participe e prestigie as experiências desenvolvidas pelos(as) professores(as) nos cursos técnicos da nossa rede!",
      "tamanho": 20,
      "cor": "#0a3442",
-     "peso": 800,
+     "peso": 400,
      "alinhamento": "center",
      "alturaLinha": 1.3,
      "maiusculas": false
@@ -51,10 +51,10 @@
      "id": "fdq5ztr",
      "tipo": "imagem",
      "caixa": {
-      "x": 7,
-      "y": 43.5,
-      "largura": 13.5,
-      "altura": 10.5
+      "x": 3,
+      "y": 43.25,
+      "largura": 16,
+      "altura": 13.5
      },
      "url": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%207.png",
      "alt": "Icone 7"
@@ -63,10 +63,10 @@
      "id": "hbsm8wh",
      "tipo": "imagem",
      "caixa": {
-      "x": 6,
-      "y": 56.5,
-      "largura": 14.5,
-      "altura": 9
+      "x": 2.5,
+      "y": 57.5,
+      "largura": 16,
+      "altura": 10.5
      },
      "url": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2036.png",
      "alt": "Icone 36"
@@ -84,18 +84,6 @@
      "alt": "Mão Megafone"
     },
     {
-     "id": "h6pb7qf",
-     "tipo": "imagem",
-     "caixa": {
-      "x": 6,
-      "y": 68,
-      "largura": 14.5,
-      "altura": 10
-     },
-     "url": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/ALVO.png",
-     "alt": "Alvo (linha)"
-    },
-    {
      "id": "vidwips",
      "tipo": "imagem",
      "caixa": {
@@ -111,33 +99,33 @@
      "id": "g9vg6gx",
      "tipo": "texto",
      "caixa": {
-      "x": 16,
+      "x": 23.5,
       "y": 43,
       "largura": 76,
       "altura": 14
      },
-     "html": "25/11 (quarta-feira)",
+     "html": "25/11 (quarta-feira)<br><br><span style=\"font-family: &quot;Open Sans&quot;, sans-serif;\">15h às 17h</span>",
      "tamanho": 22,
      "cor": "#0a3442",
-     "peso": 800,
-     "alinhamento": "center",
+     "peso": 700,
+     "alinhamento": "left",
      "alturaLinha": 1.2,
      "maiusculas": false
     },
     {
-     "id": "v1f3b4z",
+     "id": "fp7rqnt",
      "tipo": "texto",
      "caixa": {
-      "x": 13.5,
-      "y": 59.5,
+      "x": 24,
+      "y": 64,
       "largura": 76,
       "altura": 14
      },
-     "html": "Novo texto",
+     "html": "On-line",
      "tamanho": 22,
      "cor": "#0a3442",
-     "peso": 800,
-     "alinhamento": "center",
+     "peso": 700,
+     "alinhamento": "left",
      "alturaLinha": 1.2,
      "maiusculas": false
     }
