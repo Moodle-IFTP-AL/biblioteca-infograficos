@@ -1,7 +1,46 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão Imobiliária",
- "quando": "2026-11-24T12:22:28.355Z",
+ "quando": "2026-11-24T12:23:50.022Z",
  "autor": "Eduarda",
- "dados": {}
+ "dados": {
+  "linhaComBibliografia": false,
+  "campos": {
+   "objetivo": "Aplicar a análise de evidências de uma prática técnica para propor um ajuste fundamentado em uma próxima realização.<br>",
+   "titulo": "<b>Da experiência ao replanejamento da prática</b><br>",
+   "conteudo": "",
+   "reflexao": ""
+  },
+  "atividades": [
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32781\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"GIM-M4-U07-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   }
+  ],
+  "conclusao": {
+   "titulo": "Preparando a próxima prática ",
+   "texto": "Replanejar exige analisar evidências, reconhecer estratégias eficazes e identificar necessidades de aprimoramento. Não existe um único ajuste possível: cada decisão deve responder às dificuldades observadas e aos objetivos de aprendizagem.<br><br>Na próxima prática, registre os efeitos das mudanças realizadas e verifique se contribuíram para o desenvolvimento técnico dos(as) estudantes.<br>",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "Retorne às aulas do Módulo 3 para aprofundar como registros e evidências da prática podem orientar decisões de replanejamento e contribuir para a melhoria das próximas realizações.<br>",
+     "idRevisar": "mwuo60l5lgre8x",
+     "itensRevisar": [
+      {
+       "id": "mwuo62d6zob5bz",
+       "texto": "Unidade 7: Replanejamento a partir de registros e evidências.&nbsp;&nbsp;<br>",
+       "link": ""
+      },
+      {
+       "id": "mwuo62iazjf784",
+       "texto": "Unidade 8: Registro técnico e melhoria da prática.&nbsp;<br>",
+       "link": ""
+      }
+     ],
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": true
+    }
+   ]
+  }
+ }
 }
