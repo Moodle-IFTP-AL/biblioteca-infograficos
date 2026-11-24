@@ -1,50 +1,45 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Comunicação e Mercado",
- "quando": "2026-11-18T15:45:00.837Z",
+ "quando": "2026-11-24T12:09:39.200Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Analisar evidências de aprendizagem para formular devolutivas e refletir sobre a própria prática docente.<br>",
-   "titulo": "<b>Analisando Evidências em Práticas</b><br>",
-   "conteudo": "Agora, você vai relacionar evidências observadas durante a socialização de uma produção técnica às devolutivas que podem orientar os(as) estudantes.<br><br>As atividades propõem situações do eixo Comunicação e Mercado para que você analise decisões, identifique aprendizagens demonstradas e reconheça aspectos que precisam ser desenvolvidos.<br><br>Em seguida, você será convidado(a) a refletir sobre sua própria prática de observação e registro. Considere como suas intervenções podem ajudar os(as) estudantes a aprimorar suas produções e como essas experiências também oferecem informações para qualificar sua mediação pedagógica.<br>",
+   "objetivo": "Aplicar a análise de evidências de uma prática técnica para propor um ajuste fundamentado em uma próxima realização.<br>",
+   "titulo": "<b>Replanejando a prática a partir de evidências</b><br>",
+   "conteudo": "",
    "reflexao": ""
   },
   "atividades": [
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32749\" width=\"1124\" height=\"427\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"COM-M4-U06-APLI-DRAGW\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
-   },
-   {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32750\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"COM-M4-U06-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32777\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"COM-M4-U07-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
    }
   ],
   "conclusao": {
-   "titulo": "Consolidando as Aprendizagens",
-   "texto": "Ao relacionar as evidências às devolutivas, você percebeu que orientar a aprendizagem exige mais do que elogiar uma produção ou apontar o que precisa melhorar.<br><br>Uma devolutiva efetiva identifica o que foi demonstrado, relaciona essa evidência ao objetivo da atividade e indica um próximo passo possível.<br><br>Em sua prática, registre as decisões, justificativas, produções e dificuldades apresentadas pelos(as) estudantes. Essas informações ajudam a acompanhar os avanços, planejar intervenções e avaliar se suas estratégias de mediação estão contribuindo para a aprendizagem.<br><br>Assim, a socialização também se torna uma oportunidade de aprimoramento da prática docente.<br>[REVISAR1]",
+   "titulo": "Preparando a próxima prática ",
+   "texto": "O replanejamento eficaz nasce da escuta e observação cuidadosa da sala de aula. Não existe um ajuste único: a mudança deve responder diretamente às evidências coletadas e aos objetivos de aprendizagem.<br><br>Agora, aplique esse novo plano de ação e acompanhe os avanços na aprendizagem dos(as) seus(suas) estudantes!<br>",
    "blocos": [
     {
      "tipo": "revisar",
-     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:",
-     "idRevisar": "mwmaoixwr9t7fv",
+     "texto": "Retorne às aulas do Módulo 3 para aprofundar como registros e evidências da prática podem orientar decisões de replanejamento e contribuir para a melhoria das próximas realizações.<br>",
+     "idRevisar": "mwunnx2v1qpkxc",
      "itensRevisar": [
       {
-       "id": "mwmaokt5vary41",
-       "texto": "Unidade 5: Devolutivas Formativas e Feedforward;&nbsp;&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31495"
+       "id": "mwunnziqlla7x6",
+       "texto": "Unidade 7: Replanejamento a partir de registros e evidências.&nbsp;",
+       "link": ""
       },
       {
-       "id": "mwmaolasmhstdn",
-       "texto": "Unidade 8: Registro Técnico e Melhoria da Prática.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31696"
+       "id": "mwunnznqza6dj1",
+       "texto": "Unidade 8: Registro técnico e melhoria da prática.&nbsp;<br>",
+       "link": ""
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": false
+     "novo": true
     }
    ]
-  },
-  "tipoBotao": "voltar",
-  "link": "https://ead.educacao.al.gov.br/course/view.php?id=282#section-86"
+  }
  }
 }
