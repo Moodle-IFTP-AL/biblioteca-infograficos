@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Agro Sustentável",
- "quando": "2026-11-24T11:51:12.126Z",
+ "quando": "2026-11-24T11:53:15.075Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -44,8 +44,20 @@
   ],
   "conclusao": {
    "titulo": "Replanejar com intencionalidade",
-   "texto": "Replanejar não significa alterar tudo o que apresentou dificuldade. Significa comparar planejamento e execução, interpretar registros e resultados e decidir o que manter, modificar ou reorganizar.<br><br>Na produção de mudas, cada ajuste deve responder a uma evidência e permanecer relacionado ao objetivo de aprendizagem.<br><br>Registrar a justificativa da mudança também permite acompanhar seus efeitos quando a prática for realizada novamente e fundamentar novas decisões pedagógicas.<br>",
-   "blocos": []
-  }
+   "texto": "Replanejar não significa alterar tudo o que apresentou dificuldade. Significa comparar planejamento e execução, interpretar registros e resultados e decidir o que manter, modificar ou reorganizar.<br><br>Na produção de mudas, cada ajuste deve responder a uma evidência e permanecer relacionado ao objetivo de aprendizagem.<br><br>Registrar a justificativa da mudança também permite acompanhar seus efeitos quando a prática for realizada novamente e fundamentar novas decisões pedagógicas.<br>[TOMENOTA1]<br>[DICA1]",
+   "blocos": [
+    {
+     "tipo": "tomenota",
+     "texto": "Replanejar não é substituir toda a atividade. Preserve os elementos que favoreceram a aprendizagem e modifique somente aquilo que as evidências mostram precisar de ajuste.<br>",
+     "novo": false
+    },
+    {
+     "tipo": "dica",
+     "texto": "Registre o ajuste no formato: evidência observada, mudança proposta, justificativa e resultado esperado. Depois da nova prática, acrescente o efeito realmente observado.<br>",
+     "novo": false
+    }
+   ]
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29464"
  }
 }
