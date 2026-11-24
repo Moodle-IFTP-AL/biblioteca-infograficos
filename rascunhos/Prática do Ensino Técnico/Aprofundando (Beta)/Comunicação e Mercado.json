@@ -1,76 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Comunicação e Mercado",
- "quando": "2026-11-23T19:59:35.385Z",
+ "quando": "2026-11-24T11:57:18.996Z",
  "autor": "Eduarda",
- "dados": {
-  "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Síntese e qualificação da prática técnica.<br><b>Conteúdos:</b><br><ul><li>Retomada do percurso formativo e das práticas realizadas no ano.<br></li><li>Relação entre objetivos, procedimentos, participação e resultados.<br></li><li>Critérios de qualidade e desempenho já trabalhados.<br></li><li>Pontos fortes e pontos de atenção.<br></li><li>Condições que favoreceram ou limitaram a prática.<br></li><li>Prioridades para aprimoramento.<br></li></ul><b>Objetivo da Aula: </b>Sistematizar uma análise reflexiva de uma prática técnica já realizada, articulando planejamento, execução, mediação e avaliação e definindo ajustes para sua qualificação.<br>",
-   "objetivo": "Analisar o conjunto de práticas, registros e evidências produzidos ao longo da formação, relacionando-os às aprendizagens construídas para identificar possibilidades de qualificação da própria atuação docente.<br>",
-   "titulo": "<b>Síntese do Percurso e Qualificação Docente</b><br>",
-   "conteudo": "Chegamos ao momento de encerramento do nosso percurso formativo.<br><br>É hora de revisitar não apenas uma atividade isolada, mas o conjunto de aulas, práticas, registros e experiências construídos ao longo do ano com suas turmas de Comércio, Marketing e Publicidade.<br><br>Planejamentos, produções dos(as) estudantes e anotações ajudam a recuperar situações reais e reconhecer mudanças na sua atuação, sem depender apenas da memória.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Analisando a Prática Docente</font></b></h3><br>Ao reunir os registros e as evidências das práticas realizadas durante o ano, você consegue perceber aspectos que nem sempre ficam claros durante uma aula. Observe como diferentes escolhas se relacionaram com a aprendizagem dos(as) estudantes:<br>[INFOGRAFICO1]<br>[ACCORDION1]<br><h3><b><font color=\"#f04770\">Da Experiência às Aprendizagens Profissionais</font></b></h3><br>Ao olhar para o percurso realizado, identifique o que passou a fazer parte da sua prática e quais aspectos ainda deseja desenvolver. Considere suas experiências nos cursos de Comércio, Marketing e Publicidade e organize suas prioridades:<br><ul><li><b>Manter:</b> atividades práticas e situações próximas da realidade do mercado.<br></li><li><b>Aprofundar:</b> análise de mercado, comportamento do(a) consumidor(a) e estratégias de comunicação.<br></li><li><b>Aperfeiçoar:</b> formas de acompanhar a aprendizagem, registrar evidências e oferecer devolutivas.<br></li><li><b>Transformar:</b> avaliações centradas apenas no produto final em acompanhamento das decisões, dos procedimentos e da participação dos(as) estudantes.<br></li></ul>Essas escolhas podem orientar novas práticas, turmas e contextos de ensino.<br><br><h3><b><font color=\"#f04770\">Aprendizagens para o Futuro</font></b></h3><br>Ao encerrar esta formação, reconheça o que passou a fazer parte da sua prática: novas formas de planejar, conduzir atividades, acompanhar a aprendizagem e avaliar os resultados.<br><br>Identifique também o que deseja fortalecer e quais aspectos pretende observar com mais atenção nas próximas experiências.<br>[CAIXADESTAQUE2]",
-   "conectando": "No fórum de encerramento, compartilhe suas aprendizagens e os próximos passos que pretende dar em sua trajetória docente.<br>"
-  },
-  "blocos": [
-   {
-    "tipo": "caixadestaque",
-    "texto": "<b>O que essas experiências revelam sobre como você planeja, conduz, acompanha e avalia suas práticas?&nbsp;</b><br>",
-    "caixaImgUrl": "",
-    "caixaImgSize": 40,
-    "caixaCorFundo": "#fdf0f3",
-    "caixaCorBorda": "#f04770",
-    "novo": false,
-    "caixaCorTexto": "#0a3442"
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "blocos_coloridos",
-    "infograficoData": {
-     "introducao": "",
-     "blocos": "[{\"titulo\":\"Planejamento\",\"texto\":\"Os objetivos, as estratégias e as atividades estavam relacionados?&nbsp;<br>\"},{\"titulo\":\"Metodologias\",\"texto\":\"Quais propostas favoreceram a participação e a relação entre teoria e prática?&nbsp;<br>\"},{\"titulo\":\"Avaliação e evidências\",\"texto\":\"Quais registros ajudaram a acompanhar a aprendizagem?&nbsp;<br>\"},{\"titulo\":\"Mediação\",\"texto\":\"Como você orientou os(as) estudantes diante das dificuldades?&nbsp;<br>\"},{\"titulo\":\"Adaptação\",\"texto\":\"Quais mudanças foram necessárias durante as atividades?&nbsp;<br>\"},{\"titulo\":\"Integração curricular\",\"texto\":\"Como os conhecimentos técnicos foram relacionados a outros saberes e às situações do mundo do trabalho?&nbsp;<br>\"}]"
-    },
-    "novo": false
-   },
-   {
-    "tipo": "accordion",
-    "texto": "",
-    "topicos": [
-     {
-      "titulo": "Exemplo Prático — Identificando padrões nas práticas",
-      "texto": "Ao revisar as atividades realizadas durante o ano, um(a) professor(a) de uma escola técnica de Alagoas identificou que as simulações de atendimento ao cliente, as pesquisas de mercado e a criação de campanhas publicitárias favoreceram a participação dos(as) estudantes. Os registros também mostraram que trabalhar com situações de empresas locais ajudou a relacionar os conteúdos à realidade profissional.<br><br>Por outro lado, em diferentes atividades, os(as) estudantes tiveram dificuldade para justificar decisões com base no perfil do público e nos dados analisados. O(a) professor(a) percebeu que precisava ampliar os momentos de interpretação e discussão. Essa análise ajudou a identificar estratégias a manter e aspectos a aperfeiçoar nas próximas aulas.<br>"
-     }
-    ],
-    "novo": false
-   },
-   {
-    "tipo": "caixadestaque",
-    "texto": "<b>A formação termina, mas sua aprendizagem continua. Cada nova turma e cada situação de ensino oferecem oportunidades para testar escolhas e desenvolver sua atuação docente.&nbsp;</b><br>",
-    "caixaImgUrl": "",
-    "caixaImgSize": 40,
-    "caixaCorFundo": "#fefce8",
-    "caixaCorBorda": "#fec43e",
-    "novo": false,
-    "caixaCorTexto": "#0a3442"
-   }
-  ],
-  "conclusao": {
-   "titulo": "",
-   "texto": "[TOMENOTA1]<br>[DICA1]",
-   "blocos": [
-    {
-     "tipo": "tomenota",
-     "texto": "Reunir registros e evidências de diferentes atividades ajuda a reconhecer padrões na prática docente. Use essas informações para decidir o que manter, aprofundar, aperfeiçoar ou transformar nas próximas aulas.<br>",
-     "novo": false
-    },
-    {
-     "tipo": "dica",
-     "texto": "Organize um portfólio com planejamentos, atividades, registros e produções dos(as) estudantes. Ao final de cada período, retome esse material para identificar avanços, dificuldades recorrentes e estratégias que podem ser aproveitadas em outras turmas.<br>",
-     "novo": false
-    }
-   ]
-  },
-  "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=29661",
-  "linhaComBibliografia": false
- }
+ "dados": {}
 }
