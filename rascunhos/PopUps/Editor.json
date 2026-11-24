@@ -1,115 +1,53 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-11-12T21:04:04.330Z",
+ "quando": "2026-11-24T13:21:52.116Z",
  "autor": "Teste",
  "dados": {
   "popup": {
-   "titulo": "Gravações do encontro síncrono",
-   "fundo": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/popup/Popup2.png",
-   "proporcao": 0.7947947947947948,
-   "larguraMaxima": 520,
+   "titulo": "📢 Roda de Boas Práticas do IFTP",
+   "fundo": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/popup/Popup4.png",
+   "proporcao": 0.795,
+   "larguraMaxima": 460,
    "corVeu": "#0a3442",
    "opacidadeVeu": 0.88,
    "raioCartao": 15,
    "elementos": [
     {
-     "id": "mmwdm9kbv4",
+     "id": "l27dxuj",
      "tipo": "texto",
      "caixa": {
-      "x": 12,
-      "y": 17,
-      "largura": 76,
-      "altura": 21
+      "x": 5,
+      "y": 8.5,
+      "largura": 90,
+      "altura": 18
      },
-     "html": "GRAVAÇÕES<br><span style=\"color: #f04770;\">DO 7º</span><span style=\"color: #f04770;\">&nbsp;ENCONTRO SÍNCRONO</span>",
-     "tamanho": 32,
-     "cor": "#f04770",
-     "peso": 900,
+     "html": "📢 Roda de Boas Práticas do IFTP",
+     "tamanho": 31,
+     "cor": "#ffffff",
+     "peso": 800,
      "alinhamento": "center",
-     "alturaLinha": 1.1,
-     "maiusculas": true
-    },
-    {
-     "id": "mmwdm9kbv5",
-     "tipo": "texto",
-     "caixa": {
-      "x": 13,
-      "y": 39,
-      "largura": 74,
-      "altura": 22
-     },
-     "html": "Não conseguiu participar ao vivo? As gravações já estão disponíveis!<br><br><b>Assista à gravação e responda ao fórum</b> para contabilizar sua participação.",
-     "tamanho": 18,
-     "cor": "#0a3442",
-     "peso": 400,
-     "alinhamento": "center",
-     "alturaLinha": 1.4,
+     "alturaLinha": 1.2,
      "maiusculas": false
     },
     {
-     "id": "mmwdm9kbv6",
-     "tipo": "botao",
+     "id": "rh4aor1",
+     "tipo": "texto",
      "caixa": {
-      "x": 12,
-      "y": 66,
-      "largura": 36.5,
-      "altura": 13
+      "x": 3.5,
+      "y": 22.5,
+      "largura": 93,
+      "altura": 15.5
      },
-     "texto": "GRAVAÇÃO METODOLOGIA PEDAGÓGICA",
-     "href": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27088",
-     "corFundo": "#06d7a0",
-     "corTexto": "#0a3442",
+     "html": "Participe e prestigie as experiências desenvolvidas pelos(as) professores(as) nos cursos técnicos da nossa rede!",
      "tamanho": 14,
-     "raio": 12,
-     "novaAba": false,
-     "pulsar": false
-    },
-    {
-     "id": "mmwdm9kbv7",
-     "tipo": "botao",
-     "caixa": {
-      "x": 50.5,
-      "y": 66,
-      "largura": 36.5,
-      "altura": 13
-     },
-     "texto": "GRAVAÇÃO PRÁTICA ENSINO TÉCNICO",
-     "href": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27089",
-     "corFundo": "#f04770",
-     "corTexto": "#ffffff",
-     "tamanho": 14,
-     "raio": 12,
-     "novaAba": false,
-     "pulsar": false
+     "cor": "#ffffff",
+     "peso": 800,
+     "alinhamento": "center",
+     "alturaLinha": 1.2,
+     "maiusculas": false
     }
    ]
-  },
-  "ajusteEixo": {
-   "eixo": "CDC",
-   "feitoEm": "2026-11-12T21:04:00.799Z",
-   "linhas": [
-    {
-     "tipo": "Link Fórum",
-     "nome": "7ªGRAVACAOPARTE1(METODOLOGIAPEDAGOGICA)",
-     "de": 27080,
-     "para": 27088,
-     "situacao": "trocado",
-     "eixoOrigem": "COM",
-     "mod": "forum",
-     "rotulo": "href GRAVAÇÃO METODOLOGIA PEDAGÓGICA #0a3442"
-    },
-    {
-     "tipo": "Link Fórum",
-     "nome": "7ªGRAVACAOPARTE2(PRATICASDOENSINOTECNICO)",
-     "de": 27089,
-     "para": 27089,
-     "situacao": "correto",
-     "mod": "forum",
-     "rotulo": "href GRAVAÇÃO PRÁTICA ENSINO TÉCNICO #ffffff"
-    }
-   ],
-   "manuais": {}
   }
  }
 }
