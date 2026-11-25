@@ -1,138 +1,87 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-11-24T13:43:30.354Z",
+ "quando": "2026-11-25T13:29:37.725Z",
  "autor": "Teste",
  "dados": {
   "popup": {
-   "titulo": "📢 Roda de Boas Práticas do IFTP",
-   "fundo": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/popup/Popup18.png",
-   "proporcao": 1.3336,
-   "larguraMaxima": 480,
+   "titulo": "Gravações do encontro síncrono",
+   "fundo": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/popup/Popup2.png",
+   "proporcao": 0.7947947947947948,
+   "larguraMaxima": 520,
    "corVeu": "#0a3442",
-   "opacidadeVeu": 0.7,
+   "opacidadeVeu": 0.88,
    "raioCartao": 15,
    "elementos": [
     {
-     "id": "l27dxuj",
+     "id": "mmww5sy4t4",
      "tipo": "texto",
      "caixa": {
-      "x": 6,
-      "y": 9,
-      "largura": 87.5,
-      "altura": 14.5
+      "x": 12,
+      "y": 17,
+      "largura": 76,
+      "altura": 21
      },
-     "html": "&nbsp;Roda de Boas Práticas do IFTP",
-     "tamanho": 31,
-     "cor": "#ffffff",
-     "peso": 800,
+     "html": "GRAVAÇÕES<br><span style=\"color: #f04770;\">DO </span><span style=\"color: #00ace7;\">5º</span><span style=\"color: #f04770;\"> ENCONTRO SÍNCRONO</span>",
+     "tamanho": 32,
+     "cor": "#f04770",
+     "peso": 900,
      "alinhamento": "center",
-     "alturaLinha": 1.2,
-     "maiusculas": false
+     "alturaLinha": 1.1,
+     "maiusculas": true
     },
     {
-     "id": "rh4aor1",
+     "id": "mmww5sy4t5",
      "tipo": "texto",
      "caixa": {
-      "x": 3.5,
-      "y": 22,
-      "largura": 93,
-      "altura": 15.5
+      "x": 13,
+      "y": 40,
+      "largura": 74,
+      "altura": 22
      },
-     "html": "Participe e prestigie as experiências desenvolvidas pelos(as) professores(as) nos cursos técnicos da nossa rede!",
-     "tamanho": 17,
-     "cor": "#ffffff",
-     "peso": 400,
-     "alinhamento": "center",
-     "alturaLinha": 1.3,
-     "maiusculas": false
-    },
-    {
-     "id": "fdq5ztr",
-     "tipo": "imagem",
-     "caixa": {
-      "x": 7.5,
-      "y": 41.5,
-      "largura": 16,
-      "altura": 13.5
-     },
-     "url": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%207.png",
-     "alt": "Icone 7"
-    },
-    {
-     "id": "hbsm8wh",
-     "tipo": "imagem",
-     "caixa": {
-      "x": 6.5,
-      "y": 62.5,
-      "largura": 15,
-      "altura": 10.5
-     },
-     "url": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/Icone%20T2%20c%C3%B3pia%2036.png",
-     "alt": "Icone 36"
-    },
-    {
-     "id": "vidwips",
-     "tipo": "imagem",
-     "caixa": {
-      "x": 6.5,
-      "y": 80.5,
-      "largura": 13,
-      "altura": 9.5
-     },
-     "url": "https://cdn.jsdelivr.net/gh/Moodle-IFTP-AL/assets-Moodle-SEDUC-AL@main/Desenho%20Linhas/click.png",
-     "alt": "Click"
-    },
-    {
-     "id": "g9vg6gx",
-     "tipo": "texto",
-     "caixa": {
-      "x": 28,
-      "y": 40.5,
-      "largura": 61.5,
-      "altura": 14.5
-     },
-     "html": "25/11 (quarta-feira)<br>--------------<br><span style=\"font-family: &quot;Open Sans&quot;, sans-serif;\">15h às 17h</span>",
-     "tamanho": 22,
+     "html": "As gravações já estão disponíveis!<br><br><b>Assista à gravação e responda ao fórum</b> para contabilizar sua participação.",
+     "tamanho": 18,
      "cor": "#0a3442",
      "peso": 400,
-     "alinhamento": "left",
-     "alturaLinha": 1.2,
+     "alinhamento": "center",
+     "alturaLinha": 1.4,
      "maiusculas": false
     },
     {
-     "id": "fp7rqnt",
-     "tipo": "texto",
+     "id": "mmww5sy4t6",
+     "tipo": "botao",
      "caixa": {
-      "x": 27.5,
-      "y": 61.5,
-      "largura": 62,
+      "x": 12,
+      "y": 66,
+      "largura": 36.5,
       "altura": 13
      },
-     "html": "On-line",
-     "tamanho": 22,
-     "cor": "#0a3442",
-     "peso": 700,
-     "alinhamento": "left",
-     "alturaLinha": 1.2,
-     "maiusculas": false
+     "texto": "GRAVAÇÃO METODOLOGIA PEDAGÓGICA",
+     "href": "",
+     "corFundo": "#06d7a0",
+     "corTexto": "#0a3442",
+     "tamanho": 14,
+     "raio": 12,
+     "novaAba": false,
+     "pulsar": false
     },
     {
-     "id": "7kbafa7",
-     "tipo": "texto",
+     "id": "mmww5sy4t7",
+     "tipo": "botao",
      "caixa": {
-      "x": 24,
-      "y": 78,
-      "largura": 76,
-      "altura": 14
+      "x": 51.5,
+      "y": 66,
+      "largura": 36.5,
+      "altura": 13
      },
-     "html": "Acesse pelo Google Meet: https://meet.google.com/wke-sqpo-prf",
-     "tamanho": 17,
-     "cor": "#ffffff",
-     "peso": 700,
-     "alinhamento": "left",
-     "alturaLinha": 1.2,
-     "maiusculas": false
+     "texto": "GRAVAÇÃO PRÁTICA ENSINO TÉCNICO",
+     "href": "",
+     "corFundo": "#f04770",
+     "corTexto": "#ffffff",
+     "tamanho": 14,
+     "raio": 12,
+     "novaAba": false,
+     "pulsar": false
     }
    ]
   }
