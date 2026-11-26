@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-11-26T13:48:57.467Z",
+ "quando": "2026-11-26T13:50:31.856Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -14,32 +14,15 @@
    "raioCartao": 15,
    "elementos": [
     {
-     "id": "mmwxltx8e4",
-     "tipo": "texto",
-     "caixa": {
-      "x": 12,
-      "y": 26.5,
-      "largura": 76,
-      "altura": 21
-     },
-     "html": "<p dir=\"ltr\"><strong>Roda de Boas Práticas do IFTP</strong></p><p dir=\"ltr\"></p><div><p dir=\"ltr\"></p></div>",
-     "tamanho": 32,
-     "cor": "#f04770",
-     "peso": 900,
-     "alinhamento": "center",
-     "alturaLinha": 1.1,
-     "maiusculas": true
-    },
-    {
      "id": "mmwxltx8e5",
      "tipo": "texto",
      "caixa": {
       "x": 13,
-      "y": 40,
+      "y": 43,
       "largura": 74,
       "altura": 22
      },
-     "html": "<b>Assista à gravação e responda ao fórum</b> para contabilizar sua participação.",
+     "html": "<p dir=\"ltr\">Assista à gravação da aula, prestigie as experiências dos(as) professores(as) da nossa rede e responda ao fórum para contabilizar sua participação.</p>",
      "tamanho": 18,
      "cor": "#0a3442",
      "peso": 400,
