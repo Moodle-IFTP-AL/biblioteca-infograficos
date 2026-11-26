@@ -1,7 +1,47 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-11-23T19:32:56.312Z",
+ "quando": "2026-11-26T21:04:08.043Z",
  "autor": "Teste",
- "dados": {}
+ "dados": {
+  "campos": {
+   "objetivo": "Aplicar a análise de evidências de uma prática técnica para propor um ajuste fundamentado em uma próxima realização.<br>",
+   "titulo": "<b>Replanejando a prática na TI\n<br></b>\n<br>",
+   "conteudo": "<br>",
+   "reflexao": "O replanejamento parte da observação cuidadosa da prática e das evidências que ela produz. \n<br>\n<br>Não existe um único ajuste possível: cada decisão deve responder às necessidades identificadas e aos objetivos de aprendizagem.\n<br>\n<br>Na próxima aula, observe e registre os efeitos do ajuste que você definiu.&nbsp;<br>"
+  },
+  "atividades": [
+   {
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32782\" width=\"1456\" height=\"638\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"TI-M4-U07-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+   }
+  ],
+  "conclusao": {
+   "titulo": "Preparando a próxima prática ",
+   "texto": "Replanejar é transformar as evidências da prática em decisões pedagógicas alinhadas às necessidades dos(as) estudantes e aos objetivos de aprendizagem.<div>&nbsp;\n<br>Não existe um único ajuste possível: cada escolha deve responder ao que foi observado.</div><div>&nbsp; \n<br>Na próxima realização, experimente o ajuste proposto e observe seus efeitos na aprendizagem dos(as) estudantes!\n<br>[REVISAR1]</div>",
+   "blocos": [
+    {
+     "tipo": "revisar",
+     "texto": "Retorne às aulas do Módulo 3 para aprofundar como registros e evidências da prática podem orientar decisões de replanejamento e contribuir para a melhoria das próximas realizações.<br>",
+     "idRevisar": "mwta8thenfwa44",
+     "itensRevisar": [
+      {
+       "id": "mwta8v06kz9pnx",
+       "texto": "Unidade 7: Replanejamento a partir de registros e evidências.&nbsp;&nbsp;<br>",
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28918"
+      },
+      {
+       "id": "mwta8vfe0u62eg",
+       "texto": "Unidade 8: Registro técnico e melhoria da prática.&nbsp;<br>",
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28939"
+      }
+     ],
+     "linkBotao": "",
+     "textoBotao": "",
+     "novo": false
+    }
+   ]
+  },
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30518",
+  "tipoBotao": "bibliografia"
+ }
 }
