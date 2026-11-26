@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-11-25T13:29:37.725Z",
+ "quando": "2026-11-26T13:46:35.439Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -14,7 +14,7 @@
    "raioCartao": 15,
    "elementos": [
     {
-     "id": "mmww5sy4t4",
+     "id": "mmwxltx8e4",
      "tipo": "texto",
      "caixa": {
       "x": 12,
@@ -31,7 +31,7 @@
      "maiusculas": true
     },
     {
-     "id": "mmww5sy4t5",
+     "id": "mmwxltx8e5",
      "tipo": "texto",
      "caixa": {
       "x": 13,
@@ -39,7 +39,7 @@
       "largura": 74,
       "altura": 22
      },
-     "html": "As gravações já estão disponíveis!<br><br><b>Assista à gravação e responda ao fórum</b> para contabilizar sua participação.",
+     "html": "<b>Assista à gravação e responda ao fórum</b> para contabilizar sua participação.",
      "tamanho": 18,
      "cor": "#0a3442",
      "peso": 400,
@@ -48,7 +48,7 @@
      "maiusculas": false
     },
     {
-     "id": "mmww5sy4t6",
+     "id": "mmwxltx8e6",
      "tipo": "botao",
      "caixa": {
       "x": 12,
@@ -66,7 +66,7 @@
      "pulsar": false
     },
     {
-     "id": "mmww5sy4t7",
+     "id": "mmwxltx8e7",
      "tipo": "botao",
      "caixa": {
       "x": 51.5,
