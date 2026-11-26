@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-11-26T14:26:16.096Z",
+ "quando": "2026-11-26T14:28:27.208Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -22,7 +22,7 @@
       "largura": 76,
       "altura": 21
      },
-     "html": "GRAVAÇÕES<br><span style=\"color: #f04770;\">DO </span><span style=\"color: #00ace7;\">5º</span><span style=\"color: #f04770;\"> ENCONTRO SÍNCRONO</span>",
+     "html": "Gravações da 8ª Formação&nbsp;",
      "tamanho": 32,
      "cor": "#f04770",
      "peso": 900,
