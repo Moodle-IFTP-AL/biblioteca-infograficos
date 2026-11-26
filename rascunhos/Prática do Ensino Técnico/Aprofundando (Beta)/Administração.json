@@ -1,26 +1,28 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Administração",
- "quando": "2026-11-23T20:07:16.264Z",
+ "quando": "2026-11-26T21:12:26.279Z",
  "autor": "Teste",
  "dados": {
   "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Síntese e qualificação da prática técnica.<br><b>Conteúdos:</b><br><ul><li>Retomada do percurso formativo e das práticas realizadas no ano.<br></li><li>Relação entre objetivos, procedimentos, participação e resultados.<br></li><li>Critérios de qualidade e desempenho já trabalhados.<br></li><li>Pontos fortes e pontos de atenção.<br></li><li>Condições que favoreceram ou limitaram a prática.<br></li><li>Prioridades para aprimoramento.<br></li></ul><b>Objetivo da Aula: </b>Sistematizar uma análise reflexiva de uma prática técnica já realizada, articulando planejamento, execução, mediação e avaliação e definindo ajustes para sua qualificação.<br>",
-   "objetivo": "Analisar o conjunto de práticas, registros e evidências produzidos ao longo da formação, relacionando-os às aprendizagens construídas para identificar possibilidades de qualificação da própria atuação docente.<br>",
-   "titulo": "<b>Horizontes Profissionais</b><br>",
-   "conteudo": "Chegamos à última aula da formação. Este é um momento para:<br><ul><li>olhar para as experiências vividas ao longo do ano;<br></li><li>retomar as atividades realizadas com suas turmas;<br></li><li>reconhecer o que mudou na sua forma de ensinar.</li></ul>Seus planejamentos, registros e produções dos(as) estudantes ajudam a recuperar situações que marcaram esse percurso e a perceber avanços que talvez não tenham sido notados no dia a dia.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Analisando a Prática Docente<br><br></font></b></h3>Ao reunir os registros e as experiências do ano, você consegue perceber aspectos da sua prática que nem sempre ficam claros durante uma aula.<br><br>Observe como diferentes escolhas se relacionaram com a aprendizagem dos(as) estudantes:<br>[INFOGRAFICO1]<br>[ACCORDION1]<br><h3><b><font color=\"#f04770\">Da Experiência às Aprendizagens Profissionais</font></b></h3><br>Ao olhar para o percurso realizado, identifique o que passou a fazer parte da sua prática e quais aspectos ainda deseja desenvolver. Considere as experiências com suas turmas de Administração e organize suas prioridades:<br><ul><li><b>Manter:</b> estratégias que favoreceram a participação e a aprendizagem.<br></li><li><b>Aprofundar:</b> conhecimentos técnicos que precisam ser mais explorados.<br></li><li><b>Aperfeiçoar:</b> formas de acompanhar, avaliar e orientar os(as) estudantes.<br></li><li><b>Transformar:</b> práticas que precisam ser revistas diante das necessidades identificadas.<br></li><li><b>Ampliar:</b> estratégias que podem ser utilizadas em outras turmas e situações de ensino.<br></li></ul>Essa análise ajuda você a reconhecer suas aprendizagens e a definir caminhos para continuar desenvolvendo sua atuação docente.<br><br><h3><b><font color=\"#f04770\">Aprendizagens para o Futuro</font></b></h3><br>Ao concluir esta formação, reconheça o que aprendeu, as estratégias que incorporou à sua prática e os aspectos que ainda deseja desenvolver.<br><br>As experiências vividas ao longo do ano deixam referências para suas próximas aulas e ajudam você a fazer escolhas mais conscientes.<br>[CAIXADESTAQUE2]",
-   "conectando": "Depois de revisitar sua trajetória, é hora de compartilhar suas aprendizagens e reconhecer o que deseja levar para suas próximas práticas."
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do conhecimento: </b>replanejamento da prática técnica a partir da experiência.<br><b>Conteúdos:</b><br><ul><li>retomada do planejamento e da execução;<br></li><li>evidências e registros produzidos;<br></li><li>dificuldades e resultados observados;<br></li><li>aspectos a manter e a modificar;<br></li><li>ajustes em procedimentos, mediações, tempos e recursos;<br></li><li>justificativa das alterações propostas.<br></li></ul><b>Objetivo da aula:</b> replanejar uma prática técnica já realizada, utilizando evidências, registros e resultados observados para definir ajustes fundamentados.<br>",
+   "objetivo": "Identificar como o planejamento, a execução e as evidências de uma prática técnica podem orientar decisões de replanejamento.<br>",
+   "titulo": "<b>A prática de planejar e replanejar\n<br></b>\n<br>",
+   "conteudo": "<h3><b><font color=\"#f04770\">A realidade do planejado</font></b></h3>Em uma aula de Eventos numa escola de Maragogi, você planejou que os(as) estudantes elaborassem, em 40 minutos, o cronograma e o checklist de montagem de um seminário.<div>&nbsp;\n<br>Na execução, os grupos organizaram a programação, mas a atividade passou do tempo, e vários checklists não previam etapas, como o teste de som e a montagem do credenciamento.\n<br>[PERGUNTA1]<br><h3><b><font color=\"#f04770\">Do planejamento à prática</font></b></h3><br>O replanejamento começa pela comparação entre o que foi previsto e o que realmente aconteceu durante a prática. Na montagem do seminário, retome:<br><ul><li><b>o objetivo de aprendizagem:</b> organizar a montagem de um evento, prevendo todas as etapas e seus(suas) responsáveis;<br></li><li><b>as etapas previstas:</b>  definir a programação, listar as tarefas de montagem e distribuir responsáveis;<br></li><li><b>os procedimentos:</b> a demonstração com um cronograma-modelo e o trabalho em grupos;<br></li><li><b>os tempos:</b> 40 minutos para cronograma e checklist;<br></li><li><b>os recursos:</b>  modelo de cronograma, planta do auditório e lista de fornecedores(as).</li></ul>Nessa retomada, você percebe que a programação consumiu quase todo o tempo e que o checklist foi feito às pressas.<br><h3><b><font color=\"#f04770\">O que a prática revela?</font></b></h3><br>O replanejamento ganha consistência quando se apoia em evidências e registros da prática, e não apenas em impressões gerais sobre o desempenho da turma. Na montagem do seminário, observe:&nbsp;[GLOSSARIO1]<br><ul><li><b>registros da execução</b>: suas anotações sobre o tempo gasto em cada etapa;</li><li><b>produções dos(as) estudantes:</b> cronogramas e checklists entregues;\n<br><b>dificuldades nos procedimentos:</b> ordenar as tarefas de montagem antes da abertura do evento;\n<br><b>dúvidas e erros recorrentes:</b> etapas técnicas esquecidas, como o teste de som;\n<br><b>resultados alcançados:</b> o quanto os checklists cobrem a montagem prevista no objetivo.&nbsp;<br></li></ul>Ao relacionar essas evidências ao planejamento, você compreende o que favoreceu a aprendizagem e o que precisa ser ajustado.\n<br><br><h3><b><font color=\"#f04770\">O que manter, modificar ou reorganizar?&nbsp;<br><br></font></b></h3>Na montagem do seminário, as evidências indicaram que os(as) estudantes organizaram bem a programação, mas ainda não preveem todas as etapas de montagem. Essa análise ajuda a definir o que manter, modificar ou reorganizar.<br>[INFOGRAFICO1]<br><br>Assim, cada ajuste se apoia nas evidências observadas e no objetivo de aprendizagem.</div>",
+   "conectando": "Com isso em mente, chegou o momento de aplicar estes conceitos na sua própria prática técnica. Siga em frente!<br><br>"
   },
   "blocos": [
    {
-    "tipo": "caixadestaque",
-    "texto": "<b>Ao olhar para esse conjunto de experiências, o que você identifica sobre sua prática docente e sobre o que ainda deseja desenvolver?</b><br>",
-    "caixaImgUrl": "",
-    "caixaImgSize": 40,
-    "caixaCorFundo": "#beeffc",
-    "caixaCorBorda": "#79d3f2",
-    "novo": false,
-    "caixaCorTexto": "#0a3442"
+    "tipo": "pergunta",
+    "texto": "",
+    "pergunta": {
+     "tipo": "texto",
+     "titulo": "Reflita:",
+     "texto": "Antes de decidir o que modificar na próxima realização dessa prática, quais evidências você precisa analisar para compreender as dificuldades?<br><br>",
+     "videoUrl": "",
+     "iframeH5P": ""
+    },
+    "novo": false
    },
    {
     "tipo": "infografico",
@@ -28,44 +30,46 @@
     "infograficoTipo": "blocos_coloridos",
     "infograficoData": {
      "introducao": "",
-     "blocos": "[{\"titulo\":\"Planejamento\",\"texto\":\"Os objetivos e as atividades estavam relacionados?\"},{\"titulo\":\"Metodologias\",\"texto\":\"Quais estratégias favoreceram a participação e a relação entre teoria e prática?&nbsp;<br>\"},{\"titulo\":\"Avaliação\",\"texto\":\"Quais registros ajudaram a acompanhar a aprendizagem?&nbsp;<br>\"},{\"titulo\":\"Mediação\",\"texto\":\"Como você orientou os(as) estudantes diante das dificuldades?&nbsp;<br>\"},{\"titulo\":\"Adaptação\",\"texto\":\"Quais mudanças foram necessárias durante as atividades?\"},{\"titulo\":\"Integração curricular\",\"texto\":\"Como os conhecimentos técnicos foram relacionados a outros saberes e ao mundo do trabalho?&nbsp;<br>\"}]"
+     "blocos": "[{\"titulo\":\"Planejamento e execução\",\"texto\":\"estavam previstos 40 minutos, mas a programação ocupou quase todo o tempo, e o checklist ficou para o fim.<br>\"},{\"titulo\":\"Evidências e registros\",\"texto\":\"cinco dos seis checklists não incluíram o teste de som, e três não previram a montagem do credenciamento.<br>\"},{\"titulo\":\"Dificuldades e resultados\",\"texto\":\"&nbsp;os grupos listaram as tarefas visíveis ao público, mas esqueceram as etapas técnicas que antecedem a abertura\"},{\"titulo\":\"Aspectos a manter\",\"texto\":\"o trabalho em grupos e o cronograma-modelo favoreceram a organização da programação.<br>\"},{\"titulo\":\"Aspectos a modificar\",\"texto\":\"começar a atividade pelo checklist e apresentar a planta do auditório com os pontos de montagem antes do trabalho em grupos.<br>\"}]"
     },
     "novo": false
    },
    {
-    "tipo": "accordion",
+    "tipo": "glossario",
     "texto": "",
-    "topicos": [
+    "termos": [
      {
-      "titulo": "Exemplo Prático — O que os registros revelaram em Administração? ",
-      "texto": "Ao revisar os registros das aulas de uma turma do Curso Técnico em Administração, uma professora identificou que as simulações de situações reais de empresas, como controle de estoque e organização financeira, aumentaram a participação dos(as) estudantes. Nas atividades, eles(as) conseguiram aplicar conceitos administrativos para resolver problemas, mas muitos tiveram dificuldade para justificar suas decisões com base nos dados analisados.<br><br>Ao comparar diferentes atividades, a professora percebeu que essa dificuldade se repetia. A análise mostrou que as simulações aproximavam os conteúdos da realidade profissional, mas era preciso incluir mais momentos de interpretação de dados e discussão das decisões. Com isso, ela identificou estratégias a manter e aspectos a aperfeiçoar nas próximas aulas.<br>"
+      "termo": "Replanejamento",
+      "definicao": "Revisão intencional da prática baseada em evidências, resultados e objetivos de aprendizagem.\n<br>\n<br>"
+     },
+     {
+      "termo": "Evidência pedagógica",
+      "definicao": "Informação observável usada para compreender a aprendizagem e fundamentar decisões docentes.&nbsp;<br>"
+     },
+     {
+      "termo": "Ajuste fundamentado",
+      "definicao": "Mudança justificada por evidências e relacionada ao objetivo de aprendizagem.<br>"
      }
     ],
     "novo": false
-   },
-   {
-    "tipo": "caixadestaque",
-    "texto": "<b>A formação termina, mas a reflexão sobre o próprio trabalho continua: cada nova turma e cada prática técnica trazem outras oportunidades de aprender e aprimorar o ensino.&nbsp;</b>",
-    "caixaImgUrl": "",
-    "caixaImgSize": 40,
-    "caixaCorFundo": "#fdf0f3",
-    "caixaCorBorda": "#f04770",
-    "novo": false,
-    "caixaCorTexto": "#0a3442"
    }
   ],
   "conclusao": {
-   "titulo": "",
-   "texto": "[DICA1]",
+   "titulo": "Replanejar com intencionalidade",
+   "texto": "Replanejar uma prática técnica não significa apenas mudar o que não funcionou, mas tomar decisões fundamentadas nas evidências observadas e nos objetivos de aprendizagem.<div>&nbsp; \n<br>Na montagem do seminário, começar pelo checklist responde às etapas esquecidas nos registros da turma.</div><div>&nbsp; \n<br>Justificar cada ajuste ajuda você a compreender sua necessidade e a acompanhar seus efeitos em uma nova realização, aprimorando o ensino e a aprendizagem.\n<br><div>[TOMENOTA1]&nbsp; \n<br>[DICA1]</div></div>",
    "blocos": [
     {
      "tipo": "dica",
-     "texto": "Ao final do ano, reúna planejamentos, atividades, registros e materiais que contribuíram para a aprendizagem dos(as) estudantes. Organize esse acervo para consultar, adaptar e aproveitar nas próximas turmas.<br>",
+     "texto": "Ao finalizar uma prática, compare o planejamento com o que aconteceu. Registre uma evidência, uma dificuldade e um aspecto que funcionou. Depois, escolha um ajuste para a próxima aula e justifique-o pelo objetivo de aprendizagem.\n<br>\n<br>",
+     "novo": false
+    },
+    {
+     "tipo": "tomenota",
+     "texto": "Replanejar não é refazer toda a atividade. Mantenha o que favoreceu a aprendizagem e modifique o que as evidências mostram precisar de ajuste.\n<br>\n<br>",
      "novo": false
     }
    ]
   },
-  "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=32771",
-  "linhaComBibliografia": false
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30691"
  }
 }
