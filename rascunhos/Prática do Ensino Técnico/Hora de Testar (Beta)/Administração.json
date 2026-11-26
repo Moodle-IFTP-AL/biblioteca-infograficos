@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Administração",
- "quando": "2026-11-26T21:04:08.043Z",
+ "quando": "2026-11-26T21:05:51.396Z",
  "autor": "Teste",
  "dados": {
   "campos": {
@@ -17,7 +17,7 @@
   ],
   "conclusao": {
    "titulo": "Preparando a próxima prática ",
-   "texto": "Replanejar é transformar as evidências da prática em decisões pedagógicas alinhadas às necessidades dos(as) estudantes e aos objetivos de aprendizagem.<div>&nbsp;\n<br>Não existe um único ajuste possível: cada escolha deve responder ao que foi observado.</div><div>&nbsp; \n<br>Na próxima realização, experimente o ajuste proposto e observe seus efeitos na aprendizagem dos(as) estudantes!\n<br>[REVISAR1]</div>",
+   "texto": "<div>O replanejamento parte da observação cuidadosa da prática e das evidências que ela produz.<br><br>Não existe um único ajuste possível: cada decisão deve responder às necessidades identificadas e aos objetivos de aprendizagem.<br><br>Na próxima aula, observe e registre os efeitos do ajuste que você definiu.<br><br>[REVISAR1]</div>",
    "blocos": [
     {
      "tipo": "revisar",
