@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-11-26T13:50:42.648Z",
+ "quando": "2026-11-26T13:52:37.707Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -39,7 +39,7 @@
       "largura": 74,
       "altura": 22
      },
-     "html": "Não conseguiu participar ao vivo? As gravações já estão disponíveis!<br><br><b>Assista à gravação e responda ao fórum</b> para contabilizar sua participação.",
+     "html": "&nbsp;As gravações já estão disponíveis!<br><br><b>Assista à gravação e responda ao fórum</b> para contabilizar sua participação.",
      "tamanho": 18,
      "cor": "#0a3442",
      "peso": 400,
@@ -57,7 +57,7 @@
       "altura": 13
      },
      "texto": "GRAVAÇÃO METODOLOGIA PEDAGÓGICA",
-     "href": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27061",
+     "href": "",
      "corFundo": "#06d7a0",
      "corTexto": "#0a3442",
      "tamanho": 14,
@@ -75,7 +75,7 @@
       "altura": 13
      },
      "texto": "GRAVAÇÃO PRÁTICA ENSINO TÉCNICO",
-     "href": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27062",
+     "href": "",
      "corFundo": "#f04770",
      "corTexto": "#ffffff",
      "tamanho": 14,
