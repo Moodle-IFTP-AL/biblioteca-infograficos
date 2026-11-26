@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-11-26T13:50:31.856Z",
+ "quando": "2026-11-26T13:50:42.648Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -14,15 +14,32 @@
    "raioCartao": 15,
    "elementos": [
     {
-     "id": "mmwxltx8e5",
+     "id": "mmwxm183jc",
+     "tipo": "texto",
+     "caixa": {
+      "x": 12,
+      "y": 17,
+      "largura": 76,
+      "altura": 21
+     },
+     "html": "GRAVAÇÕES<br><span style=\"color: #f04770;\">DO </span><span style=\"color: #00ace7;\">5º</span><span style=\"color: #f04770;\"> ENCONTRO SÍNCRONO</span>",
+     "tamanho": 32,
+     "cor": "#f04770",
+     "peso": 900,
+     "alinhamento": "center",
+     "alturaLinha": 1.1,
+     "maiusculas": true
+    },
+    {
+     "id": "mmwxm183jd",
      "tipo": "texto",
      "caixa": {
       "x": 13,
-      "y": 43,
+      "y": 40,
       "largura": 74,
       "altura": 22
      },
-     "html": "<p dir=\"ltr\">Assista à gravação da aula, prestigie as experiências dos(as) professores(as) da nossa rede e responda ao fórum para contabilizar sua participação.</p>",
+     "html": "Não conseguiu participar ao vivo? As gravações já estão disponíveis!<br><br><b>Assista à gravação e responda ao fórum</b> para contabilizar sua participação.",
      "tamanho": 18,
      "cor": "#0a3442",
      "peso": 400,
@@ -31,7 +48,7 @@
      "maiusculas": false
     },
     {
-     "id": "mmwxltx8e6",
+     "id": "mmwxm183je",
      "tipo": "botao",
      "caixa": {
       "x": 12,
@@ -40,7 +57,7 @@
       "altura": 13
      },
      "texto": "GRAVAÇÃO METODOLOGIA PEDAGÓGICA",
-     "href": "",
+     "href": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27061",
      "corFundo": "#06d7a0",
      "corTexto": "#0a3442",
      "tamanho": 14,
@@ -49,7 +66,7 @@
      "pulsar": false
     },
     {
-     "id": "mmwxltx8e7",
+     "id": "mmwxm183jf",
      "tipo": "botao",
      "caixa": {
       "x": 51.5,
@@ -58,30 +75,13 @@
       "altura": 13
      },
      "texto": "GRAVAÇÃO PRÁTICA ENSINO TÉCNICO",
-     "href": "",
+     "href": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=27062",
      "corFundo": "#f04770",
      "corTexto": "#ffffff",
      "tamanho": 14,
      "raio": 12,
      "novaAba": false,
      "pulsar": false
-    },
-    {
-     "id": "5kswbqw",
-     "tipo": "texto",
-     "caixa": {
-      "x": 12,
-      "y": 17,
-      "largura": 76,
-      "altura": 21
-     },
-     "html": "Gravações da 8ª Formação<div><p dir=\"ltr\"><strong>Roda de Boas Práticas do IFTP</strong></p><p dir=\"ltr\"></p></div>",
-     "tamanho": 32,
-     "cor": "#f04770",
-     "peso": 900,
-     "alinhamento": "center",
-     "alturaLinha": 1.1,
-     "maiusculas": true
     }
    ]
   }
