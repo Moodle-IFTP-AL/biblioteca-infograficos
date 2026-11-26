@@ -1,61 +1,60 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Economia Social",
- "quando": "2026-11-24T15:10:35.418Z",
- "autor": "Eduarda",
+ "quando": "2026-11-26T21:04:01.372Z",
+ "autor": "Teste",
  "dados": {
   "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Síntese e qualificação da prática técnica.<br><b>Conteúdos:</b><br><ul><li>Retomada do percurso formativo e das práticas realizadas no ano.<br></li><li>Relação entre objetivos, procedimentos, participação e resultados.<br></li><li>Critérios de qualidade e desempenho já trabalhados.<br></li><li>Pontos fortes e pontos de atenção.<br></li><li>Condições que favoreceram ou limitaram a prática.<br></li><li>Prioridades para aprimoramento.<br></li></ul><b>Objetivo da Aula: </b>Sistematizar uma análise reflexiva de uma prática técnica já realizada, articulando planejamento, execução, mediação e avaliação e definindo ajustes para sua qualificação.<br>",
-   "objetivo": "Analisar o conjunto de práticas, registros e evidências produzidos ao longo da formação, relacionando-os às aprendizagens construídas para identificar possibilidades de qualificação da própria atuação docente.<br>",
-   "titulo": "<b>Aprendizagem que Permanece na Prática</b><br>",
-   "conteudo": "Ao longo do ano, diferentes práticas nas aulas de Cooperativismo e Contabilidade exigiram decisões sobre planejamento, mediação, participação, avaliação e uso de evidências.<br><br>Retomar os registros dessas experiências permite reconhecer mudanças no modo de organizar atividades, acompanhar os(as) estudantes e ajustar intervenções. Também ajuda a identificar escolhas que se mostraram consistentes em diferentes situações.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Analisando a Prática Docente</font></b></h3><br>Ao reunir registros de diferentes aulas, você pode perceber relações que nem sempre ficam evidentes durante a realização das atividades. Observe como as dimensões da prática se articularam nas experiências de Cooperativismo e Contabilidade:<br>[INFOGRAFICO1]<br>Esse conjunto ajuda a reconhecer avanços e pontos de atenção recorrentes.<br>[ACCORDION1]<br><h3><b><font color=\"#f04770\">Da Experiência às Aprendizagens Profissionais<br><br></font></b></h3>A análise do percurso ajuda a reconhecer aprendizagens que já fazem parte da sua prática e aspectos que merecem continuidade ou revisão. Organize essa síntese a partir de quatro movimentos:<br><ul><li><b>Manter:</b> estratégias que favoreceram a participação, a clareza dos procedimentos e o registro das decisões.<br></li><li><b>Aprofundar:</b> conhecimentos sobre critérios contábeis, princípios cooperativos e integração entre teoria e prática.<br></li><li><b>Aperfeiçoar:</b> formas de distribuir responsabilidades, acompanhar evidências e formular devolutivas.<br></li><li><b>Transformar:</b> procedimentos que concentraram decisões, limitaram a participação ou dificultaram a compreensão.<br></li></ul>Essas escolhas ajudam a definir prioridades para práticas futuras em diferentes turmas e contextos.<br><br>",
-   "conectando": "No fórum de encerramento, compartilhe com os(as) colegas as aprendizagens que pretende levar para suas próximas práticas.<br>"
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor técnico e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir práticas técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos técnicos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do conhecimento: </b>replanejamento da prática técnica a partir da experiência.<br><b>Conteúdos:</b><br><ul><li>retomada do planejamento e da execução;<br></li><li>evidências e registros produzidos;<br></li><li>dificuldades e resultados observados;<br></li><li>aspectos a manter e a modificar;<br></li><li>ajustes em procedimentos, mediações, tempos e recursos;<br></li><li>justificativa das alterações propostas.<br></li></ul><b>Objetivo da aula:</b> replanejar uma prática técnica já realizada, utilizando evidências, registros e resultados observados para definir ajustes fundamentados.<br><br>",
+   "objetivo": "Identificar como o planejamento, a execução e as evidências de uma prática técnica podem orientar decisões de replanejamento.<br><br>",
+   "titulo": "<b>Replanejar com base em evidências</b><br><br>",
+   "conteudo": "<h3><b>A realidade do planejado</b></h3><p><b></b><span style=\"font-size: 1.15rem;\">Em uma prática de Contabilidade aplicada ao Cooperativismo, os(as) estudantes deveriam organizar a prestação de contas de uma cooperativa simulada, classificar receitas de comercialização coletiva e registrar despesas compartilhadas.</span><span style=\"font-size: 18.4px;\"><br></span><span style=\"font-size: 1rem;\">O planejamento previa 30 minutos para a tarefa. Durante a execução, surgiram dúvidas recorrentes sobre o rateio do transporte entre os(as) cooperados(as), e poucos(as) estudantes concentraram as decisões do grupo.<br></span><span style=\"font-size: 1rem;\">Antes de modificar a atividade, que evidências ajudam a definir o que precisa ser mantido, ajustado ou reorganizado?</span></p><p></p><h3><b>Do planejamento à prática</b><br></h3><p>Replanejar começa pela comparação entre o que estava previsto e o que ocorreu na prática. Retome o planejamento da atividade e confronte-o com os registros da execução. No exemplo da prestação de contas, considere:</p><p>[INFOGRAFICO1]</p>Essa retomada permite identificar quais aspectos precisam de análise mais detalhada.<p></p><h3><b style=\"font-size: 1rem;\">O que a prática revela?</b></h3><p><b style=\"font-size: 1rem;\"></b><span style=\"font-size: 1rem; font-weight: 400;\">O replanejamento precisa se apoiar em evidências produzidas durante a atividade. Na prestação de contas da cooperativa simulada, observe:</span></p><ul><li>registros na planilha e correções realizadas;<br></li><li>justificativas apresentadas para classificar receitas e despesas;<br></li><li>dúvidas recorrentes sobre o rateio do transporte;<br></li><li>tempo efetivamente utilizado em cada etapa;<br></li><li>participação dos(as) estudantes nas decisões do grupo;<br></li><li>resultado final em relação ao objetivo de aprendizagem.</li></ul><p>Essas evidências mostram onde houve avanço, dificuldade ou necessidade de maior mediação.<br>Ao relacioná-las ao planejamento, você consegue distinguir um problema pontual de uma necessidade recorrente da atividade e definir ajustes coerentes com o que os(as) estudantes precisam desenvolver.<br></p><p></p><h3><b>O que manter, modificar ou reorganizar?&nbsp;</b></h3><p><b></b>Depois de comparar planejamento, execução e evidências, identifique o que deve ser preservado e o que precisa ser revisto. Na prática de prestação de contas, a decisão de replanejamento pode ser organizada assim:</p><p></p><ul><li><b>planejamento e execução</b>: a tarefa foi concluída, mas o rateio das despesas exigiu mais tempo do que o previsto.<br></li><li><b>evidências e registros</b>: as planilhas mostraram classificações corretas, porém registraram divergências no rateio do transporte.<br></li><li><b>dificuldades e resultados</b>: parte dos grupos aplicou critérios diferentes e poucos(as) estudantes justificaram as decisões.<br></li><li><b>aspectos a manter</b>: o uso da planilha e a conferência coletiva favoreceram a organização dos registros e a identificação das inconsistências.<br></li><li><b>aspectos a modificar</b>: incluir, antes da atividade, um exemplo breve de rateio e distribuir funções entre os(as) integrantes para ampliar a participação.</li></ul><p>Cada alteração responde a uma evidência concreta, mantém relação direta com os objetivos da prática e pode ser verificada na próxima execução.</p><p>[GLOSSARIO1]</p><div><div><div></div></div></div>",
+   "conectando": "Agora, você retomará uma prática já realizada para propor um ajuste fundamentado nas evidências observadas durante sua execução."
   },
   "blocos": [
-   {
-    "tipo": "caixadestaque",
-    "texto": "<b>Ao observar esse percurso, pergunte-se: o que as experiências deste ano revelam sobre a forma como você planeja, conduz, acompanha e avalia suas práticas?</b><br>",
-    "caixaImgUrl": "",
-    "caixaImgSize": 40,
-    "caixaCorFundo": "#fdf0f3",
-    "caixaCorBorda": "#f04770",
-    "novo": false,
-    "caixaCorTexto": "#0a3442"
-   },
    {
     "tipo": "infografico",
     "texto": "",
     "infograficoTipo": "blocos_coloridos",
     "infograficoData": {
      "introducao": "",
-     "blocos": "[{\"titulo\":\"Planejamento\",\"texto\":\"Relação entre objetivos, estratégias e execução.&nbsp;<br>\"},{\"titulo\":\"Metodologias\",\"texto\":\"Escolhas que favoreceram a participação, a divisão de responsabilidades e a relação entre teoria e prática.&nbsp;<br>\"},{\"titulo\":\"Avaliação e evidências\",\"texto\":\"Registros contábeis, justificativas e decisões coletivas que mostram o desenvolvimento dos(as) estudantes.&nbsp;<br>\"},{\"titulo\":\"Mediação\",\"texto\":\"Intervenções diante de dúvidas técnicas ou dificuldades de participação.&nbsp;<br>\"},{\"titulo\":\"Adaptação\",\"texto\":\"Ajustes de tempo, recursos e organização dos grupos.&nbsp;<br>\"},{\"titulo\":\"Integração curricular\",\"texto\":\"Articulação entre conhecimentos contábeis, princípios cooperativos e mundo do trabalho.&nbsp;<br>\"}]"
+     "blocos": "[{\"titulo\":\"<b>O objetivo:</b>\",\"texto\":\"classificar receitas e despesas e justificar os critérios adotados;<br>\"},{\"titulo\":\"<b>&nbsp;As etapas:</b>\",\"texto\":\"leitura de dados, classificação, rateio das despesas e conferência final;\"},{\"titulo\":\"<b>Os procedimentos:</b>\",\"texto\":\"trabalho em grupo, registro em planilha e apresentação das justificativas;\"},{\"titulo\":\"<b>O tempo:</b>\",\"texto\":\"30 minutos destinados à tarefa;<br>\"},{\"titulo\":\"<b>Os recursos:</b>\",\"texto\":\"planilha, documentos simulados e quadro para sistematização.<br>\"}]"
     },
-    "novo": false
+    "novo": false,
+    "minimizado": true
    },
    {
-    "tipo": "accordion",
+    "tipo": "glossario",
     "texto": "",
-    "topicos": [
+    "termos": [
      {
-      "titulo": "Exemplo Prático — Identificando padrões nas práticas",
-      "texto": "Ao revisar diferentes práticas, uma professora percebeu que as atividades de prestação de contas e tomada de decisão coletiva produziam justificativas mais consistentes quando as responsabilidades eram distribuídas e os critérios eram apresentados antes da execução. Em situações inspiradas em cooperativas de agricultura familiar do Agreste alagoano, o rateio dos custos de transporte entre comunidades produtoras e pontos de comercialização tornou a análise de despesas mais concreta. Os registros mostraram, porém, que a participação diminuía quando poucos(as) integrantes concentravam os cálculos e as justificativas. A partir dessa análise, a professora decidiu manter a contextualização, mas reorganizar as funções nos grupos para ampliar a participação.<br>"
+      "termo": "Replanejamento",
+      "definicao": "Revisão intencional da prática baseada em evidências, resultados e objetivos de aprendizagem.<br>"
+     },
+     {
+      "termo": "Evidência pedagógica",
+      "definicao": "Informação observável usada para compreender a aprendizagem e fundamentar decisões docentes.<br>"
+     },
+     {
+      "termo": "Ajuste fundamentado",
+      "definicao": "Mudança justificada por evidências e relacionada ao objetivo de aprendizagem."
      }
     ],
     "novo": false
    }
   ],
   "conclusao": {
-   "titulo": "Aprendizagens para o Futuro ",
-   "texto": "Ao concluir este percurso, reconheça quais aprendizagens passaram a orientar suas escolhas docentes.<br><br>O planejamento mais intencional, a observação de evidências, a mediação diante das dificuldades e a análise dos resultados podem integrar seu repertório profissional.<br><br>Identifique também o que ainda deseja fortalecer, especialmente nas práticas de Cooperativismo e Contabilidade.<br><br>Esse balanço oferece referências para acompanhar seu desenvolvimento e estabelecer prioridades para as próximas experiências de ensino.<br>[TOMENOTA1]",
+   "titulo": "Replanejar com intencionalidade",
+   "texto": "Replanejar exige retomar o que foi previsto, analisar o que ocorreu e relacionar as evidências aos objetivos de aprendizagem.<br>Em práticas de Cooperativismo e Contabilidade, registros, justificativas, dúvidas recorrentes, tempo de execução e participação ajudam a definir o que deve ser mantido ou ajustado.<br>Ao justificar cada alteração com base nesses elementos, você organiza uma nova realização coerente com as necessidades identificadas e pode acompanhar os efeitos das mudanças propostas.&nbsp;<div>[TOMENOTA1]</div>",
    "blocos": [
     {
      "tipo": "tomenota",
-     "texto": "A análise do percurso permite reconhecer aspectos que se repetem em diferentes práticas, como dificuldades recorrentes, estratégias eficazes e formas de participação. Use essas evidências para definir prioridades de desenvolvimento profissional.<br>",
-     "novo": false
+     "texto": "Um ajuste de planejamento precisa responder a uma evidência concreta. Registre o que ocorreu, identifique a dificuldade e relacione a mudança proposta ao objetivo de aprendizagem.",
+     "novo": false,
+     "minimizado": true
     }
    ]
   },
-  "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=30012",
-  "linhaComBibliografia": false
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29990"
  }
 }
