@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "PopUps/Editor",
- "quando": "2026-11-26T13:46:35.439Z",
+ "quando": "2026-11-26T13:48:57.467Z",
  "autor": "Teste",
  "dados": {
   "popup": {
@@ -18,11 +18,11 @@
      "tipo": "texto",
      "caixa": {
       "x": 12,
-      "y": 17,
+      "y": 26.5,
       "largura": 76,
       "altura": 21
      },
-     "html": "GRAVAÇÕES<br><span style=\"color: #f04770;\">DO </span><span style=\"color: #00ace7;\">5º</span><span style=\"color: #f04770;\"> ENCONTRO SÍNCRONO</span>",
+     "html": "<p dir=\"ltr\"><strong>Roda de Boas Práticas do IFTP</strong></p><p dir=\"ltr\"></p><div><p dir=\"ltr\"></p></div>",
      "tamanho": 32,
      "cor": "#f04770",
      "peso": 900,
@@ -82,6 +82,23 @@
      "raio": 12,
      "novaAba": false,
      "pulsar": false
+    },
+    {
+     "id": "5kswbqw",
+     "tipo": "texto",
+     "caixa": {
+      "x": 12,
+      "y": 17,
+      "largura": 76,
+      "altura": 21
+     },
+     "html": "Gravações da 8ª Formação<div><p dir=\"ltr\"><strong>Roda de Boas Práticas do IFTP</strong></p><p dir=\"ltr\"></p></div>",
+     "tamanho": 32,
+     "cor": "#f04770",
+     "peso": 900,
+     "alinhamento": "center",
+     "alturaLinha": 1.1,
+     "maiusculas": true
     }
    ]
   }
