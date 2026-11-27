@@ -1,49 +1,57 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Gestão e Operações",
- "quando": "2026-11-18T16:41:42.618Z",
+ "quando": "2026-11-27T13:04:31.525Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Analisar evidências de aprendizagem para formular devolutivas e refletir sobre a própria prática docente.<br>",
-   "titulo": "<b>Da Socialização à Qualificação da Produção</b><br>",
-   "conteudo": "Nesta etapa, você vai analisar situações de socialização de produções técnicas e refletir sobre como as contribuições recebidas podem orientar melhorias.<br><br>Primeiro, relacione as evidências observadas às devolutivas mais adequadas, considerando os aspectos que foram bem desenvolvidos e aqueles que precisam ser aprimorados.<br><br>Em seguida, retome sua própria prática e pense em como pode orientar os(as) estudantes a analisar os comentários recebidos, avaliar sua pertinência e decidir quais ajustes realizar em suas produções.<br>",
-   "reflexao": ""
+   "objetivo": "Avaliar o impacto de uma decisão tomada durante a execução de uma prática, julgando sua contribuição para o desenvolvimento da aula e para o alcance dos objetivos de aprendizagem.<br>",
+   "titulo": "<b>Decisões que Transformam a Prática</b><br>",
+   "conteudo": "<br>",
+   "reflexao": "<b>Da Reflexão à Melhoria da Prática&nbsp;</b><br><br>Parabéns pela conclusão da aula!<br><br>Os imprevistos de uma prática técnica também oferecem oportunidades para analisar escolhas e aprimorar a atuação docente. Siga na trilha levando consigo um planejamento mais flexível, reflexivo e comprometido com as aprendizagens dos(as) estudantes.<br>"
   },
   "atividades": [
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32755\" width=\"1124\" height=\"427\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"GOP-M4-U06-APLI-DRAGW\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32178\" width=\"1115\" height=\"671\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"GOP-M4-U02-APLI-ESSAY\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
+    "titulo": "Atividade 1"
    },
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32756\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"GOP-M4-U06-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32179\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"GOP-M4-U02-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
+    "titulo": "Atividade 2"
    }
   ],
   "conclusao": {
-   "titulo": "Consolidando as Aprendizagens",
-   "texto": "A socialização não se encerra com a apresentação da produção. As perguntas, sugestões e observações recebidas oferecem oportunidades para que os(as) estudantes analisem o próprio trabalho e identifiquem possibilidades de aprimoramento.<br><br>Uma devolutiva formativa ajuda nesse processo ao reconhecer os aspectos bem desenvolvidos, apontar o que precisa ser revisto e indicar caminhos para avançar.<br><br>Incentive os(as) estudantes a avaliar a pertinência das contribuições, justificar suas decisões e registrar os ajustes realizados.<br><br>Reflita também sobre como a organização da atividade e suas intervenções favoreceram essa análise. Assim, a socialização contribui para qualificar tanto a produção técnica quanto as experiências de aprendizagem futuras.<br>[REVISAR1]",
+   "titulo": "",
+   "texto": "",
    "blocos": [
     {
      "tipo": "revisar",
-     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:<br>",
-     "idRevisar": "mwmcps9fu6dcal",
+     "texto": "Revisite as aulas abaixo para retomar o planejamento das etapas e refletir sobre sua efetividade diante das condições reais de execução:",
+     "idRevisar": "mwc93koxtdz96a",
      "itensRevisar": [
       {
-       "id": "mwmcpw7u5t03bm",
-       "texto": "Unidade 5: Devolutivas Formativas e Feedforward;&nbsp;&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31547"
+       "id": "mwc93moupfa5au",
+       "texto": "Módulo 2 – Unidade 5: Planejamento de Práticas Técnicas.&nbsp;&nbsp;<br>",
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24771"
       },
       {
-       "id": "mwmcpwd0vcksh6",
-       "texto": "Unidade 8: Registro Técnico e Melhoria da Prática.&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31716"
+       "id": "mwc93mwkehr9n6",
+       "texto": "Módulo 2&nbsp;<b>–</b>&nbsp;Unidade 6: Organização de Sequência Prática Técnica Progressiva.&nbsp;&nbsp;<br>",
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24880"
+      },
+      {
+       "id": "mwc93o25pvaov4",
+       "texto": "Módulo 3 – Unidade 1: Planejamento de Oficinas Técnicas.&nbsp;<br>",
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28429"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": false
+     "novo": true
     }
    ]
   },
-  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30144"
+  "tipoBotao": "voltar",
+  "link": "https://ead.educacao.al.gov.br/course/view.php?id=284#section-78"
  }
 }
