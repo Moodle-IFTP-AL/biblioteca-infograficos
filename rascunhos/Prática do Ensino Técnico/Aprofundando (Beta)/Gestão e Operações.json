@@ -1,61 +1,91 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão e Operações",
- "quando": "2026-11-23T20:39:15.707Z",
+ "quando": "2026-11-27T13:00:19.557Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>4.3 - </b>Registrar e avaliar o desenvolvimento técnico dos(as) estudantes, oferecendo devolutivas construtivas e ajustando intervenções pedagógicas de acordo com os objetivos de aprendizagem e as necessidades identificadas.<br><b>Objetos do Conhecimento:</b><br>Síntese e qualificação da prática técnica.<br><b>Conteúdos:</b><br><ul><li>Retomada do percurso formativo e das práticas realizadas no ano.<br></li><li>Relação entre objetivos, procedimentos, participação e resultados.<br></li><li>Critérios de qualidade e desempenho já trabalhados.<br></li><li>Pontos fortes e pontos de atenção.<br></li><li>Condições que favoreceram ou limitaram a prática.<br></li><li>Prioridades para aprimoramento.<br></li></ul><b>Objetivo da Aula: </b>Sistematizar uma análise reflexiva de uma prática técnica já realizada, articulando planejamento, execução, mediação e avaliação e definindo ajustes para sua qualificação.<br>",
-   "objetivo": "Analisar o conjunto de práticas, registros e evidências produzidos ao longo da formação, relacionando-os às aprendizagens construídas para identificar possibilidades de qualificação da própria atuação docente.<br>",
-   "titulo": "<b>Aprendizagens que Transformam a Prática Docente</b><br>",
-   "conteudo": "Ao longo deste percurso, você planejou atividades, conduziu práticas, observou os(as) estudantes, registrou evidências e analisou suas intervenções.<br><br>O encerramento da formação convida a olhar não apenas para uma aula, mas para o conjunto das experiências vividas. Planos, registros, produções e devolutivas ajudam a recuperar situações que a memória, sozinha, não consegue preservar.<br><br>Ao revisitar esses materiais, é possível perceber escolhas que se consolidaram e mudanças na forma de ensinar.<br>[CAIXADESTAQUE1]<br><h3><b><font color=\"#f04770\">Analisando a Prática Docente</font></b></h3><br>Analisar diferentes práticas em conjunto permite identificar relações que podem passar despercebidas quando cada aula é considerada isoladamente. Para essa retomada, observe dimensões que se articulam nas experiências de Logística e Recursos Humanos:<br>[INFOGRAFICO1]<br>Esse olhar evidencia avanços, situações recorrentes e aspectos que ainda exigem atenção.<br>[ACCORDION1]<br><h3><b><font color=\"#f04770\">Da Experiência às Aprendizagens Profissionais</font></b></h3><br>A análise do percurso ajuda a reconhecer o que passou a integrar seu repertório profissional e o que ainda pode ser fortalecido. A partir das experiências em Logística e Recursos Humanos, reflita sobre quatro movimentos:<br><ul><li><b>Manter:</b> situações profissionais contextualizadas e critérios de avaliação claros.<br></li><li><b>Aprofundar:</b> estratégias que articulem conhecimentos técnicos e realidade alagoana.<br></li><li><b>Aperfeiçoar:</b> registros, devolutivas e perguntas que tornem o raciocínio técnico dos(as) estudantes mais visível.<br></li><li><b>Transformar:</b> atividades centradas apenas na execução, incorporando oportunidades de decisão, justificativa e reflexão.<br></li></ul>Essas escolhas oferecem referências para novas práticas, turmas e contextos.<br><br>",
-   "conectando": "No fórum final, compartilhe as aprendizagens que pretende manter, aprofundar, aperfeiçoar ou transformar em suas próximas práticas.<br>"
+   "infoAula": "<b>Competência:&nbsp;</b><br><b>4 - </b>Planejar, conduzir e mediar práticas técnico-profissionais com rigor e intencionalidade pedagógica: desenvolver a capacidade de planejar e conduzir atividades técnico-profissionais articulando teoria e prática, demonstrar procedimentos com clareza didática, garantir condições de segurança e contextualização, acompanhar o desempenho dos(as) estudantes durante a execução e registrar evidências para orientar intervenções pedagógicas. Envolve dominar os processos do eixo temático, decompor procedimentos em etapas compreensíveis, adaptar práticas ao contexto da escola e oferecer devolutivas construtivas que favoreçam o desenvolvimento técnico dos(as) estudantes.<br><b>Habilidade:&nbsp;</b><br><b>4.1 - </b>Organizar e conduzir oficinas, experimentos e atividades, articulando teoria e prática, demonstrando procedimentos técnicos com clareza didática e orientando os(as) estudantes durante a execução supervisionada.<br><b>4.2 - </b>Garantir que as práticas sejam seguras, contextualizadas e adequadas aos recursos da escola, adaptando procedimentos quando necessário.<br><b>Objetos do Conhecimento:</b><br>Coerência entre planejamento e execução da prática técnica.<br><b>Conteúdos:</b><br><ul><li>O que foi planejado e o que foi realizado.<br></li><li>Relação entre etapas planejadas e desenvolvimento da prática.<br></li><li>Adequação dos procedimentos às condições encontradas.<br></li><li>Ajustes realizados durante a execução.<br></li><li>Decisões que favoreceram ou dificultaram o desenvolvimento da prática.<br></li></ul><b>Objetivo da Aula:</b><br>Analisar a relação entre o planejamento e a execução de uma prática técnica já realizada, identificando decisões e ajustes que assegurem o alcance dos objetivos pretendidos.<br>",
+   "objetivo": "Identificar situações imprevistas durante a execução de uma aula prática e analisar decisões que permitam ajustar o planejamento sem comprometer os objetivos de aprendizagem.<br>",
+   "titulo": "<b>Planejar, Observar e Decidir</b>",
+   "conteudo": "Imprevistos fazem parte da transposição de situações profissionais para uma situação de aprendizagem. Ao conduzir&nbsp; uma prática,&nbsp; você pode perceber que:<br><ul><li>O tempo previsto foi insuficiente.<br></li><li>Que as orientações geraram dúvidas.<br></li><li>Que os recursos não atenderam à dinâmica da turma.<br></li></ul>Refletir sobre esses acontecimentos permite compreender por que determinadas decisões foram tomadas e quais efeitos produziram. Essa análise não procura culpar o planejamento, mas reconhecer como ele orientou escolhas diante das condições reais da aula.<br><br><h3><b><font color=\"#f04770\">O que Observar</font></b></h3><br>Ao retomar uma prática já realizada, observe três aspectos:<br>[ACCORDION1]<br>Esses elementos ajudam a compreender a distância entre o planejamento registrado e a experiência efetivamente vivida pela turma.<br>[INFOGRAFICO2]<br>Acompanhar atentamente a execução da atividade permite identificar situações que não foram previstas e realizar ajustes coerentes com as necessidades observadas.<br>[VIDEO1]<br>[H5P1]<br><h3><b><font color=\"#f04770\">Relação Entre o Planejamento e a Execução</font></b></h3><br>Planejamento e execução mantêm uma relação dinâmica.<br>[INFOGRAFICO1]<br>Analisar uma aula após a sua aplicação permite compreender por que determinados ajustes foram necessários, quais efeitos produziram e se preservaram as aprendizagens esperadas.<br><br>Essa reflexão ajuda a diferenciar uma adaptação pedagógica intencional de uma mudança feita apenas para concluir a tarefa.<br><b></b>",
+   "conectando": "Na próxima etapa, uma decisão realizada durante sua própria prática será analisada a partir dos objetivos de aprendizagem.<br>"
   },
   "blocos": [
-   {
-    "tipo": "caixadestaque",
-    "texto": "<b>O que as experiências deste ano revelam sobre como você planeja, conduz, acompanha e avalia suas práticas técnicas?&nbsp;&nbsp;</b><br>",
-    "caixaImgUrl": "",
-    "caixaImgSize": 40,
-    "caixaCorFundo": "#fdf0f3",
-    "caixaCorBorda": "#f04770",
-    "novo": false,
-    "caixaCorTexto": "#0a3442"
-   },
-   {
-    "tipo": "infografico",
-    "texto": "",
-    "infograficoTipo": "blocos_coloridos",
-    "infograficoData": {
-     "introducao": "",
-     "blocos": "[{\"titulo\":\"Planejamento\",\"texto\":\"Coerência entre objetivos, atividades e execução.\"},{\"titulo\":\"Metodologias\",\"texto\":\"Estratégias que aproximaram teoria e prática.&nbsp;<br>\"},{\"titulo\":\"Avaliação e evidências\",\"texto\":\"Registros que revelaram aprendizagens e dificuldades.&nbsp;<br>\"},{\"titulo\":\"Mediação\",\"texto\":\"Intervenções realizadas diante das necessidades observadas.&nbsp;<br>\"},{\"titulo\":\"Adaptação\",\"texto\":\"Ajustes nos tempos, recursos e procedimentos.&nbsp;<br>\"},{\"titulo\":\"Integração curricular\",\"texto\":\"Articulação entre conhecimentos técnicos, outros saberes e situações profissionais.&nbsp;<br>\"}]"
-    },
-    "novo": false
-   },
    {
     "tipo": "accordion",
     "texto": "",
     "topicos": [
      {
-      "titulo": "Exemplo Prático — Identificando padrões nas práticas ",
-      "texto": "Ao revisar práticas realizadas ao longo do ano, uma professora percebeu que os(as) estudantes participavam mais quando os problemas estavam relacionados a situações reconhecíveis do território alagoano. Atividades envolvendo comércio, turismo, serviços públicos e pequenas organizações facilitaram a relação entre conceitos e decisões profissionais. Os registros também mostraram que as turmas executavam formulários e procedimentos adequadamente, mas tinham dificuldade para justificar escolhas ou reorganizar processos diante de imprevistos. Em resposta, a professora passou a utilizar perguntas orientadoras, funções rotativas e momentos de socialização, mantendo a contextualização e ampliando as oportunidades de argumentação e tomada de decisão.<br>"
+      "titulo": "Tempo",
+      "texto": "Alguma etapa exigiu duração maior ou menor que a prevista?&nbsp;<br>"
+     },
+     {
+      "titulo": "Recursos",
+      "texto": "Materiais, documentos, equipamentos ou espaços precisaram ser adaptados?&nbsp;<br>"
+     },
+     {
+      "titulo": "Decisões",
+      "texto": "Que intervenção permitiu continuar a atividade sem perder o objetivo?<br>"
      }
     ],
+    "novo": false
+   },
+   {
+    "tipo": "video",
+    "texto": "Acompanhe o vídeo e analise como decisões realizadas durante uma prática podem preservar seus objetivos de aprendizagem diante de condições inesperadas.<br>",
+    "titulo": "Como Preservar as Aprendizagens Previstas?",
+    "url": "https://youtu.be/HVi1ekWPoyE",
+    "novo": false
+   },
+   {
+    "tipo": "h5p",
+    "texto": "",
+    "titulo": "",
+    "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32180\" width=\"1124\" height=\"427\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"GOP-M4-U02-CONC-MULTI\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>",
+    "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "ciclo_setas",
+    "infograficoData": {
+     "titulo": "",
+     "subtitulo": "",
+     "setas": "[{\"titulo\":\"<b>Plano:&nbsp;</b>\",\"subtitulo\":\"\",\"resumo\":\"Orienta objetivos, etapas e recursos.&nbsp;<br>\",\"modalTitulo\":\"\",\"modalConteudo\":\"\"},{\"titulo\":\"<b>Prática:</b>\",\"subtitulo\":\"\",\"resumo\":\"Revela condições que nem sempre puderam ser previstas.&nbsp;<br>\",\"modalTitulo\":\"\",\"modalConteudo\":\"\"}]"
+    },
+    "novo": false
+   },
+   {
+    "tipo": "infografico",
+    "texto": "",
+    "infograficoTipo": "comparativo",
+    "infograficoData": {
+     "titulo": "<b>Do Planejamento à Execução</b>",
+     "topico1_titulo": "<b>O planejamento</b>",
+     "topico1_conteudo": "<ul><li>Estabelece&nbsp; objetivos.<br></li><li>Organiza etapas, procedimentos e tempos.<br></li><li>Identifica recursos que orientam a prática.<br></li></ul>",
+     "topico2_titulo": "<b>A execução</b>",
+     "topico2_conteudo": "Acontece em condições concretas:<br><ul><li>Estudantes apresentam diferentes conhecimentos prévios.<br></li><li>Materiais podem se comportar de modo inesperado.<br></li><li>Algumas orientações precisam ser retomadas.<br></li></ul>"
+    },
     "novo": false
    }
   ],
   "conclusao": {
-   "titulo": "Aprendizagens para o Futuro ",
-   "texto": "Concluir esta formação não significa encerrar seu desenvolvimento profissional. As experiências analisadas deixam conhecimentos, critérios e estratégias que poderão orientar novas escolhas.<br><br>Reconheça o que passou a fazer parte de sua atuação, o que deseja fortalecer e quais aspectos pretende observar com maior atenção.<br><br>Cada turma e cada prática apresentarão novos desafios, mas você poderá mobilizar esse repertório para planejar, mediar, avaliar e replanejar atividades técnicas com intencionalidade.<br>[TOMENOTA1]",
+   "titulo": "",
+   "texto": "[TOMENOTA1]<br>[DICA1]",
    "blocos": [
     {
      "tipo": "tomenota",
-     "texto": "Revisar o percurso permite transformar experiências em aprendizagem profissional, reconhecendo padrões, avanços e prioridades que podem orientar as próximas práticas.<br>",
+     "texto": "Modificar uma etapa durante a aula não significa abandonar o planejamento. O ajuste é pedagógico quando responde às condições reais da prática e mantém o objetivo de aprendizagem como referência para a decisão.<br>",
+     "novo": false
+    },
+    {
+     "tipo": "dica",
+     "texto": "Após uma prática, reflita e registre três pontos analisando sua execução:<br><ol><li>O que mudou diante do que foi planejado.<br></li><li>Por que a decisão foi tomada.<br></li><li>Qual efeito produziu na participação ou aprendizagem dos(as) estudantes.</li></ol>",
      "novo": false
     }
    ]
   },
-  "linhaComBibliografia": false,
-  "link": "https://ead.educacao.al.gov.br/mod/forum/view.php?id=30187"
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=30056"
  }
 }
