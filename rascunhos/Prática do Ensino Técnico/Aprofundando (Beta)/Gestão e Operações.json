@@ -1,7 +1,7 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Aprofundando (Beta)/Gestão e Operações",
- "quando": "2026-11-27T13:00:19.557Z",
+ "quando": "2026-11-27T13:00:57.755Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
@@ -52,7 +52,7 @@
     "infograficoData": {
      "titulo": "",
      "subtitulo": "",
-     "setas": "[{\"titulo\":\"<b>Plano:&nbsp;</b>\",\"subtitulo\":\"\",\"resumo\":\"Orienta objetivos, etapas e recursos.&nbsp;<br>\",\"modalTitulo\":\"\",\"modalConteudo\":\"\"},{\"titulo\":\"<b>Prática:</b>\",\"subtitulo\":\"\",\"resumo\":\"Revela condições que nem sempre puderam ser previstas.&nbsp;<br>\",\"modalTitulo\":\"\",\"modalConteudo\":\"\"}]"
+     "setas": "[{\"titulo\":\"<b>Prática:</b>\",\"subtitulo\":\"\",\"resumo\":\"Revela condições que nem sempre puderam ser previstas.&nbsp;<br>\",\"modalTitulo\":\"\",\"modalConteudo\":\"\"},{\"titulo\":\"<b>Plano:&nbsp;</b>\",\"subtitulo\":\"\",\"resumo\":\"Orienta objetivos, etapas e recursos.&nbsp;<br>\",\"modalTitulo\":\"\",\"modalConteudo\":\"\"}]"
     },
     "novo": false
    },
