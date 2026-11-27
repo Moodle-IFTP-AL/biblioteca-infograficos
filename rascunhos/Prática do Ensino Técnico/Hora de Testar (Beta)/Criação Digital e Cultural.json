@@ -1,50 +1,66 @@
 {
  "versao": 1,
  "espaco": "Prática do Ensino Técnico/Hora de Testar (Beta)/Criação Digital e Cultural",
- "quando": "2026-11-18T16:01:00.111Z",
+ "quando": "2026-11-27T12:43:29.745Z",
  "autor": "Eduarda",
  "dados": {
   "campos": {
-   "objetivo": "Analisar evidências de aprendizagem para formular devolutivas e refletir sobre a própria prática docente.<br>",
-   "titulo": "<b>Uma Socialização em Análise</b><br>",
-   "conteudo": "Chegou o momento de aplicar o que você estudou nesta aula!<br>As atividades a seguir convidam você a analisar situações de socialização de produções técnicas, identificando evidências de aprendizagem e relacionando-as a devolutivas que orientam os(as) estudantes.<br><ul><li>Primeiro, você vai analisar uma apresentação e conectar cada evidência à orientação correspondente.<br></li><li>Depois, será convidado(a) a refletir sobre sua própria prática de observação e registro.<br></li></ul>Aproveite esse exercício para avaliar suas escolhas pedagógicas e identificar possibilidades de aprimoramento para as próximas aulas.<br>",
+   "objetivo": "Avaliar o impacto de uma decisão tomada durante a execução de uma prática, julgando sua contribuição para o desenvolvimento da aula e para o alcance dos objetivos de aprendizagem.",
+   "titulo": "<br>",
+   "conteudo": "[H5P1]<div>[H5P2]</div><div><div></div><h3><br></h3></div><div><br></div>",
    "reflexao": ""
   },
-  "atividades": [
+  "blocos": [
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32751\" width=\"1124\" height=\"427\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"CDC-M4-U06-APLI-DRAGW\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "tipo": "h5p",
+    "texto": "",
+    "titulo": "Atividade 1",
+    "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31942\" width=\"949\" height=\"769\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"CDC-M4-U02-APLI-ESSAY\"></iframe>",
+    "novo": false,
+    "minimizado": true
    },
    {
-    "iframe": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=32752\" width=\"1124\" height=\"280\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"CDC-M4-U06-APLI-STRIP\"></iframe><script src=\"https://ead.educacao.al.gov.br/mod/hvp/library/js/h5p-resizer.js\" charset=\"UTF-8\"></script>"
+    "tipo": "h5p",
+    "texto": "Agora, observe&nbsp; a distância entre o que você planejou e o que realizou naquela prática.<br>Essa distância não é sinal de um plano falho: é o espaço onde a sua experiência docente entra em ação.<br>Prever que ajustes serão necessários não significa planejar menos, mas planejar com mais flexibilidade e intencionalidade, deixando espaço para observar, decidir e ajustar o percurso quando a realidade da turma pedir algo diferente do previsto.<br>",
+    "titulo": "Do Planejado ao Realizado: Analise sua Prática",
+    "incorporacao": "<iframe src=\"https://ead.educacao.al.gov.br/mod/hvp/embed.php?id=31941\" width=\"949\" height=\"291\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" title=\"CDC-M4-U02-APLI-STRIP\"></iframe>",
+    "novo": false,
+    "minimizado": true
    }
   ],
   "conclusao": {
-   "titulo": "Consolidando as Aprendizagens ",
-   "texto": "Na primeira atividade, cada devolutiva foi construída a partir de uma evidência concreta: a organização das atrações considerando o público, a divulgação ainda sem responsável definido(a) e o orçamento sem fontes que justificassem os valores. Observe que as orientações reconhecem o que foi realizado e indicam um próximo passo para aprimorar a produção.<br><br>Na segunda atividade, não existe uma resposta única. O importante é refletir sobre como suas observações e registros podem orientar os(as) estudantes e também contribuir para analisar suas próprias escolhas pedagógicas.<br><br>Assim, a socialização se transforma em uma oportunidade de aprendizagem e aprimoramento contínuo.<br>[REVISAR1]",
+   "titulo": "Da Reflexão à Melhoria da Prática",
+   "texto": "Parabéns por concluir mais esta aula. Analisar&nbsp; os imprevistos da sua prática com atenção e intencionalidade&nbsp; é o que transforma cada ajuste em aprendizado e cada aula seguinte em uma oportunidade de aprimorar o trabalho docente.<br>Siga com energia para a próxima etapa da trilha:&nbsp; sua prática agradece!<div>[REVISAR1]</div>",
    "blocos": [
     {
      "tipo": "revisar",
-     "texto": "Revisite as aulas do Módulo 3 da trilha Metodologia Pedagógica do Ensino Técnico e aprofunde o olhar sobre o acompanhamento e as evidências da aprendizagem:",
-     "idRevisar": "mwmb9e465bqpbz",
+     "texto": "",
+     "idRevisar": "mwdqpvulht7abb",
      "itensRevisar": [
       {
-       "id": "mwmb9fatvjennl",
-       "texto": "Unidade 5: Devolutivas Formativas e Feedforward;&nbsp;&nbsp;<br>",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31525"
+       "id": "mwdqq1gambp5c5",
+       "texto": "Módulo 2 – Unidade 5: Planejamento de Práticas Técnicas.&nbsp;",
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24749"
       },
       {
-       "id": "mwmb9fwo6p0jae",
-       "texto": "Unidade 8 : Registro Técnico e Melhoria da Prática.",
-       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=31702"
+       "id": "mwdqq1undwysht",
+       "texto": "Módulo 2 - Unidade 6: Organização de Sequência Prática Técnica Progressiva.",
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=24852"
+      },
+      {
+       "id": "mwdqq25h1h9ans",
+       "texto": "Módulo 3 – Unidade 1: Planejamento de Oficinas Técnicas.&nbsp;<br>",
+       "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=28068"
       }
      ],
      "linkBotao": "",
      "textoBotao": "",
-     "novo": false
+     "novo": false,
+     "minimizado": true
     }
    ]
   },
-  "tipoBotao": "voltar",
-  "link": "https://ead.educacao.al.gov.br/course/view.php?id=283#section-86"
+  "atividades": [],
+  "link": "https://ead.educacao.al.gov.br/mod/page/view.php?id=29708"
  }
 }
